@@ -1,0 +1,15 @@
+IMAGE: img01.jpeg
+
+\(\operatorname{lnh}_{v}(216,205)\)
+
+\(216 = 1 \cdot 205 + 11\)
+
+\(205 = 18 \cdot 11 + 7\)
+
+\(18 = 2 \cdot 7 + 2\)
+
+\(2 = 3 \cdot 2 + 1\)
+
+\(2 = 2 \cdot 1\)
+
+\(\operatorname{lnh}_{v}(216,205) = 1\)

@@ -1,0 +1,20 @@
+IMAGE: img82.jpg
+
+Beadando:
+(273, 200) lko
+
+a = q·b + r
+
+a = 273
+b = 200
+q = [UNREADABLE]
+r = [UNREADABLE]
+
+273 = 7·200 + 73
+200 = 75·13 + 5
+73 = 2·5 + 3
+5 = 7·0 + 2
+3 = 7·2 + 7
+2 = 2·7 + 0
+
+lko = 1
