@@ -1,0 +1,5 @@
+IMAGE: img57.jpeg
+TASK_TYPE: linear congruence
+18x ≡ 17 (mod 482)
+gcd(18, 482) = 2
+x ≡ 17 → nincs megoldás.

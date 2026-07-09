@@ -1,0 +1,19 @@
+IMAGE: img18.jpg
+TASK_TYPE: linear congruence
+-1 343 -0 1
+0 7 2 0
+1 0 49
+16 x ≡ 5 (mod 3)
+(7, 2, 4) = 7
+x = 1 + 7k
+2 + 49k
+k ∈ Z
+-1 346 -0 1
+0 16 -1 0
+1 10 21 -21
+3 6 1 22
+4 2 1 65
+5 0 2 -43
+(16, 34, 6) = 2
+2 * 5
+múlnak ami megdalgav

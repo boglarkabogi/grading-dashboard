@@ -1,0 +1,10 @@
+IMAGE: img78.jpg
+TASK_GROUP: 219_205
+TASK: gcd(219, 205)
+
+219 mod 205 = 14
+205 mod 14 = 9
+74 mod 9 = 5
+9 mod 5 = 4
+5 mod 4 = 1
+4 mod 7 = 0

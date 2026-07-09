@@ -1,0 +1,20 @@
+[NUMBER_1]
+217
+
+[NUMBER_2]
+206
+
+[STUDENT_RESULT]
+217
+
+[Correct RESULT]
+206
+
+[CORRECTNESS]
+0%
+
+[REASON]
+A student has to find the greatest common divisor (GCD) of 217 and 206. The student incorrectly wrote 217 as the result instead of 206.
+
+[CONFIDENCE]
+95%

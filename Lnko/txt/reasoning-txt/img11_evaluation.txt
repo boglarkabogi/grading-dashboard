@@ -1,0 +1,8 @@
+218
+202
+2
+2
+YES
+90%
+The first quotient is written incorrectly, but the remainders and final GCD are correct.
+88%

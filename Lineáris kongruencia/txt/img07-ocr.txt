@@ -1,0 +1,16 @@
+IMAGE: img07.jpg
+TASK_TYPE: linear congruence
+7x ≡ 74 mod 343
+gcd (343, 7) = 7
+343 = 49·7 + 0
+7|74 => 3 megoldás
+1:7
+7x ≡ 74 mod 343 => x ≡ 2 mod 49 => x = 2 + 49n
+76x ≡ 5 mod 346
+gcd (346, 76) = 2
+346 = 27·26 + 70
+76 = 7·70 + 6
+70 = 7·6 + 5
+6 = 7·5 + 2
+3 = 2·2 + 0
+2|5x => nincs megoldás

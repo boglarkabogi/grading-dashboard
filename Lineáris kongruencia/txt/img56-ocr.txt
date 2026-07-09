@@ -1,0 +1,21 @@
+IMAGE: img56.jpg
+TASK_TYPE: linear congruence
+394:79
+6
+x=384
+7gx≡16mod 470
+7486≡16mod 470
+x=7
+x¹=gg
+xi=15/7, gg=2584
+x=7584≡774mod 6=
+x≡74mod 670
+76x≡5mod 262
+(a,m)=2→2m
+76=202·0+76
+762=76·72+70
+76=70·7+6
+70=6·7+4
+6=4·1+2
+4=2·2+0
+(a,m)=2 2×5 megoldas

@@ -1,0 +1,15 @@
+IMAGE: img66.jpg
+TASK_TYPE: linear congruence
+Takács Tamás
+FPO 3)
+7x ≡ 14 (mod 343) /:7
+x ≡ 2 (mod 49)
+
+16x ≡ 5 (mod 346)
+346 = 16 * 21 + 10
+16 = 1 * 90 + 6 gcd(16, 346) = 2
+10 = 1 * 6 + 4
+6 = 1 * 4 + 2
+nincs megoldás nincs megoldás
+4 = 2 * 2
+több oldal minden megoldás nincs

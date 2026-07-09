@@ -1,0 +1,8 @@
+279
+205
+1
+UNRECOGNIZABLE
+UNRECOGNIZABLE
+0%
+The modulo steps are inconsistent and no reliable student GCD is stated.
+45%

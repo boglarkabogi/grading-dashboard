@@ -1,0 +1,8 @@
+278
+202
+2
+2
+YES
+50%
+Only the final GCD is shown; no solution steps are provided.
+90%

@@ -1,0 +1,20 @@
+IMAGE: img03.jpg
+TASK_TYPE: linear congruence
+19x ≡ 14 mod 297
+19x - 2978 = 14
+297 = 15 * 79 + 12
+19 = 7 * 72 + 7
+12 = 7 * 7 + 5
+7 = 7 * 5 + 2
+5 = 2 * 2 + 1
+19(-125) ≡ 1 mod 297
+19(172) ≡ 14 mod 297
+19(2408) ≡ 14 mod 297
+x ≡ 32 mod 297
+Angeal T. David
+UNP6K4
+18x ≡ 17 mod 482
+nem aldhútj meg,
+ment (18/482) nem
+osztja a 17-et
+297(8) +

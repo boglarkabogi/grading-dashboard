@@ -1,0 +1,9 @@
+IMAGE: img49.jpeg
+TASK_TYPE: linear congruence
+17x = 77 mod 375
+x = 7 mod 375
+x = 7 + 375k, k∈Z
+
+79x = 9 mod 358
+Lxk0 u2nyds
+358 = 19·18+76 mind 79 Nn giza α 19 a

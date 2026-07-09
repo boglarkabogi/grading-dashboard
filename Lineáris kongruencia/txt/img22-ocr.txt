@@ -1,0 +1,10 @@
+IMAGE: img22.jpg
+TASK_TYPE: linear congruence
+11x ≡ 2 mod 238
+16x ≡ 15 mod 490
+11 relativo prim 238-hoz, megoldható
+120(16,490) = 2
+de 15 nem pares
+és saját pares b-je lenne
+20 vagyos Nem megoldható
+11(62) ≡ 2 mod 238

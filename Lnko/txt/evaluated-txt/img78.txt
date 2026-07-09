@@ -1,0 +1,22 @@
+[NUMBER_1]
+279 mod 205 = 14
+
+[NUMBER_2]
+205 mod 14 = 9
+
+[STUDENT_RESULT]
+74 mod 9 = 5
+
+[STUDENT_RESULT]
+9 mod 5 = 4
+
+[STUDENT_RESULT]
+5 mod 4 = 1
+
+[STUDENT_RESULT]
+4 mod 7 = 0
+
+[CORRECT_RESULT]
+74 mod 9 = 5
+
+[CORRECT_RESULT

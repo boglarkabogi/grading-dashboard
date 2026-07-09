@@ -1,0 +1,16 @@
+IMAGE: img44.jpeg
+TASK_TYPE: linear congruence
+11x ≡ 2 (mod 238)
+gcd(11, 238) = 1
+238 = 11 * 21 + 7
+11 = 7 * 1 + 4
+7 = 4 * 1 + 3
+3 = 1 * 3 + 0
+gcd(7, 4) = gcd(4, 3) = gcd(3, 1) = 1
+Tehát
+11 * 65 ≡ 1 (mod 238)
+x ≡ 2 * 65 ≡ 130 (mod 238)
+x ≡ 2 * 65 ≡ 130 (mod 238)
+16x ≡ 15 (mod 490)
+gcd(16, 490) = gcd(16, 10) = 2
+Nincs megoldás (mert gcd(1

@@ -1,0 +1,8 @@
+218
+202
+2
+2
+YES
+65%
+The final GCD is implied as 2, but the second Euclidean step is wrong.
+75%

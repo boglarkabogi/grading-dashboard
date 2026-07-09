@@ -1,0 +1,12 @@
+IMAGE: img33.heic
+TASK_TYPE: linear congruence
+b) 20x ≡ 5 mod 454 1:5
+4x ≡ 1 mod 454
+4x + 454y = 1 (4, 454) = 2 2+1
+nincs megoldás
+
+a) x ≡ 12 mod 313 → x + 313y = 12 i r: q: x:
+q1 = L7/313] = 0; r1 = 7 mod 313 = ≠ 0 313
+q2 = L313/7] = 44; r2 = 313 mod 7 = s 1 5 44 -44
+q3 = L7/5] = 1; r3 = ≠mod5=2 2 1 2 45
+q4 = L5/2] = 2; r4 = 5mod2 =

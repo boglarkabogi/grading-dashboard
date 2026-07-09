@@ -1,0 +1,8 @@
+217
+206
+1
+1
+YES
+90%
+The table has minor OCR/table-format issues, but the GCD is correct.
+85%

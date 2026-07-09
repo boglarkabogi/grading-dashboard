@@ -1,0 +1,8 @@
+219
+205
+1
+1
+YES
+85%
+One remainder is OCR-corrupted as 'g', but the intended calculation is clear.
+80%

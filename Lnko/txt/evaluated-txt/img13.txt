@@ -1,0 +1,11 @@
+[NUMBER_1]
+296x + 205y = c
+
+[NUMBER_2]
+i  x_i  q_i   x_i   y_i
+
+[STUDENT_RESULT]
+-1  296 -1    1     0
+0  205 -0    0     1
+1  41  24    1    -1
+2  7  18    -18   19

@@ -1,0 +1,40 @@
+[NUMBER_1]
+213
+
+[NUMBER_2]
+300
+
+[STUDENT_RESULT]
+3
+
+[Correct RESULT]
+0
+
+[Correctness]
+0%
+
+[Reason]
+A student has computed the GCD incorrectly.
+
+[Confidence]
+95%
+
+</think>
+
+[NUMBER_1]
+213
+
+[NUMBER_2]
+300
+
+[STUDENT_RESULT]
+3
+
+[Correct RESULT]
+0
+
+[Correctness]
+0%
+
+[Reason]
+A student has computed the GCD

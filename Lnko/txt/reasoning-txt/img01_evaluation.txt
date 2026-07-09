@@ -1,0 +1,8 @@
+216
+205
+1
+1
+YES
+45%
+Several Euclidean steps use the wrong previous remainder.
+85%

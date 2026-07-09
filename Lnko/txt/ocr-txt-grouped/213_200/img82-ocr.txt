@@ -1,0 +1,21 @@
+IMAGE: img82.jpg
+TASK_GROUP: 213_200
+TASK: gcd(213, 200)
+
+Beadandó:
+(213, 200) llnko
+
+a = q·b + r
+a = 213
+b = 200
+q = [UNREADABLE]
+r = [UNREADABLE]
+
+213 = 7·200 + 73
+200 = 75·13 + 5
+73 = 2·5 + 3
+5 = 7·2 + 2
+3 = 7·2 + 7
+2 = 2·7 + 0
+
+∴ llnko = 1
