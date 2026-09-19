@@ -1,0 +1,3 @@
+Oldja meg az alábbi lineáris kongruenciákat:
+
+19x ≡ 14   mod 297 és 18x ≡ 17   mod 482

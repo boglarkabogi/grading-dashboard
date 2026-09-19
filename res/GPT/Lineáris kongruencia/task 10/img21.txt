@@ -1,0 +1,5 @@
+Végeredmény helyes: Nem
+Megoldás menete: 45%
+
+Hiba röviden:
+Az első kongruenciánál helyesen felismeri, hogy lnko(7,340)=1, és a 243 valóban a 7 multiplikatív inverze modulo 340. Ezt azonban még meg kell szorozni 8-cal, ezért a helyes megoldás x ≡ 244 (mod 340), nem x = 243 + 340k. A második kongruencia megoldása sem szerepel egyértelműen; annak nincs megoldása.

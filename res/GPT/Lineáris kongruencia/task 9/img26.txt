@@ -1,0 +1,5 @@
+Végeredmény helyes: Nem
+Megoldás menete: 75%
+
+Hiba röviden:
+Az első kongruenciánál a -1750 valóban egy konkrét megoldás, mert -1750 ≡ 32 (mod 297), de az összes megoldást nem adja meg kongruenciaosztályként; a helyes végeredmény x ≡ 32 (mod 297). A második kongruenciánál a végső „nincs megoldás” következtetés helyes, bár közben 17 helyett 14 is szerepel a felírásban.

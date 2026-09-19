@@ -1,0 +1,5 @@
+Végeredmény helyes: Nem
+Megoldás menete: 85%
+
+Hiba röviden:
+A 12 inverzét helyesen kapja meg: 12⁻¹ ≡ 108 (mod 259), ezért x ≡ 864 (mod 259). A maradék kiszámítása azonban hibás: 864 mod 259 = 87, nem 82. A második kongruenciánál helyesen állapítja meg, hogy nincs megoldás.

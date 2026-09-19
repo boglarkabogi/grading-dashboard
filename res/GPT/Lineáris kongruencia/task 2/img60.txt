@@ -1,0 +1,5 @@
+Végeredmény helyes: Igen
+Megoldás menete: 90%
+
+Hiba röviden:
+Mindkét eredmény helyes: az elsőnél x = 864 - 259a, ami ekvivalens az x ≡ 87 (mod 259) megoldással, a másodiknál pedig helyesen következtet arra, hogy nincs megoldás. A táblázatokban és néhány köztes sorban vannak kisebb elírások, de a lényegi levezetés helyes.

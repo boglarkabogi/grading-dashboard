@@ -1,0 +1,5 @@
+Végeredmény helyes: Igen
+Megoldás menete: 90%
+
+Hiba röviden:
+Mindkét végeredmény helyes: x ≡ 130 (mod 238), illetve a második kongruenciának nincs megoldása. A levezetésben van néhány kisebb elírás, és a második feladat indoklása pontatlanul úgy szerepel, hogy lnko(16,490) ≠ 15; helyesen azt kell mondani, hogy a 2 nem osztja a 15-öt.

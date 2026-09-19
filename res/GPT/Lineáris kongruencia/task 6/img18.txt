@@ -1,0 +1,5 @@
+Végeredmény helyes: Igen
+Megoldás menete: 95%
+
+Hiba röviden:
+Mindkét végeredmény helyes: x ≡ 2 (mod 49), illetve a második kongruenciának nincs megoldása. A táblázatokban és jelölésekben van néhány kisebb pontatlanság, de a lényegi gondolatmenet helyes.

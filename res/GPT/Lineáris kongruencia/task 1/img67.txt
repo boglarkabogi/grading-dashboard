@@ -1,0 +1,5 @@
+Végeredmény helyes: Nem
+Megoldás menete: 55%
+
+Hiba röviden:
+Az első kongruenciánál 470 helyett többször 370 szerepel, ami hibássá teszi a felírást, bár később a helyes 99-es inverzhez közelít. A helyes első végeredmény x ≡ 174 (mod 470), de ez nincs egyértelműen megadva. A másodiknál helyesen kijön az lnko(16,202)=2, viszont a végén a 2 = (-3)·202 + 38·16 összefüggést tévesen 5-höz kapcsolja, és nem mondja ki, hogy nincs megoldás.

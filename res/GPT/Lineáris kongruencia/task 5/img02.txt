@@ -1,0 +1,5 @@
+Végeredmény helyes: Nem
+Megoldás menete: 40%
+
+Hiba röviden:
+Az euklideszi algoritmus jó irányban indul, de az első kongruenciánál nem jut el a helyes x ≡ 1 (mod 409) eredményhez, és több hibás köztes egyenlet is szerepel. A második kongruenciánál a „nincs egész megoldás” következtetés helyes, de a levezetésben 12 helyett 72 is megjelenik.

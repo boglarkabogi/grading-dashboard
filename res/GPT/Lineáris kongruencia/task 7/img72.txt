@@ -1,0 +1,5 @@
+Végeredmény helyes: Nem
+Megoldás menete: 65%
+
+Hiba röviden:
+Az első kongruenciánál jó irányban használja a kiterjesztett euklideszi algoritmust, de -191·19 helyett -3628-at ír. A helyes szorzat -3629, ezért x ≡ 97 (mod 414), nem pedig x ≡ -3628 (mod 414). A második kongruenciánál helyesen jut arra, hogy nincs megoldás.

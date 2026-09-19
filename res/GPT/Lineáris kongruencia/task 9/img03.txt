@@ -1,0 +1,5 @@
+Végeredmény helyes: Igen
+Megoldás menete: 70%
+
+Hiba röviden:
+Mindkét végső következtetés helyes: az első kongruenciánál x ≡ 32 (mod 297), a másodiknak pedig nincs megoldása. Az első rész levezetésében azonban több hibás vagy pontatlan euklideszi lépés és köztes kongruencia szerepel, ezért a menet nem teljesen helyes.

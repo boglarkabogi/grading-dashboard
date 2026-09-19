@@ -1,0 +1,5 @@
+Végeredmény helyes: Igen
+Megoldás menete: 80%
+
+Hiba röviden:
+A két végeredmény helyes: x ≡ 2 (mod 49), illetve a második kongruenciának nincs megoldása. Az első résznél a jelölés pontatlan, mert a (343,7) legnagyobb közös osztó 7, nem 49. A második résznél pedig nem jelenik meg egyértelműen a döntő feltétel, hogy 2 nem osztja az 5-öt.

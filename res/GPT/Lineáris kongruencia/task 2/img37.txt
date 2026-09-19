@@ -1,0 +1,5 @@
+Végeredmény helyes: Igen
+Megoldás menete: 55%
+
+Hiba röviden:
+A végén az első kongruenciára x = 87 jelenik meg, és a másodiknál felismeri, hogy lnko(16,314)=2 nem osztja a 13-at, tehát nincs megoldás. A köztes levezetés viszont sok helyen hibás vagy nehezen követhető, több téves szám és összefüggés is szerepel benne.

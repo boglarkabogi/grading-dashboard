@@ -1,0 +1,5 @@
+Végeredmény helyes: Nem
+Megoldás menete: 65%
+
+Hiba röviden:
+Mindkét euklideszi táblázat jó irányba halad: az elsőből megkapható a 7 inverze modulo 340, a másodikból pedig lnko(16,330)=2. A konkrét végeredményeket azonban nem írja le. A helyes válaszok: x ≡ 244 (mod 340), illetve a második kongruenciának nincs megoldása.

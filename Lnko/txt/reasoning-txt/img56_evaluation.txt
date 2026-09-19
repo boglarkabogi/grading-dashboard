@@ -1,8 +1,0 @@
-216
-203
-1
-1
-YES
-85%
-There is an extra corrupted line, but the main Euclidean solution is correct.
-85%

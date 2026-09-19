@@ -1,0 +1,5 @@
+Végeredmény helyes: Nem
+Megoldás menete: 55%
+
+Hiba röviden:
+Az első kongruenciánál helyesen megkapja a 13·(-191)+414·6=1 Bézout-azonosságot, de ezt hibásan használja fel: 19-cel kellene megszorozni, és ebből x ≡ 97 (mod 414) adódna. Ez a végeredmény nem szerepel. A második kongruenciánál a „nincs megoldás” következtetés helyes.

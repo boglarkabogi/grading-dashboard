@@ -1,0 +1,5 @@
+Végeredmény helyes: Igen
+Megoldás menete: 92%
+
+Hiba röviden:
+Az első kongruenciánál a 864-es megoldás helyes, és ez x ≡ 87 (mod 259)-nek felel meg. A másodiknál helyesen jut arra, hogy nincs megoldás, mert a 13 nem osztható 2-vel. A táblázatban van néhány kisebb számolási/elírási hiba, de a végső következtetéseket nem rontják el.

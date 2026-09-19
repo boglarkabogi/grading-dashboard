@@ -1,0 +1,5 @@
+Végeredmény helyes: Nem
+Megoldás menete: 60%
+
+Hiba röviden:
+Az első kongruenciánál helyesen megjelenik a 11·65 - 3·238 = 1 Bézout-azonosság, de ebből nincs egyértelműen kiszámítva az x ≡ 130 (mod 238) végeredmény. A második kongruenciánál az euklideszi algoritmus eljut a 2-es legnagyobb közös osztóig, de nincs kimondva, hogy 2 nem osztja a 15-öt, ezért nincs megoldás.

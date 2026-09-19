@@ -1,0 +1,5 @@
+Végeredmény helyes: Igen
+Megoldás menete: 95%
+
+Hiba röviden:
+Az első kongruencia levezetése és az x ≡ 130 (mod 238) eredmény helyes. A másodiknál is helyes a „nincs megoldás” következtetés, de az indoklás megfogalmazása pontatlan: nem az a feltétel, hogy lnko(16,490) ≠ 15, hanem az, hogy lnko(16,490)=2 nem osztja a 15-öt.

@@ -1,0 +1,5 @@
+Végeredmény helyes: Nem
+Megoldás menete: 40%
+
+Hiba röviden:
+Mindkét kongruenciánál megpróbálja felírni az euklideszi algoritmust, de a táblázatok több helyen hibásak, és egyik feladatnál sem szerepel egyértelmű helyes végeredmény. A helyes válaszok: x ≡ 130 (mod 238), illetve a második kongruenciának nincs megoldása.

@@ -1,0 +1,5 @@
+Végeredmény helyes: Nem
+Megoldás menete: 80%
+
+Hiba röviden:
+A kiterjesztett euklideszi algoritmus lényegi része jó, és megkapja, hogy 99·19 - 4·470 = 1. Ennek 16-szorosából az első kongruenciára x = 1584 ≡ 174 (mod 470) adódna, de a leírt x = 1574 + 470k hibás. A második kongruenciánál helyesen felismeri, hogy lnko(16,202)=2; ebből azt kell kimondani, hogy 2 nem osztja az 5-öt, ezért nincs megoldás.

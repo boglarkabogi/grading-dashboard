@@ -1,8 +1,0 @@
-218
-201
-1
-1
-YES
-70%
-The final GCD is correct, but one Euclidean step has a wrong remainder.
-85%

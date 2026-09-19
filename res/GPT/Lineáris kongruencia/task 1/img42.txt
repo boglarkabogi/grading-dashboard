@@ -1,0 +1,5 @@
+Végeredmény helyes: Igen
+Megoldás menete: 95%
+
+Hiba röviden:
+A két végeredmény helyes: x ≡ 174 (mod 470), illetve a második kongruenciának nincs megoldása. A levezetésben viszont szerepel egy hibás köztes sor: 19·95 + 470·(-4) nem 1. A helyes együttható 99, amit a következő lépések már ténylegesen használnak.

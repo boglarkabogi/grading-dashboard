@@ -1,0 +1,5 @@
+Végeredmény helyes: Nem
+Megoldás menete: 50%
+
+Hiba röviden:
+A második kongruenciát helyesen oldja meg: lnko(18,482)=2, és mivel 2 nem osztja a 17-et, nincs megoldás. Az első kongruencia megoldása teljesen hiányzik; annak helyes eredménye x ≡ 32 (mod 297).

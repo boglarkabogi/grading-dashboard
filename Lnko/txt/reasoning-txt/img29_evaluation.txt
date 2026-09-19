@@ -1,8 +1,0 @@
-219
-205
-1
-1
-YES
-95%
-Uses 'LCM' wording, but the computed GCD is correct.
-92%

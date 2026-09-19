@@ -1,8 +1,0 @@
-279
-205
-1
-1
-YES
-40%
-The final GCD is correct, but the Euclidean steps are mostly wrong after the first line.
-70%

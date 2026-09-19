@@ -1,0 +1,5 @@
+Végeredmény helyes: Igen
+Megoldás menete: 95%
+
+Hiba röviden:
+Az első kongruenciát helyesen oldja meg, és x ≡ 270 (mod 313) adódik. A másodiknál helyesen számolja ki, hogy lnko(20,454)=2, és ebből helyesen következik, hogy nincs megoldás, mert 2 nem osztja az 5-öt. A levezetésben van egy kisebb pontatlan köztes sor, de a lényegi menet helyes.

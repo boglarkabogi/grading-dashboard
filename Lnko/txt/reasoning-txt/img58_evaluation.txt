@@ -1,8 +1,0 @@
-216
-203
-1
-1
-YES
-95%
-Final GCD is not explicitly stated, but the Euclidean steps imply 1.
-92%

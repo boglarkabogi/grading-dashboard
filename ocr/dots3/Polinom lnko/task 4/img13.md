@@ -1,0 +1,28 @@
+b), f \\
+x^5+x^4+2x^3+2x^2 \in \mathbb{Z}_3[x] \qquad \text{Hf:} \\
+
+f = x^4+4x^3+x^2+2 \in \mathbb{Z}_5[x] \\
+g = x^5+x^4+3x^3+x^2+x+4 \in \mathbb{Z}_5[x] \\
+
+1.) \\
+x^4+4x^3+x^2+2 : x^5+x^4+3x^3+x^2+x+4 \\
+x^5+x^4+3x^3+x^2+x+4 : x^4+4x^3+x^2+2 = x+2 \\
+\ominus x^5+4x^4+x^3+2x^2 \\
+\hline -3x^4+2x^3+x^2-x+4 \equiv 2x^4+2x^3+x^2+4x+4 \pmod 5 \\
+\ominus 2x^4+8x^3+2x^2+4 \equiv 2x^4+3x^3+2x^2+4 \\
+\hline -x^3-x^2 \equiv 4x^3+4x^2+4x \\
+
+2.) \\
+x^4+4x^3+x^2+2 : 4x^3+4x^2+4x = \frac{1}{4}x + \frac{3}{4} \\
+\ominus x^4+x^3+x^2 \\
+\hline 3x^3+2 \\
+\ominus 3x^3+3x^2+3x \\
+\hline -3x^2-3x+2 \equiv 2x^2+2x+2 \\
+
+4x^3+4x^2+4x : 2x^2+2x+2 = 2x \\
+\ominus 4x^3+4x^2+4x \\
+\hline 0 \\
+
+\text{tehát : } 2x^2+2x+2 \\
+\text{legnagyobb} \\
+\text{közös osztó}

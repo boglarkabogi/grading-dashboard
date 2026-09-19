@@ -1,0 +1,5 @@
+Végeredmény helyes: Nem
+Megoldás menete: 35%
+
+Hiba röviden:
+Az első kongruenciánál hibásan azt írja, hogy lnko(19,297)=19, ezért tévesen arra jut, hogy nincs megoldás. Valójában lnko(19,297)=1, és a helyes eredmény x ≡ 32 (mod 297). A második kongruenciánál helyesen állapítja meg, hogy nincs megoldás.

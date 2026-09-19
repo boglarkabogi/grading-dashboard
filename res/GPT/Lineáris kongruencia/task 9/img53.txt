@@ -1,0 +1,5 @@
+Végeredmény helyes: Nem
+Megoldás menete: 25%
+
+Hiba röviden:
+A feladat számai több helyen hibásan szerepelnek: 19 helyett 79, illetve 18 helyett 78 jelenik meg, ezért a levezetés nem a megadott kongruenciákat követi. Bár az x ≡ 32 (mod 297) szám megjelenik, a második kongruenciára nincs egyértelműen megadva a helyes „nincs megoldás” végeredmény.

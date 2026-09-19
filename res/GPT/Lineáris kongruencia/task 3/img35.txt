@@ -1,0 +1,5 @@
+Végeredmény helyes: Nem
+Megoldás menete: 20%
+
+Hiba röviden:
+A felírás több helyen eltér az eredeti feladattól: 16 helyett 76, illetve 11 helyett 71 szerepel. Emiatt a levezetés nem a megadott kongruenciákat oldja meg, és nem jut el a helyes x ≡ 130 (mod 238), illetve „nincs megoldás” végeredményekhez.

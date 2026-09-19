@@ -1,0 +1,5 @@
+Végeredmény helyes: Nem
+Megoldás menete: 10%
+
+Hiba röviden:
+Az első kongruenciánál 17-tel való egyszerűsítés után x ≡ 1 (mod 375) adódik, nem x ≡ 7. A második kongruenciának van megoldása, mert lnko(19,358)=1; a helyes eredmény x ≡ 57 (mod 358). A 358 = 19·18 + 76 felírás is hibás, a maradék 16.

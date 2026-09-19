@@ -1,0 +1,5 @@
+Végeredmény helyes: Nem
+Megoldás menete: 60%
+
+Hiba röviden:
+Helyesen felismeri, hogy lnko(11,238)=1, de az első kongruenciánál kapott 62 nem helyes megoldás; a helyes eredmény x ≡ 130 (mod 238). A második kongruenciánál helyesen állapítja meg, hogy lnko(16,490)=2, és a 15 páratlansága miatt nincs megoldás.

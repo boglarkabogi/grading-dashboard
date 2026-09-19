@@ -1,0 +1,5 @@
+Végeredmény helyes: Igen
+Megoldás menete: 80%
+
+Hiba röviden:
+Az első kongruencia helyes végeredménye x ≡ 32 (mod 297), és a másodiknál is helyesen jut arra, hogy nincs megoldás. A levezetésben több kisebb számtani és jelölési hiba szerepel, például a -125·14 szorzat környékén, de a lényegi módszer helyes.

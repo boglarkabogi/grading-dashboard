@@ -1,8 +1,0 @@
-213
-200
-1
-1
-YES
-85%
-There is a conflicting OCR line with a=273, but the worked problem is 213 and 200.
-75%

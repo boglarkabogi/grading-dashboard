@@ -1,8 +1,0 @@
-216
-205
-1
-1
-YES
-55%
-The final GCD is correct, but several Euclidean lines are OCR-corrupted.
-75%

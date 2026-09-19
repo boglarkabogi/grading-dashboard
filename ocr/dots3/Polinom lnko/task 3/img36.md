@@ -1,0 +1,21 @@
+$$f = x^4 + 2x^3 + x^2 + 4 \in \mathbb{Z}_5[x]$$
+$$g = x^5 + x^4 + 2x^3 + 2x^2 + 2x + 1 \in \mathbb{Z}_5[x]$$
+
+$$x^5 + x^4 + 2x^3 + 2x^2 + 2x + 1 : x^4 + 2x^3 + x^2 + 4 = x + 4$$
+$$x^5 + 2x^4 + x^3 + 4x$$
+$$4x^4 + x^3 + 2x^2 + 3x + 1$$
+$$4x^4 + 3x^3 + 4x^2 + 4$$
+$$3x^3 + 3x^2 + 3x \quad \leftarrow r_1$$
+
+$$x^4 + 2x^3 + x^2 + 4 \cdot 3x^3 + 3x^2 + 3x = 2x + 2$$
+$$x^4 + x^3 + x^2$$
+$$x^3 + 4$$
+$$x^3 + x^2 + x$$
+$$4x^2 + 4x + 4 \quad \leftarrow r_2$$
+
+$$3x^3 + 3x^2 + 3x \cdot 4x^2 + 4x + 4 = 2x$$
+$$3x^3 + 3x^2 + 3x$$
+$$0 \quad \leftarrow r_3$$
+
+$$4x^2 + 4x + 4\text{, de nem } 1 \text{ a főegyüttható}$$
+$$\underline{\underline{\text{lko} = x^2 + x + 1}}$$

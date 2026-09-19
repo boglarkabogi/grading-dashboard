@@ -1,0 +1,5 @@
+Végeredmény helyes: Nem
+Megoldás menete: 65%
+
+Hiba röviden:
+Mindkét euklideszi táblázat jó irányba halad: az elsőnél megjelenik a 65-ös Bézout-együttható, a másodiknál pedig az lnko(16,490)=2. A konkrét végeredmények azonban nincsenek egyértelműen megadva: x ≡ 130 (mod 238), illetve a második kongruenciának nincs megoldása.

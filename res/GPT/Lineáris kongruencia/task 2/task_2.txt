@@ -1,0 +1,2 @@
+Oldja meg az alábbi lineáris kongruenciákat:
+12x ≡ 8   mod 259   és   16x ≡ 13   mod 314

@@ -1,0 +1,5 @@
+Végeredmény helyes: Nem
+Megoldás menete: 35%
+
+Hiba röviden:
+A kiterjesztett euklideszi algoritmussal helyesen megkapja a 7 inverzéhez szükséges -134-es Bézout-együtthatót, de ezt nem használja fel helyesen a 12-vel való szorzásra, így nem jut el az x ≡ 270 (mod 313) eredményhez. A második kongruencia megoldása teljesen hiányzik.

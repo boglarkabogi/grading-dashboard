@@ -1,0 +1,5 @@
+Végeredmény helyes: Igen
+Megoldás menete: 95%
+
+Hiba röviden:
+Az első kongruencia levezetése helyes: a Bézout-azonosságból x = -776 + 340t, vagyis x ≡ 244 (mod 340) adódik. A másodiknál is helyes a „nincs megoldás” következtetés. Egyetlen jelölési hiba, hogy 2|15 szerepel, miközben helyesen 2 ∤ 15.

@@ -1,0 +1,5 @@
+Végeredmény helyes: Nem
+Megoldás menete: 35%
+
+Hiba röviden:
+Az első kongruenciánál a végén szerepel az x = 97 helyes érték, de a levezetésben 13 helyett 73 jelenik meg, és a Bézout-összefüggések hibásak. A második kongruenciát hibásan alakítja át, közben x = 83-at is megad, ami nem megoldás; bár később a „nincs megoldás” állítás is szerepel, a megoldás így ellentmondásos.

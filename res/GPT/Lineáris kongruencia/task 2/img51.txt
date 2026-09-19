@@ -1,0 +1,5 @@
+Végeredmény helyes: Nem
+Megoldás menete: 50%
+
+Hiba röviden:
+Az első kongruenciánál a 108-as Bézout-együttható jó irány, és a 864 valóban megoldás, de a 8/7-tel való osztás és az általános megoldásban szereplő 259/7 hibás. A második kongruenciánál lnko(16,314)=2, de mivel 2 nem osztja a 13-at, azonnal azt kellene kimondani, hogy nincs megoldás; helyette tört alakú „megoldást” ír fel.

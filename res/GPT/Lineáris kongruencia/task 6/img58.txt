@@ -1,0 +1,5 @@
+Végeredmény helyes: Igen
+Megoldás menete: 95%
+
+Hiba röviden:
+Mindkét végeredmény helyes, és az euklideszi algoritmus is megfelelő. Egyetlen lényegi jelölési hiba, hogy a második résznél „2|5” szerepel; helyesen 2 nem osztja az 5-öt, ezért nincs megoldás.

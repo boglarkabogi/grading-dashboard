@@ -1,0 +1,5 @@
+Végeredmény helyes: Nem
+Megoldás menete: 55%
+
+Hiba röviden:
+Az első kongruenciánál a köztes levezetés erősen pontatlan, de a végén megjelenik a helyes x ≡ 130 (mod 238) eredmény. A másodiknál felismeri, hogy a legnagyobb közös osztó 2, de a szövegben nincs egyértelműen kimondva a szükséges végeredmény, hogy 2 nem osztja a 15-öt, ezért nincs megoldás.

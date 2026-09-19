@@ -1,0 +1,5 @@
+Végeredmény helyes: Nem
+Megoldás menete: 25%
+
+Hiba röviden:
+Az első kongruencia levezetésében több hibás érték és következtetés szerepel. A -22 a 17 multiplikatív inverzéhez kapcsolódik modulo 375, de maga a kongruencia megoldása x ≡ 1 (mod 375). A második kongruencia megoldása egyáltalán nem szerepel.

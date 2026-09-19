@@ -1,0 +1,5 @@
+Végeredmény helyes: Nem
+Megoldás menete: 35%
+
+Hiba röviden:
+A levezetés több helyen hibás vagy nem követhető, és az első kongruenciánál nem a helyes x ≡ 174 (mod 470) eredmény jelenik meg. A másodiknál eljut az lnko(16,202)=2 értékhez, de abból egyértelműen azt kellene levonni, hogy 2 nem osztja az 5-öt, tehát nincs megoldás.

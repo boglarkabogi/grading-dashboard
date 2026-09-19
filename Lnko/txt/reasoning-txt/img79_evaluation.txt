@@ -1,8 +1,0 @@
-219
-205
-1
-1
-YES
-90%
-The final GCD is correct, but the last line is abbreviated/malformed.
-85%

@@ -1,8 +1,0 @@
-180
-219
-3
-3
-YES
-90%
-Header has a typo '(180,190)', but the stated task and solution use 180 and 219.
-85%

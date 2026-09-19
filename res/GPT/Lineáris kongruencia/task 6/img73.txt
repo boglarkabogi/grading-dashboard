@@ -1,0 +1,5 @@
+Végeredmény helyes: Igen
+Megoldás menete: 95%
+
+Hiba röviden:
+Mindkét végeredmény helyes: x ≡ 2 (mod 49), illetve a második kongruenciának nincs megoldása. Az első résznél az x = 2 + 49t alakban t egész szám legyen; ha csak a modulo 343 szerinti különböző megoldásokat sorolja, akkor hét maradékosztály adódik.

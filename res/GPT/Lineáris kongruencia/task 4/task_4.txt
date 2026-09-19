@@ -1,0 +1,2 @@
+Oldja meg az alábbi lineáris kongruenciákat:
+17x ≡ 17   mod 375   és   19x ≡ 9    mod 358

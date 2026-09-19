@@ -1,0 +1,5 @@
+Végeredmény helyes: Igen
+Megoldás menete: 85%
+
+Hiba röviden:
+Mindkét végső eredmény helyes: az első kongruenciánál x ≡ 87 (mod 259), a másodiknak nincs megoldása. A levezetés elején viszont szerepel egy ellentmondó „nincs megoldás” megjegyzés, illetve a megoldásszámra vonatkozó sor is pontatlan, miközben utána helyesen folytatódik a számolás.

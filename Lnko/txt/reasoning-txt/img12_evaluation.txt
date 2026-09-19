@@ -1,8 +1,0 @@
-217
-201
-1
-1
-YES
-90%
-Final GCD is not explicitly stated and the last line is malformed.
-85%

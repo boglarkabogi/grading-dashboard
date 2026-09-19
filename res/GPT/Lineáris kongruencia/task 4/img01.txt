@@ -1,0 +1,5 @@
+Végeredmény helyes: Igen
+Megoldás menete: 90%
+
+Hiba röviden:
+Mindkét kongruencia helyes megoldását megkapja: x ≡ 1 (mod 375), illetve x ≡ 57 (mod 358). Ezután feleslegesen egy közös megoldást is keres a két kongruenciára, pedig a feladat a két kongruencia külön megoldását kéri. A korábbi két eredmény ettől még helyes.

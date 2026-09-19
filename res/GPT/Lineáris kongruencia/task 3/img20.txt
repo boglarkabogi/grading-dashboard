@@ -1,0 +1,5 @@
+Végeredmény helyes: Nem
+Megoldás menete: 55%
+
+Hiba röviden:
+Az első kongruenciánál a levezetés egy nem ekvivalens átalakítással két megoldást ad meg: x = 11 és x = 130 modulo 238. Ezek közül csak x ≡ 130 (mod 238) helyes; x = 11 nem megoldás. A második kongruenciánál helyesen felismeri, hogy lnko(16,490)=2, és mivel 2 nem osztja a 15-öt, nincs megoldás.

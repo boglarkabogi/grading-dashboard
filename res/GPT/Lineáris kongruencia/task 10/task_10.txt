@@ -1,0 +1,3 @@
+Oldja meg az alábbi lineáris kongruenciákat:
+
+7x ≡ 8   mod 340 és 16x ≡ 15   mod 330

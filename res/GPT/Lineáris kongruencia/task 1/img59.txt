@@ -1,0 +1,5 @@
+Végeredmény helyes: Nem
+Megoldás menete: 35%
+
+Hiba röviden:
+Az első kongruenciánál az euklideszi algoritmus helyesen mutatja, hogy lnko(19,470)=1, ezért ennek a kongruenciának van megoldása. A visszahelyettesítés hibásan/hiányosan folytatódik, majd tévesen a „nincs megoldása” következtetés jelenik meg. A második kongruencia érdemi megoldása sem szerepel.

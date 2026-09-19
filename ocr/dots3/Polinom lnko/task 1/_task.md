@@ -1,0 +1,1 @@
+Számolja ki az $f = x^4+3x^3+2x^2+x+4 \in \mathbb{Z}_5[x]$ és $g = x^5+x^4+x^2+x+2 \in \mathbb{Z}_5[x]$ polinomok legnagyobb közös osztóját!

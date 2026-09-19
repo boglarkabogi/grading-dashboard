@@ -1,0 +1,5 @@
+Végeredmény helyes: Igen
+Megoldás menete: 80%
+
+Hiba röviden:
+A végső következtetések helyesek: az első kongruenciánál x ≡ 130 (mod 238), a másodiknak nincs megoldása. A köztes táblázatban több pontatlanság és elírás szerepel, továbbá a 490 prímtényezős felbontása is hibásan van megadva, de a szükséges lnko és a végeredmények helyesek.

@@ -1,0 +1,5 @@
+Végeredmény helyes: Igen
+Megoldás menete: 95%
+
+Hiba röviden:
+Mindkét végeredmény helyes: az első kongruenciánál x ≡ 1 (mod 409), a másodiknak pedig nincs megoldása. A táblázatokban és a jelölésekben van néhány kisebb pontatlanság, de a lényegi számolás és következtetés helyes.

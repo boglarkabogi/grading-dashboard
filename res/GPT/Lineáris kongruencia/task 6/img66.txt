@@ -1,0 +1,5 @@
+Végeredmény helyes: Igen
+Megoldás menete: 85%
+
+Hiba röviden:
+Az első kongruencia helyesen egyszerűsödik x ≡ 2 (mod 49)-re, a másodiknál pedig helyes a „nincs megoldás” végeredmény. A második rész indoklásában több pontatlan vagy nehezen értelmezhető sor szerepel; a tiszta indok az, hogy lnko(16,346)=2 és 2 nem osztja az 5-öt.

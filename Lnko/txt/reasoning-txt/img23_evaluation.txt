@@ -1,8 +1,0 @@
-217
-206
-1
-1
-YES
-60%
-The final GCD is implied as 1, but the first and third equations use wrong remainders.
-80%

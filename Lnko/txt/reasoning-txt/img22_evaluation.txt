@@ -1,8 +1,0 @@
-276
-203
-1
-7
-NO
-20%
-The claimed GCD is wrong and the Euclidean steps contain major errors.
-70%

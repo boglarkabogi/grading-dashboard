@@ -1,0 +1,5 @@
+Végeredmény helyes: Igen
+Megoldás menete: 70%
+
+Hiba röviden:
+Az első kongruencia helyes végeredményre jut: x ≡ 2 (mod 49), de a köztes részben hibásan szerepel a megoldások száma. A második kongruenciánál a helyes következtetés az, hogy nincs megoldás, viszont az euklideszi algoritmus több sora hibásan van felírva.

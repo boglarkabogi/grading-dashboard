@@ -1,0 +1,5 @@
+Végeredmény helyes: Nem
+Megoldás menete: 85%
+
+Hiba röviden:
+Az első kongruencia teljesen helyes, és x ≡ 1 (mod 409) adódik. A másodiknál helyesen felismeri, hogy lnko(12,302)=2 és 2 nem osztja a 7-et, tehát nincs megoldás, viszont ezután még hibásan kiszámol egy x = -87,5 értéket. Nem létező megoldást már nem szabad felírni.

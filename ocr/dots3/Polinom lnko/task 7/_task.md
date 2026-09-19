@@ -1,0 +1,1 @@
+Számolja ki az $f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x]$ és $g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x]$ polinomok legnagyobb közös osztóját!

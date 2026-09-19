@@ -1,0 +1,5 @@
+Végeredmény helyes: Nem
+Megoldás menete: 70%
+
+Hiba röviden:
+A táblázatok lényegében helyesen adják a szükséges euklideszi számításokat, és az elsőnél az is látszik, hogy lnko(7,340)=1, a másodiknál pedig lnko(16,330)=2. A tényleges végeredmények viszont hiányoznak: az elsőnél x ≡ 244 (mod 340), a másodiknál pedig nincs megoldás, mert 2 nem osztja a 15-öt.

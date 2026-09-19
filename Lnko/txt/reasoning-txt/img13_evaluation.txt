@@ -1,8 +1,0 @@
-296
-205
-1
-1
-YES
-55%
-The final GCD is correct, but the extended Euclidean table has incorrect remainders.
-80%

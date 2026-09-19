@@ -1,0 +1,5 @@
+Végeredmény helyes: Nem
+Megoldás menete: 30%
+
+Hiba röviden:
+Az első kongruencia többször hibásan 73-as együtthatóval szerepel, és az x ≡ 7 (mod 409) eredmény nem helyes; a helyes eredmény x ≡ 1 (mod 409). A második kongruenciánál a „nem megoldható” következtetés helyes, de a felírás ott is pontatlan.

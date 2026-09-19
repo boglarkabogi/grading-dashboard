@@ -1,0 +1,5 @@
+Végeredmény helyes: Nem
+Megoldás menete: 55%
+
+Hiba röviden:
+A második kongruenciánál helyesen jut arra, hogy nincs megoldás. Az elsőnél viszont a -191 Bézout-együttható felhasználása után hibásan oszt 7-tel, és x₀ = 3629 értéket ír fel. A helyes eredmény x ≡ 97 (mod 414), ami nem jelenik meg.

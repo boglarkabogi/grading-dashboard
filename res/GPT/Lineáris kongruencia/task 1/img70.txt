@@ -1,0 +1,5 @@
+Végeredmény helyes: Igen
+Megoldás menete: 85%
+
+Hiba röviden:
+A két végeredmény helyes: x ≡ 174 (mod 470), illetve a második kongruenciának nincs megoldása. A levezetés elején azonban hibásan szerepel, hogy lnko(19,470)=7; valójában az lnko 1. A későbbi euklideszi számolás már ezt támasztja alá, és a végső következtetések helyesek.

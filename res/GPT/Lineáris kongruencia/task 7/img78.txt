@@ -1,0 +1,5 @@
+Végeredmény helyes: Igen
+Megoldás menete: 90%
+
+Hiba röviden:
+Mindkét végeredmény helyes: x ≡ 97 (mod 414), illetve a második kongruenciának nincs megoldása. A levezetésben van egy kisebb számtani elírás: -191·19 = -3629, nem -3628, de a végső maradékot helyesen 97-nek adja meg.

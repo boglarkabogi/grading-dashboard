@@ -1,8 +1,0 @@
-216
-203
-1
-1
-YES
-95%
-Final division line is slightly malformed, but the solution is otherwise correct.
-93%

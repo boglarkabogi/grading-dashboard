@@ -1,0 +1,5 @@
+Végeredmény helyes: Nem
+Megoldás menete: 30%
+
+Hiba röviden:
+Az első kongruencia felírása és a Bézout-együtthatók hibásak, ezért a megadott x₀ és az általános megoldás sem helyes. A helyes eredmény x ≡ 1 (mod 409). A második kongruenciánál helyesen a „nincs megoldás” következtetés szerepel, de az oszthatósági feltétel jelölése ellentmond ennek.

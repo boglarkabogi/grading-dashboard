@@ -1,0 +1,5 @@
+Végeredmény helyes: Nem
+Megoldás menete: 90%
+
+Hiba röviden:
+A két kongruenciára vonatkozó lényegi következtetés helyes: x ≡ 1 (mod 409), illetve a másodiknak nincs megoldása. Az első feladat általános megoldását azonban hibásan x = 1 + 408t alakban írja; helyesen x = 1 + 409t.

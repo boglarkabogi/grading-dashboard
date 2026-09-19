@@ -1,0 +1,5 @@
+Végeredmény helyes: Nem
+Megoldás menete: 30%
+
+Hiba röviden:
+A levezetés nagyon töredékes és több helyen nem követhető. Bár a 97-es szám megjelenik, nincs világosan megadva az első kongruencia x ≡ 97 (mod 414) megoldása, és a második kongruenciára sincs egyértelműen leírva a „nincs megoldás” végeredmény.

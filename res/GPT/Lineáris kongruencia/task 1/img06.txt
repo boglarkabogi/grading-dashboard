@@ -1,0 +1,5 @@
+Végeredmény helyes: Nem
+Megoldás menete: 65%
+
+Hiba röviden:
+Az első kongruenciánál a 99-es inverzhez eljut, és az x = 16·99 + 470q alak helyes. A második kongruenciánál viszont nem jut el a szükséges következtetésig: lnko(16,202)=2, és mivel 2 nem osztja az 5-öt, nincs megoldás. Ez a végeredmény nem szerepel helyesen.

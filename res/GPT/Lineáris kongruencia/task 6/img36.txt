@@ -1,0 +1,5 @@
+Végeredmény helyes: Igen
+Megoldás menete: 95%
+
+Hiba röviden:
+Az első kongruencia megoldása helyes: x ≡ 2 (mod 49). A másodiknál is helyesen kapja, hogy nincs megoldás. Az indoklás megfogalmazása kissé pontatlan: nem az a feltétel, hogy lnko(16,346) ≠ 5, hanem az, hogy lnko(16,346)=2 nem osztja az 5-öt.

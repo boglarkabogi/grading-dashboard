@@ -1,8 +1,0 @@
-180
-219
-3
-3
-YES
-90%
-Header contains an incorrect '= 2', but the final answer and steps give 3.
-88%

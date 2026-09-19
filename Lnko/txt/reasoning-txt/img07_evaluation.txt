@@ -1,8 +1,0 @@
-216
-203
-1
-1
-YES
-90%
-Some text is unreadable, but the Euclidean remainders and final GCD are clear.
-85%

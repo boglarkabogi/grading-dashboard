@@ -1,0 +1,5 @@
+Végeredmény helyes: Nem
+Megoldás menete: 10%
+
+Hiba röviden:
+A levezetés több helyen hibás vagy nem követhető, és egyik kongruenciára sem szerepel egyértelmű, helyes végeredmény. A helyes válaszok: x ≡ 270 (mod 313), illetve a második kongruenciának nincs megoldása.

@@ -1,0 +1,5 @@
+Végeredmény helyes: Nem
+Megoldás menete: 60%
+
+Hiba röviden:
+Az első kongruenciánál eljut oda, hogy van megoldás, de nem adja meg a szükséges x ≡ 130 (mod 238) végeredményt. A második kongruenciát közben hibásan 16x - 2 = 490y alakban írja fel 15 helyett, bár végül helyesen jut arra, hogy nincs megoldás.

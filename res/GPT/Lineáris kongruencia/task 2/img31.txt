@@ -1,0 +1,5 @@
+Végeredmény helyes: Igen
+Megoldás menete: 92%
+
+Hiba röviden:
+A lényegi gondolatmenet és mindkét eredmény helyes: az elsőnél x = 864 + 259t, ami ekvivalens az x ≡ 87 (mod 259) megoldással, a másodiknál pedig nincs megoldás. A levezetésben van néhány kisebb elírás, és az y általános alakja pontatlan, de ez az x-re vonatkozó kongruenciamegoldást nem rontja el.

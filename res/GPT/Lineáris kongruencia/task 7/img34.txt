@@ -1,0 +1,5 @@
+Végeredmény helyes: Igen
+Megoldás menete: 95%
+
+Hiba röviden:
+Mindkét végeredmény helyes: x ≡ 97 (mod 414), illetve a második kongruenciának nincs megoldása. A kiterjesztett euklideszi táblázatban van néhány kisebb elírás, de a lényegi gondolatmenet és a következtetés helyes.

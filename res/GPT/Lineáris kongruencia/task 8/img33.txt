@@ -1,0 +1,5 @@
+Végeredmény helyes: Igen
+Megoldás menete: 80%
+
+Hiba röviden:
+Az első kongruenciánál a Bézout-együtthatóból helyesen jut el az x ≡ 270 (mod 313) eredményhez. A második kongruenciánál a végső „nincs megoldás” következtetés helyes, de az elején hibásan osztja el 5-tel a kongruenciát úgy, hogy a modulus 454 marad. Helyesen az lnko(20,454)=2 és 2 ∤ 5 alapján kell következtetni.

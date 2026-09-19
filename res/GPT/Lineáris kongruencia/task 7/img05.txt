@@ -1,0 +1,5 @@
+Végeredmény helyes: Nem
+Megoldás menete: 50%
+
+Hiba röviden:
+A második kongruenciánál helyesen kapja, hogy lnko(20,412)=4, és mivel 4 nem osztja a 6-ot, nincs megoldás. Az első kongruencia megoldása viszont teljesen hiányzik. Annak helyes eredménye x ≡ 97 (mod 414).

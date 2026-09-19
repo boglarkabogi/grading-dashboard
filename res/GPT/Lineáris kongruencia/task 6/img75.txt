@@ -1,0 +1,5 @@
+Végeredmény helyes: Igen
+Megoldás menete: 80%
+
+Hiba röviden:
+A végső eredmények helyesek: x ≡ 2 (mod 49), illetve a második kongruenciának nincs megoldása. Az első részben szerepel egy hibás köztes sor, ahol 14 helyett 2·2 jelenik meg. A másodiknál az indoklás pontatlan: nem az számít, hogy lnko(16,346) ≠ 5, hanem hogy a 2 nem osztja az 5-öt.

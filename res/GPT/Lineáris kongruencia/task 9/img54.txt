@@ -1,0 +1,5 @@
+Végeredmény helyes: Nem
+Megoldás menete: 0%
+
+Hiba röviden:
+A szöveg csak a két feladatot írja le újra, megoldási lépés és végeredmény nélkül. A helyes eredmények: x ≡ 32 (mod 297), illetve a második kongruenciának nincs megoldása.

@@ -1,8 +1,0 @@
-243
-200
-1
-1
-YES
-85%
-The first remainder should be 43, so the OCR/problem setup appears inconsistent.
-70%

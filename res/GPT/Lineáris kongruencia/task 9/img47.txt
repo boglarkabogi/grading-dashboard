@@ -1,0 +1,5 @@
+Végeredmény helyes: Igen
+Megoldás menete: 85%
+
+Hiba röviden:
+Mindkét végső eredmény helyes: x ≡ 32 (mod 297), illetve a második kongruenciának nincs megoldása. Az első rész visszahelyettesítésében több köztes sor pontatlan vagy nehezen követhető, de a Bézout-együttható és a végső eredmény helyes.

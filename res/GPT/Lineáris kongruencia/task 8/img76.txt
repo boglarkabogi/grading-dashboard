@@ -1,0 +1,5 @@
+Végeredmény helyes: Igen
+Megoldás menete: 60%
+
+Hiba röviden:
+Az első kongruenciánál végül helyesen kapja az x ≡ 270 (mod 313) eredményt, de a megoldhatósági feltételnél hibásan az lnko(7,12)-t vizsgálja az lnko(7,313) helyett, és a köztes levezetés is több helyen pontatlan. A második kongruenciánál a „nincs megoldás” végeredmény helyes, de ismét rossz számok legnagyobb közös osztójából indul ki; helyesen lnko(20,454)=2 és 2 ∤ 5 az indok.

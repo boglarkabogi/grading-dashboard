@@ -1,0 +1,5 @@
+Végeredmény helyes: Igen
+Megoldás menete: 75%
+
+Hiba röviden:
+Az első kongruenciánál helyesen jut el az x ≡ 270 (mod 313) eredményhez. A második kongruenciánál viszont hibás az 5-tel való egyszerűsítés, mert a modulus nem osztható 5-tel. A végső „nincs megoldás” következtetés ettől függetlenül helyes; ezt helyesen az lnko(20,454)=2 és 2 ∤ 5 alapján kell indokolni.

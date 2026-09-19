@@ -1,0 +1,2 @@
+Oldja meg az alábbi lineáris kongruenciákat:
+13x ≡ 19   mod 414   és   20x ≡ 6    mod 412
