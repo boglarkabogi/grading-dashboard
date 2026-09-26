@@ -1,0 +1,15 @@
+{
+  "feladat": "gcd(219, 205)",
+  "helyes_megoldas": "Euklideszi algoritmussal: 219 = 1*205 + 14; 205 = 14*14 + 9; 14 = 1*9 + 5; 9 = 1*5 + 4; 5 = 1*4 + 1; 4 = 4*1 + 0. Az utolsó nemnulla maradék 1, tehát gcd(219, 205) = 1.",
+  "diak_vegeredmenye": "(a, b) = 1",
+  "diak_megoldasa_osszefoglalva": "A diák helyesen alkalmazza az euklideszi algoritmust: minden maradékos osztás lépése korrekt, az utolsó nemnulla maradék 1, és ezt adja meg végeredményként.",
+  "pont": 1,
+  "indoklas": "Helyes módszer (euklideszi algoritmus), minden lépés számszerűen is helyes, és a végeredmény (gcd = 1) is helyes. A záró mondat ('ezek nincsenek közös osztó') nyelvtanilag pongyola, de a relációs prím volt zűrét kifejezi, ezért nem jelent pontveszteséget.",
+  "magabiztossag": 97,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "moonshotai/kimi-k3"
+}

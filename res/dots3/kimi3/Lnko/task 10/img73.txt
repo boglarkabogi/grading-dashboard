@@ -1,0 +1,16 @@
+Feladat: gcd(219, 205) meghatározása
+Helyes megoldás: Euklideszi algoritmussal: 219 = 1·205 + 14; 205 = 14·14 + 9; 14 = 1·9 + 5; 9 = 1·5 + 4; 5 = 1·4 + 1; 4 = 4·1 + 0. Tehat gcd(219,205) = 1.
+
+Diák végeredménye: gcd(219,205) = 1
+Diák megoldása (összefoglalva):
+A diak helyesen alkalmazza az euklideszi algoritmust lepesrol lepesre; a 9-es maradekot az OCR 'g'-kent olvasta, de a lepesek konzisztensek (205 = 14·14 + 9, 14 = 1·9 + 5), es a vegeredmeny helyes.
+
+Pontszám: 1/1
+Indoklás:
+Helyes modszer (euklideszi algoritmus) es helyes vegeredmeny (gcd = 1). A 'g' betu a 9-es szamjegy OCR-hibaja, nem a diake.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+A 'g' jel a 9-es szamjegy OCR-elirmasa; a levezetes igy is teljesen konzisztens.

@@ -1,0 +1,16 @@
+Feladat: gcd(217, 201)
+Helyes megoldás: Euklideszi algoritmus: 217 = 1·201 + 16; 201 = 12·16 + 9; 16 = 1·9 + 7; 9 = 1·7 + 2; 7 = 3·2 + 1; 2 = 2·1 + 0. lnko(217, 201) = 1.
+
+Diák végeredménye: 1
+Diák megoldása (összefoglalva):
+A diák helyesen alkalmazta az euklideszi algoritmust, minden maradékos osztás stimmel (217 = 1·201 + 16, 201 = 12·16 + 9, stb.), és helyesen jutott az 1 eredményre.
+
+Pontszám: 1/1
+Indoklás:
+A módszer (euklideszi algoritmus) helyes, a lépések mind hibátlanok, a végeredmény (lnko = 1) helyes.
+
+Modell magabiztossága: 98/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

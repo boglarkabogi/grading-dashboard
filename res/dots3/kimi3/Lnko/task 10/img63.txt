@@ -1,0 +1,16 @@
+Feladat: gcd(219, 205) meghatározása az euklideszi algoritmussal.
+Helyes megoldás: Euklideszi algoritmussal: 219 = 1·205 + 14; 205 = 14·14 + 9; 14 = 1·9 + 5; 9 = 1·5 + 4; 5 = 1·4 + 1; 4 = 4·1 + 0. Az utolsó nem nulla maradék 1, tehát gcd(219, 205) = 1.
+
+Diák végeredménye: (219, 205) = 1
+Diák megoldása (összefoglalva):
+A diák az euklideszi algoritmust alkalmazta: egymás utáni osztásokkal (219 = 1·205+14, 205 = 14·14+9, 14 = 9·1+5, 9 = 5·1+4, 5 = 4·1+1, 4 = 1·4+0) levezette, és végeredményként gcd = 1-et adott meg.
+
+Pontszám: 1/1
+Indoklás:
+Helyes módszer (euklideszi algoritmus), minden maradék számítása jó, és a végeredmény is helyes: gcd(219, 205) = 1.
+
+Modell magabiztossága: 98/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

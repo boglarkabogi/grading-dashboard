@@ -1,0 +1,15 @@
+{
+  "feladat": "gcd(217, 206) meghatározása (217, 206) = ?",
+  "helyes_megoldas": "Euklideszi algoritmus: 217 = 1*206 + 11; 206 = 18*11 + 8; 11 = 1*8 + 3; 8 = 2*3 + 2; 3 = 1*2 + 1; 2 = 2*1 + 0. Az utolsó nemnulla maradék 1, tehát gcd(217, 206) = 1 (relatív prímek).",
+  "diak_vegeredmenye": "Az algoritmusból kiolvashatóan gcd = 1 (utolsó nemnulla maradék 1), explicit kimondva nincs, de a levezetés a 3 = 1*2 + 1, 2 = 2*1 sorokkal fejeződik be.",
+  "diak_megoldasa_osszefoglalva": "A diák hibátlanul végrehajtja az euklideszi algoritmust: minden osztási lépés helyes (217=1*206+11, 206=18*11+8, 11=1*8+3, 8=2*3+2, 3=1*2+1, 2=2*1), így az lnko 1.",
+  "pont": 1,
+  "indoklas": "Helyes módszer (euklideszi algoritmus), minden lépés számszerűen pontos, a végeredmény (gcd = 1) az algoritmusból egyértelműen kiolvasható.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A diák nem írta ki expliciten, hogy a válasz 1, de a levezetésből teljesen egyértelmű.",
+  "model": "moonshotai/kimi-k3"
+}

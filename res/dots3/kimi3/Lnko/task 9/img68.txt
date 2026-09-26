@@ -1,0 +1,16 @@
+Feladat: gcd(219, 180)
+Helyes megoldás: Euklideszi algoritmus: 219 mod 180 = 39, 180 mod 39 = 24, 39 mod 24 = 15, 24 mod 15 = 9, 15 mod 9 = 6, 9 mod 6 = 3, 6 mod 3 = 0, tehat gcd(219, 180) = 3.
+
+Diák végeredménye: gcd(180, 219) = 3
+Diák megoldása (összefoglalva):
+A diák az euklideszi algoritmust alkalmazza lépésről lépésre, helyes maradékokkal (39, 24, 15, 9, 6, 3, 0), és helyesen kapja a 3-at végeredményként.
+
+Pontszám: 1/1
+Indoklás:
+Helyes módszer (euklideszi algoritmus), minden maradék helyes, a végeredmény (3) helyes.
+
+Modell magabiztossága: 98/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+Az elején az 'HF., lnuo(180,219)' OCR-zaj (valószínűleg 'lnko/gcd' felirat), de a levezetés tiszta és helyes.

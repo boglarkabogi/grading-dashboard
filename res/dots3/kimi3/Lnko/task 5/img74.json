@@ -1,0 +1,15 @@
+{
+  "feladat": "gcd(217, 201)",
+  "helyes_megoldas": "Euklideszi algoritmus: 217 = 1*201 + 16, 201 = 12*16 + 9, 16 = 1*9 + 7, 9 = 1*7 + 2, 7 = 3*2 + 1, 2 = 2*1 + 0, tehát gcd(217, 201) = 1.",
+  "diak_vegeredmenye": "gcd(217, 201) = 1",
+  "diak_megoldasa_osszefoglalva": "A diák az euklideszi algoritmust alkalmazza, minden lépés helyes maradékokkal, és az utolsó nemnulla maradékból helyesen állapítja meg, hogy a legnagyobb közös osztó 1.",
+  "pont": 1,
+  "indoklas": "Helyes módszer (euklideszi algoritmus), minden köztes lépés számításilag helyes, és a végeredmény (1) is megfelelő.",
+  "magabiztossag": 98,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A megoldásban előfordul 7-es számjegy, de ezek a számításokkal konzisztensek, így valódiak (nem OCR-hiba).",
+  "model": "moonshotai/kimi-k3"
+}

@@ -1,0 +1,15 @@
+{
+  "feladat": "gcd(219, 205) — a legnagyobb közös osztó meghatározása",
+  "helyes_megoldas": "Euklideszi algoritmus: 219 = 1*205 + 14; 205 = 14*14 + 9; 14 = 1*9 + 5; 9 = 1*5 + 4; 5 = 1*4 + 1; 4 = 4*1 + 0, tehát gcd(219, 205) = 1, a számok relatív prímek.",
+  "diak_vegeredmenye": "LNKO: 1 (relatív prímek)",
+  "diak_megoldasa_osszefoglalva": "A diák helyesen alkalmazta az euklideszi algoritmust: 219 = 1*205 + 14, 205 = 14*14 + 9, 14 = 1*9 + 5, 9 = 1*5 + 4, 5 = 1*4 + 1, 4 = 4*1 + 0, és helyesen következtetett arra, hogy az LNKO 1.",
+  "pont": 1,
+  "indoklas": "Helyes módszer (euklideszi algoritmus), minden maradék helyes, és a végeredmény (LNKO = 1, relatív prímek) is helyes.",
+  "magabiztossag": 98,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "moonshotai/kimi-k3"
+}

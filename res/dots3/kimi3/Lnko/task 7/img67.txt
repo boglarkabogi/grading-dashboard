@@ -1,0 +1,18 @@
+Feladat: gcd(218, 201) meghatározása
+Helyes megoldás: Euklideszi algoritmus: 218 = 1*201 + 17; 201 = 11*17 + 14; 17 = 1*14 + 3; 14 = 4*3 + 2; 3 = 1*2 + 1; 2 = 2*1 + 0, tehat gcd(218, 201) = 1.
+
+Diák végeredménye: gcd = 1
+Diák megoldása (összefoglalva):
+A diak euklideszi algoritmussal dolgozott; az OCR-ben a szamok 7-esekkel jelennek meg (278, 207, 77 stb.), de 1-eskent visszaolvasva a lepesek a helyes euklideszi lepeseket adjak (218 = 1*201 + 17, 17 = 1*14 + 3, ...), es a vegeredmeny 1.
+
+Pontszám: 1/1
+Indoklás:
+A modszer (euklideszi algoritmus) helyes, a vegeredmeny (1) helyes. A levezetesben szereplo 7-es szamjegyek (278 a 218 helyett, 207 a 201 helyett, 77 a 17/11 helyett) az ismert 1->7 OCR-hibara utalnak; 1-eskent olvasva a lepesek konzisztensek es helyesek.
+
+Modell magabiztossága: 85/100
+Értelmezhető volt a bemenet: igen
+
+Figyelem: valószínű 7↔1 OCR-elírás, elfogadva.
+
+Megjegyzés:
+Tobb helyen 7-es all 1-es helyen (278~218, 207~201, 77~17/11, 73~13/14); a diak szamitasa emiatt latszolag nem konzisztens, de visszaolvasva helyes, ezert nem vontam le pontot.

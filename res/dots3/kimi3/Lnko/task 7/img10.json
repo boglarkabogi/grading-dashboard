@@ -1,0 +1,15 @@
+{
+  "feladat": "gcd(218, 201)",
+  "helyes_megoldas": "Euklideszi algoritmus: 218 = 201*1 + 17; 201 = 17*11 + 14; 17 = 14*1 + 3; 14 = 3*4 + 2; 3 = 2*1 + 1; 2 = 1*2 + 0. Az utolsó nemnulla maradék 1, tehát gcd(218, 201) = 1.",
+  "diak_vegeredmenye": "1 (az algoritmusból olvasható ki, az utolsó nemnulla maradék)",
+  "diak_megoldasa_osszefoglalva": "A diák helyesen alkalmazza az euklideszi algoritmust: 218 = 201*1 + 17, 201 = 17*11 + 14, 17 = 14*1 + 3, 14 = 3*4 + 2, 3 = 2*1 + 1, 2 = 1*2 + 0, így a legnagyobb közös osztó 1.",
+  "pont": 1,
+  "indoklas": "A diák hibátlanul végrehajtotta az euklideszi algoritmust, minden lépés helyes, az utolsó nemnulla maradék 1, azaz gcd(218, 201) = 1. A végeredmény nem szerepel explicit módon, de az algoritmusból egyértelműen kiolvasható, ezért teljes pont jár.",
+  "magabiztossag": 98,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A levezetésben szereplő 17-es szám valódi (218 - 201 = 17), nem OCR-hiba.",
+  "model": "moonshotai/kimi-k3"
+}

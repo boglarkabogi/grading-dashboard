@@ -1,0 +1,15 @@
+{
+  "feladat": "gcd(217, 201) — határozd meg a 217 és 201 legnagyobb közös osztóját",
+  "helyes_megoldas": "Euklidészi algoritmus: 217 = 1*201 + 16; 201 = 12*16 + 9; 16 = 1*9 + 7; 9 = 1*7 + 2; 7 = 3*2 + 1; 2 = 2*1 + 0. Az utolsó nemnulla maradék 1, tehát gcd(217, 201) = 1.",
+  "diak_vegeredmenye": "(217, 201) = 1",
+  "diak_megoldasa_osszefoglalva": "A diák az euklidészi algoritmust helyesen végigvitte: a maradékok sorra 16, 9, 7, 2, 1, 0, és az utolsó nemnulla maradékból helyesen következtetett gcd = 1-re.",
+  "pont": 1,
+  "indoklas": "A módszer (euklidészi algoritmus) helyes, minden lépés maradéka helyes, és a végeredmény (gcd = 1) is helyes.",
+  "magabiztossag": 98,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "moonshotai/kimi-k3"
+}

@@ -1,0 +1,16 @@
+Feladat: gcd(216, 203) meghatározása (lnko euklideszi algoritmussal)
+Helyes megoldás: Euklideszi algoritmus: 216 = 203·1 + 13; 203 = 13·15 + 8; 13 = 8·1 + 5; 8 = 5·1 + 3; 5 = 3·1 + 2; 3 = 2·1 + 1; 2 = 1·2 + 0. Az utolsó nem nulla maradék 1, tehát lnko(216, 203) = 1, azaz a két szám relatív prím.
+
+Diák végeredménye: lnko(216, 203) = 1, a számok egymással prímek (relatív prímek)
+Diák megoldása (összefoglalva):
+A diák helyesen alkalmazta az euklideszi algoritmust, minden osztási lépés és maradék pontos, majd az utolsó nem nulla maradékként az 1-et azonosította lnko-ként.
+
+Pontszám: 1/1
+Indoklás:
+A módszer (euklideszi algoritmus) és a végeredmény (lnko = 1, relatív prímek) is helyes, a levezetés minden lépése pontos.
+
+Modell magabiztossága: 98/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

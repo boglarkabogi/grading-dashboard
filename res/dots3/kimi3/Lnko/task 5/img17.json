@@ -1,0 +1,15 @@
+{
+  "feladat": "gcd(217, 201)",
+  "helyes_megoldas": "Euklideszi algoritmus: 217 = 1*201 + 16; 201 = 12*16 + 9; 16 = 1*9 + 7; 9 = 1*7 + 2; 7 = 3*2 + 1; 2 = 2*1 + 0. Az utolsó nemnulla maradék 1, tehát gcd(217, 201) = 1.",
+  "diak_vegeredmenye": "gcd(217, 201) = 1",
+  "diak_megoldasa_osszefoglalva": "A diák helyesen alkalmazta az euklideszi algoritmust: a maradékok sorra 16, 9, 7, 2, 1, 0, és a végeredményt 1-nek adta meg. Az első sorban '217 = 7*201 + 16' szerepel, de 7*201 = 1407, ami lehetetlen; nyilván '1*201 + 16' állt ott, a 7-es az 1-es OCR-elírása.",
+  "pont": 1,
+  "indoklas": "A módszer (euklideszi algoritmus) helyes, a maradékok és a végeredmény (gcd = 1) is helyesek. Az első sorban szereplő 7-es hányados matematikailag lehetetlen (7*201 > 217), ezért az egyértelműen az 1-es számjegy OCR-elolvasása, nem a diák hibája.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": true,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A '217 = 7*201 + 16' sorban a 7-es valójában 1-es (1*201 + 16 = 217), tipikus 1->7 OCR-hiba; ezért nem vontam le pontot.",
+  "model": "moonshotai/kimi-k3"
+}

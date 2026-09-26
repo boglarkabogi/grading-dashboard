@@ -1,0 +1,15 @@
+{
+  "feladat": "gcd(219, 205)",
+  "helyes_megoldas": "Euklideszi algoritmus: 219 = 1*205 + 14; 205 = 14*14 + 9; 14 = 1*9 + 5; 9 = 1*5 + 4; 5 = 1*4 + 1; 4 = 4*1 + 0, igy gcd(219, 205) = 1.",
+  "diak_vegeredmenye": "1 (az algoritmusból olvasható ki: az utolsó nemnulla maradék 1)",
+  "diak_megoldasa_osszefoglalva": "A diák az euklideszi algoritmust alkalmazza: 219 mod 205 = 14, 205 mod 14 = 9, majd a további maradékok 5, 4, 1, végül 0. Az utolsó nemnulla maradék 1, ami a helyes lnko.",
+  "pont": 1,
+  "indoklas": "Helyes módszer (euklideszi algoritmus) és helyes végeredmény (gcd = 1). A '74 mod 9' sorban a 74 valójában 14, a '4 mod 7 = 0' sorban a 7 valójában 1 — mindkettő tipikus 1->7 OCR-elírás; 1-esként visszaolvasva a levezetés teljesen konzisztens (14 mod 9 = 5, 4 mod 1 = 0).",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": true,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A '74' 14-nek, az utolsó sor '7'-ese 1-esnek olvasandó (1->7 OCR-hiba); ezekkel a javításokkal a levezetés hibátlan.",
+  "model": "moonshotai/kimi-k3"
+}

@@ -1,0 +1,15 @@
+{
+  "feladat": "gcd(219, 180)",
+  "helyes_megoldas": "Euklideszi algoritmus: 219 = 1*180 + 39, 180 = 4*39 + 24, 39 = 1*24 + 15, 24 = 1*15 + 9, 15 = 1*9 + 6, 9 = 1*6 + 3, 6 = 2*3 + 0, tehát gcd(219, 180) = 3.",
+  "diak_vegeredmenye": "3",
+  "diak_megoldasa_osszefoglalva": "A diák az euklideszi algoritmust alkalmazta, lépésről lépésre helyes maradékokkal, és a végeredményt 3-nak adta meg.",
+  "pont": 1,
+  "indoklas": "A diák a helyes módszert (euklideszi algoritmus) használta, minden osztási lépés helyes, és a végeredmény (3) is helyes.",
+  "magabiztossag": 100,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "moonshotai/kimi-k3"
+}

@@ -1,0 +1,16 @@
+Feladat: gcd(218, 202)
+Helyes megoldás: Euklideszi algoritmus: 218 = 1*202 + 16; 202 = 12*16 + 10; 16 = 1*10 + 6; 10 = 1*6 + 4; 6 = 1*4 + 2; 4 = 2*2 + 0. Az utolsó nemnulla maradék 2, tehát gcd(218,202) = 2.
+
+Diák végeredménye: 2
+Diák megoldása (összefoglalva):
+A diák helyesen alkalmazta az euklideszi algoritmust, minden lépés helyes, a maradékok sorrendje jó, és a végeredményt helyesen 2-nek adta meg.
+
+Pontszám: 1/1
+Indoklás:
+Helyes módszer (euklideszi algoritmus), helyes köztes lépések és helyes végeredmény: gcd(218,202) = 2.
+
+Modell magabiztossága: 98/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

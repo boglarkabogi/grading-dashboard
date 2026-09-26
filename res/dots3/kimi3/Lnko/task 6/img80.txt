@@ -1,0 +1,16 @@
+Feladat: gcd(217, 206)
+Helyes megoldás: Euklideszi algoritmus: 217 = 1*206 + 11; 206 = 18*11 + 8; 11 = 1*8 + 3; 8 = 2*3 + 2; 3 = 1*2 + 1; 2 = 2*1 + 0. Az utolso nemnulla maradek 1, tehat gcd(217,206) = 1.
+
+Diák végeredménye: gcd(217,206) = 1
+Diák megoldása (összefoglalva):
+A diak helyesen alkalmazza az euklideszi algoritmust: sorban felirja a maradekos osztasokat 217 es 206 kozott, a maradekok 11, 8, 3, 2, 1, 0, es helyesen allapitja meg, hogy a legnagyobb kozos oszto 1.
+
+Pontszám: 1/1
+Indoklás:
+Helyes modszer (euklideszi algoritmus) es helyes vegeredmeny; minden lepes maradeka pontos, az utolso nemnulla maradek 1.
+
+Modell magabiztossága: 98/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

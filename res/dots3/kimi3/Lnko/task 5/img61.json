@@ -1,0 +1,15 @@
+{
+  "feladat": "gcd(217, 201)",
+  "helyes_megoldas": "Euklideszi algoritmussal: 217 = 201*1 + 16; 201 = 16*12 + 9; 16 = 9*1 + 7; 9 = 7*1 + 2; 7 = 2*3 + 1; 2 = 1*2 + 0. Tehat gcd(217, 201) = 1.",
+  "diak_vegeredmenye": "1",
+  "diak_megoldasa_osszefoglalva": "A diák euklideszi algoritmust végzett: 217 = 201*1 + 16; 201 = 16*12 + 9; 16 = 9*1 + 7; 9 = 7*1 + 2; majd a levezetésben hiányzik a 7 = 2*3 + 1 lépés (vagy OCR-ben kiesett), és egy '2 = 2*1 + 0' sor után végeredményként 1-et adott meg.",
+  "pont": 0.75,
+  "indoklas": "A módszer helyes (euklideszi algoritmus) és a végeredmény (1) helyes. A levezetés végén kimaradt a 7 = 2*3 + 1 lépés, és a '2 = 2*1 + 0' sor önmagában 2-t adna maradékként, ami apró következetlenség/OCR-kiesés, de a helyes végeredmény kimondva szerepel.",
+  "magabiztossag": 80,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A 7 = 2*3 + 1 sor valószínűleg OCR-ben kiesett; a helyes végeredmény ezt is sejteti.",
+  "model": "moonshotai/kimi-k3"
+}

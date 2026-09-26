@@ -1,0 +1,15 @@
+{
+  "feladat": "gcd(216, 203) — a legnagyobb közös osztó meghatározása az euklideszi algoritmussal",
+  "helyes_megoldas": "Euklideszi algoritmus: 216 = 1*203 + 13; 203 = 15*13 + 8; 13 = 1*8 + 5; 8 = 1*5 + 3; 5 = 1*3 + 2; 3 = 1*2 + 1; 2 = 2*1 + 0. Az utolsó nemnulla maradék 1, tehát gcd(216, 203) = 1.",
+  "diak_vegeredmenye": "(216, 203) = 1",
+  "diak_megoldasa_osszefoglalva": "A diák helyesen alkalmazza az euklideszi algoritmust: sorban végzi a maradékos osztásokat (216, 203, 13, 8, 5, 3, 2, 1), és 0 maradéknál megáll. A végeredményt helyesen 1-nek adja meg.",
+  "pont": 1,
+  "indoklas": "A módszer (euklideszi algoritmus) helyes, minden lépés számszerint helyes (203 = 15*13 + 8 stimmel: 15*13 = 195, maradék 8), és a végeredmény (gcd = 1) is helyes.",
+  "magabiztossag": 98,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "moonshotai/kimi-k3"
+}

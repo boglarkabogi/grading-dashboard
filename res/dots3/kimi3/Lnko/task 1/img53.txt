@@ -1,0 +1,16 @@
+Feladat: gcd(213, 200)
+Helyes megoldás: Az euklideszi algoritmussal: 213 = 200*1 + 13, 200 = 13*15 + 5, 13 = 5*2 + 3, 5 = 3*1 + 2, 3 = 2*1 + 1, 2 = 1*2 + 0, igy gcd(213, 200) = 1.
+
+Diák végeredménye: 1 (az algoritmus utolso nem nulla maradeka); a fejlecben szerepel egy '40' is, ami valoszinuleg OCR-zaj vagy felismerhetetlen jegyzet
+Diák megoldása (összefoglalva):
+A diak helyesen alkalmazta az euklideszi algoritmust: minden osztasi lepes helyes, a vegen 1 maradekkal er veget, azaz gcd = 1.
+
+Pontszám: 1/1
+Indoklás:
+A modszer (euklideszi algoritmus) es az eredmeny (gcd = 1) is helyes. A '(213,200) 40' sorban szereplo 40 magyarazhatatlan, de mivel a teljes levezetes helyes es a vegeredmeny egyertelmuen 1, ez valoszinuleg OCR-zaj vagy mellekjegyzet, nem rontja el a megoldast.
+
+Modell magabiztossága: 85/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+A fejlecben levo '40' valoszinuleg OCR-zaj; a diak minden lepese es a vegeredmeny helyes.

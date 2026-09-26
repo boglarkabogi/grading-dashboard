@@ -1,0 +1,16 @@
+Feladat: gcd(219, 180)
+Helyes megoldás: Euklideszi algoritmus: 219 = 1*180 + 39, 180 = 4*39 + 24, 39 = 1*24 + 15, 24 = 1*15 + 9, 15 = 1*9 + 6, 9 = 1*6 + 3, 6 = 2*3 + 0, tehát gcd(219, 180) = 3.
+
+Diák végeredménye: 3
+Diák megoldása (összefoglalva):
+A diák az euklideszi algoritmust alkalmazta, lépésről lépésre helyes maradékokkal, és a végeredményt 3-nak adta meg.
+
+Pontszám: 1/1
+Indoklás:
+A diák a helyes módszert (euklideszi algoritmus) használta, minden osztási lépés helyes, és a végeredmény (3) is helyes.
+
+Modell magabiztossága: 100/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

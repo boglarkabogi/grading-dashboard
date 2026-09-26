@@ -1,0 +1,18 @@
+Feladat: gcd(216, 203)
+Helyes megoldás: Euklideszi algoritmus: 216 = 1*203 + 13; 203 = 15*13 + 8; 13 = 1*8 + 5; 8 = 1*5 + 3; 5 = 1*3 + 2; 3 = 1*2 + 1; 2 = 2*1 + 0. Az utolso nem nulla maradek 1, tehat gcd(216, 203) = 1 (a szamok relativ primek).
+
+Diák végeredménye: (216, 203) = 1 (az OCR-ben 7-nek olvasható, de 1-es)
+Diák megoldása (összefoglalva):
+A diak az euklideszi algoritmust hajtotta vegre lepesrol lepesre, es az utolso nem nulla maradekot adta meg gcd-kent. A lepesek a 7-esek 1-eskent torteno beolvasasaval maradekul hibatlanul konzisztensek.
+
+Pontszám: 1/1
+Indoklás:
+A helyes modszer (euklideszi algoritmus) es a helyes vegeredmeny (1) is szerepel. Az OCR a szovegben szereplo osszes 1-est 7-kent ismerte fel: a vegeredmeny '= 7' valojaban '= 1', a maradekok 73 -> 13, a hanyadosok 9 -> 1, 75 -> 15 stb. Igy olvasva minden sor maradekolkent helyes: 216 = 1*203 + 13; 203 = 15*13 + 8; 13 = 1*8 + 5; 8 = 1*5 + 3; 5 = 1*3 + 2; 3 = 1*2 + 1; 2 = 2*1 + 0.
+
+Modell magabiztossága: 92/100
+Értelmezhető volt a bemenet: igen
+
+Figyelem: valószínű 7↔1 OCR-elírás, elfogadva.
+
+Megjegyzés:
+Tomeges 7/1 OCR-csere: a vegeredmeny (7) valojaban 1, a 73 valojaban 13, a 9 es 75 hanyadosok 1 es 15, a hanyadosok 7-esei 1-esek. 7->1 olvasassal a teljes levezetes szisztematikusan helyes, ezert a diak megoldasat helyesnek ertekeltem.

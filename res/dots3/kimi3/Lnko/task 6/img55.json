@@ -1,0 +1,15 @@
+{
+  "feladat": "Számítsd ki gcd(217, 206)-ot (a legnagyobb közös osztót) az euklideszi algoritmussal.",
+  "helyes_megoldas": "Euklideszi algoritmus: 217 = 1*206 + 11; 206 = 18*11 + 8; 11 = 1*8 + 3; 8 = 2*3 + 2; 3 = 1*2 + 1; 2 = 2*1 + 0. Az utolsó nemnulla maradék 1, tehát gcd(217, 206) = 1.",
+  "diak_vegeredmenye": "1 (a levezetés utolsó nemnulla maradéka; a 2 = 2*1 sorral zárul)",
+  "diak_megoldasa_osszefoglalva": "A diák hibátlanul végigvitte az euklideszi algoritmust: 217 = 1*206+11, 206 = 18*11+8, 11 = 1*8+3, 8 = 2*3+2, 3 = 1*2+1, 2 = 2*1, így a legnagyobb közös osztó 1.",
+  "pont": 1,
+  "indoklas": "Helyes módszer (euklideszi algoritmus), minden lépés és maradék stimmel, a végeredmény (1) helyesen kiolvasható az algoritmusból.",
+  "magabiztossag": 98,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A végeredmény nincs külön kimondva, de az algoritmusból egyértelműen leolvasható, ezért teljes pont jár.",
+  "model": "moonshotai/kimi-k3"
+}

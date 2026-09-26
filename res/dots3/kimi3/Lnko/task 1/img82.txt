@@ -1,0 +1,18 @@
+Feladat: gcd(213, 200) kiszámítása az euklideszi algoritmussal
+Helyes megoldás: Euklideszi algoritmus: 213 = 1·200 + 13; 200 = 15·13 + 5; 13 = 2·5 + 3; 5 = 1·3 + 2; 3 = 1·2 + 1; 2 = 2·1 + 0. Az utolsó nemnulla maradék 1, tehát gcd(213, 200) = 1.
+
+Diák végeredménye: llnko = 1
+Diák megoldása (összefoglalva):
+A diák az euklideszi algoritmust alkalmazza. Az OCR-ben sok a 7-es, ami 1-esként olvasva a helyes levezetést adja: 213 = 1·200 + 13; 200 = 15·13 + 5; 13 = 2·5 + 3; ...; 2 = 2·1 + 0, ebből gcd = 1.
+
+Pontszám: 1/1
+Indoklás:
+A módszer (euklideszi algoritmus) helyes, és a végeredmény (gcd = 1) helyes. A levezetés számaiban szereplő 7-esek (pl. 213 = 7·200 + 73 helyett 1·200 + 13, 75·13 helyett 15·13, 3 = 7·2 + 7 helyett 3 = 1·2 + 1) az 1↔7 OCR-összekeverés tipikus jelei: 1-esekre cserélve a maradékok és a lépések konzisztensek. A '5 = 7·2 + 2' sor valószínűleg a '5 = 1·3 + 2' OCR-romlása. Ezért nem jár pontlevonás.
+
+Modell magabiztossága: 85/100
+Értelmezhető volt a bemenet: igen
+
+Figyelem: valószínű 7↔1 OCR-elírás, elfogadva.
+
+Megjegyzés:
+Több helyen 7-es áll 1-es helyén (7·200 → 1·200, 73 → 13, 75·13 → 15·13, 7·2 + 7 → 1·2 + 1, 2·7 + 0 → 2·1 + 0); 1-esként visszaolvasva a teljes levezetés helyes lesz.

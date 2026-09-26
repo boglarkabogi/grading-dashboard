@@ -1,0 +1,15 @@
+{
+  "feladat": "LNKO(216, 205) meghatározása",
+  "helyes_megoldas": "Euklideszi algoritmus: 216 = 1*205 + 11; 205 = 18*11 + 7; 11 = 1*7 + 4; 7 = 1*4 + 3; 4 = 1*3 + 1; 3 = 3*1 + 0. Tehat gcd(216, 205) = 1, a szamok relativ primek.",
+  "diak_vegeredmenye": "gcd = 1, a 216 es 205 relativ primek",
+  "diak_megoldasa_osszefoglalva": "A diak euklideszi algoritmust hasznalt: 216 - 1*205 = 9 (helyesen 11 lenne), majd 205 - 22*9 = 7, 9 - 1*7 = 2, 7 - 3*2 = 1, 2 - 2*1 = 0, es levonta a helyes kovetkeztetest, hogy a szamok relativ primek.",
+  "pont": 0.75,
+  "indoklas": "A modszer (euklideszi algoritmus) helyes, es a vegeredmeny (gcd = 1, relativ primek) helyes. Az elso lepesben a maradek hibas (9 helyett 11), de a diak utana a 9-cel belul konzisztensen szamolt (205 - 22*9 = 7 pontos), es a lanc vegig 1-re vezet. A hiba nem erinti a helyes vegeredmenyt, mivel a gcd mindket uton 1. A rossz maradek miatt nem adhato teljes pont.",
+  "magabiztossag": 85,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "Az elso maradek (9 a 11 helyett) hiba vagy OCR-tevesztes lehet, de a diak szamitasa a 9-cel belul konzisztens (22*9 = 198, 205-198 = 7); a vegeredmeny igy is helyes. A 11 -> 9 atiras nem a szokasos 1/7 OCR-minta, ezert nem jeloltem OCR-gyanunak.",
+  "model": "moonshotai/kimi-k3"
+}

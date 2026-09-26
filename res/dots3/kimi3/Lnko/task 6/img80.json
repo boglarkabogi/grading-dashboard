@@ -1,0 +1,15 @@
+{
+  "feladat": "gcd(217, 206)",
+  "helyes_megoldas": "Euklideszi algoritmus: 217 = 1*206 + 11; 206 = 18*11 + 8; 11 = 1*8 + 3; 8 = 2*3 + 2; 3 = 1*2 + 1; 2 = 2*1 + 0. Az utolso nemnulla maradek 1, tehat gcd(217,206) = 1.",
+  "diak_vegeredmenye": "gcd(217,206) = 1",
+  "diak_megoldasa_osszefoglalva": "A diak helyesen alkalmazza az euklideszi algoritmust: sorban felirja a maradekos osztasokat 217 es 206 kozott, a maradekok 11, 8, 3, 2, 1, 0, es helyesen allapitja meg, hogy a legnagyobb kozos oszto 1.",
+  "pont": 1,
+  "indoklas": "Helyes modszer (euklideszi algoritmus) es helyes vegeredmeny; minden lepes maradeka pontos, az utolso nemnulla maradek 1.",
+  "magabiztossag": 98,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "moonshotai/kimi-k3"
+}

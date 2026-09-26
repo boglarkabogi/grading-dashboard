@@ -1,0 +1,16 @@
+Feladat: gcd(217, 201)
+Helyes megoldás: Euklideszi algoritmus: 217 = 1*201 + 16; 201 = 12*16 + 9; 16 = 1*9 + 7; 9 = 1*7 + 2; 7 = 3*2 + 1; 2 = 2*1 + 0, igy gcd(217, 201) = 1.
+
+Diák végeredménye: A vegeredmeny az algoritmusbol olvashato ki: az utolso nemnulla maradek 1, tehat gcd = 1 (kulon kimondva nincs).
+Diák megoldása (összefoglalva):
+A diak helyesen alkalmazta az euklideszi algoritmust: a maradekok sorban 16, 9, 7, 2, 1, 0, igy a legnagyobb kozos oszto 1.
+
+Pontszám: 1/1
+Indoklás:
+A modszer (euklideszi algoritmus) helyes, a lepesek szamitasai mind pontosak, es az utolso nemnulla maradekbol a helyes eredmeny, gcd(217,201) = 1 adodik. Hianyzik ugyan a kimondott vegeredmeny-sor, de az algoritmusbol egyertelmuen kiolvashato.
+
+Modell magabiztossága: 98/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+A diak nem irta ki kulon, hogy a gcd erteke 1, de a levezetes utolso nemnulla maradeka egyertelmuen ezt adja.

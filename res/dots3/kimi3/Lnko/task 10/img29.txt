@@ -1,0 +1,16 @@
+Feladat: gcd(219, 205) — a legnagyobb közös osztó meghatározása
+Helyes megoldás: Euklideszi algoritmus: 219 = 1*205 + 14; 205 = 14*14 + 9; 14 = 1*9 + 5; 9 = 1*5 + 4; 5 = 1*4 + 1; 4 = 4*1 + 0, tehát gcd(219, 205) = 1, a számok relatív prímek.
+
+Diák végeredménye: LNKO: 1 (relatív prímek)
+Diák megoldása (összefoglalva):
+A diák helyesen alkalmazta az euklideszi algoritmust: 219 = 1*205 + 14, 205 = 14*14 + 9, 14 = 1*9 + 5, 9 = 1*5 + 4, 5 = 1*4 + 1, 4 = 4*1 + 0, és helyesen következtetett arra, hogy az LNKO 1.
+
+Pontszám: 1/1
+Indoklás:
+Helyes módszer (euklideszi algoritmus), minden maradék helyes, és a végeredmény (LNKO = 1, relatív prímek) is helyes.
+
+Modell magabiztossága: 98/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

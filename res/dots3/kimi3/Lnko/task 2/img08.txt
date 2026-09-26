@@ -1,0 +1,16 @@
+Feladat: gcd(213, 300) — számítsd ki a 213 és 300 legnagyobb közös osztóját
+Helyes megoldás: Euklideszi algoritmussal: 300 = 1*213 + 87; 213 = 2*87 + 39; 87 = 2*39 + 9; 39 = 4*9 + 3; 9 = 3*3 + 0, tehát gcd(213, 300) = 3
+
+Diák végeredménye: gcd(213, 300) = 3
+Diák megoldása (összefoglalva):
+A diák helyesen alkalmazta az euklideszi algoritmust a 300 és 213 számokra; valamennyi maradékos osztásos lépés (87, 39, 9, 3, 0) helyes, és a végeredmény 3.
+
+Pontszám: 1/1
+Indoklás:
+A módszer (euklideszi algoritmus) és a végeredmény (3) is helyes. Az első sor (213 = 0*300 + 213) felesleges, de nem hibás, nem rontja a megoldást.
+
+Modell magabiztossága: 98/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-
