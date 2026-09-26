@@ -1,0 +1,27 @@
+$7x \equiv 14 \pmod{343}$ $\qquad 7 \mid 14 \rightarrow$ van me.
+
+$343 = 7^3$
+
+$\gcd(7,343) = 7$
+
+$x \equiv 2 \pmod{49}$
+
+$x = 2 + 49t$ $\qquad t = \{0,1,2,3,4,5,6\}$
+
+---
+
+$16x \equiv 5 \pmod{346}$
+
+$\gcd(16,346) = 2$
+
+$346 = 21 \cdot 16 + 10$
+
+$16 = 10 + 6$
+
+$10 = 6 + 4$
+
+$6 = 4 + 2$
+
+$4 = 2 \cdot 2 + 0$
+
+$2 \nmid 5 \Rightarrow$ nincs mo.

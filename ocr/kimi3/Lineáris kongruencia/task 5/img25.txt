@@ -1,0 +1,15 @@
+$13x \equiv 13 \pmod{409}$ ≠
+
+$\gcd(13,409)=1 \Rightarrow 13$ invertálható modulo $409$
+
+$13x \equiv 13 \pmod{409} \quad /:13$
+
+$x \equiv 1 \pmod{409}$
+
+$\Rightarrow x=1+409t$, ahol $t \in \mathbb{Z}$
+
+$12x \equiv 7 \pmod{302}$
+
+~~át húzott, olvashatatlan rész~~ $| \gcd(12,302)=2 \Rightarrow$
+
+$\Rightarrow 12x \equiv 7 \pmod{302}$ nincs megoldás

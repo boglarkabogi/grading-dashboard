@@ -1,0 +1,5 @@
+Oldja meg az alábbi lineáris kongruenciákat:
+
+\[
+13x \equiv 19 \mod 414 \quad \text{és} \quad 20x \equiv 6 \mod 412
+\]

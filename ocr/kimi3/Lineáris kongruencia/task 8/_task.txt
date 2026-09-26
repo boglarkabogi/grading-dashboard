@@ -1,0 +1,7 @@
+Oldja meg az alábbi lineáris kongruenciákat:
+
+\[
+7x \equiv 12 \pmod{313}
+\quad \text{és} \quad
+20x \equiv 5 \pmod{454}
+\]

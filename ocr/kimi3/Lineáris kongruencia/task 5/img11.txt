@@ -1,0 +1,40 @@
+a) $13x \equiv 13 \mod 409$  
+$\Updownarrow$  
+$13x \equiv 409k+13$  
+$\Updownarrow$  
+$13x-409k=13$
+
+$409=31\cdot 13+6$  
+$13=2\cdot 6+\boxed{1}$  
+$6=6\cdot 1$
+
+| $i$ | $r_i$ | $q_i$ | $x_i$ | $y_i$ |
+|---|---|---|---|---|
+| 0 | - | - | 1 | 0 |
+| 1 | 13 | 31 | 0 | 1 |
+| 2 | 6 | 2 | 1 | 31 |
+| 3 | 1 | 6 | 2 | 63 |
+
+$13\cdot 63-409\cdot 2=1$
+
+$\boxed{x\equiv 1 \mod 409}$
+
+b) $12x\equiv 7 \mod 302$  
+$\Updownarrow$  
+$12x\equiv 302k+7$  
+$\Updownarrow$  
+$12x-302k=7$
+
+$302=25\cdot 12+\boxed{2}$  
+$12=6\cdot 2$
+
+| $i$ | $r_i$ | $q_i$ | $x_i$ | $y_i$ |
+|---|---|---|---|---|
+| 0 | - | - | 1 | 0 |
+| 1 | 12 | 25 | 0 | 1 |
+| 2 | 2 | 6 | 1 | 25 |
+
+$12\cdot 25-302\cdot 1=-2$ $\quad \cdot(-1)$  
+$12\cdot(-25)-302\cdot(-1)=2$
+
+$\boxed{2\nmid 7,\ \text{tehát nem megoldható.}}$

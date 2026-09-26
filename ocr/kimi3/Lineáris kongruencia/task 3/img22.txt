@@ -1,0 +1,32 @@
+$11 x \equiv 2 \bmod 238$
+
+11 relatív prím 238-hoz, megoldható
+
+\[
+11 x+238 y=2
+\]
+
+| $i$ | $r_{n}$ | $q_{n}$ | $x_{i}$ |
+|---|---|---|---|
+| -1 | 11 | - | 1 |
+| 0 | 238 | - | 0 |
+| 1 | 11 | 0 | 1 |
+| 2 | 7 | 21 | -20 |
+| 3 | 4 | 1 | 21 |
+| 5 | 3 | 1 | -41 |
+| 6 | 1 | 1 | 62 |
+| 7 | 0 | 3 | - |
+
+\[
+11(62) \equiv 2 \bmod 238
+\]
+
+---
+
+$16 x \equiv 15 \bmod 490$
+
+$\operatorname{lko}(16,490)=2$
+
+de 15 nem páros
+és a 2 páros b-re lenne
+jó vagyis **Nem megoldható**

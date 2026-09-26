@@ -1,0 +1,5 @@
+Oldja meg az alábbi lineáris kongruenciákat:
+
+\[
+12x \equiv 8 \pmod{259} \quad \text{és} \quad 16x \equiv 13 \pmod{314}
+\]

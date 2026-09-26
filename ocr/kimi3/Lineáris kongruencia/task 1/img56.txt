@@ -1,0 +1,80 @@
+\[
+\frac{394\cdot 19}{6}
+\]
+
+\[
+x=394
+\qquad
+19x\equiv 16 \mod 470
+\]
+
+\[
+7486\equiv 16 \mod 470
+\]
+
+\[
+x=1
+\]
+
+\[
+x^{-1}=99
+\qquad
+\frac{b}{(a,n)}
+\]
+
+\[
+x_i=\frac{16}{1}\cdot 99=1584
+\]
+
+\[
+x\equiv 1584\equiv 174 \mod 470
+\]
+
+\[
+x\equiv 174 \mod 470
+\]
+
+\[
+\overset{a}{16}x\equiv 5 \mod \overset{n}{202}
+\]
+
+\[
+(a,n)=2 \rightarrow 2\mid
+\]
+
+\[
+16=202\cdot 0+16
+\]
+
+\[
+202=16\cdot 12+10
+\qquad
+16=202\cdot 0+16\cdot 1
+\]
+
+\[
+16=10\cdot 1+6
+\qquad
+202=202\cdot 1+16\cdot 0
+\]
+
+\[
+10=6\cdot 1+4
+\]
+
+\[
+6=4\cdot 1+\boxed{2}
+\]
+
+\[
+4=2\cdot 2+0
+\qquad
+2\mid
+\]
+
+\[
+(a,n)=2
+\qquad
+2\nmid 5
+\quad\text{nincs megoldás}
+\]

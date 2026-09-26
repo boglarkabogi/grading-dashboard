@@ -1,0 +1,24 @@
+$19x \equiv 16 \mod 470$
+
+~~$470 = 29 \cdot 16 + $~~  
+$470 = 24 \cdot 19 + 14$  
+$19 = 1 \cdot 14 + 5$  
+$14 = 2 \cdot 5 + 4$  
+$5 = 1 \cdot 4 + \boxed{1}$ $\Rightarrow$ van megoldása  
+$4 = 4 \cdot 1 + 0$
+
+~~$5 - 4 \cdot 1 = 1$~~  
+~~$5 - (14 - 2 \cdot 5) = 1$~~  
+~~$1 = 5 - 4 \cdot 1 = 5 - (14 - 2 \cdot 5) =$~~  
+~~$= 5 - (14 - (19 - 1 \cdot 14)) =$~~  
+~~$= 5 - (14 - 19 - (470 - 24 \cdot 19)) =$~~
+
+---
+
+$16x \equiv 5 \mod 202$
+
+$202 = 12 \cdot 16 + 10$  
+$16 = 1 \cdot 10 + 6$  
+$10 = 1 \cdot 6 + 4$  
+$6 = 1 \cdot 4 + \boxed{2} \neq 1 \Rightarrow$ nincs megoldása  
+$4 = 2 \cdot 2 + 0$

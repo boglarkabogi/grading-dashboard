@@ -1,0 +1,55 @@
+Bendandó l.
+
+a; $13x \equiv 19 \mod 414$
+
+$\cancel{13x = 414k + 19} \Rightarrow [13x + 414(y) = 19]$
+
+(I.)  
+1. $13 = 0 \cdot 414 + 13$  
+2. $414 = 31 \cdot 13 + 11$  
+3. $13 = 1 \cdot 11 + 2$  
+4. $11 = 5 \cdot 2 + \boxed{1}$  
+$2 = 2 \cdot 1$
+
+$lnko(13,414)=1$ ✓
+
+(II.)
+
+| $i$ | $r_i$ | $q_i$ | $x_i$ | $y_i$ |
+|---|---|---|---|---|
+| -1 | 13 | – | 1 | 0 |
+| 0 | 414 | – | 0 | 1 |
+| 1 | 13 | 0 | 1 | 0 |
+| 2 | 11 | 31 | -31 | 1 |
+| 3 | 2 | 1 | 32 | -1 |
+| 4 | 1 | 5 | [-191 | 6] |
+
+( $y$-val nem lett volna … )
+
+(III.)  
+$\cancel{13\cdot(-191)+414\cdot 6 = 1}$  
+$\cancel{13\cdot(-3629)+414\cdot(114)\ne 19}$
+
+$13\cdot(-191)\equiv 1 \mod 414 \quad /\cdot 19$
+
+$\cancel{13\cdot(-191)}$
+
+$x\equiv$
+
+$13\cdot(-3629)\equiv 19 \mod 414$
+
+$\boxed{x\equiv -3629 \mod 414}$
+
+b; $20x \equiv 6 \mod 412$
+
+$20x+412L=6$
+
+$lnko(20,412)=4$
+
+$4\nmid 6 \Rightarrow$ nincs megoldás
+
+(I.) $20 = 0\cdot 412+20$  
+$412 = 20\cdot 20+12$  
+$20 = 1\cdot 12+8$  
+$12 = 1\cdot 8+\boxed{4}$  
+$8 = 2\cdot 4$

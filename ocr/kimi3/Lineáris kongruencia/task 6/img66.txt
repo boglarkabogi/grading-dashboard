@@ -1,0 +1,37 @@
+\[
+7x \equiv 14 \mod 343 \quad /:7
+\]
+
+\[
+x \equiv 2 \mod 49
+\]
+
+\[
+16x \equiv 5 \mod 346
+\]
+
+\[
+346 = 16 \cdot 21 + 10
+\]
+
+\[
+16 = 1 \cdot 10 + 6 \qquad \gcd(16,346)=2
+\]
+
+\[
+10 = 1 \cdot 6 + 4
+\]
+
+\[
+6 = 1 \cdot 4 + 2
+\]
+
+\[
+4 = 2 \cdot 2
+\]
+
+nincs megoldás — páros
+
+bal oldal mindig páros
+
+jobb oldal mindig páratlan

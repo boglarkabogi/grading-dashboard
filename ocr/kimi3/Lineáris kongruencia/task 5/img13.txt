@@ -1,0 +1,19 @@
+a)  
+$13$ prim  
+$13 \nmid 409 \Rightarrow (13,409)=1 \Rightarrow$ megoldható  
+
+$13x \equiv 13 \mod 409$  
+
+osztunk $13$-al  
+
+$x \equiv 1 \mod 409$  
+
+$x = 409k+1 \qquad k \in \mathbb{Z}$  
+
+b)  
+
+$12x \equiv 7 \mod 302$  
+
+mivel a $7$ páratlan és $12$ és $302$ is páros,  
+
+ezért a $(12,302) \mid 7$ nem teljesül fenn, ezért nem megoldható.

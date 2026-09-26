@@ -1,0 +1,40 @@
+\[7x \equiv 12 \mod 313\]
+
+\begin{align*}
+313 &= 44 \cdot 7 + 5\\
+7 &= 1 \cdot 5 + 2\\
+5 &= 2 \cdot 2 + \boxed{1}\\
+2 &= 2 \cdot 1
+\end{align*}
+
+\[
+\begin{array}{c|c|c|c|c}
+i & r_i & q_i & y_i & x_i\\
+\hline
+0 & - & - & 1 & 0\\
+1 & 7 & 44 & 0 & 1\\
+2 & 5 & 1 & 1 & 44\\
+3 & 2 & 2 & 1 & 45\\
+4 & 1 & 2 & 3 & 134
+\end{array}
+\]
+
+\begin{align*}
+1 &= 3 \cdot 313 + (-134)\cdot 7\\
+1 &\equiv (-134)\cdot 7 \mod 313\\
+1 &\equiv 179 \cdot 7 \mod 313\\
+12 &\equiv 2148 \cdot 7 \mod 313\\
+12 &\equiv 270 \cdot 7 \mod 313\\
+x &\equiv 270 \mod 313
+\end{align*}
+
+\[20x \equiv 5 \mod 454\]
+
+\begin{align*}
+454 &= 22 \cdot 20 + 14\\
+20 &= 1 \cdot 14 + 6\\
+14 &= 2 \cdot 6 + \boxed{2}\\
+6 &= 3 \cdot 2
+\end{align*}
+
+2 nem osztója 5-nek $\Rightarrow$ $\Rightarrow$ nem megoldható

@@ -1,0 +1,51 @@
+\[
+7x \equiv 14 \mod 343
+\]
+
+\[
+\gcd(343,7)=7
+\]
+
+\[
+343=49\cdot \boxed{7}+0
+\]
+
+\[
+7\mid 14 \Rightarrow \exists \text{ megoldás}
+\]
+
+\[
+7x\equiv 14 \mod 343 \xleftrightarrow{/:7} x\equiv 2 \mod 49 \Rightarrow \boxed{x=2+49\lambda}
+\]
+
+\[
+16x\equiv 5 \mod 346
+\]
+
+\[
+\gcd(346,16)=2
+\]
+
+\[
+346=21\cdot 16+10
+\]
+
+\[
+16=1\cdot 10+6
+\]
+
+\[
+10=1\cdot 6+4
+\]
+
+\[
+6=1\cdot 4+\boxed{2}
+\]
+
+\[
+4=2\cdot 2+0
+\]
+
+\[
+2\nmid 5 \Rightarrow \underline{\text{nincs megoldás}}
+\]

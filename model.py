@@ -176,7 +176,7 @@ def ask_model(image_path: Path, prompt: str) -> str:
 
     payload = {
         "model": MODEL["name"],
-        "temperature": 0,
+        "temperature": 1,
         "max_tokens": 4096,
         "stream": False,
         "messages": [
@@ -202,41 +202,74 @@ def ask_model(image_path: Path, prompt: str) -> str:
         ],
     }
 
-    # Kiminek nem kell erős reasoning az OCR-hez
     if model_choice == "kimi":
         payload["reasoning_effort"] = "low"
 
     for attempt in range(6):
 
-        response = requests.post(
-            MODEL["url"],
-            headers={
-                "Authorization": f"Bearer {MODEL['key']}",
-                "Content-Type": "application/json",
-            },
-            json=payload,
-            timeout=180,
-        )
-
-        if response.status_code != 429:
-            response.raise_for_status()
-
-            return (
-                response.json()["choices"][0]["message"]["content"]
-                .strip()
+        try:
+            response = requests.post(
+                MODEL["url"],
+                headers={
+                    "Authorization": f"Bearer {MODEL['key']}",
+                    "Content-Type": "application/json",
+                },
+                json=payload,
+                timeout=180,
             )
 
-        wait = min(10 * (2 ** attempt), 120)
+        except requests.exceptions.ReadTimeout:
+            wait = min(10 * (2 ** attempt), 60)
 
-        print(
-            f"    Rate limit. "
-            f"Várakozás {wait} másodperc..."
-        )
+            print(
+                f"      Timeout. Újrapróbálás "
+                f"{wait} másodperc múlva..."
+            )
 
-        time.sleep(wait)
+            time.sleep(wait)
+            continue
+
+        # Rate limit
+        if response.status_code == 429:
+            wait = min(10 * (2 ** attempt), 120)
+
+            print(
+                f"      Rate limit. Újrapróbálás "
+                f"{wait} másodperc múlva..."
+            )
+
+            time.sleep(wait)
+            continue
+
+        response.raise_for_status()
+
+        data = response.json()
+
+        choice = data["choices"][0]
+        message = choice["message"]
+
+        content = message.get("content")
+        finish_reason = choice.get("finish_reason")
+
+        if content:
+            return content.strip()
+
+        # Ha kifutott a tokenlimitből
+        if finish_reason == "length":
+            print(
+                f"      Tokenlimit elfogyott "
+                f"(próba {attempt + 1}/6). Újrapróbálás..."
+            )
+        else:
+            print(
+                f"      A modell üres választ adott "
+                f"(próba {attempt + 1}/6). Újrapróbálás..."
+            )
+
+        time.sleep(5)
 
     raise RuntimeError(
-        "A modell 6 próbálkozás után sem válaszolt."
+        "A modell 6 próbálkozás után sem adott szöveges választ."
     )
 
 
@@ -395,6 +428,24 @@ def ocr_main():
         ],
         key=task_number,
     )
+
+    print("\nMelyik tasktól kezdjen?")
+    start_task_input = input(
+        'Írd be a task számát, vagy Enter az elejétől: '
+    ).strip()
+
+    if start_task_input:
+        try:
+            start_task_number = int(start_task_input)
+
+            task_dirs = [
+                task_dir
+                for task_dir in task_dirs
+                if task_number(task_dir) >= start_task_number
+            ]
+
+        except ValueError:
+            print("Érvénytelen szám, indulás az elejétől.")
 
     print(
         f"{len(task_dirs)} task található."

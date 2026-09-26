@@ -1,0 +1,5 @@
+Oldja meg az alábbi lineáris kongruenciákat:
+
+\[
+11x \equiv 2 \mod 238 \quad \text{és} \quad 16x \equiv 15 \mod 490
+\]

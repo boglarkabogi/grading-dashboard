@@ -1,0 +1,75 @@
+a)
+\[12x \equiv 8 \mod 259\]
+
+\[12x - 259k = 48\]
+
+\[259 = 21 \cdot 12 + 7\]
+
+\[12 = 1 \cdot 7 + 5\]
+
+\[7 = 1 \cdot 5 + 2\]
+
+\[5 = 2 \cdot 2 + 1\]
+
+\[2 = 2 \cdot 1 + 0\]
+
+\[
+\begin{array}{c|c|c|c}
+i & q_i & x_i & y_i\\ \hline
+0 & - & 1 & 0\\
+1 & 21 & 0 & 1\\
+2 & 1 & 1 & 21\\
+3 & 1 & 1 & 22\\
+4 & 12 & 2 & 43\\
+5 & 22 & 65 & 108
+\end{array}
+\]
+
+\[(-5)\cdot 259 + 108\cdot 12 \equiv 1 \mod 259\]
+
+\[\mod 259 = 0\]
+
+\[1 \equiv 108\cdot 12 \mod 259\]
+
+\[1 \equiv 12\cdot 108 \mod 259\]
+
+\[8 \equiv 12\cdot 864 \mod 259\]
+
+\[x \equiv 864 \mod 259 = 87\]
+
+\[x = 87\]
+
+b)
+\[16x \equiv 13 \mod 314\]
+
+\[16x - 314k \equiv 13\]
+
+\[314 = 19\cdot 16 + 10\]
+
+\[16 = 1\cdot 10 + 6\]
+
+\[10 = 1\cdot 6 + 4\]
+
+\[6 = 1\cdot 4 + 2\]
+
+\[ = 2\cdot 2 + 0\]
+
+\[
+\begin{array}{c|c|c|c}
+i & q_i & x_i & y_i\\ \hline
+0 & - & 1 & 0\\
+1 & 19 & 0 & 1\\
+2 & 1 & 1 & 19\\
+3 & 1 & 1 & 20\\
+4 & 1 & 2 & 39\\
+5 & 2 & 3 & 59
+\end{array}
+\]
+
+\[-3\cdot 314 + 59\cdot 16 \equiv 2 \mod 314\]
+
+\[2 \equiv 5 \cdot 16 \cdot 59 \mod 314\]
+
+\* elnézést, lehet jón is volt, Régi Dávid  
+gondoltam, ez nem fog kijönni, mert $13$-ra lenne felszorozva a bal old...  
+volt előadáson, hogy $\gcd(16,314)$-nek osztania kell a $13$-at \*

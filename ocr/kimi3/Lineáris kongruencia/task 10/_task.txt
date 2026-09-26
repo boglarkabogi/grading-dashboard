@@ -1,0 +1,5 @@
+Oldja meg az alábbi lineáris kongruenciákat:
+
+\[
+7x \equiv 8 \mod 340 \quad \text{és} \quad 16x \equiv 15 \mod 330
+\]

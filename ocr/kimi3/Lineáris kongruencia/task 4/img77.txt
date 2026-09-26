@@ -1,0 +1,31 @@
+$17x \equiv 17 \mod 375 \quad /:17$
+
+$\gcd(17,375)=1$
+
+$\underline{x \equiv 1 \mod 375}$
+
+$19x \equiv 9 \mod 358$
+
+19 inverze $\mod 358$:
+
+$358=18\cdot19+16$
+
+$19=1\cdot16+3$
+
+$16=5\cdot3+1$
+
+$1=16-5\cdot3$
+
+$1=16-5\cdot(19-16)$
+
+$1=6\cdot16-5\cdot19$
+
+$1=6(358-18\cdot19)-5\cdot19=6\cdot358-\underline{113}\cdot19$
+
+$-113\cdot19 \equiv 1 \mod 358$
+
+$19^{-1}\equiv 245 \equiv -113 \pmod{358}$
+
+$x\equiv 9\cdot245 \mod 358$
+
+$\underline{x\equiv 57 \mod 358}$

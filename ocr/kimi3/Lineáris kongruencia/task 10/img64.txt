@@ -1,0 +1,43 @@
+a) $7x \equiv 8 \mod 340 \quad (7,340)=1 \quad 1 \mid 8 \checkmark$
+
+\[
+\begin{array}{c|c|c|c}
+i & r_n & q_n & x_i \\ \hline
+-1 & 7 & - & 1 \\ \hline
+0 & 340 & - & 0 \\ \hline
+1 & 7 & 0 & 1 \\ \hline
+2 & 4 & 48 & -48 \\ \hline
+3 & 3 & 1 & 49 \\ \hline
+4 & 1 & 1 & -97 \\ \hline
+5 & 0 & 3 &
+\end{array}
+\]
+
+$x \equiv \overbrace{8 \cdot (-97)}^{-776} \equiv 244 \mod 340$
+
+$(340 \cdot 3)$
+$1020 - 776 = 244$
+
+$x = 244 + 340k \quad k \in \mathbb{Z}$
+
+b)
+
+$16x \equiv 15 \mod 330 \quad (16,330)=2$
+
+\[
+\begin{array}{c|c|c|c}
+i & r_n & q_n & x_i \\ \hline
+-1 & 16 & - & 1 \\ \hline
+0 & 330 & - & 0 \\ \hline
+1 & 16 & 0 & 1 \\ \hline
+2 & 10 & 20 & -20 \\ \hline
+4 & 6 & 1 & 21 \\ \hline
+5 & 4 & 1 & -41 \\ \hline
+6 & 2 & 1 & 62 \\ \hline
+7 & 0 & 2 &
+\end{array}
+\]
+
+$\bcancel{2 \mid 15}$
+
+$\Rightarrow \quad 2 \nmid 15$, ezért a kongruenciára nincs megoldás

@@ -1,0 +1,85 @@
+\[
+12x+259y=8
+\]
+
+\[
+\begin{aligned}
+259&=21\cdot 12+7\\
+12&=1\cdot 7+5\\
+7&=1\cdot 5+2\\
+5&=2\cdot 2+1\\
+2&=2\cdot 1+0
+\end{aligned}
+\qquad \text{lnko}=1
+\]
+
+\[
+\begin{array}{c|c|rr}
+ & & x & y\\ \hline
+-1&259&-&0\quad 1\\
+0&12&-&1\quad 0\\
+1&7&21&-21\quad 1\\
+2&5&1&22\quad -1\\
+3&2&1&-43\quad 2\\
+4&1&2&108\quad -5
+\end{array}
+\]
+
+\[
+x_0=108\cdot \frac81=864
+\]
+
+\[
+y_0=-5\cdot \frac81=-40
+\]
+
+\[
+x_t=864+t\cdot \frac{259}{1}
+\]
+
+\[
+y_t=-40+t\cdot \frac{12}{1}
+\]
+
+\[
+16x\equiv 13 \mod 314
+\]
+
+\[
+16x+314y=13
+\]
+
+\[
+\begin{aligned}
+314&=19\cdot 16+10\\
+16&=1\cdot 10+6\\
+10&=1\cdot 6+4\\
+6&=1\cdot 4+2\\
+4&=2\cdot 2+0
+\end{aligned}
+\qquad \text{lnko}=2
+\]
+
+\[
+\begin{array}{c|c|rr}
+ & d& x& y\\ \hline
+&314&-&0\quad 1\\
+&16&-&1\quad 0\\
+&10&19&-19\quad 1\\
+&6&1&20\quad -1\\
+&4&1&-39\quad 2\\
+&2&1&59\quad -3
+\end{array}
+\]
+
+\[
+x_0=59\cdot \frac{13}{2}
+\qquad
+x_t=\left(59\cdot \frac{13}{2}\right)+t\cdot \frac{314}{2}
+\]
+
+\[
+y_0=-3\cdot \frac{13}{2}
+\qquad
+y_t=\left(-3\cdot \frac{13}{2}\right)+t\cdot \frac{16}{2}
+\]

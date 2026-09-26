@@ -1,0 +1,104 @@
+Oldja meg az alábbi lineáris kongruenciákat:
+
+a)
+\[
+7x \equiv 12 \mod 313
+\]
+
+\[
+\Rightarrow \quad 7x+313y=12
+\]
+
+\[
+\operatorname{lnko}(7,313)=1 \quad \Rightarrow \quad 1 \mid 12 \ \checkmark \ \text{ van megoldás}
+\]
+
+\[
+313=7\cdot 44+5
+\]
+\[
+7=5\cdot 1+2
+\]
+\[
+5=2\cdot 2+\boxed{1}
+\]
+\[
+2=1\cdot 2+0
+\]
+
+\[
+\frac{44\cdot 7}{303}
+\]
+
+\[
+\begin{array}{c|c|c|c}
+r & q & x & y\\ \hline
+313 & & 1 & 0\\
+7 & & 0 & 1\\
+5 & 44 & 1 & -44\\
+2 & 1 & -1 & 45\\
+1 & 2 & 3 & -134\\
+0 & 2 & &
+\end{array}
+\]
+
+\[
+\Rightarrow \quad 7\cdot(-134)+313\cdot 3=1
+\]
+
+\[
+\Rightarrow \quad 7\cdot(-134)\equiv 1 \pmod{313}\ /\cdot 12
+\]
+
+\[
+7\cdot(-1608)\equiv 12 \pmod{313}
+\]
+
+\[
+\begin{array}{r}
+-134\cdot 12\\
+268\\
+134\\ \hline
+-1608
+\end{array}
+\]
+
+\[
+-1608=-1608+313\cdot 6=
+\]
+\[
+=-1608+1878
+\]
+\[
+\equiv 270 \pmod{313}
+\]
+
+\[
+\Rightarrow \quad x=270 \pmod{313}
+\]
+
+b)
+\[
+20x\equiv 5 \pmod{454}
+\]
+
+\[
+\Rightarrow \quad 20x+454y=5
+\]
+
+\[
+\operatorname{lnko}(20,454)=2 \quad \Rightarrow \quad 2\nmid 5 \ \Rightarrow \ \text{nincs megoldás}
+\]
+
+\[
+454=20\cdot 22+14
+\]
+\[
+20=14\cdot 1+6
+\]
+\[
+14=6\cdot 2+\boxed{2}
+\]
+\[
+6=2\cdot 3+0
+\]

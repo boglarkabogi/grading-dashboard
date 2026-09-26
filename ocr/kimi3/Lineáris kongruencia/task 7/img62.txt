@@ -1,0 +1,25 @@
+$13 \equiv 19 \bmod 414$
+
+$(13,414)=1$
+
+$13x \equiv 19 \bmod 414$
+
+$414=13\cdot 31+11$
+
+$13=11\cdot 1+2$
+
+$11=2\cdot 5+1$
+
+$2=1\cdot 2+0$
+
+$1=414\cdot 6-13\cdot 191$
+
+$x\equiv$
+
+$13\cdot(-191)\equiv 1 \bmod 414$
+
+$x\equiv 97 \bmod 414$
+
+$20x\equiv 6 \bmod 412$
+
+$(20,412)\rightarrow 4$ solution, ha $6$ is osztható lenne $4$-el

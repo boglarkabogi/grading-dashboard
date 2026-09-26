@@ -1,0 +1,64 @@
+\[
+13x+409y=13
+\]
+
+\[
+\begin{aligned}
+13&=0\cdot409+13\\
+409&=31\cdot13+6\\
+13&=2\cdot6+1\\
+6&=6\cdot1
+\end{aligned}
+\]
+
+\[
+\begin{array}{c|c|c|c}
+ & q_i & x_i & y_i\\
+\hline
+13 & - & 1 & 0\\
+409 & - & 0 & 1\\
+13 & 0 & 1 & 0\\
+6 & 31 & -31 & 1\\
+1 & 1 & 32 & -1
+\end{array}
+\quad
+\begin{aligned}
+0-31&=-31\\
+1-1\cdot(-31)&=32\\
+0-1\cdot1&=-1
+\end{aligned}
+\]
+
+\[
+x' \quad y'
+\]
+
+\[
+c'=13 \qquad d=1
+\]
+
+\[
+x_0=32\cdot13
+\]
+
+\[
+y_0=(-1)\cdot13
+\]
+
+\[
+x_t=(32\cdot13)+13t
+\]
+
+\[
+y_t=-13+t409
+\]
+
+\[
+12x+302y=7
+\]
+
+\[
+(12,302)=2 \qquad 2\nmid7
+\]
+
+Nincs megoldás.

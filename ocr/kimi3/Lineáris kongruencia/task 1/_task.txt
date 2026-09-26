@@ -1,0 +1,3 @@
+Oldja meg az alábbi lineáris kongruenciákat:
+
+$19x \equiv 16 \mod 470$ és $16x \equiv 5 \mod 202$
