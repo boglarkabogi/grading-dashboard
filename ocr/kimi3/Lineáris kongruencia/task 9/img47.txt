@@ -1,0 +1,53 @@
+$19x \equiv 14 \mod 297$
+
+$(19,297)=1 \Rightarrow \text{van mo.}$
+
+$297 = 19 \cdot 15 + 12$
+
+$19 = 12 \cdot 1 + 7$
+
+$12 = 7 \cdot 1 + 5$
+
+$7 = 5 \cdot 1 + 2$
+
+$5 = 2 \cdot 2 + 1$
+
+$2 = 1 \cdot 2 + 0$
+
+$1 = 5 - 2 \cdot 2 \qquad 5 = 12 - 7 \qquad 12 = 297 - 19 \cdot 15$
+
+$2 = 7 - 5 \cdot 1 \qquad 7 = 19 - 12$
+
+$1 = 5 - (7-5) \cdot 2 = 5 - 2 \cdot 7 + 2 \cdot 5 = 3 \cdot 5 - 2 \cdot 7$
+
+$1 = 3 \cdot (12-7) - 2 \cdot 7 = 3 \cdot 12 - 3 \cdot 7 - 2 \cdot 7 = 3 \cdot 12 - 5 \cdot 7$
+
+$1 = 3 \cdot 12 - 5 \cdot (19-12) = 3 \cdot 12 - 5 \cdot 19 + 5 \cdot 12 = 8 \cdot 12 - 5 \cdot 19$
+
+$1 = 8 \cdot (297 - 19 \cdot 15) - 5 \cdot 19 = 8 \cdot 297 - 8 \cdot 19 \cdot 15 - 5 \cdot 19$
+
+$1 = 8 \cdot 297 - (8 \cdot 15 + 5) \cdot 19 = 8 \cdot 297 - 125 \cdot 19$
+
+$1 = 8 \cdot 297 - 125 \cdot 19$
+
+$19 \text{ inverze} \equiv -125 \equiv 172 \mod 297$
+
+$x \equiv 14 \cdot 172 \mod 297$
+
+$14 \cdot 172 = 2408$
+
+$297 \cdot 8 = 2376$
+
+$x \equiv 32 \mod 297$
+
+$18x \equiv 17 \mod 482$
+
+$(18,482) = 2 \Rightarrow \text{nincs mo.}$
+
+$482 = 18 \cdot 26 + 14$
+
+$18 = 14 \cdot 1 + 4$
+
+$14 = 4 \cdot 3 + 2$
+
+$4 = 2 \cdot 2 + 0$

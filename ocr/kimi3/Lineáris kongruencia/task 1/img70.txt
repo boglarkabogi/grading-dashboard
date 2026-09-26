@@ -1,0 +1,27 @@
+Dimit beadandó
+
+$19x \equiv 16 \mod 470$
+
+$(19,470)=1$
+
+$470=24\cdot19+14$
+
+$19=1\cdot14+5$
+
+$14=2\cdot5+4$
+
+$5=1\cdot4+1$
+
+$4=4\cdot1+0$
+
+$3\cdot(19-14)\cdot14=3\cdot19-4\cdot14=3\cdot19-4(470-24\cdot19)=99\cdot19-4\cdot$
+
+$x=99\times16$
+
+$1584\mod470$ $1584-3\cdot470=174$
+
+$x\equiv174\mod470$
+
+$(16,202)=2$
+
+Nincs megoldás, mert 5 nem osztható 2-vel

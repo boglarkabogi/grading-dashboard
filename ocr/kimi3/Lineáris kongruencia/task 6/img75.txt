@@ -1,0 +1,67 @@
+Beadandó
+
+1.  
+\[
+7x \equiv 14 \mod 343
+\]
+
+\[
+343=7\cdot 49
+\]
+\[
+\downarrow
+\]
+\[
+(7,343)=7
+\]
+
+\[
+7x \equiv 7\cdot 2 \mod 343
+\]
+
+\[
+x \equiv 2 \mod \frac{343}{(7,343)}
+\]
+
+\[
+x \equiv 2 \mod 49
+\]
+
+\[
+\boxed{x=49k+2}
+\]
+
+---
+
+2.  
+\[
+16x \equiv 5 \qquad 346
+\]
+
+\[
+(16,346)\nmid 5 \Rightarrow \text{nincs megoldás}
+\]
+
+2 biztosan közös osztó, így lnko is páros
+
+\[
+16x+346y=5
+\]
+
+\[
+346=21\cdot 16+10
+\]
+
+\[
+\begin{array}{c|c|c|c}
+j & r_i & q_i & x_i\\
+\hline
+-1 & 346 & - & 0\\
+0 & 16 & - & 1\\
+1 & 10 & 21 & -21\\
+2 & 6 & 1 & 22 \quad X\\
+3 & 4 & 1 & -43\\
+4 & 2 & 1 & 65\\
+5 & 0 & 2 &
+\end{array}
+\]

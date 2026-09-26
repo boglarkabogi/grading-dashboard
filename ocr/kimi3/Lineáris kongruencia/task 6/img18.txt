@@ -1,0 +1,55 @@
+\[
+7x \equiv 14 \mod 343
+\]
+
+\[
+\begin{array}{c|c|cc}
+-1 & 343 & 0 & 1\\
+0 & 7 & 1 & 0\\
+1 & 0 & 49 &
+\end{array}
+\]
+
+\[
+(7,343)=7
+\]
+
+\[
+7 \mid 14
+\]
+
+\[
+x_i=\frac{14}{7}\cdot 1+k\cdot \frac{343}{7}
+\qquad k\in\mathbb Z
+\]
+
+\[
+=2+49k
+\qquad k\in\mathbb Z
+\]
+
+\[
+16x \equiv 5 \mod 346
+\]
+
+\[
+\begin{array}{c|c|cc}
+-1 & 346 & - & 0\\
+0 & 16 & - & 1\\
+1 & 10 & 21 & -21\\
+2 & 6 & 1 & 22\\
+3 & 4 & 1 & -43\\
+4 & 2 & 1 & 65\\
+5 & 0 & 2 &
+\end{array}
+\]
+
+\[
+(16,346)=2
+\]
+
+\[
+2 \nmid 5
+\]
+
+nincs \(x\) ami megoldja

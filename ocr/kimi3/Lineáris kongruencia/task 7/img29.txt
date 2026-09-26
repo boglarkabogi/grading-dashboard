@@ -1,0 +1,56 @@
+$13x \equiv 19 \mod 414 \Rightarrow 13x+414y=19$
+
+\[
+\begin{array}{c|c|c}
+13 & 1 & 0\\
+414 & 0 & 1\\
+\hline
+13 & 1 & 0\\
+414=31\cdot 13+11 & -31 & 1\\
+13-\cdot 11=2 & 32 & -1\\
+11-5\cdot 2=1 & -191 & 6
+\end{array}
+\]
+
+$13(-191)+414(6)=1$
+
+$13(-191)\equiv 1 \qquad (414)$
+
+$13(-3629)\equiv 19 \qquad (414)$
+
+$13(511)\equiv 19 \qquad (414)$
+
+$13(97)\equiv 19 \qquad (414)$
+
+\[
+\boxed{x=97}
+\]
+
+---
+
+$20x\equiv 6 \mod 412$
+
+$10x\equiv 3 \mod 206 \Rightarrow 10x+206y=3$
+
+\[
+\begin{array}{c|c|c}
+10 & 1 & 0\\
+206 & 0 & 1\\
+\hline
+10 & 1 & 0\\
+206=20\cdot 10=6 & -20 & 1\\
+10-1\cdot 6=4 & 21 & -1\\
+6-1\cdot 4=2 & -41 & 2\\
+4-2\cdot 2=0 & 103 & -5
+\end{array}
+\]
+
+~~$10(41)+206\cdot 2=$~~  
+~~$10(-40)\equiv 1 \qquad (206)$~~  
+~~$10(-12)\equiv 3 \qquad (206)$~~  
+
+$10\cdot 83\equiv 3$
+
+$x=83$
+
+*nincs ilyen $x$*

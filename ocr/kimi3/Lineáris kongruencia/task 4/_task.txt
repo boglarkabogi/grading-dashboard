@@ -1,0 +1,5 @@
+Oldja meg az alábbi lineáris kongruenciákat:
+
+\[
+17x \equiv 17 \mod 375 \quad \text{és} \quad 19x \equiv 9 \mod 358
+\]

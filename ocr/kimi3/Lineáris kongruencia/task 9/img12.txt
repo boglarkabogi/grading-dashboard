@@ -1,0 +1,14 @@
+Dimat IV. bead
+
+① $19x \equiv 14 \mod 247$  
+$(19,247)=19$ \qquad $19 \nmid 14$ \qquad tehát nincs megoldása  
+
+$247=13\cdot 19+0$
+
+② $18x \equiv 17 \mod 482$  
+$(18,482)=2$ \qquad $2 \nmid 17$ \qquad tehát ennek sincs megoldása.  
+
+$482=26\cdot 18+14$  
+$18=1\cdot 14+4$  
+$14=3\cdot 4+\textcircled{2}$  
+$4=2\cdot 2+0$

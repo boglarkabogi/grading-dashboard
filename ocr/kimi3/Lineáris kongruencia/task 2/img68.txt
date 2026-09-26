@@ -1,0 +1,55 @@
+IV. beadandó feladat
+
+$$12x \equiv 8 \mod 259$$
+
+$$\lnko(12, 259) = 1$$
+
+$$12x + 259y = 8$$
+
+$$12x' + 259y' = 1$$
+
+$$259 = 21 \cdot 12 + 7$$
+
+$$12 = 1 \cdot 7 + 5$$
+
+$$7 = 1 \cdot 5 + 2$$
+
+$$5 = 2 \cdot 2 + 1$$
+
+$$2 = 2 \cdot 1 + 0$$
+
+$$1 = 5 - 2 \cdot 2$$
+
+$$1 = 5 - 2 \cdot (7 - 1 \cdot 5)$$
+
+$$1 = 3 \cdot 5 - 2 \cdot 7$$
+
+$$1 = 3 \cdot (12 - 1 \cdot 7) - 2 \cdot 7 =$$
+
+$$1 = 3 \cdot 12 - 5 \cdot 7$$
+
+$$1 = 3 \cdot 12 - 5 \cdot (259 - 21 \cdot 12)$$
+
+$$1 = 3 \cdot 12 - 5 \cdot 259 + 105 \cdot 12$$
+
+$$1 = 108 \cdot 12 - 5 \cdot 259$$
+
+$$\Rightarrow \quad 108 \cdot 12 \equiv 1 \mod 259$$
+
+$$\Rightarrow \quad 108 \cdot 12x \equiv 108 \cdot 8 \mod 259$$
+
+$$x \equiv 864 \mod 259$$
+
+$$864 = 259 \cdot 3 + 87$$
+
+$$\Rightarrow \quad 864 \equiv 87 \mod 259$$
+
+$$\boxed{x \equiv 87 \mod 259}$$
+
+$$16x \equiv 13 \mod 314$$
+
+$$\lnko(16, 314) = 2$$
+
+szükséges feltétel, hogy 13 osztható legyen 2-vel
+
+ez nem teljesül $\Rightarrow$ $\boxed{\text{nincs megoldás}}$

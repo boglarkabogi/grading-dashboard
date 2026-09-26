@@ -1,0 +1,26 @@
+\[
+17x \equiv 17 \mod 375 \qquad //17
+\]
+
+\[
+x \equiv 1 \mod 375
+\]
+
+\[
+x = 1+375k,\qquad k\in\mathbb Z
+\]
+
+---
+
+\[
+19x \equiv 9 \mod 358
+\]
+
+① … LNKO vizsgálat
+
+\[
+358 = 19\cdot 18 + 16
+\]
+
+Mivel 19 … a 19 a  
+9-et így nincs megoldás

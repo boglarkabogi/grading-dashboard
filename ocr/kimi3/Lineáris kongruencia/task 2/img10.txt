@@ -1,0 +1,51 @@
+**4. Beadandó**
+
+1.) \(12x \equiv 8 \mod 259\)
+
+\[
+(12,259)=1, \quad \text{mert} \quad 12=2\cdot2\cdot3 \quad \text{és}
+\]
+
+\[
+2\nmid 259 \quad \text{és}
+\]
+
+\[
+3\nmid 259
+\]
+
+tehát a kongruencia megoldható, inkongruens megoldások száma 1.
+
+\[
+12x\equiv 8 \mod 259 \quad /:4
+\]
+
+\[
+\Updownarrow
+\]
+
+\[
+3x\equiv 2 \mod 259
+\]
+
+\[
+3x\equiv 261 \mod 259 \quad /:3
+\]
+
+\[
+x\equiv 87 \mod 259
+\]
+
+\[
+x=87+k\cdot 259 \qquad (k\in\mathbb{Z})
+\]
+
+2.) \(16x\equiv 13 \mod 314\)
+
+\[
+(16,314)=2, \quad \text{mert} \quad 16=2\cdot2\cdot2\cdot2
+\]
+
+és \(\;4\nmid 314\;\)
+
+mivel \(2\nmid 13\), ezért nincs megoldás.

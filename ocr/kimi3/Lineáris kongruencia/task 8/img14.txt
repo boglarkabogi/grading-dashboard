@@ -1,0 +1,100 @@
+2025.10.05.
+
+\[
+7x \equiv 12 \mod 313
+\]
+
+\[
+\begin{array}{ccc}
+7 & 1 & 0\\
+313 & 0 & 1\\
+7 & 1 & 0\\
+44\cdot 7+\boxed{5} & -44 & 1\\
+1\cdot 5+\boxed{2} & 45 & -1\\
+2\cdot 2+\boxed{1} & -134 & 3
+\end{array}
+\]
+
+\[
+313:7=44
+\]
+\[
+33
+\]
+\[
+\boxed{5}
+\]
+
+\[
+7\cdot(-134)+313\cdot(3)=1
+\]
+
+\[
+7\cdot(-134)\equiv 1 \mod 313
+\]
+
+\[
+7\cdot(-134\cdot 12)\equiv 12 \mod 313
+\]
+
+\[
+=-1608
+\]
+
+\[
+\boxed{x=270}
+\]
+
+\[
+(7,313)=1 \Rightarrow 1 \text{ megoldás van.}
+\]
+
+Beadandó 04
+
+\[
+20x\equiv 5 \mod 454
+\]
+
+\[
+4x\equiv 1 \mod \frac{454}{(5,454)}
+\]
+
+\[
+4x\equiv 1 \mod 454
+\]
+
+\[
+\begin{array}{ccc}
+4 & 1 & 0\\
+454 & 0 & 1\\
+4 & 1 & 0\\
+113\cdot 4+\boxed{2} & -113 & 1
+\end{array}
+\]
+
+\[
+454:4=113
+\]
+\[
+05
+\]
+\[
+14
+\]
+\[
+\boxed{2}
+\]
+
+\[
+\lnko(20,454)=2
+\]
+
+\[
+2\nmid 5
+\]
+
+\[
+\Downarrow
+\]
+
+Nincs megoldása

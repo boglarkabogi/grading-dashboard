@@ -1,0 +1,94 @@
+Beadandó
+
+\[
+\left.
+\begin{aligned}
+17x &\equiv 17 \mod 375\\
+19x &\equiv 9 \mod 358
+\end{aligned}
+\right\}
+\]
+
+\[
+17x \equiv 17 \mod 375:
+\]
+
+17 prím és nem osztja 375-t, ezért
+
+\[
+x \equiv 1 \mod 375
+\]
+
+\[
+19x \equiv 9 \mod 358:
+\]
+
+\[
+358 = 18\cdot 19 + 16
+\]
+
+\[
+19 = 1\cdot 16 + 3
+\]
+
+\[
+16 = 5\cdot 3 + 1
+\]
+
+\[
+1 = 16 - 5\cdot 3 = 16 - 5(19 - 1\cdot 16) =
+\]
+
+\[
+= 6\cdot 16 - 5\cdot 19 = 6\cdot(358 - 18\cdot 19) -
+\]
+
+\[
+-5\cdot 19 = 6\cdot 358 - 113\cdot 19
+\]
+
+\[
+19^{-1} \equiv -113 \equiv 245 \mod 358
+\]
+
+\[
+x \equiv 245\cdot 9 = 2205 \equiv 57 \mod 358
+\]
+
+Össz.:
+
+\[
+x \equiv 1 \mod 375
+\]
+
+\[
+x \equiv 57 \mod 358
+\]
+
+\[
+1 \to \text{ legyen } x = 1 + 375t
+\]
+
+\[
+1 + 375t \equiv 57 \mod 358 \Rightarrow 375t \equiv 56 \mod 358
+\]
+
+\[
+(375 \equiv 17 \mod 358) \to 17t \equiv 56 \mod 358
+\]
+
+\[
+1 = 358 - 21\cdot 17
+\]
+
+\[
+17^{-1} \equiv -21 \equiv 337 \mod 358
+\]
+
+\[
+t \equiv 337\cdot 56 = 18872 \equiv 256 \mod 358
+\]
+
+\[
+x = 1 + 375\cdot 256 = 96001
+\]

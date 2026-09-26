@@ -1,0 +1,106 @@
+\[
+16x \equiv 13 \mod 314
+\]
+
+LNKO
+
+\[
+314 = 16\cdot 19 + 10
+\]
+\[
+16 = 10\cdot 1 + 6
+\]
+\[
+10 = 6\cdot 1 + 4
+\]
+\[
+6 = 4\cdot 1 + 2
+\]
+\[
+4 = \boxed{2}\cdot 2 + 0
+\]
+
+\[
+2 \nmid 13 \Rightarrow \text{Nincs mo.}
+\]
+
+\[
+12x \equiv 8 \mod 259 \quad \rightarrow \quad 12x + 259y = 8
+\]
+
+LNKO
+
+\[
+259 = 12\cdot 21 + 7
+\]
+\[
+12 = 7\cdot 1 + 5
+\]
+\[
+7 = 5\cdot 1 + 2
+\]
+\[
+5 = 2\cdot 2 + 1
+\]
+\[
+2 = \boxed{1}\cdot 2 + 0
+\]
+\[
+1 \mid 8 \Rightarrow \text{Van mo.}
+\]
+
+\[
+7 = 12\cdot(-21) + 259\cdot 1
+\]
+\[
+5 = 12 - 7\cdot 1 = 12 - \bigl(12\cdot(-21)+259\cdot1\bigr)=
+\]
+\[
+= 12\cdot 22 + 259\cdot(-1)
+\]
+\[
+2 = 7 - 5\cdot1 = \bigl(12\cdot(-21)+259\cdot1\bigr)-\bigl(12\cdot22+259\cdot(-1)\bigr)=
+\]
+\[
+= 12\cdot(-43)+259\cdot2
+\]
+\[
+1 = 5 - 2\cdot2 = \bigl(12\cdot22+259\cdot(-1)\bigr)-\bigl(12\cdot(-43)+259\cdot2\bigr)\cdot2=
+\]
+\[
+= 12\cdot \underline{108}+259\cdot\underline{(-5)}
+\]
+\[
+0 = 12\cdot(-259)+259\cdot12
+\]
+
+\[
+12x' + 259y' = 1
+\]
+
+\[
+x' = 108
+\]
+\[
+y' = -5
+\]
+
+\[
+12\cdot108+259\cdot(-5)=1
+\]
+
+\[
+x_0 = 108\cdot\frac{8}{1}=864
+\]
+
+\[
+y_0=-5\cdot\frac{8}{1}=-40
+\]
+
+\[
+x_t=864+t\cdot259
+\]
+
+\[
+y_t=-5-t\cdot12
+\]

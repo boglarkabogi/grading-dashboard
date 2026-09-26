@@ -1,0 +1,13 @@
+$11x \equiv 2 \mod 238$  $1 \cdot 22$
+
+$242x \equiv 4x \equiv 44 \mod 238$  $1:4$
+
+$x \equiv 11 \mod 119$
+
+$x \equiv 11, 130 \mod 238$
+
+$16x \equiv 15 \mod 490$
+
+$\gcd(16, 490) = 2$
+
+$2 \nmid 15$ nincs mo.

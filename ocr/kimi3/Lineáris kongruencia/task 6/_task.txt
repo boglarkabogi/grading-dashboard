@@ -1,0 +1,5 @@
+Oldja meg az alábbi lineáris kongruenciákat:
+
+\[
+7x \equiv 14 \pmod{343} \quad \text{és} \quad 16x \equiv 5 \pmod{346}
+\]

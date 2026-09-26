@@ -1,0 +1,47 @@
+\[
+\begin{array}{c|c|c}
+409 & 1 & 0\\ \hline
+13 & 0 & 1\\ \hline
+6 & 1 & -31\\ \hline
+\textcircled{1} & -2 & 63
+\end{array}
+\qquad
+\begin{array}{c|c|c}
+302 & 1 & 0\\ \hline
+12 & 0 & 1\\ \hline
+\textcircled{2} & 1 & -25\\ \hline
+0 & &
+\end{array}
+\]
+
+\[
+409\cdot(-2)+13\cdot(63)=1
+\]
+
+\[
+13\cdot 63\equiv 1 \quad (409)
+\]
+
+\[
+13\cdot 819\equiv 13 \quad (409)
+\]
+
+\[
+x\equiv 1 \quad (409)
+\]
+
+\[
+302\cdot(1)+12\cdot(-25)=2
+\]
+
+\[
+12\cdot(-25)\equiv 2 \quad (302)
+\]
+
+\[
+2\nmid 7
+\]
+
+\[
+Mo.:\varnothing
+\]
