@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 7x ≡ 8 (mod 340) és 16x ≡ 15 (mod 330)
+Helyes megoldás: Első kongruencia megoldása: x ≡ 244 (mod 340). Második kongruencia nem rendelkezik megoldás, mert (16,330)=2 nem osztja 15-t.
+
+Diák végeredménye: x ≡ 244 (mod 340); második kongruencia nincs megoldás.
+Diák megoldása (összefoglalva):
+A diák kiterjesztett Euklideszi algoritmussal découvrte 7 multiplikatív inverzét modulo 340-t, majd szorzva 8-al kapta x ≡ 244 (mod 340)-t. A második kongruenciánál gcd(16,330)=2-t számított, mert 2 nem osztja 15-t, így nem létezik megoldás.
+
+Pontszám: 1/1
+Indoklás:
+
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+Az OCR-ben nem détectáltunk 7/1 összekeverést; a diák megoldása helyes.

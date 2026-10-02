@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 19x ≡ 16 (mod 470) és 16x ≡ 5 (mod 202)",
+  "helyes_megoldas": "19x ≡ 16 (mod 470) megoldás: x ≡ 174 (mod 470); 16x ≡ 5 (mod 202) nincs megoldás, mert gcd(16,202)=2 nem osztja 5‑t",
+  "diak_vegeredmenye": "x ≡ 174 (mod 470); 16x ≡ 5 (mod 202) nincs megoldás",
+  "diak_megoldasa_osszefoglalva": "A diák kiterjesztett euklideszi algoritmust használva megtalálta 19 modular inverszát 470-hez (99), szorozta 16‑tal, majd mód Reduced 470‑vel 174‑et kap; második kongruenciára megjegyezte, hogy gcd(16,202)=2 nem osztja 5‑t, így nincs megoldás.",
+  "pont": 1,
+  "indoklas": "A diák helyes módszert alkalmazott (kiterjesztett euklideszi algoritmus, inverz kiszámítása, maradék redukció), helyes végeredményt kapta az első kongruenciához, és helyesen megjelölte, hogy a második kongrenciának nincs megoldása.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

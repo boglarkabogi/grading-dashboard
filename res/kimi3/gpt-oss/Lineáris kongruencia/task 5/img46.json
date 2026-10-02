@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 13x ≡ 13 mod 409 és 12x ≡ 7 mod 302",
+  "helyes_megap": "x ≡ 1 mod 409\nNo solution",
+  "diak_vegeredmenye": "x ≡ 13*63\nNo solution",
+  "diak_megap_osszefoglalva": "Student used extended Euclidean algorithm to find the inverse of 13 mod 409 and multiplied it by 13 to obtain x = 13*63 as a solution. For the second congruence, the student noted that gcd(12,302)=2 does not divide 7, concluding that there is no solution.",
+  "pont": 1,
+  "indoklas": "The student applied the correct method for both congruences and provided valid solutions. The first solution x = 13*63 is an equivalent representative of 1 mod 409, and the second conclusion of no solution is correct. No significant errors were present.",
+  "magabiztossag": 100,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

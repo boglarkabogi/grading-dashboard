@@ -1,0 +1,15 @@
+{
+  "feladat": "11x ≡ 2 mod 238 és 16x ≡ 15 mod 490",
+  "helyes_megoldas": "11x ≡ 2 mod 238 => x ≡ 130 mod 238. 16x ≡ 15 mod 490 nincs megoldás.",
+  "diak_vegeredmenye": "x = 62 mod 238, nincs megoldás a második kongruenciára.",
+  "diak_megoldasa_osszefoglalva": "A diák a 11x ≡ 2 mod 238 esetén a bőrtömb algoritmussal kísérte kinyerni a lineáris kombinációt, de a számított $x$ értéke 62, ami nem felel meg a kongruenciának. A 16x ≡ 15 mod 490 esetén helyesen észlelte, hogy a gcd 2 nem osztja 15-öt, így nem létezik megoldás.",
+  "pont": 0.5,
+  "indoklas": "A diák jó módszert alkalmazott az első kongruencia megoldásához, de a végeredmény hibás, míg a második esetben helyesen dőlte ki a megoldhatatlanságot. Ez részleges helyességet jelez, ezért 0.5 pont.",
+  "magabiztossag": 70,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

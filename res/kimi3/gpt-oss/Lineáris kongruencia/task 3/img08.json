@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 11x ≡ 2 mod 238 és 16x ≡ 15 mod 490",
+  "helyes_megoldas": "x ≡ 130 mod 238; no solution for 16x ≡ 15 mod 490",
+  "diak_vegeredmenye": "x ≡ 130 mod 238; no solution for the second congruence",
+  "diak_megoldasa_osszefoglalva": "A diák az első kongruenciához az egydíjú algoritmust használva meghatározta, hogy az 11 inverze 65, így x = 65*2 = 130 mod 238. A második esetben kiszámolta, hogy a legnagyobb közös osztó 2, amely nem osztható a 15-öt, ezért megállapította, hogy nincs megoldás.",
+  "pont": 1,
+  "indoklas": "A diák helyes módszert alkalmazott mindkét egyenletre, és a végeredménye is megfelel a helyes megoldásnak.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

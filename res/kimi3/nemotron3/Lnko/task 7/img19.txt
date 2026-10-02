@@ -1,0 +1,16 @@
+Feladat: Keresd meg 218 és 201 legnagyobb közös osztóját.
+Helyes megoldás: 1
+
+Diák végeredménye: 1
+Diák megoldása (összefoglalva):
+A diák az euklideszi algoritmust alkalmazta, sorosan osztva 218-t 201-zel, majd a maradékokat, és végül 0-t ért el, így a gcd 1.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyes módszert (euklideszi algoritmus) használta és helyes végeredményt (1) szerezte meg, a köztes lépések OCR-zajosak lehetnek, de módszer és eredmény helyes.
+
+Modell magabiztossága: 100/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

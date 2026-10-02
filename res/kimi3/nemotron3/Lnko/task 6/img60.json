@@ -1,0 +1,14 @@
+{
+  "feladat": "Keresd meg 217 és 206 legnagyobb közös osztóját.",
+  "helyes_megoldas": "1",
+  "diak_vegeredmenye": "1",
+  "diak_megoldasa_osszefoglalva": "A diák euklideszi algoritmust alkalmazott: 217=206·1+11, 206=11·18+10, 11=10·1+1, 10=1·10+0, így a GCD=1.",
+  "indoklas": "A módszer helyes (euklideszi algoritmus), a végeredmény is helyes; a köztes lépésben piccola számolási hiba van, de ez nem befolyásolja a pontot.",
+  "magabiztossag": 90,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A 206=11·18+10 lépésben a maradék 8 helyett 10 szerepel, ami valószínűleg számolási hiba, nem OCR-7/1 hiba.",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

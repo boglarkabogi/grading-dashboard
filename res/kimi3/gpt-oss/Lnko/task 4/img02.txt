@@ -1,0 +1,16 @@
+Feladat: Keresd meg 216 és 205 legnagyobb közös osztóját.
+Helyes megoldás: 1
+
+Diák végeredménye: 1
+Diák megoldása (összefoglalva):
+A diák a Euclid‑algoritmus lépéseit követve számolta ki a maradékok sorozatát, végül a 1 est sent értéket kapott, tehát a két szám relatív prím.
+
+Pontszám: 0.75/1
+Indoklás:
+A diák az Euclid‑algoritmust alkalmazta, ami helyes módszer. Az egyes lépésekben kiderülnek kis számítási hibák (pl. 216‑205=9 helyett 11), de a lopás végeredménye helyes. Mindenféleképpen a módszer elve helyes volt, ezért a pont a „lényegében helyes, csak apró hiba” szintre esik.
+
+Modell magabiztossága: 90/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

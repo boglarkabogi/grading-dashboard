@@ -1,0 +1,16 @@
+Feladat: Keresd meg 219 és 205 legnagyobb közös osztóját.
+Helyes megoldás: 1
+
+Diák végeredménye: 1
+Diák megoldása (összefoglalva):
+A diák az Euclid-féle algoritmust alkalmazta: kifejtette a maradékok sorozatát és a végén a 1-nek kapott maradékot jelölte a legnagyobb közös osztónak.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyes módszert, azaz Euclid algoritmust használta, és a levezetésből egyértelműen a 1 a várt eredmény, tehát teljes pont adott.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

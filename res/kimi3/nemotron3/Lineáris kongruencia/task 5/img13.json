@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 13x ≡ 13 (mod 409) és 12x ≡ 7 (mod 302)",
+  "helyes_megoldas": "a) x ≡ 1 (mod 409); b) nem megoldható",
+  "diak_vegeredmenye": "a) x = 409k+1, k ∈ Z; b) nem megoldható",
+  "diak_megoldasa_osszefoglalva": "A diák az első kongruenciában úgy oudeletti, hogy mivel 13 és 409 közös osztója 1, így oszthat az egyenlet mindkét oldalát 13-al, kapva x ≡ 1 (mod 409). A második kongruenciában figyelte, hogy 12 és 302 mind páros, míg a jobb oldali 7 páratlan, ezért (12,302) nem osztja 7-t, így nincs megoldás.",
+  "pont": 1,
+  "indoklas": "A diák helyes módszert alkalmazott mindkét feladatra (gcd=1 esetén osztás, páronysági argumantzával a második kongruenciám žádható megoldás vizsgálata) és helyes végeredményt kapott.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "Az OCR szövege olvasható, nincs jele a 7/1 összekeverésre.",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

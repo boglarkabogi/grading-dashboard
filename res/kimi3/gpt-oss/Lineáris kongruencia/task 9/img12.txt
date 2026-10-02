@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 19x ≡ 14 mod 297 és 18x ≡ 17 mod 482
+Helyes megoldás: Az 19x ≡ 14 mod 297 egyenlet egy egyedi megoldással rendelkezik: x ≡ 32 (mod 297). A 18x ≡ 17 mod 482 egyenletnek nincs megoldása, mert a gcd(18,482)=2, de 2 nem osztja 17-et.
+
+Diák végeredménye: 19x≡14 mod 247: nincs megoldása; 18x≡17 mod 482: nincs megoldása
+Diák megoldása (összefoglalva):
+A diák a 19x≡14 mod 247 esetén meghatározta a gcd(19,247)=19, és mivel 19 nem osztja 14-et, következtetett na nem létezik megoldás. A 18x≡17 mod 482 esetén kiszámolta a gcd(18,482)=2, 2 nem osztja 17-et, ezért szintén megállapította, hogy nincs megoldás.
+
+Pontszám: 0.5/1
+Indoklás:
+A diák helyes módszert alkalmazott a kiválasztott kongruenciákra (gcd számítása, ellenőrzés az oszthatóságra), de az első egyenletben a modulus 297 helyett 247 lett olvasva, ami miatt a megoldás hibás eredményt adott. A második egyenletben a módszer helyes és a végeredmény is helytelen, tehát a teljes megoldás csak részben helyes.
+
+Modell magabiztossága: 90/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+A hibás értelmezés a 297 helyett 247 lebontásából eredő OCR hibára vezethető vissza.

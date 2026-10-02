@@ -1,0 +1,16 @@
+Feladat: Keresd meg 216 és 203 legnagyobb közös osztóját.
+Helyes megoldás: 1
+
+Diák végeredménye: 1
+Diák megoldása (összefoglalva):
+A diák az Euclid‑algoritmust használt, lépésről lépésre csökkentve a maradékokat, amíg 0-t nem kapott, és a végső nem nullai maradékot a gcd‑ként határozta meg.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyes módszert alkalmazott és a végül kapott eredmény (1) megegyezik a helyes megoldással.
+
+Modell magabiztossága: 100/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

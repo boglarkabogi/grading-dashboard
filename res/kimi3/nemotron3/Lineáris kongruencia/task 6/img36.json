@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 7x ≡ 14 (mod 343) és 16x ≡ 5 (mod 346)",
+  "helyes_megoldas": "Az első kongruencia: mert (7,343)=7 és 7|14, osztjukMindketoldalt 7-tal és a modulusot is: x ≡ 2 (mod 49), teljes megoldás: x = 49k + 2, k ∈ Z. A második kongruencia: (16,346)=2, de 2 ∤ 5, így nincs megoldás.",
+  "diak_vegeredmenye": "x ≡ 2 (mod 49) (azaz x = 49k + 2) és a második kongrenciának nincs megoldása.",
+  "diak_megoldasa_osszefoglalva": "Az első feladathoz a diák osztotta a kongrenciát a legnagyobb közös osztóval, majd a maradékosztályt kapta. A másodikhoz rozšíelt euklidés algoritmuszt használva meghatározta, hogy a közös osztó 2, amely nem osztja össze a jobb oldalt, поэтому nincs megoldás.",
+  "pont": 1,
+  "indoklas": "A diák helyes módszert alkalmazott és helyes végeredményt kaptak mindkét kongrenciára; a középső lépések OCR‑zajosak lehetnek, de nem befolyásolják a pontszámot.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "Az OCR‑ben nem észrevételes 7↔1 összekeverés; a szöveg jól értelmezhető.",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

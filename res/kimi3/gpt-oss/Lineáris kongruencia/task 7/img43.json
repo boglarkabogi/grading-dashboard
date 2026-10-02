@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 13x ≡ 19 mod 414 és 20x ≡ 6 mod 412.",
+  "helyes_megap": "13x ≡ 19 mod 414  \n# gcd(13,414)=1, 13⁻¹ ≡ 223 (mod 414)  \n# x ≡ 223·19 ≡ 97 (mod 414).  \n\n20x ≡ 6 mod 412  \n# gcd(20,412)=4 does not divide 6, therefore no solution.",
+  "diak_vegeredmenye": "x = -191·19  (first congruence)  \nNincs megoldás (second congruence).",
+  "diak_megapodosa_osszefoglalva": "A diák a bővített egészségű egyenitszegényt felhasználva meghatározta a moduláris inverset a 13 modul után, majd a megoldást – –191·19–ként adta meg. A második esetben helyesen észrevette, hogy a GCD nem osztja a jobb oldal értékét és nem létezik megoldás.",
+  "pont": 1,
+  "indoklas": "A diák módját teljesen helyes, a megoldást is megfelelően adta.  A 13x ≡ 19 után a megoldást a bővített algoritmussal helyesen megszámolta, és a második kongruenciáról – 4 nem osztja 6‑ot – helyesen következett, hogy nincs megoldás.",
+  "magabiztossag": 90,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

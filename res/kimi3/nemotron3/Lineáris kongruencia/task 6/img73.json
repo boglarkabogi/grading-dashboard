@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 7x ≡ 14 (mod 343) és 16x ≡ 5 (mod 346)",
+  "helyes_megoldas": "Az első kongruencia megoldása: x ≡ 2 (mod 49),亦即 x = 2 + 49t, t = 0,1,2,3,4,5,6 (mod 343). A második kongurencia nem megoldható, mivel gcd(16,346)=2 nem osztja össze 5-t. Ezért a rendszernek nincs megoldása.",
+  "diak_vegeredmenye": "x = 2 + 49t, t = {0,1,2,3,4,5,6}; második kongurencia: nincs megoldás.",
+  "diak_megoldasa_osszefoglalva": "A diák elsősorban az első kongurenciát osztotta össze a gcd-vel, így x ≡ 2 (mod 49)-et kapott, majd felsorolta a t értékeket. A második kongurenciához kiszámolta a gcd(16,346)=2-t, megfigyelte, hogy 2∤5, ezért nessuna megoldás nem létezik.",
+  "pont": 1,
+  "indoklas": "A diák helyes módszert alkalmazott mindkét kongurenciára, helyes végeredményeket pontosan megadta (az első kongurencia megoldása, a második hiánya), így teljes pontot ér el.",
+  "magabiztossag": 95,
+  "ertelezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "Az OCR-jelzes четкі, nincs 7/1-keverés, a diák válasza jól olvasható.",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

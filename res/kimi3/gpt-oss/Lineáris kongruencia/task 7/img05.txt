@@ -1,0 +1,16 @@
+Feladat: 13x ≡ 19 mod 414 és 20x ≡ 6 mod 412
+Helyes megoldás: 13x ≡ 19 mod 414: x ≡ 97 mod 414; 20x ≡ 6 mod 412: no solution.
+
+Diák végeredménye: no solution
+Diák megoldása (összefoglalva):
+Student mért a 20x ≡ 6 mod 412 egyenlethez az egydimenziós együtthatók, majd alkalmazta az Euklideszi algoritmust; találták, hogy a gcd 4, ami nem osztja 6-ot, így nem létezik megoldás.
+
+Pontszám: 0.5/1
+Indoklás:
+A diák helyesen megoldotta a második kongruenciát és megállapította a valódi eredményt: nincs megoldás. Mivel a feladat mindkét kongruenciát kérte, a hiányos megoldás miatt csak részleges pontszám jár. A módszer és a végeredmény a második részben helyes.
+
+Modell magabiztossága: 80/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+A diák csak a második részre adt válasz; a feladat teljes megoldása hiányzik.

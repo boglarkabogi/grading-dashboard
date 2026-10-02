@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 13x ≡ 19 (mod 414) és 20x ≡ 6 (mod 412)
+Helyes megoldás: Az első kongruencia megoldása: x ≡ 97 (mod 414). A második kongruencia nem oldható, mert gcd(20,412)=4 ∤ 6. Ezért az egységes megoldás nem létezik (a rendszernek nincs megoldása).
+
+Diák végeredménye: ? nincs megoldás, mivel nincs olyan egész szám amivel beszorozva a 4-et, 6-ot adna.
+Diák megoldása (összefoglalva):
+A diák a második kongruenciát kiterjesztett Euklideszi algoritmussal oldotta meg, uzyska, hogy 20·(-41) ≡ 4 (mod 412), majd kijelentette, hogy 4-vel való szorzással nem lehet 6-t kapni, így nem létezik megoldás.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyes módszert (kiterjesztett Euklideszi + oszthatósági feltétel) alkalmazott és helyes végeredményt szerzett: a kongruenciák rendszernek nincs megoldása, mivel a deuxième kongruencia nem oldható. Az első kongruencia megoldása szükségtelen a Schlusshoz.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: nem
+
+Megjegyzés:
+A diák nem oldotta meg az első kongruenciát, de ez a Schlussra nem Hat, mivel a második kongruencia már unszólható.

@@ -1,0 +1,15 @@
+{
+  "feladat": "Keresd meg 217 és 201 legnagyobb közös osztóját.",
+  "helyes_megoldas": "1",
+  "diak_vegeredmenye": "1",
+  "diak_megoldasa_osszefoglalva": "A diák az Euclid‑es algoritmust alkalmazva sorozatos maradékokat számított: 217=1*201+16, 201=12*16+9, 16=1*9+7, 9=1*7+2, 7=3*2+1, 2=1*2+0, és így a legnagyobb közös osztó 1.",
+  "pont": 1,
+  "indoklas": "Az algoritmus pontos volt és a végeredmény helyes.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

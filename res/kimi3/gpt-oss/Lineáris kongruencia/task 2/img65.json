@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 12x ≡ 8 mod 259 és 16x ≡ 13 mod 314",
+  "helyes_megoldas": "a) x ≡ 87 mod 259; b) egyetlen megoldás nem létezik, mert a ≡ 0 (mod 2) és b ≡ 1 (mod 2), tehát nem 0 mod 2, nincs megoldás",
+  "diak_vegeredmenye": "x = 864 + 259k (a) és nincs megoldás (b)",
+  "diak_megapodas_osszefoglalva": "A diák a Békés–Közép-Algoritmust alkalmazva megtalálta az együttható 108-et, ami 12x≡1 mod 259, majd x=8·108+259k=864+259k. A második kongruencia esetén meghatározta a gcd(16,314)=2 és a 13 nem osztható szorozón, ezért eldöntötte, hogy nincs megoldás.",
+  "pont": 1,
+  "indoklas": "A diák helyes módszert alkalmazott, és a kapott eredmények megfelelnek a valódi megoldásoknak (x=864+259k ugyanaz, mint x=87+259k, és a második esetben helyesen jelezte a nem létezést).",
+  "magabiztossag": 90,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

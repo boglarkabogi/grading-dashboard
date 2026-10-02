@@ -1,0 +1,16 @@
+Feladat: Keresd meg 216 és 205 legnagyobb közös osztóját.
+Helyes megoldás: 1
+
+Diák végeredménye: 1
+Diák megoldása (összefoglalva):
+A diák az euklideszi algoritmust használva végezte el a soros osztásokat, és végül 1-et kapott a legnagyobb közös osztóként.
+
+Pontszám: -/1
+Indoklás:
+A módszer és a végeredmény helyes; a köztes sorokben OCR-beli jelzők (\cancel, \boxed) szerepelnek, de ezt nem tekintjük hibának, így teljes pontot adunk.
+
+Modell magabiztossága: 90/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+A \cancel és \boxed jelek valószínűleg OCR-artifactumok, nem a diák hibája.

@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 11x ≡ 2 mod 238 és 16x ≡ 15 mod 490",
+  "helyes_megoldas": "11x ≡ 2 mod 238 → x ≡ 130 mod 238. 16x ≡ 15 mod 490 → nincs megoldás",
+  "diak_vegeredmenye": "x ≡ 130 mod 238 és nincs megoldás",
+  "diak_megoldasa_osszefoglalva": "Az extended Euclidean algoritmust használva találták a 11^-1 mod 238 értékét (65), majd 2-tel megszorították, így x ≡ 130. A második egyenlet esetén a gcd(16,490)=2 nem osztja 15-öt, ezért megoldás nem létezik",
+  "pont": 1,
+  "indoklas": "A diák helyes módszert alkalmazott mindkét egyenletben, és a végeredményt helyesen számolta ki",
+  "magabiztossag": 100,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

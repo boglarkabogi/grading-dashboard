@@ -1,0 +1,15 @@
+{
+  "feladat": "Keresd meg 219 és 205 legnagyobb közös osztóját.",
+  "helyes_megoldas": "1",
+  "diak_vegeredmenye": "1",
+  "diak_megoldasa_osszefoglalva": "The student applied the Euclidean algorithm, repeatedly dividing to find remainders until the last nonzero remainder was 1, concluding the GCD is 1.",
+  "pont": 1,
+  "indoklas": "The student correctly used the Euclidean algorithm and arrived at the correct GCD of 1.",
+  "magabiztossag": 100,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

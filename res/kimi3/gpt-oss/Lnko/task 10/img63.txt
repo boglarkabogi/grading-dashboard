@@ -1,0 +1,16 @@
+Feladat: Keresd meg 219 és 205 legnagyobb közös osztóját.
+Helyes megoldás: 1
+
+Diák végeredménye: 1
+Diák megoldása (összefoglalva):
+A diák az egész osztás módszerét alkalmazta, allogva a maradékokra, amíg a maradék 0 lett, így megállapította, hogy a legnagyobb közös osztó 1.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyesen alkalmazta az egésszű osztás algoritmust és a végeredmény 1, ami a helyes megoldás.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

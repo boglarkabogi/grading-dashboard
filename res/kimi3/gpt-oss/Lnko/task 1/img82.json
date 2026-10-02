@@ -1,0 +1,15 @@
+{
+  "feladat": "Kerese meg 213 és 200 legnagyobb közös osztóját.",
+  "helyes_megoldas": "1",
+  "diak_vegeredmenye": "1",
+  "diak_megoldasa_osszefoglalva": "A diák az Euclid-algoritmust alkalmazta, lépésről lépésre osztotta 213-at 200-vel, majd a maradékokkal egymás után, végül a maradék 1-gyel kapott gcd-ot.",
+  "pont": 1,
+  "indoklas": "A diák helyes módszert alkalmazott (Euclid-algoritmus) és a végeredmény is helyes.",
+  "magabiztossag": 100,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 19x ≡ 14 (mod 297) és 18x ≡ 17 (mod 482)",
+  "helyes_megoldas": "Nincs megoldás, mert a második kongruencia 18x ≡ 17 (mod 482) nem rendelkezik megoldás, mivel gcd(18,482)=2 nem osztja 17-t.",
+  "diak_vegeredmenye": "nincs megoldás",
+  "diak_megoldasa_osszefoglalva": "Az első kongruenciára rozšílt euklideszi algoritmus segítségusten x ≡ 32 (mod 297)-t kapott; a második kongruenciára gcd(18,482)=2 têti, mivel 2∤17, ezért nincs megoldás, így a rendszernek sincs megoldása.",
+  "pont": 1,
+  "indoklas": "A diák helyes módszert alkalmazott beide kongruenciákra: az elsőre modular inverzni kiszámítva, a másodikra oszthatósági feltételt ellenőrzve, és helyesen arra a következtetésre jutott, hogy a rendszer nem rendelkezik megoldással.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A táblázatokban occasional OCR-fürdés (-16\\ 47) esiintyy, de nem befolyásolja a megoldás értékelését.",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

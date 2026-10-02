@@ -1,0 +1,15 @@
+{
+  "feladat": "Keresd meg 216 és 205 legnagyobb közös osztóját.",
+  "helyes_megoldas": "1",
+  "diak_vegeredmenye": "1",
+  "diak_megoldasa_osszefoglalva": "The student used the Euclidean algorithm, writing 216 = 1*205 + 11, 205 = 18*11 + 7, then using 11 = 2*(7+2), 7 = 3*2 + 1, and finally concluding the gcd is 1.",
+  "pont": 1,
+  "indoklas": "The student applied the correct method and obtained the correct final result. Minor formatting inconsistencies do not affect correctness.",
+  "magabiztossag": 90,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

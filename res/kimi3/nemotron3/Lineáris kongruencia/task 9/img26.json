@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 19x ≡ 14 (mod 297) és 18x ≡ 17 (mod 482)",
+  "helyes_megoldas": "Első kongruencia: x ≡ 32 (mod 297); második kongruencia: nincs megoldás, mert gcd(18,482)=2 nem osztja 17-t.",
+  "diak_vegeredmenye": "Első kongruencia: x = -1750; második kongruencia: nincs megoldás.",
+  "diak_megoldasa_osszefoglalva": "A diák kiterjesztett euklideszi algoritmust használva megtalálta a 19 és 297 közötti Bezout-köreket, szorzva obtaining egy megoldást az első kongruenciához; a második kongruenciához kiszámította a gcd-et, és mivel 2 nem osztja 17-t, nem létezik egész megoldás.",
+  "pont": 1,
+  "indoklas": "A diák helyes módszert alkalmazott (kiterjesztett euklideszi algoritmus), és helyes végeredményeket kapta: az első kongruencia megoldása megfelelni a helyes 32 (mod 297) értéknek, a második kongruencia esetén helyesen azonosította, hogy nincs megoldás.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A bemenetben nem észleltem OCR-helyes/1-es vagy más conspicuous hibát.",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

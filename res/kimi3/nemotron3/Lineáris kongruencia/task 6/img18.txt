@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 7x ≡ 14 (mod 343) és 16x ≡ 5 (mod 346)
+Helyes megoldás: Első kongruencia: x = 2 + 49k, k∈Z; Második kongruencia: nincs megoldás, mert (16,346)=2 nem osztja 5-t
+
+Diák végeredménye: Első: x = 2 + 49k (k∈Z); Második: nincs megoldás
+Diák megoldása (összefoglalva):
+A diák az első kongruenciában kiszámolta a gcd(7,343)=7-est, osztotta beide oldalakat és modular inversal kapott x≡2 (mod 49). A deuxième kongruenciában gcd(16,346)=2-t talált, és mivel 2∤5, nem létezik megoldás.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyes módszerrel (gcd, oszthatóság, osztás) determinaálta a megoldásokat, és a végeredmények ebenfalls helyesek.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

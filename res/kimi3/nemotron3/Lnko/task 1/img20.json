@@ -1,0 +1,15 @@
+{
+  "feladat": "Kerese meg 213 és 200 legnagyobb közös osztóját.",
+  "helyes_megoldas": "1",
+  "diak_vegeredmenye": "1",
+  "diak_megoldasa_osszefoglalva": "A diák euklideszi algoritmust alkalmazva 213 mod 200 = 13, 200 mod 13 = 5, 13 mod 5 = 3, 5 mod 3 = 2, 3 mod 2 = 1, 2 mod 1 = 0 lépéseket wykoszta, így a legnagysorobb közös osztó 1.",
+  "pont": 1,
+  "indoklas": "Helyes módszer (Euklideszi algoritmus) és helyes végeredmény (1).",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A bemenetben LaTeX jelölések ($...$, \\textcircled{1}) apparition, de ez nem befolyásolja a megoldás értékelését.",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

@@ -1,0 +1,16 @@
+Feladat: 11x ≡ 2 mod 238 and 16x ≡ 15 mod 490
+Helyes megoldás: x ≡ 130 (mod 238); no solution for 16x ≡ 15 mod 490
+
+Diák végeredménye: x ≡ 130 (mod 238); no solution for second congruence
+Diák megoldása (összefoglalva):
+Extended Euclidean algorithm gave inverse 65 of 11 modulo 238, yielding x=130 mod 238; then gcd(16,490)=2, and since 15 is not divisible by 2, no solution exists for the second congruence.
+
+Pontszám: 1/1
+Indoklás:
+The student correctly applied the extended Euclidean algorithm to find the inverse and obtained the correct solution. He also correctly determined the absence of a solution for the second congruence.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

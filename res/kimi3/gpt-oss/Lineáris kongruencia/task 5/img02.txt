@@ -1,0 +1,17 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 13x ≡ 13 mod 409 és 12x ≡ 7 mod 302
+Helyes megoldás: 13x ≡ 13 mod 409 → mintane 13∤409, így 13 értelmezhető. A 13 inverze 63 mod 409, ezért 13x≡13 ⇢ x≡1 mod 409; tehát x=1+409k, k∈Z. Másik kongruencia: gcd(12,302)=2, 2∤7, tehát nem létezik egész megoldás. 
+
+Diák végeredménye: 169
+nincs egész megoldása
+Diák megoldása (összefoglalva):
+A diák az egyeztetett Euclid algoritmust hibásan alkalmazta, amely alapján 13x≡13 esetén 13·(-31)≡1 mod 409 és 13·(-31)·106≡13 mod 409, így 169 értéket adott. A második kongruencia esetén Eggyékett a 12·(-25)≡2 mod 302, és az alapján észlelte, hogy nem lesz megoldó, tehát helyesen jelezte a megoldhatatlanságot. 
+
+Pontszám: 0.5/1
+Indoklás:
+A diák elméletileg használta az ugyeztetett módszert, de az első konruguencia valamismert hibát tartalmaz (hibás inverz számítása), emiatt a végső eredmény hibás. A második úgy tűnik helytelen úton haladott, de a feladat helyes megállapítását elérte – nincs megoldó. Összménye: részben helyes a módszer, de az eredmény hibás. 
+
+Modell magabiztossága: 80/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+Első kongruencia megoldása hibás, de a második helyes.

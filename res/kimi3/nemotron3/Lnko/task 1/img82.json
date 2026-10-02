@@ -1,0 +1,15 @@
+{
+  "feladat": "Kerese meg 213 és 200 legnagyobb közös osztóját.",
+  "helyes_megoldas": "1",
+  "diak_vegeredmenye": "1",
+  "diak_megoldasa_osszefoglalva": "A diák eukleidés algoritmust alkalmazva sorozatosan osztással kiértékelte a maradékokat, és utolsó nem nulla maradék 1-et kapott.",
+  "pont": 1,
+  "indoklas": "A módszer helyes (eukleidés algoritmus), és a végeredmény is helyesen 1.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A szövegben OCR-hibák láthatók (pl. 'lko' helyett 'lnko', és überflüssus '$ lko'), de ezek nem befolyásolják a megoldás helyességét.",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

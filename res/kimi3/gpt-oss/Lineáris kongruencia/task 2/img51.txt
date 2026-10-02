@@ -1,0 +1,18 @@
+Feladat: 12x ≡ 8 mod 259 és 16x ≡ 13 mod 314
+Helyes megoldás: 12x ≡ 8 mod 259  →  x ≡ 87 (mod 259); 16x ≡ 13 mod 314  nem 1–et átszámítmények miatt nincs megoldás
+
+Diák végeredménye: x_0=864 + 259t  (t∈ℤ) ;  x_t=(59*13/2)+157t  (t∈ℤ)
+Diák megoldása (összefoglalva):
+A diák az egyes kongruenciákhoz ráoldó egyenleteket állított fel, majd a körképzés alapján Extended Euclid‑el talált toplást és választott egy tetszőleges megoldást. Az első esetben adott 108 * (8/1)=864, míg a második esetben hibásan 
+13/2-t használva 
+59*(13/2) terméket. 
+
+Pontszám: 0.5/1
+Indoklás:
+Az első feladatot helyesen oldotta meg (bár nem állította be a legkisebb modulát), de a második feladat nem rendelkezik egész megoldással, ezért a diák megoldása ...
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+A 16x ≡ 13 mod 314 nem megoldható, mert a gcd(16,314)=2 nem osztja a jobb oldalt.

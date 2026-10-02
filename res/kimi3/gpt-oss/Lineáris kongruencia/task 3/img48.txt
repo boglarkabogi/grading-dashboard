@@ -1,0 +1,17 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat:
+11x ≡ 2 mod 238 és 16x ≡ 15 mod 490
+Helyes megoldás: x ≡ 130 mod 238; nincs megoldás
+
+Diák végeredménye: 130; nincs megoldás
+Diák megoldása (összefoglalva):
+A diák meghaladott Bézout-egyenletet a 11x ≡ 2 mod 238 megoldására, és a gcd–ellenőrzést alkalmazott a 16x ≡ 15 mod 490 esetén, mire eldöntötte, hogy nincs megoldás.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyesen találta meg a 11x ≡ 2 mod 238 álláspontot 130-as megoldással, és helyesen vizsgálta a 16x ≡ 15 mod 490 esetét, amihez a gcd–t használva megállapította, hogy nincs megoldás. A módszer alapvetően helyes, még ha a felsorolásban hiba van egy lineáris egyenletben, a végső eredmény és a megoldás eljárása megfelelő.
+
+Modell magabiztossága: 100/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

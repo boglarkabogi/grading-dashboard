@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 19x ≡ 16 mod 470 és 16x ≡ 5 mod 202",
+  "helyes_megoldas": "x ≡ 174 mod 470; 16x ≡ 5 mod 202: nincs megoldás",
+  "diak_vegeredmenye": "x ≡ 174 mod 470; nincs megoldás a második kongruenciához",
+  "diak_megoldasa_osszefoglalva": "A diák először hibás lépéseket követ, de végül meghatározza a 19 reciprokát 470 modulumban, és így kiszámítja x=174 a mod 470 körüli egyenlethez. Megállapítja, hogy a 16x ≡ 5 mod 202 egyenlet esetén a GCD 2, mely nem osztja 5-öt, tehát nincs megoldás.",
+  "pont": 1,
+  "indoklas": "A végleges eredmények helyesek és a helyes módszert alkalmazta (modulokban való fordított keresése, és a GCD vizsgálata a második egyenlethez).",
+  "magabiztossag": 90,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

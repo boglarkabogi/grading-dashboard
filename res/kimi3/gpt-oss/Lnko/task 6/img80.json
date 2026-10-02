@@ -1,0 +1,15 @@
+{
+  "feladat": "Keresd meg 217 és 206 legnagyobb közös osztóját.",
+  "helyes_megoldas": "1",
+  "diak_vegeredmenye": "1",
+  "diak_megoldasa_osszefoglalva": "The student used the Euclidean algorithm. He computed 217=1⋅206+11, 206=18⋅11+8, 11=1⋅8+3, 8=2⋅3+2, 3=1⋅2+1, 2=2⋅1+0, and thus concluded that the gcd of 217 and 206 is 1.",
+  "pont": 1,
+  "indoklas": "The student applied the correct algorithm and obtained the correct final result of 1.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

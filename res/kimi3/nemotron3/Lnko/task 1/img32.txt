@@ -1,0 +1,16 @@
+Feladat: Kerese meg 213 és 200 legnagyobb közös osztóját.
+Helyes megoldás: 1
+
+Diák végeredménye: 1
+Diák megoldása (összefoglalva):
+A diák az euklidészi algoritmust alkalmazta, sorosan osztva 213‑nel 200‑t, majd a maradékokat, így 13, 5, 3, 2, 1 maradékozik, és végül gcd=1‑t kap.
+
+Pontszám: 1/1
+Indoklás:
+A módszer (euklidészi algoritmus) helyes, és a végeredmény 1, ami egyezik a valódi legnagyobb közös osztójával.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+Az OCR „Cancel 13” jelölést helytelenülinterpretálta, de ez nem befolyásolja a következtetés helyességét.

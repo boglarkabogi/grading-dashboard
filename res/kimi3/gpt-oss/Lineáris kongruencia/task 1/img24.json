@@ -1,0 +1,15 @@
+{
+  "feladat": "19x ≡ 16 mod 470 és 16x ≡ 5 mod 202",
+  "helyes_megoldas": "19x ≡ 16 mod 470 : x ≡ 174 mod 470.  16x ≡ 5 mod 202 : nem létezik megoldás, mert (16,202)=2 és 2∤5.",
+  "diak_vegeredmenye": "x = 1584 + 470k  \n16x ≡ 5 mod 202: nincs megoldás",
+  "diak_megoldasa_osszefoglalva": "A diák alkalmazza az egymást egészítő algoritmust, megállapítva a 1–es legnagyobb közös osztót, kitettem a lineáris kombinációt, majd a megoldó vektort, és azért az eredményt 1584+470k alakban adja, valamint a második kongruencia esetén a nem eloszthatóság miatt nincs megoldás.",
+  "pont": 1,
+  "indoklas": "Méthód helyes: egymást egészítő algoritmo a 1-ös megtalálásához, és megoldó szorzással eljárás. Végső eredmény is helyes (1584+470k ≡ 174 mod470).",
+  "magabiztossag": 90,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

@@ -1,0 +1,15 @@
+{
+  "feladat": "12x ≡ 8 mod 259 és 16x ≡ 13 mod 314",
+  "helyes_megoldas": "x ≡ 87 mod 259, nincs megoldás",
+  "diak_vegeredmenye": "x ≡ 87 mod 259, nincs megoldás",
+  "diak_megoldasa_osszefoglalva": "A diák a meghatározott mértékú lineáris kongruencia megoldására a Békés-euklideszi algoritmus segítségével találtja meg 12‑nek a mod 259 szerinti szorzati ellentettjét, majd szorozva kapja az első egységet. A második esetben a legnagyobb közös osztót 2-nek határozza meg és ellenőrzi, hogy az 13 osztható-e vele, és mert nem, kijelenti hogy nincs megoldás.",
+  "pont": 1,
+  "indoklas": "A diák helyesen alkalmazta a Békés-euklideszi algoritmust, helyesen talált 12 ellentettjét mod 259, és helyes eredményt ad a két kongurenciára. A második feldolgozásban helyesen irányítja a gcd feltételét, és precízen jelezve nincs megoldás. Minden lépés található a diák levezetésében, és a végső eredmények megegyeznek a helyes megoldással.",
+  "magabiztossag": 98,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

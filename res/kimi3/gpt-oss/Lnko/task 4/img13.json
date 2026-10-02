@@ -1,0 +1,15 @@
+{
+  "feladat": "Keresd meg 216 és 205 legnagyobb közös osztóját.",
+  "helyes_megoldas": "1",
+  "diak_vegeredmenye": "1",
+  "diak_megoldasa_osszefoglalva": "A diák a kiterjesztett egyetemes algoritmust alkalmazta, felsorolta a maradékokat, hányadosokat, és úgy értelmezte a végeredményt, hogy a legnagyobb közös osztó 1.",
+  "pont": 1,
+  "indoklas": "Az eljárás (újraértékelt egyetemes metódus) helyes, a lépések koherensek, és a végső eredmény is pontosan 1.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "—",
+  "model": "openai/gpt-oss-20b"
+}

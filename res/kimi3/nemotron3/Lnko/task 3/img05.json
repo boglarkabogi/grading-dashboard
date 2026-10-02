@@ -1,0 +1,15 @@
+{
+  "feladat": "Keresd meg 216 és 203 legnagyobb közös osztóját.",
+  "helyes_megoldas": "1",
+  "diak_vegeredmenye": "1",
+  "diak_megoldasa_osszefoglalva": "A diák euklideszi algoritmust alkalmazott, és sorozatos osztások után utolsó nem nulla maradék 1-t kaphatt, így a legközös osztó 1.",
+  "pont": 1,
+  "indoklas": "A módszer helyes (euklideszi algoritmus) és a végeredmény egyezik a helyes megoldással, így teljes pontot kap.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

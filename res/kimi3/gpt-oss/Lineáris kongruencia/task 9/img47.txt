@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 19x ≡ 14 mod 297 és 18x ≡ 17 mod 482
+Helyes megoldás: 19x ≡ 14 mod 297: x ≡ 32 mod 297. 18x ≡ 17 mod 482: nincs megoldás, mert gcd(18,482)=2 nem osztja 17.
+
+Diák végeredménye: x ≡ 32 mod 297; 18x ≡ 17 mod 482: nincs megoldás.
+Diák megoldása (összefoglalva):
+A diák meghatározta a 19 mod 297 inverzét 172-nek, szorozta 14-gyel, kapott 32-t, és helyesen jelezte, hogy a második egyenletnek nincs megoldása, mert a gcd nem osztja a konstans.
+
+Pontszám: 1/1
+Indoklás:
+A diák használta a helyes metódust (együttható inverzének keresése) és a végeredmények helyesek mindkét egyenlethez. Nincs szemléltethető hiba az eredményekben vagy a módszerben.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

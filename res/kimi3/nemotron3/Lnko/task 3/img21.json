@@ -1,0 +1,15 @@
+{
+  "feladat": "Keresd meg 216 és 203 legnagyobb közös osztóját.",
+  "helyes_megoldas": "1",
+  "diak_vegeredmenye": "(216,203)=1",
+  "diak_megoldasa_osszefoglalva": "A diák eukleidész algoritmust alkalmazva sorosan osztotta a nagyobb számot a maradékkal, és végül 1-et kapott osztónak.",
+  "pont": 1,
+  "indoklas": "A módszer helyes (Euklideszi algoritmus) és a végeredmény (1) megfelel a feladatnak.",
+  "magabiztossag": 95,
+  "ertelezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A '13*10=130', '20=260', '13*17=221', '13*15=195' sorok OCR-zaj vagy felesleges számolások, de nem befolyásolják a módszert.",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

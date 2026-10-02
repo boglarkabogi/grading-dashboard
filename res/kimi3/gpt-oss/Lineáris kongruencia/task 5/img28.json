@@ -1,0 +1,15 @@
+{
+  "feladat": "13x ≡ 13 mod 409 és 12x ≡ 7 mod 302",
+  "helyes_megoldas": "Első kongruencia: x ≡ 1 (mod 409). Második kongruencia: nincs megoldás.",
+  "diak_vegeredmenye": "Első: x_t = (32×13)+13t. Második: nincs megoldás.",
+  "diak_megoldasa_osszefoglalva": "A diák a kiterjesztett egy túl áldozásos egyenleltetést használt az első kongruencia megoldására, de a behelyettesített érintésekkel rosszul számolta a Bézout‑sorozatot, így a kapott konkrét megoldás hibás; a második esetben helyesen észlelte, hogy a gcd nem osztja a konstans.",
+  "pont": 0.5,
+  "indoklas": "A diák helyes módszert alkalmazott (ekslended Euclid), de hibát követett el a Bézout‑köõs ablak kérdésében, így az első kongruencia eredménye hibás; a második esetben helyesen azonosította a nem megoldható módot.",
+  "magabiztossag": 80,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

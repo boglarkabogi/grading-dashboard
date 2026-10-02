@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 17x ≡ 17 mod 375 és 19x ≡ 9 mod 358",
+  "helyes_megoldas": "x ≡ 1 mod 375; x ≡ 57 mod 358",
+  "diak_vegeredmenye": "x ≡ 1 mod 375",
+  "diak_megaprolom": "Student applied extended Euclid, found gcd=1, obtained x'=-22, computed x=17*(-22)≡1 mod 375, verified the congruence. Second congruence was omitted.",
+  "pont": 0.5,
+  "indoklas": "Student used the correct method and obtained the correct solution for the first congruence, but the second congruence was not solved, so only partial credit.",
+  "magabiztossag": 90,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

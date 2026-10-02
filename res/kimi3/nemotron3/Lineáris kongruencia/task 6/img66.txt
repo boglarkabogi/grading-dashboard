@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 7x ≡ 14 (mod 343) és 16x ≡ 5 (mod 346)
+Helyes megoldás: Az első kongruenciából x ≡ 2 (mod 49). A második kongruenciának nincs megoldása, mert gcd(16,346)=2 nem osztja 5-t. Így a rendszernek semleges megoldása nincs.
+
+Diák végeredménye: x ≡ 2 (mod 49); 16x ≡ 5 (mod 346) nem megoldás
+Diák megoldása (összefoglalva):
+A diák az első kongruenciát 7-el oszthatva oldotta meg, obterve x ≡ 2 (mod 49). A második kongruenciára euklideszi algoritmust alkalmazva gcd(16,346)=2-t kapta, és mivel 2 nem osztja 5-t, megállította, hogy nincs megoldás, bal oldal mindig páros, jobb oldal mindig páratlan.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyes módszert használta mindkét kongruenciára, helyesen azonosította, hogy a második kongruenciának nincs megoldása, ezért a rendszernek semleges megoldása nincs.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

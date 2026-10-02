@@ -1,0 +1,17 @@
+Feladat: 19x ≡ 16 mod 470 és 16x ≡ 5 mod 202
+Helyes megoldás: 19x ≡ 16 mod 470 : x ≡ 174 mod 470.  16x ≡ 5 mod 202 : nem létezik megoldás, mert (16,202)=2 és 2∤5.
+
+Diák végeredménye: x = 1584 + 470k  
+16x ≡ 5 mod 202: nincs megoldás
+Diák megoldása (összefoglalva):
+A diák alkalmazza az egymást egészítő algoritmust, megállapítva a 1–es legnagyobb közös osztót, kitettem a lineáris kombinációt, majd a megoldó vektort, és azért az eredményt 1584+470k alakban adja, valamint a második kongruencia esetén a nem eloszthatóság miatt nincs megoldás.
+
+Pontszám: 1/1
+Indoklás:
+Méthód helyes: egymást egészítő algoritmo a 1-ös megtalálásához, és megoldó szorzással eljárás. Végső eredmény is helyes (1584+470k ≡ 174 mod470).
+
+Modell magabiztossága: 90/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

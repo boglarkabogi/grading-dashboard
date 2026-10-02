@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 11x ≡ 2 (mod 238) és 16x ≡ 15 (mod 490)",
+  "helyes_megoldas": "Nincs megoldás, mert a második kongruencia 16x ≡ 15 (mod 490) nem rendelkezik megoldás (gcd(16,490)=2, ami nem osztja 15-t).",
+  "diak_vegeredmenye": "x ≡ 130 (mod 238); a második kongruencia nem rendelkezik megoldás (nincs megoldás).",
+  "diak_megoldasa_osszefoglalva": "A diák először kiszámolta az 11x ≡ 2 (mod 238) kongruenciát, megtalálta az inverzét 65-t, így x ≡ 130 (mod 238). Majd a 16x ≡ 15 (mod 490) kongruenciánál kiszámolta a gcd(16,490)=2-et, és mivel 2∤15, nem talált megoldást.",
+  "pont": 1,
+  "indoklas": "A diák helyes módszert alkalmazott mindkét kongruencia esetén: az elsőben kiszámolta a modular Inverzrt, helyes végeredményt kap; a másodikban megfelelően azonosította, hogy a gcd nem osztja a jobb oldalt, így helyesen déterminálta, hogy nincs megoldás. A végső következtetés (a rendszer nem rendelkezik megoldással) is helyes.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

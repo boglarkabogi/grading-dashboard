@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 13x ≡ 13 (mod 409) és 12x ≡ 7 (mod 302)",
+  "helyes_megoldas": "Az első kongruencia megoldása: x ≡ 1 (mod 409). A második kongruencia nem possui megoldás, mert gcd(12,302)=2 nem osztja 7‑et. Ezért a rendszernek nincs megoldása.",
+  "diak_vegeredmenye": "Az první kongregencia esetén: x = 416 + 13t (azaz x_t = 32*13 + 13t), y_t = -13 + 409t; a második kongregencia esetén: nincs megoldás (mert gcd(12,302)=2 nem osztja 7‑et).",
+  "diak_megoldasa_osszefoglalva": "A diák kiterjesztett euklidész algoritmussal próbálta megoldani az első lineáris diofantos egyenletet, de a coefficiensok számítása hibás; így helytelen paramètreses megoldást kapott. A második egyenletre helyesen alkalmazta a gcd feltetelt, és megállapította, hogy nincs megoldás.",
+  "pont": 1,
+  "indoklas": "A diák végső konklúziója (nincs megoldás) helyes, mert a második kongruencia valóban megoldhatatlan; bár az első kongruencia oldásában számítási hibák szerepelnek, ezek nem befolyásolják a rendszer nem megoldhatóságát, így a módszer által a helyes eredményhez vezető részek helyesek.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "Az OCR jelzések jaszek, nincs 7↔1 confundzio.",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alabbi linearis kongruenciákat: 13x ≡ 19 (mod 414) és 20x ≡ 6 (mod 412)
+Helyes megoldás: 13x ≡ 19 (mod 414): x ≡ 97 (mod 414). 20x ≡ 6 (mod 412): nincs megoldás, mert gcd(20,412)=4 nem osztja el 6-t.
+
+Diák végeredménye: 13x ≡ 19 (mod 414): x ≡ -3629 (mod 414) (azaz x ≡ 97 (mod 414)). 20x ≡ 6 (mod 412): nincs megoldás.
+Diák megoldása (összefoglalva):
+A diák kiterjesztett euklideszi algoritmussal talalta meg 13 inverzét modulo 414-et, majd megszorozta 19-vel, így kapták a megoldást. A második kongruenciára a legnagyobb közos osztojat számolta, és mivel 4 nem osztja el 6-t, заключил, hogy nincs megoldás.
+
+Pontszám: 1/1
+Indoklás:
+A diák módszere helyes (kiterjesztett euklideszi algoritmus és oszthatóságvizsgálat), a végeredménye ekvivalens a helyes megoldással, így teljes pontot ér el.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+Az OCR-jelölések (átkeresett egyenletek, tablaformázás) zavaróak, de a Lösungért deciszengerül marad.

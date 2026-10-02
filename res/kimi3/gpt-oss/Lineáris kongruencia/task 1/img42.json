@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 19x ≡ 16 mod 470 és 16x ≡ 5 mod 202",
+  "helyes_megoldas": "19x ≡ 16 mod 470 → x ≡ 174 mod 470. 16x ≡ 5 mod 202 → nincs megoldás",
+  "diak_vegeredmenye": "x ≡ 174 mod 470; nincs megoldás",
+  "diak_megoldasa_osszefoglalva": "Extended Euclid to find 19*99 + 470*(-4) = 1, then multiply by 16 to solve the first congruence; for the second, compute gcd(16,202)=2 and conclude no solution.",
+  "pont": 1,
+  "indoklas": "The student used the correct extended Euclid algorithm, obtained the correct inverse for 19 modulo 470, derived the correct solution x ≡ 174 mod 470, and correctly identified that the second congruence has no solution because 2 does not divide 5.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

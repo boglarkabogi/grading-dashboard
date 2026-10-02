@@ -1,0 +1,16 @@
+Feladat: Keresd meg 217 és 201 legnagyobb közös osztóját.
+Helyes megoldás: 1
+
+Diák végeredménye: 1
+Diák megoldása (összefoglalva):
+A diák euklidés algoritmust használva stepwise osztásokat végzett: 217 = 201·1 + 16, 201 = 16·12 + 9, 16 = 9·1 + 7, 9 = 7·1 + 2, 2 = 2·1 + 0, így a lnkó 1.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyes euklidés algoritmust alkalmazott, és a végső maradék 0-át 2-el osztva kapott, így a lnkó 1, ami helyes.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

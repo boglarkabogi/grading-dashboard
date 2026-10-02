@@ -1,0 +1,16 @@
+Feladat: 19x ≡ 14 (mod 297) és 18x ≡ 17 (mod 482)
+Helyes megoldás: 19x ≡ 14 (mod 297): x ≡ 32 (mod 297); 18x ≡ 17 (mod 482): nincs megoldás
+
+Diák végeredménye: Az első kongruenciának nincs megoldása; a második kongruenciának nincs megoldása.
+Diák megoldása (összefoglalva):
+Az első kongruenciához a diák a 247-es modulusot használva megtalálta, hogy (19,247)=19 nem osztja 14-et, ezért szerinten nincs megoldása. A második kongruenciához helyesen kiszámolta, hogy (18,482)=2 nem osztja 17-et, így nem létezik megoldás, és az euklideszi algoritmus lépéseit is megmutatta.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyes módszert alkalmazott (gcd-elosztóság vizsgálata, szükség esetén invers kiszámítása), és a második kongruenciához helyes végeredményt ottense. Az első kongruenciában csak a modulusot másolta hibásan (OCR-hiba), így a módszer és az eredmény helyes lenne a helyes modulusra is.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+Az első congruenciában a diák 247-et írt 297 helyett, valószínű OCR-hiba; ez nem befolyásolja a módszer helyességét.

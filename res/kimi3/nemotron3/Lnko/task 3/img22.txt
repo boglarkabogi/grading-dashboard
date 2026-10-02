@@ -1,0 +1,16 @@
+Feladat: Keresd meg 216 és 203 legnagyobb közös osztóját.
+Helyes megoldás: 1
+
+Diák végeredménye: 1
+Diák megoldása (összefoglalva):
+A diák euklideszi algoritmust alkalmazta, sorban osztva a nagyobb számot a kisebb maradékkal, majd a maradékot az előző osztóval,直至 a maradék nulla válik; az utolsó nem nulla maradék 1, ezért a legnagyobb közös osztó 1.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyes módszert (euklideszi algoritmus) használt és helyes végeredményt (1) ért el, így teljes pontot kap.
+
+Modell magabiztossága: 100/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+Az OCR-ös szöveg jól olvasható, nincs jele a 7/1 confusion‑ra.

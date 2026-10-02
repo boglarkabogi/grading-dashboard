@@ -1,0 +1,16 @@
+Feladat: Keresd meg 217 és 206 legnagyobb közös osztóját.
+Helyes megoldás: 1
+
+Diák végeredménye: 1
+Diák megoldása (összefoglalva):
+A diák a Euclid-algoritmust alkalmazta, sorban elosztva a nagyobb számot a kisebbjével és maradékát felhasználva a következő lépés állapotaként, míg a maradék 0 töréssel érte el.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyes módszert (Euclid) alkalmazott, és a végső nem nullás maradék 1 volt, tehát a legnagyobb közös osztó helyesen kiadva.
+
+Modell magabiztossága: 98/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

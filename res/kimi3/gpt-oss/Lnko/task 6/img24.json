@@ -1,0 +1,15 @@
+{
+  "feladat": "Keresd meg 217 és 206 legnagyobb közös osztóját.",
+  "helyes_megoldas": "1",
+  "diak_vegeredmenye": "1",
+  "diak_megoldasa_osszefoglalva": "A diák az egylépcső‑es Móric algoritmust használva számolta a maradékokat: 217=1*206+11, 206=18*11+8, 11=1*8+3, 8=2*3+2, 3=1*2+1, így a legnagyobb közös osztó a maradék 1.",
+  "pont": 1,
+  "indoklas": "A diák megfelelő módszerrel dolgozott egyértelműen, a lépések helyesek és a végeredmény 1, ami a feladat helyes megoldása.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "Nincs nyilvánvaló OCR‑hiba.",
+  "model": "openai/gpt-oss-20b"
+}

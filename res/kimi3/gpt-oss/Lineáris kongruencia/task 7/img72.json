@@ -1,0 +1,15 @@
+{
+  "feladat": "13x ≡ 19 mod 414 és 20x ≡ 6 mod 412",
+  "helyes_megoldas": "13x ≡ 19 mod 414 esetén x ≡ 97 mod 414. 20x ≡ 6 mod 412 esetén nem létezik megoldás.",
+  "diak_vegeredmenye": "x ≡ -3629 mod 414; 20x ≡ 6 mod 412: nincs megoldás",
+  "diak_megoldasa_osszefoglalva": "A hallgató Először ellenőrizte a GCD-t, majd Extended Euclid–tel meghatározta az 13 tang. Invertálót –191, majd ezt megszorozta 19-gyel, végül a mod 414–al. A második egyenlethez a GCD 4 volt, ami nem osztja 6-ot, ezért megoldás hiányzik.",
+  "pont": 1,
+  "indoklas": "A diák helyes módszert használta és a végeredményt is helyesen adta meg (a megadott osztás mod 414‑ben megegyezik a kisírt 97-modos megoldással).",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

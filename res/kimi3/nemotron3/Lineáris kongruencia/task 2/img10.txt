@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 12x ≡ 8 (mod 259) és 16x ≡ 13 (mod 314)
+Helyes megoldás: Első kongruencia: x ≡ 87 (mod 259), tehát x = 87 + 259k (k∈ℤ). Második kongruencia: nincs megoldás, mert gcd(16,314)=2 nem osztja 13-at.
+
+Diák végeredménye: x = 87 + k·259 (k∈ℤ); 2.) nincs megoldás.
+Diák megoldása (összefoglalva):
+A diák először eldönti, hogy (12,259)=1, így a kongruencia egyértelműenoldható; osztás által 3x≡2 (mod 259) után a mareszt használatával x≡87 (mod 259)-et kap. A második kongruenciánál számolja (16,314)=2, és mivel 2∤13, entidadul kein megoldás esiste.
+
+Pontszám: 1/1
+Indoklás:
+
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: nem
+
+Megjegyzés:
+-

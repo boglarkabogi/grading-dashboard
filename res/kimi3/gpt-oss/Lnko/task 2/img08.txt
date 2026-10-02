@@ -1,0 +1,16 @@
+Feladat: Keresi meg 213 és 300 legnagyobb közös osztóját.
+Helyes megoldás: 3
+
+Diák végeredménye: 3
+Diák megoldása (összefoglalva):
+A diák az Egyesült algoritmust alkalmazta: 300 és 213 derékében a maradékok minden lépésnél lettek kiszámítva, így meghatározva, hogy a maradék 3 lesz a legnagyobb közös osztó.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyes módszert (Euklidészi algoritmus) használta, és a végső eredmény is helyes.
+
+Modell magabiztossága: 100/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 13x ≡ 19 (mod 414) és 20x ≡ 6 (mod 412)
+Helyes megoldás: x ≡ 97 (mod 414); 20x ≡ 6 (mod 412) nem megoldható
+
+Diák végeredménye: x ≡ 3629 (mod 414); 20x ≡ 6 (mod 412) nem megoldható
+Diák megoldása (összefoglalva):
+A diák kiterjesztett eukleidész algoritmust használva megtalálta a Bezout‑együtthatók, majd skálázva kapott egyedi megoldást az első kongrenciához, és a másodikat azt mondta, hogy mert a maradék nem osztható a Legközös osztójával, nincs megoldás.
+
+Pontszám: 0.5/1
+Indoklás:
+A módszer helyes (kiterjesztett eukleidész), de az első kongrenciájának végeredményénél előjelhiba történt (pozitiválta –191‑t), így a végeredmény hamis; a második kongrenciában a diák helyesen azonosította, hogy nincs megoldás.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+Az első kongrenciájában a diák előjelhibát követte el: –191·19 = –3629 helyett 3629‑et írt, így a végső maradék helytelen.

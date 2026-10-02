@@ -1,0 +1,15 @@
+{
+  "feladat": "19x = 14 mod 297 és 18x = 17 mod 482",
+  "helyes_megoldas": "19x ≡ 14 (mod 297) → x ≡ 32 (mod 297). 18x ≡ 17 (mod 482) nem megoldható, mert a jobb oldalon 17 nem osztható a gcd(18,482)=2-vel.",
+  "diak_vegeredmenye": "-1750 (amely ≡32 (mod 297)) és a második egyenletre nem létezik megoldás.",
+  "diak_megoldasa_osszefoglalva": "A diák először a Bézout egyenletek szeretetűbb lépéseit hajtotta végre a 19x+297y=1 halmazban, majd egyszerűtett le: x=(-1750). A második egyenletben meghatározta a gcd-t (2), és helyesen konstátolta, hogy nincs megoldás.",
+  "pont": 1,
+  "indoklas": "A diák a megoldási módszer helyes, és mindkét egyenlet végeredménye meghatározott szempontjából helyes. Az első egyenlet megadott x értéke –1750 egyikérő megoldás, ami 32 mod 297. A második egyenlet miatt nem létezik megoldás, amit a diák is helyesen jelez.",
+  "magabiztossag": 90,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

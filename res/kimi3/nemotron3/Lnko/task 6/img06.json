@@ -1,0 +1,15 @@
+{
+  "feladat": "Keresd meg 217 és 206 legnagyobb közös osztóját.",
+  "helyes_megoldas": "1",
+  "diak_vegeredmenye": "1",
+  "diak_megoldasa_osszefoglalva": "A diák euklideszi algoritmust alkalmazott, szöveget és maradékokat soroljącáig 0-ra ért, végül 1-et kapva osztójának.",
+  "pont": 1,
+  "indoklas": "A diák helyes módszert (euklideszi algoritmus) alkalmazott, a lépések OCR-zajossá pesaráltak, de a végeredmény 1, ami egyezik a helyes megoldással.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

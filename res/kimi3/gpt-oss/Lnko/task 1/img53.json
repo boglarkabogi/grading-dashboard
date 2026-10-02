@@ -1,0 +1,15 @@
+{
+  "feladat": "Kerese meg 213 és 200 legnagyobb közös osztóját.",
+  "helyes_megoldas": "1",
+  "diak_vegeredmenye": "1",
+  "diak_megoldasa_osszefoglalva": "A diák az Európai algoritmust alkalmazta. Sorban határozta meg a maradékokat 213,200, 200,13, 13,5, 5,3, 3,2 és 2,1 lépésekkel. Ebből a legnagyobb közös osztó 1 lesz.",
+  "pont": 1,
+  "indoklas": "A diák helyesen alkalmazta az Euclid-i algoritmust, és a végső utolsó nem nullát alkotó maradék 1, ami a legnagyobb közös osztó. Mind a módszer, mind a végeredmény helyes.",
+  "magabiztossag": 100,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

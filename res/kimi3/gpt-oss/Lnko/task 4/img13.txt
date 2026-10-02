@@ -1,0 +1,16 @@
+Feladat: Keresd meg 216 és 205 legnagyobb közös osztóját.
+Helyes megoldás: 1
+
+Diák végeredménye: 1
+Diák megoldása (összefoglalva):
+A diák a kiterjesztett egyetemes algoritmust alkalmazta, felsorolta a maradékokat, hányadosokat, és úgy értelmezte a végeredményt, hogy a legnagyobb közös osztó 1.
+
+Pontszám: 1/1
+Indoklás:
+Az eljárás (újraértékelt egyetemes metódus) helyes, a lépések koherensek, és a végső eredmény is pontosan 1.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+—

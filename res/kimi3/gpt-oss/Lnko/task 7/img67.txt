@@ -1,0 +1,16 @@
+Feladat: Keresd meg 218 és 201 legnagyobb közös osztóját.
+Helyes megoldás: A 218 és 201 legnagyobb közös osztója 1.
+
+Diák végeredménye: 1
+Diák megoldása (összefoglalva):
+A diák a kétegyébben a maradékok sorozatát felhasználva próbált elemezni, de a 14=4*3+hibás maradék=1 eljárásról fellépett hibát. Mégis a végeredmény 1 lett.
+
+Pontszám: 0.75/1
+Indoklás:
+A diák helyes eredményt kapott, de az algoritmus lépéseiben hibát vétett a 14-3 szabálykörben. A módszer tehát nem teljesen helyes, de a végeredmény megfelel.
+
+Modell magabiztossága: 90/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

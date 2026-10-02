@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 11x ≡ 2 (mod 238) és 16x ≡ 15 (mod 490)
+Helyes megoldás: Nincs megoldás, mert a második kongruencia 16x ≡ 15 (mod 490) nem rendelkezik megoldás (gcd(16,490)=2, ami nem osztja 15-t).
+
+Diák végeredménye: x ≡ 130 (mod 238); a második kongruencia nem rendelkezik megoldás (nincs megoldás).
+Diák megoldása (összefoglalva):
+A diák először kiszámolta az 11x ≡ 2 (mod 238) kongruenciát, megtalálta az inverzét 65-t, így x ≡ 130 (mod 238). Majd a 16x ≡ 15 (mod 490) kongruenciánál kiszámolta a gcd(16,490)=2-et, és mivel 2∤15, nem talált megoldást.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyes módszert alkalmazott mindkét kongruencia esetén: az elsőben kiszámolta a modular Inverzrt, helyes végeredményt kap; a másodikban megfelelően azonosította, hogy a gcd nem osztja a jobb oldalt, így helyesen déterminálta, hogy nincs megoldás. A végső következtetés (a rendszer nem rendelkezik megoldással) is helyes.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

@@ -1,0 +1,15 @@
+{
+  "feladat": "Keresd meg 218 és 202 legnagyobb közös osztóját.",
+  "helyes_megoldas": 2,
+  "diak_vegeredmenye": 2,
+  "diak_megapozlalva": "A diák a lebegő töréses hatvány-key Euclid-féle algoritmust használta: először 218 és 202. majd 202 és a maradék 16, ezután 16 és 10, 10 és 6, 6 és 4, 4 és 2. Végül, amikor a maradék nulla lett, a legutóbbi nem nulla maradék, a 2, az a legnagyobb közös osztó.",
+  "pont": 1,
+  "indoklas": "A diák helyesen alkalmazta az Euclid-algoritmust, csökkentve a maradékokat pontonként, és végül helyesen kapta meg a legnagyobb közös osztót: 2.",
+  "magabiztossag": 100,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

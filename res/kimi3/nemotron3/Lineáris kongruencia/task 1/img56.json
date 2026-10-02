@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 19x ≡ 16 mod 470 és 16x ≡ 5 mod 202",
+  "helyes_megoldas": "Első kongruencia: x ≡ 174 (mod 470). Második kongruencia: megoldás nem létezik, mivel gcd(16,202)=2 nem osztja 5-t.",
+  "diak_vegeredmenye": "x ≡ 174 (mod 470); második kongruencia: nincs megoldás",
+  "diak_megoldasa_osszefoglalva": "Az első kongruenciához kiszámította 19 opposite inverzét 99‑nek, majd 99·16 mod 470 = 174‑et kapott. A második kongruenciához megtalálta, hogy (16,202)=2, de 2∤5, ezért szerintük nincs megoldás.",
+  "pont": 1,
+  "indoklas": "A diák helyes módszert használta (inversa kiszámítása és gcd feltétel ellenőrzése) és helyes végeredményeket kapta mindkét kongruenciára.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "Az OCR-ben észrevehető formázási problémák (pl. \\frac{394\\cdot 19}{6}) nem befolyásolják a végeredményt, így a pont nem csökkent.",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

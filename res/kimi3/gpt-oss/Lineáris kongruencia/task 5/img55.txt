@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 13x ≡ 13 mod 409 és 12x ≡ 7 mod 302
+Helyes megoldás: 13x ≡ 13 mod 409  →  x ≡ 1 mod 409  (az egyetlen megoldás: x = 1 + 409·k, k∈ℤ). 12x ≡ 7 mod 302  →  nincs megoldás, mivel a gcd(12,302)=2 nem osztja a 7-et.
+
+Diák végeredménye: x = 1 + 409·k  és  nincs megoldás a második egyenletnek
+Diák megoldása (összefoglalva):
+A diák egyesével alkalmazta az extended Euclid újra–használatát; az első egyenletben 63‑öt kapott a Bézout-tagból, majd azt megszorozta 13-mal, majd modulo 409-re redukálta, így 1 kapott. A második egyenlethez meghatározta, hogy a gcd 2, ami nem osztja a 7-et, ezért így tudta eldönteni, hogy nincs megoldás.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyes módszert alkalmazott (ext. Euclid), és a végeredmény (x ≡ 1 mod 409, no solutions for second) helyes. A levezetés néhány kis hibával rendelkezik, de a végleges eredmény és a módszer teljesen megfelelő.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

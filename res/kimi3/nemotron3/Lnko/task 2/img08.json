@@ -1,0 +1,15 @@
+{
+  "feladat": "Keresi meg 213 és 300 legnagyobb közös osztóját.",
+  "helyes_megoldas": "3",
+  "diak_vegeredmenye": "3",
+  "diak_megoldasa_osszefoglalva": "Az euklideszi algoritmust alkalmazva 300-oszt 213 maradéka 87, ezután 213-oszt 87 maradéka 39, 87-oszt 39 maradéka 9, 39-oszt 9 maradéka 3, végül 9-oszt 3 maradéka 0, így a legnagyobb közös osztó 3.",
+  "pont": 1,
+  "indoklas": "A diák helyesen alkalmazta az euklideszi algoritmust és helyes eredményet (3) kapta; a intermediates OCR-jelek (pl. ~~23~~) nem változtatják el a módszert.",
+  "magabiztossag": 100,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A ~~23~~ jel valószínűleg OCR-artifact, de nem érinti a megoldás helyességét.",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

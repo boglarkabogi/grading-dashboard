@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 13x ≡ 19 mod 414 és 20x ≡ 6 mod 412",
+  "helyes_megapadalo": "13x ≡ 19 mod 414 megoldás: x ≡ 97 mod 414. 20x ≡ 6 mod 412 nincs megoldó, mert a gcd(20,412)=4, de 4 nem osztja 6.",
+  "diak_vegeredmenye": "x ≡ 97 mod 414; (20,412)=4, solution would exist if 6 were divisible by 4",
+  "diak_megapadasa_osszefoglalva": "A diák az egyes kongruenciákhoz először kiszámította a gcd-t, és a 13x esetében végzett egyes számjegye csökkentésével megtalálta az 13 együttható inverzét. Ezzel szorozta 19-gyel a kapott inverzt, így a 97 értéket adta meg. A 20x αfeladásnál csak a gcd értékét és a megoldhatóság feltételét jelölte, de a konkrét „nincs megoldó” következtetést nem fogalmazta meg.",
+  "pont": 0.5,
+  "indoklas": "Az első kongruencia helyesen lett megoldva a metódussal és a végső eredménnyel. A második kongruencia köztes lépései helyesek, de a diák nem nyújtott le a végső következtetésre, ezért részben helyes, ami 0,5 pontot ér.",
+  "magabiztossag": 80,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

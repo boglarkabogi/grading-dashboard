@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 7x ≡ 14 mod 343 és 16x ≡ 5 mod 346
+Helyes megoldás: 7x ≡ 14 mod 343: a megoldókészlet x = 2 + 49k, k ∈ Z. 16x ≡ 5 mod 346: nincs megoldás, mert a dziv weg(16,346)=2, és 2 nem osztja 5-et.
+
+Diák végeredménye: x = 2 + 49k; nincs x ami megoldja
+Diák megoldása (összefoglalva):
+A diák a 7x≡14 mod 343 példánál először kiszámította a legnagyobb közös osztót 7, majd elosztva a két oldalát és a modulusot, így kapott x=2+49k. A 16x≡5 mod 346 esetén megtalálta a gcd=2, és jelezte, hogy 2 nem osztja 5-öt, ezért nincs megoldás.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyes módszert alkalmazott, mindkét egység helyes, és a végeredmények is megfelelnek a helyes megoldásnak.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+A megadott levezetés és eredmények helyesek, nincs jelezhető OCR hiba.

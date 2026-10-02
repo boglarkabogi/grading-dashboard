@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 19x ≡ 14 mod 297 és 18x ≡ 17 mod 482
+Helyes megoldás: Az első kongruencia megoldása: x ≡ 32 (mod 297). A második kongruencia nem possède megoldást, mivel (18,482)=2 nem osztja össze 17-et.
+
+Diák végeredménye: x ≡ 32 (mod 297); second: nincs megoldás
+Diák megoldása (összefoglalva):
+A diák kiszámolta az 19 és 297 legnagyobb közös osztóját, expandált euklideszi algoritmussal az 19 inverzét 172‑nekpravította, majd 14‑mel szorzva x ≡ 32 mod 297‑et kapott. A második esetben az (18,482)=2‑t találta, mivel 2 nem osztja 17‑et, ilyenkor megoldás nincs.
+
+Pontszám: 1/1
+Indoklás:
+A diák módszere helyes (obsztruktus inverz kiszámítása, gcd‑vizsgálat), és mindkét végeredmény (x ≡ 32 mod 297, és a második kongruencia megoldhatatlansága) pontos.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+Az OCR‑szöveg olvasható, geen 7/1‑benyonyanosságnak nincs jele.

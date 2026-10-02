@@ -1,0 +1,16 @@
+Feladat: Keresd meg 219 és 205 legnagyobb közös osztóját.
+Helyes megoldás: 1
+
+Diák végeredménye: 1
+Diák megoldása (összefoglalva):
+A diák euklidés algoritmust alkalmazott, sorban kiszámította a maradékokat: 219 mod 205 = 14, 205 mod 14 = 9, 14 mod 9 = 5, 9 mod 5 = 4, 5 mod 4 = 1, 4 mod 1 = 0, így a legutolsó nem‑nulla maradék 1, vagyis a legnagyobb közös osztó 1.
+
+Pontszám: 1/1
+Indoklás:
+A módszer helyes (euklidés algoritmus), a végeredmény is helyes (1).
+
+Modell magabiztossága: 100/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

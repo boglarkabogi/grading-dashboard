@@ -1,0 +1,15 @@
+{
+  "feladat": "7x ≡ 12 mod 313 és 20x ≡ 5 mod 454",
+  "helyes_megoldas": "7x≡12 mod 313 → x≡270 mod 313; 20x≡5 mod 454 nincs megoldás",
+  "diak_vegeredmenye": "x≡270 mod 313, nincs megoldás a második egyenlethez",
+  "diak_megoldasa_osszefoglalva": "A diák kulcskontextusban a 7 és 313 közötti kiterjesztett Euklid tételet alkalmazta, meghatározta az 7 inverst (179), majd szorozgatott az eredménnyel, hogy megállapítsa x≡270 mod 313. A második egyenlet esetében kiszámolta a GCD-t, és helyesen jelezte, hogy nincs megoldás",
+  "pont": 1,
+  "indoklas": "A megoldás helyes módszert használ és pontos végeredményt ad mindkét tagozatban. A levezetésben eszközülő ellenőrzést minden lépésről tudni lehet, szóval a teljes pontot nyeri.",
+  "magabiztossag": 90,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

@@ -1,0 +1,15 @@
+{
+  "feladat": "Keresd meg 218 és 201 legnagyobb közös osztóját.",
+  "helyes_megoldas": "1",
+  "diak_vegeredmenye": "1",
+  "diak_megoldasa_osszefoglalva": "A diák az euklideszi algoritmust alkalmazta: 218=201·1+17, majd helytelenül feltételezte 201=17·12+3, végül a maradékokkal megállapította, hogy a legnagyobb közös osztó 1.",
+  "pont": 0.25,
+  "indoklas": "A diák használta az euklideszi algoritmust, de a második osztási lépése (201=17·12+3) hibás. Ilyen hiba nem a végeredményt befolyásolta, de az algoritmus pontossága sérült, ezért 0.25 pont kap.",
+  "magabiztossag": 85,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

@@ -1,0 +1,14 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 12x ≡ 8 (mod 259) és 16x ≡ 13 (mod 314)",
+  "helyes_megoldas": "Első kongruencia: x ≡ 87 (mod 259), tehát x = 87 + 259k (k∈ℤ). Második kongruencia: nincs megoldás, mert gcd(16,314)=2 nem osztja 13-at.",
+  "diak_vegeredmenye": "x = 87 + k·259 (k∈ℤ); 2.) nincs megoldás.",
+  "diak_megoldasa_osszefoglalva": "A diák először eldönti, hogy (12,259)=1, így a kongruencia egyértelműenoldható; osztás által 3x≡2 (mod 259) után a mareszt használatával x≡87 (mod 259)-et kap. A második kongruenciánál számolja (16,314)=2, és mivel 2∤13, entidadul kein megoldás esiste.",
+  "pont": 1,
+  "magabiztossag": 95,
+  "ertelezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

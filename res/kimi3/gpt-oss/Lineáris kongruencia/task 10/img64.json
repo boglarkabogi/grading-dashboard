@@ -1,0 +1,15 @@
+{
+  "feladat": "7x ≡ 8 (mod 340) és 16x ≡ 15 (mod 330)",
+  "helyes_megoldas": "a) x ≡ 244 (mod 340) (azaz x = 244 + 340k, k ∈ Z). b) Nincs megoldás, mert a gcd(16,330)=2 nem osztja 15-öt.",
+  "diak_vegeredmenye": "x = 244 + 340k; nincs megoldás",
+  "diak_megoldasa_osszefoglalva": "A diák az euklidészi algoritmust használva megtalálta a 7 és 340 közti kombinációt (–97), majd x = 8·(–97) = 244 (mod 340). A második esetben jelzett, hogy a gcd 2 nem osztja 15-et, ezért a kongruenciahez nincs megoldás.",
+  "pont": 1,
+  "indoklas": "A diák helyesen alkalmazta az euklidészi algoritmust, pontosan meghatározta a megoldást a tetszőleges egész khez viszonyítva, és helyesen szólította meg a második, nem megoldható egyenletet.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

@@ -1,0 +1,15 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 13x ≡ 13 mod 409 és 12x ≡ 7 mod 302
+Helyes megoldás: -
+
+Diák végeredménye: x ≡ 13*63
+No solution
+
+Pontszám: 1/1
+Indoklás:
+The student applied the correct method for both congruences and provided valid solutions. The first solution x = 13*63 is an equivalent representative of 1 mod 409, and the second conclusion of no solution is correct. No significant errors were present.
+
+Modell magabiztossága: 100/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

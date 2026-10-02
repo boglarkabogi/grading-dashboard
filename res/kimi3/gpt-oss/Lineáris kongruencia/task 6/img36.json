@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 7x ≡ 14 (mod 343) és 16x ≡ 5 (mod 346)",
+  "helyes_megoldas": "7x ≡ 14 (mod 343) ad ód 2 ≡ x (mod 49), tehát x = 49k+2, káll áll ább, ügyve, hogy általunk maradnak 7 megoldás: 2, 51, 100, 149, 198, 247, 296 (mod 343). 16x ≡ 5 (mod 346) nincsen megoldása, mivel gcd(16,346)=2 nem oszthatja 5-et.",
+  "diak_vegeredmenye": "x ≡ 2 (mod 49) és nincs megoldás",
+  "diak_megoldasa_osszefoglalva": "A diák Euclid-teszthet használt a gcd meghatározására, majd a eőb kifejezés alapján által felhasznált a megoldás lépéseit - az összét a összefoglalva általad felfedi: az egyenletek értelme\nKiválaszthasd. Az összefoglaló összesen megadja, hogy a 7x normalizálásá velől kiszámoltunk egyedésséget 49-modulos maradéssőre, miképpensában a 16x nem osztható a 346 módulumban. ",
+  "pont": 1,
+  "indoklas": "A diák helyesen kiszámolta a gcd-t, helyes modszolgát őjárt nyitott, illetve készben okos lépői megjegyzéssel a 16x ≡ 5 értelmező nincs megoldása helyes megvalósítót mondta. A készlet a végeredmény és a módszer ágül tölés, melynek árvonálta, újal tovább írás.\n",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

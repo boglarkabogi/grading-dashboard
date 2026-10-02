@@ -1,0 +1,15 @@
+{
+  "feladat": "Keresd meg 219 és 180 legnagyobb közös osztóját.",
+  "helyes_megoldas": "3",
+  "diak_vegeredmenye": "3",
+  "diak_megoldasa_osszefoglalva": "A diák az euklideszi algoritmust alkalmazva successive osztások sorozata során a maradék 0-t elérésével a legnagyobb közös osztót 3-nek találta.",
+  "pont": 1,
+  "indoklas": "A diák helyesen használta az euklideszi algoritmust, a lépések helyesek, és a végeredmény a dobozolt 3, ami a valódi LNKO egyezéséül.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A kezdő sorban előforduló $(180,190)=3$ hibás, de ez nem befolyásolja az algoritmus helyességét.",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

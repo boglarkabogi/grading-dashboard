@@ -1,0 +1,15 @@
+{
+  "feladat": "12x ≡ 8 mod 259 és 16x ≡ 13 mod 314",
+  "helyes_megoldas": "12x ≡ 8 mod 259  →  x ≡ 87 (mod 259); 16x ≡ 13 mod 314  nem 1–et átszámítmények miatt nincs megoldás",
+  "diak_vegeredmenye": "x_0=864 + 259t  (t∈ℤ) ;  x_t=(59*13/2)+157t  (t∈ℤ)",
+  "diak_megoldasa_osszefoglalva": "A diák az egyes kongruenciákhoz ráoldó egyenleteket állított fel, majd a körképzés alapján Extended Euclid‑el talált toplást és választott egy tetszőleges megoldást. Az első esetben adott 108 * (8/1)=864, míg a második esetben hibásan \n13/2-t használva \n59*(13/2) terméket. ",
+  "pont": 0.5,
+  "indoklas": "Az első feladatot helyesen oldotta meg (bár nem állította be a legkisebb modulát), de a második feladat nem rendelkezik egész megoldással, ezért a diák megoldása ...",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A 16x ≡ 13 mod 314 nem megoldható, mert a gcd(16,314)=2 nem osztja a jobb oldalt.",
+  "model": "openai/gpt-oss-20b"
+}

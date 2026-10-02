@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 17x ≡ 17 mod 375 és 19x ≡ 9 mod 358",
+  "helyes_megoldas": "x ≡ 1 (mod 375) és x ≡ 57 (mod 358), tehát x = 1 + 375k, k∈Z és x = 57 + 358k, k∈Z",
+  "diak_vegeredmenye": "a) x = 1 + 375ℓ, ℓ∈Z; b) x = 57 + 358ℓ, ℓ∈Z",
+  "diak_megoldasa_osszefoglalva": "A diák mindkét kongruenciát kiterjesztett euklideszi algoritmust használva oldotta meg, Bezout-korrekciós együtthatókat determinado, majd a különleges megoldásból az általánosat kifejezte.",
+  "pont": 1,
+  "indoklas": "A diák helyes módszert alkalmazte (kiterjesztett euklideszi algoritmus) és helyes végeredményt kapta mindkét felastre, így teljes pontot ér el.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "Az OCR szöveg értelmezhető, nem észleltem 7/1 vagy egyéb OCR-hibát.",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

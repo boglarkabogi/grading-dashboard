@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 12x ≡ 8 (mod 259) és 16x ≡ 13 (mod 314)
+Helyes megoldás: 12x ≡ 8 (mod 259) => x ≡ 87 (mod 259); 16x ≡ 13 (mod 314) nem rendelkezik megoldás, mert gcd(16,314)=2, és 2∤13; így a rendszernek nincs megoldása.
+
+Diák végeredménye: Első kongruencia: x = 864 - 259k (k ∈ Z, 0 ≤ k ≤ 3), vagy ekvivalenty x ≡ 864 (mod 259); második kongruencia: nincs megoldás, mert gcd(16,314)=2 nem osztja 13-at.
+Diák megoldása (összefoglalva):
+A diák gyors euklidés algoritmus segítségével oldotta meg az első kongruenciát, egy konkrét megoldásként 864-et kapva, majd a modulusal réducióra kapta, hogy x ≡ 864 (mod 259). A második kongruenciánél kiszámolta, hogy gcd(16,314)=2, és mivel 2 nem osztja 13-at, megadott, hogy megoldás nem létezik.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyes módszert alkalmazott beide kongruenciákhoz: az elsőnek a lineáris diofantoszt egyenlet módszerrel talált reversed, a másodiknak a gcd vizsgálatával biztosította, hogy megoldás nem létezik. A végeredmények is helyesek (x ≡ 87 (mod 259) és nincs megoldás a másodikhoz), így teljes pontot ér el.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

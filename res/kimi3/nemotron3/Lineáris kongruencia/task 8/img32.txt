@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 7x ≡ 12 (mod 313) és 20x ≡ 5 (mod 454)
+Helyes megoldás: x ≡ 270 (mod 313); a 20x ≡ 5 (mod 454) kongruencia nem oldható mert gcd(20,454)=2 nem osztja 5-t
+
+Diák végeredménye: x ≡ 270 (mod 313); a 20x ≡ 5 (mod 454) kongruencia nem oldható
+Diák megoldása (összefoglalva):
+A diák az eucklid algoritmus segítségével megtalálta 7 reversz elemet 313-modulussal, kapva x ≡ 270 (mod 313). A második kongruenciánál gcd(20,454)=2-t számolt, majd mert 2 nem osztja 5-t, korrekt en uznaa, hogy nincs megoldás.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyesen alkalmazta a kiterjesztett eucklid algoritmust az első kongruenciahoz, helyes inverzet és végeredményt kapott; a második kongruenciánál helyesen kiszámolta a gcd-t és megfelelően megalapozta, hogy nincs megoldás, ezért a teljes megoldás helyes.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

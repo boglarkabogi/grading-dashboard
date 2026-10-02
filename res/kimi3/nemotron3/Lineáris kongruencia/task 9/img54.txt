@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 19x ≡ 14 (mod 297) és 18x ≡ 17 (mod 482)
+Helyes megoldás: Nincs megoldás, mert a második kongruencia 18x ≡ 17 (mod 482) nem rendelkezik megoldás, mivel gcd(18,482)=2 nem osztja 17-t.
+
+Diák végeredménye: nincs megoldás
+Diák megoldása (összefoglalva):
+Az első kongruenciára rozšílt euklideszi algoritmus segítségusten x ≡ 32 (mod 297)-t kapott; a második kongruenciára gcd(18,482)=2 têti, mivel 2∤17, ezért nincs megoldás, így a rendszernek sincs megoldása.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyes módszert alkalmazott beide kongruenciákra: az elsőre modular inverzni kiszámítva, a másodikra oszthatósági feltételt ellenőrzve, és helyesen arra a következtetésre jutott, hogy a rendszer nem rendelkezik megoldással.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+A táblázatokban occasional OCR-fürdés (-16\ 47) esiintyy, de nem befolyásolja a megoldás értékelését.

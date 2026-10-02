@@ -1,0 +1,16 @@
+Feladat: Keresd meg 219 és 180 legnagyobb közös osztóját.
+Helyes megoldás: 3
+
+Diák végeredménye: 3
+Diák megoldása (összefoglalva):
+A diák az egéssz körüli Euklidészi algoritmust alkalmazta; sorban szorzákat és maradékokat számolt, majd a maradék nulla előtti értékre, a 3-ra jutott.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyes módszert használta (Euklidészi algoritmus), és a végeredmény (3) teljesen helyes.
+
+Modell magabiztossága: 100/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

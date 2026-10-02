@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 11x ≡ 2 mod 238 és 16x ≡ 15 mod 490",
+  "helyes_megoldas": "Az első kongruencia megoldása: x ≡ 130 (mod 238). A második kongruencia nem megoldható, mert gcd(16,490)=2 nem osztja 15-t. Ezért a rendszernek nincs megoldása.",
+  "diak_vegeredmenye": "Első kongruencia: 11·62 ≡ 2 (mod 238) (azaz x ≡ 62 (mod 238)); második kongruencia: nem megoldható.",
+  "diak_megoldasa_osszefoglalva": "Az első kongruenciahoz kiterjesztett euklideszi algoritmust alkalmazvaottenik egy Bézout‑együtthatót, de a számításban hibát követték, így hibás eredményt kapnak. A második kongruenciahoz helyesen megállapítják, hogy gcd(16,490)=2 nem osztja 15‑et, ezért nem megoldható.",
+  "pont": 0.75,
+  "indoklas": "A módszer helyes (kiterjesztett euklidesz és gcd‑vizsgálat), de az első kongruencia végeredményébeli számíthatasi hiba miatt (x=62 helyett x=130 kellene) csak parcialmente helyes a megoldás; a második rész pontatlanul helyes.",
+  "magabiztossag": 85,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A táblázat sorrendje és az x_i értékei OCR‑hibákból erednek, így a 62 helyett a helyes 65 kellett volna szerepelni.",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

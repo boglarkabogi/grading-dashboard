@@ -1,0 +1,15 @@
+{
+  "feladat": "12x \\equiv 8 \\bmod 259 és 16x \\equiv 13 \\bmod 314",
+  "helyes_megoldas": "12x \\equiv 8 \\bmod 259 : x \\equiv 87 \\bmod 259; 16x \\equiv 13 \\bmod 314 : nincs megoldás",
+  "diak_vegeredmenye": "12x \\equiv 8 \\bmod 259 -> x = 864 + 259t (azaz x \\equiv 87 \\bmod 259); 16x \\equiv 13 \\bmod 314 -> nincs megoldás",
+  "diak_megoldasa_osszefoglalva": "A diák mutatta a gcd és a kiterjesztett egyölgység lépéseit, majd helyes módon kiszámolta az 12-nak inverzét, és alkalmazta a megoldást, illetve helyesen lezárta, hogy a második kongruenciának nincs megoldása.",
+  "pont": 1,
+  "indoklas": "A diák módszere helyes volt (gcd, kiterjesztett egyölgység) és a végső eredmények is helyesek: x\\equiv87 mod259 és a második kongruencia nem rendelkezik megoldással. A levezetésben nem voltak súlyos hibák, ezért teljes pont jár.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

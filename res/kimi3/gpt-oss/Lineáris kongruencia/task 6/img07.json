@@ -1,0 +1,15 @@
+{
+  "feladat": "7x ≡ 14 mod 343 és 16x ≡ 5 mod 346",
+  "helyes_megoldas": "Első: x = 2 + 49k, k egész. Második: nincs megoldás.",
+  "diak_vegeredmenye": "x = 2 + 49λ; nincs megoldás",
+  "diak_megoldasa_osszefoglalva": "Az első egyenletben 7-gyel osztva kapottuk x ≡ 2 mod 49. A másodikban 2 nem osztója 5, ezért nincs megoldás.",
+  "pont": 1,
+  "indoklas": "A diák helyesen alkalmazta a gcd‑elapozást, jól kiszámolta a megoldást az első egyenletre és helyesen mondta, hogy a másodiknál nincs megoldás. A végső eredmények mindkét esetben helyesek.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

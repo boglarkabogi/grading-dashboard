@@ -1,0 +1,15 @@
+{
+  "feladat": "Keresd meg 219 és 205 legnagyobb közös osztóját.",
+  "helyes_megoldas": "1",
+  "diak_vegeredmenye": "1",
+  "diak_megoldasa_osszefoglalva": "A diák az euklideszi algoritmust használva egymásosztásokat végrehajtva, a maradékok sorozata: 14, 9, 5, 4, 1, 0, így a Legközös osztó 1.",
+  "pont": 1,
+  "indoklas": "A diák minden lépését helyesen書き下しte, a maradékok megfelelnek az euklideszi algoritmusnak, és a utolsó nem nulla maradék 1, ezért a végeredmény helyes.",
+  "magabiztossag": 100,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

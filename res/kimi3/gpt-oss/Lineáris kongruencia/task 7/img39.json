@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 13x ≡ 19 mod 414 és 20x ≡ 6 mod 412",
+  "helyes_megoldas": "Az első kongruencia megoldása x ≡ 97 (mod 414). A második kongruencia nincs megoldása, mert 4 nem osztója a jobb oldatnak.",
+  "diak_vegeredmenye": "Az első kongurencia általános megoldása x = 3629 + 414t (t∈Z), a második nincs megoldása.",
+  "diak_megoldasa_osszefoglalva": "A diák az egyes lineáris egyenletekhez fellépő Bézout-számokat kereste, majd a kapott egész megoldásból próbált formálni egy általános megoldást. Az első egyenlet esetén hibásan adott a főlenszám, a második esetben helyesen észlelte a nem létező megoldást.",
+  "pont": 0.5,
+  "indoklas": "A diák megoldása helyes módszert alkalmaz, de az első kongurencia végeredménye hibás (hibás előjel miatt szűrővég). A második részt helyesen pontosította és leletezta a megoldásmentességet. Ez részleges helyességet jelent, ezért 0.5 pont.",
+  "magabiztossag": 90,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

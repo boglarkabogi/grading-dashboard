@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 17x ≡ 17 mod 375 és 19x ≡ 9 mod 358
+Helyes megoldás: x ≡ 1 (mod 375) és x ≡ 57 (mod 358), tehát x = 1 + 375k, k∈Z és x = 57 + 358k, k∈Z
+
+Diák végeredménye: a) x = 1 + 375ℓ, ℓ∈Z; b) x = 57 + 358ℓ, ℓ∈Z
+Diák megoldása (összefoglalva):
+A diák mindkét kongruenciát kiterjesztett euklideszi algoritmust használva oldotta meg, Bezout-korrekciós együtthatókat determinado, majd a különleges megoldásból az általánosat kifejezte.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyes módszert alkalmazte (kiterjesztett euklideszi algoritmus) és helyes végeredményt kapta mindkét felastre, így teljes pontot ér el.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+Az OCR szöveg értelmezhető, nem észleltem 7/1 vagy egyéb OCR-hibát.

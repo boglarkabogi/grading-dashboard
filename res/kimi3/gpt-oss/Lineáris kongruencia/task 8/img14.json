@@ -1,0 +1,15 @@
+{
+  "feladat": "oldja meg a lineáris kongruenciákat: 7x = 12 mod 313 és 20x = 5 mod 454",
+  "helyes_megoldas": "7x ≡ 12 (mod 313): a 7-nek inverze 179 mod 313, így x ≡ 179·12 ≡ 270 (mod 313). 20x ≡ 5 (mod 454): gcd(20,454)=2, mert 2 nem oszthatja 5, ezért a kongruencia nem rendelkezik megoldással.",
+  "diak_vegeredmenye": "x=270 és nincs megoldás a 20x ≡ 5 (mod 454) esetén",
+  "diak_megoldasa_osszefoglalva": "A diák a 7x feladatot Bézout‑egyenlettel oldotta meg, megtalálta a 7 inverzét és kiszámolta x=270. A 20x feladatnál helytelenül próbálta csökkenteni a modulust, de végül a gcd‑képesség ellenőrzésével megállapította, hogy nincs megoldás.",
+  "pont": 1,
+  "indoklas": "A diák mindkét kongruencia helyes megoldását adta ki, és a módszert – Bézout‑egyenlet a elsőnél, gcd‑ellenőrzés a másodikonál – helyesen alkalmazta a végeredményekhez. A 20x kontextusában a modulus csökkentés nem volt szükséges, de a végső konklúzió helyes volt, így nem levonható pont.",
+  "magabiztossag": 100,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

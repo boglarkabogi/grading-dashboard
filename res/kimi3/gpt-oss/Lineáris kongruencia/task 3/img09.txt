@@ -1,0 +1,16 @@
+Feladat: 11x ≡ 2 mod 238 és 16x ≡ 15 mod 490
+Helyes megoldás: x ≡ 130 mod 238; nincs megoldás a 16x ≡ 15 mod 490-hez
+
+Diák végeredménye: x ≡ 130 mod 238; nincs megoldás a második egyenlethez
+Diák megoldása (összefoglalva):
+A szöveg soros aegesztésen keresztül számításokat tettek. A 11x egyenlethez Extended Euclid táblával meghatározták az 11 inverzét (65), ezt szorozva 2-vel adják a megoldást 130. A 16x egyenlethez a GCD 2, de az 15 nem osztható 2-vel, tehát nincs megoldás.
+
+Pontszám: 1/1
+Indoklás:
+A tanuló helyes meghatározta a legnagyobb közös osztót, meghitette az inverzét és a nyitott congruencia megoldását, illetve helyesen jutott az érvénytelen második egyenletre. Módosítási hibákat vagy esetleges OCR hibákat nem észleltek.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

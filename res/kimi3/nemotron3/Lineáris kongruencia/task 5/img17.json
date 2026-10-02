@@ -1,0 +1,14 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 13x ≡ 13 (mod 409) és 12x ≡ 7 (mod 302)",
+  "helyes_megoldas": "Nem létezik megoldás; a második kongruencia nem oldható mert gcd(12,302)=2 nem osztja 7-t.",
+  "diak_vegeredmenye": "Mo.:∅",
+  "diak_megoldasa_osszefoglalva": "A diák kiterjesztett Euklideszi algoritmussal kereste az 13-os fordítóját modulo 409‑hez, így x≡1 (mod 409)-t kapott. Második kongruenciához kiszámolta az 12 és 302 legnagyobb közös osztóját (2), sees, hogy 2 nem osztja a jobb oldalt 7‑et, így ez a kongruencia megoldatlan, ezért a rendszer semmilyen x-et nem kielégít.",
+  "pont": 1,
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

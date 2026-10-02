@@ -1,0 +1,15 @@
+{
+  "feladat": "Keresd meg 217 és 201 legnagyobb közös osztóját.",
+  "helyes_megoldas": "1",
+  "diak_vegeredmenye": "1",
+  "diak_megoldasa_osszefoglalva": "A diák a lebegőpáratlan számú Euclid–algoritmust alkalmazta, lépésről lépésre a hányados és maradékok módosításával, amíg elérte a nullát, és így kijelentette, hogy a legnagyobb közös osztó 1.",
+  "pont": 1,
+  "indoklas": "A diák megfelel a helyes módszernek (Euclid algoritmus), és a végső eredmény 1, ami a valódi ggt(217,201) értéke. Nincs jelentős hibát tartalmazó lépés vagy hamis végeredmény.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

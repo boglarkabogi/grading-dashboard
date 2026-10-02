@@ -1,0 +1,15 @@
+{
+  "feladat": "Keresd meg 218 és 201 legnagyobb közös osztóját.",
+  "helyes_megoldas": "1",
+  "diak_vegeredmenye": "1",
+  "diak_megoldasa_osszefoglalva": "A diák euklideszi algoritmust alkalmazva sorozatosan elvégezte az osztásokat, és a maradék 0-nál utolsó nem nulla maradékként 1-et kapott.",
+  "pont": 1,
+  "indoklas": "A módszer helyes (Euklideszi algoritmus), a végeredmény is 1, az intermédiaires számolási hiba nem befolyásolja a végeredményt, ezért teljes pontot adunk.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "Az intermédiaires lépésben 14 = 4·3 + 1 helyett 2 měla maradékot, de ez nem OCR-hiba, és nem változtatta meg a végresultát.",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

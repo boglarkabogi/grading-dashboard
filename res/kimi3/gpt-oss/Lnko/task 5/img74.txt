@@ -1,0 +1,16 @@
+Feladat: Keresd meg 217 és 201 legnagyobb közös osztóját.
+Helyes megoldás: 1
+
+Diák végeredménye: 1
+Diák megoldása (összefoglalva):
+A diák az eurétiai algoritmust alkalmazta, a hányadosokat és maradékokat sorban felírva, végül a maradék 1 miatt megállapította, hogy a legnagyobb közös osztó 1.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyesen alkalmazta az eurétiai algoritmust, minden köztes lépés korrekt, és a végső eredménye megegyezik a helyes megoldással.
+
+Modell magabiztossága: 100/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

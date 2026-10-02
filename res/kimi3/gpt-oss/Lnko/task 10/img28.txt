@@ -1,0 +1,16 @@
+Feladat: Keresd meg 219 és 205 legnagyobb közös osztóját.
+Helyes megoldás: 1
+
+Diák végeredménye: 1
+Diák megoldása (összefoglalva):
+The student applied the Euclidean algorithm, repeatedly dividing to find remainders until the last nonzero remainder was 1, concluding the GCD is 1.
+
+Pontszám: 1/1
+Indoklás:
+The student correctly used the Euclidean algorithm and arrived at the correct GCD of 1.
+
+Modell magabiztossága: 100/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

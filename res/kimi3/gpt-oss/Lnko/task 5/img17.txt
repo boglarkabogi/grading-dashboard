@@ -1,0 +1,16 @@
+Feladat: Keresd meg 217 és 201 legnagyobb közös osztóját.
+Helyes megoldás: 1
+
+Diák végeredménye: 1
+Diák megoldása (összefoglalva):
+A diák a bemeneti számokra alkalmazt elegyenő Euclid-algoritmust, lépésről lépésre levezetve a maradékokat, és a végén a gcd-nek 1-nek jelölte.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyes módszert követett, minden lépés matematikailag helyes, és a végeredmény egyezik a helyes megoldással.
+
+Modell magabiztossága: 90/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

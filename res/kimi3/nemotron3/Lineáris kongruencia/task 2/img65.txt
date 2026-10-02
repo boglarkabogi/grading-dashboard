@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 12x ≡ 8 (mod 259) és 16x ≡ 13 (mod 314)
+Helyes megoldás: 12x ≡ 8 (mod 259) → x ≡ 87 (mod 259) (azaz x = 87 + 259k, k∈ℤ); 16x ≡ 13 (mod 314) → nincs megoldás, mert gcd(16,314)=2 nem osztja 13-t
+
+Diák végeredménye: a) x = 864 + 259k (k∈ℤ); b) nincs megoldás
+Diák megoldása (összefoglalva):
+A diák kiterjesztett euklideszi algoritmust használva megtalálta az 12-nek a 259-moduloos inverzét (108) és dermed az első kongrenciának a megoldását x = 864 + 259k formában; a második kongrenciánál a gcd(16,314)=2-t számolta ki, és mivel 2 nem osztja 13-t, consequently nem létezik egész megoldás.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyes módszert alkalmazott: az első kongrenciánál a kiterjesztett euklideszi algoritmusból származó inverz 108 helyes, így a megoldáshalmaz helyes (864+259k ≡ 87+259k); a második kongrenciánál helyesen определил, hogy線性 kongrenciának nincs megoldás, mivel az osztó nem osztja a jobboldalt. Végül tehát mindkét rész helyes.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+A diák az első kongrenciánál nem reducirte az 864-et modulo 259-re, de ez ekvivalens megoldást ad, ezért nem vonható le pont.

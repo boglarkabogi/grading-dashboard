@@ -1,0 +1,14 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 13x ≡ 19 mod 414 és 20x ≡ 6 mod 412
+Helyes megoldás: -
+
+Diák végeredménye: x ≡ 97 mod 414; (20,412)=4, solution would exist if 6 were divisible by 4
+
+Pontszám: 0.5/1
+Indoklás:
+Az első kongruencia helyesen lett megoldva a metódussal és a végső eredménnyel. A második kongruencia köztes lépései helyesek, de a diák nem nyújtott le a végső következtetésre, ezért részben helyes, ami 0,5 pontot ér.
+
+Modell magabiztossága: 80/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

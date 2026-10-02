@@ -1,0 +1,15 @@
+{
+  "feladat": "Keresi meg 213 és 300 legnagyobb közös osztóját.",
+  "helyes_megoldas": "3",
+  "diak_vegeredmenye": "3",
+  "diak_megoldasa_osszefoglalva": "A diák az Egyesült algoritmust alkalmazta: 300 és 213 derékében a maradékok minden lépésnél lettek kiszámítva, így meghatározva, hogy a maradék 3 lesz a legnagyobb közös osztó.",
+  "pont": 1,
+  "indoklas": "A diák helyes módszert (Euklidészi algoritmus) használta, és a végső eredmény is helyes.",
+  "magabiztossag": 100,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

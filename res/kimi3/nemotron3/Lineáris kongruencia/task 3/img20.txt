@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 11x ≡ 2 mod 238 és 16x ≡ 15 mod 490
+Helyes megoldás: Nincs megoldás, mert a második kongruencia 16x ≡ 15 (mod 490) nem megoldható: gcd(16,490)=2 nem osztja 15-t.
+
+Diák végeredménye: nincs mo.
+Diák megoldása (összefoglalva):
+Az első kongruenciát úgy próbálták oldani, hogy osztással közös modulusra csökkentést végeztek, és két lehetséges maradékot kaptak (11 és 130 mod 238). A tweede kongruenciáhnál correctamente kiszámították, hogy gcd(16,490)=2, de 2 nem osztja 15-t, így nincs megoldás, consequently a rendszernek nincs megoldása.
+
+Pontszám: 0.5/1
+Indoklás:
+A diák végeredelme helyes (nincs megoldás), de az első kongruencia módszere hibás: osztással modulus csökkentése helytelen, így a módszer nem teljesen helyes; ezért csak részpont adható.
+
+Modell magabiztossága: 90/100
+Értelmezhető volt a bemenet: nem
+
+Megjegyzés:
+Az első kongruencia helyes megoldása x ≡ 130 (mod 238), a diák hingegen 11 mod 119-t adott, amely pontosan az éventes lövések közül csak az egyik helyes.

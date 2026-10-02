@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 19x ≡ 14 mod 297 és 18x ≡ 17 mod 482",
+  "helyes_megoldas": "x ≡ 32 mod 297; a második kongruenciának nincs megoldása mert gcd(18,482)=2 nem osztja 17-et",
+  "diak_vegeredmenye": "x ≡ 32 mod 297; nincs megoldás",
+  "diak_megoldasa_osszefoglalva": "A diák kiterjesztett Euklidesi algoritmust használva először az inverzet (-125) megtalálta, majd 14‑szorozva得到 32 maradékot mod 297. A második kongruenciában gcd(18,482)=2‑t számolt és mivel 2 nem osztja 17‑et, Megoldás nincs.",
+  "pont": 1,
+  "indoklas": "A diák helyesen alkalmazta a kiterjesztett Euklidesi algoritmust az første kongruenciahoz, helyes invervet (-125) talált, megfelelően szorzta 14‑gyel és kanonikus maradékként 32‑t得到. A második esetben helyesen kiszámolta, hogy gcd(18,482)=2, amely nem osztja 17‑et, ezért megfelelően déterminerte, hogy nincs megoldás.",
+  "magabiztossag": 95,
+  "ertelemezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

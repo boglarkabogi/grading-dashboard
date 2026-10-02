@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alapbbi lineáris kongruenciákat: 7x ≡ 12 (mod 313) és 20x ≡ 5 (mod 454)",
+  "helyes_megoldas": "No solution; the congruence 20x ≡ 5 (mod 454) has no solution because gcd(20,454)=2 does not divide 5.",
+  "diak_vegeredmenye": "7 ≡ -6566 (mod 313)",
+  "diak_megoldasa_osszefoglalva": "The student applied the extended Euclidean algorithm to 7 and 313, obtaining −134·7+3·313=1, but did not complete the solution for x and ignored the second congruence.",
+  "pont": 0.25,
+  "indoklas": "The student correctly used the extended Euclidean algorithm for the first congruence but failed to derive x and omitted the second congruence, which has no solution, so the overall answer is incorrect and incomplete.",
+  "magabiztossag": 85,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

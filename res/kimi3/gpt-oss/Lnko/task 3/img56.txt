@@ -1,0 +1,16 @@
+Feladat: Keresd meg 216 és 203 legnagyobb közös osztóját.
+Helyes megoldás: 1
+
+Diák végeredménye: 1
+Diák megoldása (összefoglalva):
+The student used the Euclidean algorithm, sequentially computing remainders until reaching 1, and reported the gcd as 1.
+
+Pontszám: 1/1
+Indoklás:
+The student applied the correct Euclidean algorithm and obtained the correct final result.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

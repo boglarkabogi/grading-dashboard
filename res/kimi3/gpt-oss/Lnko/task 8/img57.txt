@@ -1,0 +1,16 @@
+Feladat: Keresd meg 218 és 202 legnagyobb közös osztóját.
+Helyes megoldás: 2
+
+Diák végeredménye: 2
+Diák megoldása (összefoglalva):
+A diák az egyesítő algoritmust alkalmazta: 218=202·1+16, 202=16·12+10, 16=10·1+6, 10=6·1+4, 6=4·1+2, 4=2·1+0, majd a végül maradt 2 az utolsó nem nulla maradék, tehát a GCD 2.
+
+Pontszám: 1/1
+Indoklás:
+Diák helyesen alkalmazta az Euclid-algoritmust, és a végeredmény is helyes.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

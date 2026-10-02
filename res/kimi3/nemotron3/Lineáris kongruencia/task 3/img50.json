@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 11x ≡ 2 mod 238 és 16x ≡ 15 mod 490",
+  "helyes_megoldas": "x ≡ 130 (mod 238); a második kongrenciának nincs megoldása mert gcd(16,490)=2 nem osztja 15-t",
+  "diak_vegeredmenye": "x ≡ 130 (mod 238); a második kongrenciának nincs megoldása",
+  "diak_megoldasa_osszefoglalva": "A diák az rozšílt euklideszi algoritmust használva Megtalálta 11 inverzát mod 238-nak 65-öt, majd 2-vel szorozva 130-t kap; a második esetben gcd(16,490)=2-t számolt ki, amely nem osztja 15-t, ezért nincs megoldás.",
+  "pont": 1,
+  "indoklas": "A diák helyes módszert alkalmazott (képulti együtthatókkal kifejezve az 1-et, majd inverzot számolva), és helyes végeredményt adott mindkét kongrenciára: először x ≡ 130 (mod 238), másodikban megfelelően azonosította, hogy nincs megoldás.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

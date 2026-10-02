@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 7x ≡ 12 mod 313 és 20x ≡ 5 mod 454
+Helyes megoldás: 7x ≡ 12 mod 313: x ≡ 270 mod 313. 20x ≡ 5 mod 454: nem létezik megoldás, mert gcd(20,454)=2 nem osztható 5-tel.
+
+Diák végeredménye: x ≡ 270 mod 313; nem megoldható a második kongruencia
+Diák megoldása (összefoglalva):
+A diák a bőrtatan általános algoritmusával számolt a legnagyobb közös osztó és a kitevők meghatározásához, majd visszafelé helyettesítve megállapította az inverst és a megoldást. A második kongruencénél a gcd‑t felhasználva javasolta a nem megoldhatóságot.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyes módszert alkalmazott mindkét kongruencia megoldására, a végső eredmények is helytelenek. A köztes számítások világos és pontos, OCR hibákért nem járul le pont.
+
+Modell magabiztossága: 90/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

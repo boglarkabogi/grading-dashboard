@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 11x ≡ 2 mod 238 és 16x ≡ 15 mod 490",
+  "helyes_megoldas": "11x ≡ 2 (mod 238) => x ≡ 130 (mod 238); 16x ≡ 15 (mod 490) => no solution",
+  "diak_vegeredmenye": "x = 130; second congruence: no solution",
+  "diak_megoldasa_osszefoglalva": "Az első kongruenciát kiterjesztett Euklideszi algoritmussal oldotta meg, megtalálva az 11 inverzét 65‑ként, így x=130‑et kaphat. A második kongruenciához kiszámolta (16,490)=2‑t, és mivel 2∤15, úgy détte, hogy nincs megoldás.",
+  "pont": 1,
+  "indoklas": "A diák helyes módszert alkalmazott mindkét kongruencia esetén (kiterjesztett Euklideszi algoritmus és oszthatósági feltétel), és helyes végeréndeket adott (x≡130 (mod 238) és nincs megoldás a másodikhoz). Az algebraiELTIPEZET (16x-2=490y) hibája nem befolyásolja a következtetés helyességét, ezért a teljes pontszám tartozik.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A diák egy kevésbé preciso egyenletet írta le a második kongruenciához (16x-2=490y helyett 16x-15=490y), de ez nem altered the conclusion.",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

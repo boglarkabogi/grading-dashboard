@@ -1,0 +1,14 @@
+Feladat: Keresd meg 216 és 205 legnagyobb közös osztóját.
+Helyes megoldás: gcd(216,205)=1
+
+Diák végeredménye: 1
+
+Pontszám: 1/1
+Indoklás:
+A diák helyes módszert használta (Euclid-algoritmus) és helyesen számolta ki a maradékokat, ami a végeredmény 1-et eredményezte.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

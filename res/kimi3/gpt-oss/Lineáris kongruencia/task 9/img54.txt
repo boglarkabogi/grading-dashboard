@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 19x ≡ 14 mod 297 és 18x ≡ 17 mod 482
+Helyes megoldás: x ≡ 32 mod 297, nincs megoldás a 18x ≡ 17 mod 482 feladathoz
+
+Diák végeredménye: x ≡ 32 mod 297; nincs megoldás
+Diák megoldása (összefoglalva):
+A diák végigvezetett az ekvivalens módon, meghatározta a 19-nek a multiplicative inverse-jét –125 mod 297, és így x = 32 mod 297. A 18x ≡ 17 mod 482 esetében a gcd 2, ami nem osztható 17-tel, ezért megállapította a megoldás hiányát.
+
+Pontszám: 1/1
+Indoklás:
+A diák mindkét kongruenciát helyesen oldotta meg, a módszer rendben van (egyenértékű Bézout-e kifejezést és gcd-k alapján) és a végső eredmények helyesek.
+
+Modell magabiztossága: 90/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 13x ≡ 13 (mod 409) és 12x ≡ 7 (mod 302)
+Helyes megoldás: a) x ≡ 1 (mod 409); b) nem megoldható
+
+Diák végeredménye: a) x = 409k+1, k ∈ Z; b) nem megoldható
+Diák megoldása (összefoglalva):
+A diák az első kongruenciában úgy oudeletti, hogy mivel 13 és 409 közös osztója 1, így oszthat az egyenlet mindkét oldalát 13-al, kapva x ≡ 1 (mod 409). A második kongruenciában figyelte, hogy 12 és 302 mind páros, míg a jobb oldali 7 páratlan, ezért (12,302) nem osztja 7-t, így nincs megoldás.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyes módszert alkalmazott mindkét feladatra (gcd=1 esetén osztás, páronysági argumantzával a második kongruenciám žádható megoldás vizsgálata) és helyes végeredményt kapott.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+Az OCR szövege olvasható, nincs jele a 7/1 összekeverésre.

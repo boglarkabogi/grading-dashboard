@@ -1,0 +1,15 @@
+{
+  "feladat": "Keresd meg 216 és 203 legnagyobb közös osztóját.",
+  "helyes_megoldas": "1",
+  "diak_vegeredmenye": "1",
+  "diak_megoldasa_osszefoglalva": "Az diák az Euclid-algoritmust alkalmazta: 216=203·1+13, 203=13·15+8, 13=8·1+5, 8=5·1+3, 5=3·1+2, 3=2·1+1, 2=1·2+0, így a legnagyobb közös osztó 1.",
+  "pont": 1,
+  "indoklas": "Helyes módszer (Euclid-algoritmus) és helyes végeredmény (1).",
+  "magabiztossag": 100,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

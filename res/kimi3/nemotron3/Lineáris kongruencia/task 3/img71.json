@@ -1,0 +1,15 @@
+{
+  "feladat": "11x ≡ 2 (mod 238) és 16x ≡ 15 (mod 490)",
+  "helyes_megoldas": "1) x ≡ 130 (mod 238); 2) nincs megoldás",
+  "diak_vegeredmenye": "a) x ≡ 22 (mod 238); b) (nincs megadva)",
+  "diak_megoldasa_osszefoglalva": "A diák kiterjesztett Euklidész algoritmust használta mindkét kongruencia esetén, de az elsőben hibásan számolta az inverst, így x ≡ 22-t kapott, míg a másodikban nem ziehenak semmi végeredményt, obwohl az algorithmus megmutatta, hogy nincs megoldás.",
+  "pont": 0.25,
+  "indoklas": "A módszer helyes (kiterjesztett Euklidész), de az első kongruencia inverst hibásan számolta (65 helyett valami más), ezért rossz végeredményt adott; a második kongruenciában a gcd(16,490)=2 nem osztja 15-t, így megoldás nincs, amit a diák nem állapított meg.",
+  "magabiztossag": 90,
+  "ertelezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "Az első eredmény szorzatai hibás (11*22=242 ≡ 4 mod 238, nem 2), így a diák számolási eltékozása okozta.",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}
