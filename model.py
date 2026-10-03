@@ -9,6 +9,12 @@ from pathlib import Path
 import requests
 from dotenv import load_dotenv
 
+try:
+    from PIL import Image, ImageOps
+    import io
+    HAS_PIL = True
+except ImportError:
+    HAS_PIL = False
 
 # ============================================================
 # ALAP BEÁLLÍTÁSOK
@@ -21,6 +27,11 @@ OCR_ROOT = BASE_DIR / "ocr"
 RES_ROOT = BASE_DIR / "res"
 
 EXTENSIONS = {".jpg", ".jpeg", ".png", ".webp"}
+
+OCR_SKIP_EXISTING = True 
+OCR_TIMEOUT = 300 
+OCR_MAX_RETRIES = 6
+MAX_IMAGE_SIDE = 2000 
 
 load_dotenv(BASE_DIR / ".env", override=True)
 
@@ -43,6 +54,12 @@ MODELS = {
         "url": "https://integrate.api.nvidia.com/v1/chat/completions",
         "key": os.getenv("NVIDIA_API_KEY"),
     },
+    "nemotron": {
+        "folder": "nemotron3",
+        "name": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning",
+        "url": "https://integrate.api.nvidia.com/v1/chat/completions",
+        "key": os.getenv("NVIDIA_API_KEY"),
+    },
 }
 
 model_choice = None
@@ -57,13 +74,13 @@ def choose_ocr_model():
     global model_choice, MODEL
     while True:
         model_choice = input(
-            "Válassz modellt (dots/kimi): "
+            "Válassz modellt: "
         ).strip().lower()
 
         if model_choice in MODELS:
             break
 
-        print('Írd be: "dots" vagy "kimi".')
+        print('Írd be: "dots", "kimi", "gpt-oss", "nemotron3".')
 
 
     MODEL = MODELS[model_choice]
@@ -159,6 +176,19 @@ def image_to_data_url(path: Path) -> str:
         ".jpeg": "image/jpeg",
     }
 
+    if HAS_PIL:
+        try:
+            with Image.open(path) as img:
+                img = ImageOps.exif_transpose(img)
+                if max(img.size) > MAX_IMAGE_SIDE or path.stat().st_size > 1_500_000:
+                    img.thumbnail((MAX_IMAGE_SIDE, MAX_IMAGE_SIDE))
+                    buf = io.BytesIO()
+                    img.convert("RGB").save(buf, format="JPEG", quality=90)
+                    encoded = base64.b64encode(buf.getvalue()).decode("utf-8")
+                    return f"data:image/jpeg;base64,{encoded}"
+        except Exception as e:
+            print(f"      (képkicsinyítés kihagyva: {e})")
+
     mime = mime_types[path.suffix.lower()]
 
     encoded = base64.b64encode(
@@ -205,7 +235,9 @@ def ask_model(image_path: Path, prompt: str) -> str:
     if model_choice == "kimi":
         payload["reasoning_effort"] = "low"
 
-    for attempt in range(6):
+    for attempt in range(OCR_MAX_RETRIES):
+
+        wait = min(10 * (2 ** attempt), 120)
 
         try:
             response = requests.post(
@@ -215,40 +247,53 @@ def ask_model(image_path: Path, prompt: str) -> str:
                     "Content-Type": "application/json",
                 },
                 json=payload,
-                timeout=180,
+                timeout=OCR_TIMEOUT,
             )
 
-        except requests.exceptions.ReadTimeout:
-            wait = min(10 * (2 ** attempt), 60)
+        except (requests.exceptions.Timeout, requests.exceptions.ConnectionError) as e:
+            kind = "Timeout" if isinstance(e, requests.exceptions.Timeout) else "Kapcsolati hiba"
 
             print(
-                f"      Timeout. Újrapróbálás "
-                f"{wait} másodperc múlva..."
+                f"{kind} (próba) {attempt + 1}/{OCR_MAX_RETRIES})."
+                f"Újrapróbálás {wait} másodperc múlva..."
             )
 
             time.sleep(wait)
             continue
 
         # Rate limit
-        if response.status_code == 429:
-            wait = min(10 * (2 ** attempt), 120)
-
+        if response.status_code == 429 or response.status_code >= 500:
+            reason = "Rate limit" if response.status_code == 429 else f"Szerverhiba ({response.status_code})"
             print(
-                f"      Rate limit. Újrapróbálás "
-                f"{wait} másodperc múlva..."
+                f"      {reason} (próba {attempt + 1}/{OCR_MAX_RETRIES}). "
+                f"Újrapróbálás {wait} másodperc múlva..."
             )
 
             time.sleep(wait)
             continue
 
-        response.raise_for_status()
+        if response.status_code >= 400:
+            raise RuntimeError(
+                f"HTTP {response.status_code}: {response.text[:300]}"
+            )
 
         data = response.json()
 
-        choice = data["choices"][0]
-        message = choice["message"]
+        choices = data.get("choices") or []
+        if not choices:
+            print(
+                f"      Hiányos válasz (próba {attempt + 1}/{OCR_MAX_RETRIES}): "
+                f"{str(data)[:150]}"
+            )
+            time.sleep(5)
+            continue
 
-        content = message.get("content")
+        choice = choices[0]
+        message = choice.get("message") or {}
+
+        content = message.get("content") or ""
+        # Reasoning modellek (pl. Nemotron) a gondolkodást <think> blokkba tehetik
+        content = re.sub(r"<think>.*?</think>", "", content, flags=re.DOTALL).strip()
         finish_reason = choice.get("finish_reason")
 
         if content:
@@ -258,18 +303,18 @@ def ask_model(image_path: Path, prompt: str) -> str:
         if finish_reason == "length":
             print(
                 f"      Tokenlimit elfogyott "
-                f"(próba {attempt + 1}/6). Újrapróbálás..."
+                f"(próba {attempt + 1}/{OCR_MAX_RETRIES}). Újrapróbálás..."
             )
         else:
             print(
                 f"      A modell üres választ adott "
-                f"(próba {attempt + 1}/6). Újrapróbálás..."
+                f"(próba {attempt + 1}/{OCR_MAX_RETRIES}). Újrapróbálás..."
             )
 
         time.sleep(5)
 
     raise RuntimeError(
-        "A modell 6 próbálkozás után sem adott szöveges választ."
+        f"A modell {OCR_MAX_RETRIES} próbálkozás után sem adott szöveges választ."
     )
 
 
@@ -347,12 +392,23 @@ def process_task(task_dir: Path):
 
     print(f"  Feladat: {task_image.name}")
 
-    task_text = read_task(task_image)
+    task_file = output_dir / "_task.txt"
 
-    (output_dir / "_task.txt").write_text(
-        task_text,
-        encoding="utf-8",
-    )
+    if OCR_SKIP_EXISTING and task_file.exists() and task_file.read_text(encoding="utf-8").strip():
+        task_text = task_file.read_text(encoding="utf-8").strip()
+        print("    (_task.txt már megvan, újrahasznosítva)")
+    else:
+        try:
+            task_text = read_task(task_image)
+        except Exception as e:
+            # Egy rossz feladatkép ne állítsa le az egész futást.
+            print(f"  Hiba a feladatkép beolvasásánál, task kihagyva: {e}")
+            return
+
+        task_file.write_text(
+            task_text,
+            encoding="utf-8",
+        )
 
     solution_images = sorted(
         f
@@ -367,6 +423,10 @@ def process_task(task_dir: Path):
     for image in solution_images:
 
         print(f"    {image.name}")
+
+        if OCR_SKIP_EXISTING and (output_dir / f"{image.stem}.txt").exists():
+            print("      már kész, kihagyva")
+            continue
 
         try:
             text = read_solution(
@@ -482,7 +542,7 @@ NVIDIA_URL = "https://integrate.api.nvidia.com/v1/chat/completions"
 GRADER_MODELS = {
     "deepseek": {
         "folder": "deepseek-v4-flash",
-        "name": "deepseek-ai/deepseek-v4-flash-0731",
+        "name": "deepseek-ai/deepseek-v4.1-flash",
         "url": NVIDIA_URL,
         "key": os.getenv("NVIDIA_API_KEY"),
     },
@@ -493,6 +553,21 @@ GRADER_MODELS = {
         "key": os.getenv("NVIDIA_API_KEY"),
         "temperature": 1, 
     },
+    "nemotron": {
+        "folder": "nemotron3",
+        "name": "nvidia/nemotron-3-super-120b-a12b",
+        "url": NVIDIA_URL,
+        "key": os.getenv("NVIDIA_API_KEY"),
+        "temperature": 1, 
+    },
+        "gpt-oss": {
+        "folder": "gpt-oss",
+        "name": "openai/gpt-oss-20b",
+        "url": NVIDIA_URL,
+        "key": os.getenv("NVIDIA_API_KEY"),
+        "temperature": 1, 
+    },
+
 }
 
 
@@ -727,8 +802,10 @@ def grader_ask_model(model: dict, user_msg: str, json_mode: bool, rpm: int) -> s
         timeout=REQUEST_TIMEOUT,
     )
     response.raise_for_status()
-
-    message = response.json()["choices"][0]["message"]
+    choices = response.json().get("choices") or []
+    if not choices:
+        return "" 
+    message = choices[0].get("message") or {}
     return (message.get("content") or message.get("reasoning_content") or "").strip()
 
 
@@ -759,7 +836,7 @@ def grade_submission(model: dict, task_text: str | None, submission: str,
                 print("      JSON-mód nem támogatott, újra sima szöveggel...")
                 json_mode = False
                 continue
-            if status in (401, 403, 404):
+            if status in (401, 403, 404, 410):
                 # Nem átmeneti hiba: rossz kulcs, vagy a modell nem (már nem) elérhető.
                 raise RuntimeError(
                     f"HTTP {status}: a '{model['name']}' modell nem érhető el."
@@ -973,7 +1050,25 @@ STEPS = {
     "1": "OCR (img/ -> ocr/)",
     "2": "Értékelés (ocr/ -> res/)",
     "3": "OCR, majd értékelés",
+    "4": "Elérhető NVIDIA-modellek listázása",
 }
+
+def list_nvidia_models():
+    """Kiírja, milyen modellek hívhatók most a saját kulccsal (a modellnevek ellenőrzéséhez)."""
+    key = os.getenv("NVIDIA_API_KEY")
+    if not key:
+        raise RuntimeError("Nincs NVIDIA_API_KEY a .env-ben.")
+    r = requests.get(
+        "https://integrate.api.nvidia.com/v1/models",
+        headers={"Authorization": f"Bearer {key}"},
+        timeout=60,
+    )
+    r.raise_for_status()
+    ids = sorted(m["id"] for m in r.json().get("data", []))
+    szuro = input("Szűrő (pl. deepseek, kimi, nemotron; Enter = mind): ").strip().lower()
+    for model_id in ids:
+        if szuro in model_id.lower():
+            print("  ", model_id)
 
 
 def main():
@@ -990,6 +1085,9 @@ def main():
         task_type = choose_task_type()
         grader_key = choose_grader_model()
         grade(ocr_folder, task_type, grader_key)
+
+    elif step == "4":
+        list_nvidia_models()
 
     else:
         # Minden kérdés az elején, utána felügyelet nélkül fut végig.
