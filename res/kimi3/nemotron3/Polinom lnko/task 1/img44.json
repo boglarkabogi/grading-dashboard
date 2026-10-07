@@ -1,0 +1,15 @@
+{
+  "feladat": "Számolja ki az f = x^4 + 3x^3 + 2x^2 + x + 4 ∈ Z_5[x] és g = x^5 + x^4 + x^2 + x + 2 ∈ Z_5[x] polinomok legnagyobb közös osztóját!",
+  "helyes_megoldas": "x^2 + x + 1",
+  "diak_vegeredmenye": "x + 2",
+  "diak_megoldasa_osszefoglalva": "A diák elosztásos algoritmust próbált alkalmazni, de a köztes lépésekben數első Hibák léptek fel (pl. hiányzó x^2 tag), így a végső osztó nem egyezik a helyes megoldással.",
+  "pont": 0.25,
+  "indoklas": "A diák módszere nem helyes (hibás osztási lépések), és a végeredmény is hibás; toutefois az első maradékkorrektség showsz egy helyes elemet, ezért részpontot adok.",
+  "magabiztossag": 90,
+  "ertelezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A bemenetben néhány számjegy (pl. 2x^2) lehet OCR-eltérés, de ez nem befolyásolja a pontozást, mivel a diák saját hibákat is követett el.",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

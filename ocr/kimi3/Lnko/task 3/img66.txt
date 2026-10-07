@@ -1,0 +1,14 @@
+216, 203 lnko  
+216 > 203  
+
+1. $216=203\cdot1+13$  
+2. $203=13\cdot15+8$  
+3. $13=8\cdot1+5$  
+4. $8=5\cdot1+3$  
+5. $5=3\cdot1+2$  
+6. $3=2\cdot1+1$  
+7. $2=1\cdot2+0$  
+
+lnko $\rightarrow$ az utolsó nem nulla maradék  
+
+$\mathrm{lnko}(216,203)=1 \Rightarrow egymáshoz\ prím\ számat$

@@ -1,0 +1,15 @@
+{
+  "feladat": "Számolja ki az f=x^4+4x^3+4x^2+3x in Z_5[x] és g=x^5+x^4+1 in Z_5[x] polinomok legnagyobb közös osztóját!",
+  "helyes_megoldas": "x^2 + x + 1",
+  "diak_vegeredmenye": "3x^2+3x+3",
+  "diak_megoldasa_osszefoglalva": "A diák az euklideszi algoritmust alkalmazva osztásokat végzett, maradékokat számolt, és végül null maradékot kapva a Legközös osztóját 3x^2+3x+3-nek adott.",
+  "pont": 1,
+  "indoklas": "A diák módszere helyes, a végeredmény a helyes Legközös osztójának egy egységszámmal (3) szorozata, így elfogadható.",
+  "magabiztossag": 95,
+  "ertelezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A diák eredménye 3·(x^2+x+1), ami egységszorzóval kapcsolódik a monikus Legközös osztójához, portanto helyes.",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

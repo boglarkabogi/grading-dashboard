@@ -1,0 +1,16 @@
+Feladat: Számolja ki az f = x^4 + 3x^3 + 2x^2 + x + 4 ∈ Z_5[x] és g = x^5 + x^4 + x^2 + x + 2 ∈ Z_5[x] polinomok legnagyobb közös osztóját!
+Helyes megoldás: x^2 + x + 1
+
+Diák végeredménye: x + 2
+Diák megoldása (összefoglalva):
+A diák elosztásos algoritmust próbált alkalmazni, de a köztes lépésekben數első Hibák léptek fel (pl. hiányzó x^2 tag), így a végső osztó nem egyezik a helyes megoldással.
+
+Pontszám: 0.25/1
+Indoklás:
+A diák módszere nem helyes (hibás osztási lépések), és a végeredmény is hibás; toutefois az első maradékkorrektség showsz egy helyes elemet, ezért részpontot adok.
+
+Modell magabiztossága: 90/100
+Értelmezhető volt a bemenet: nem
+
+Megjegyzés:
+A bemenetben néhány számjegy (pl. 2x^2) lehet OCR-eltérés, de ez nem befolyásolja a pontozást, mivel a diák saját hibákat is követett el.

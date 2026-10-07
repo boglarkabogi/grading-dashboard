@@ -1,0 +1,13 @@
+$(216,205)$
+
+$\angle\ r_1 = 216 \bmod 205 = 11$
+
+$r_2 = 205 \bmod 11 = 7$
+
+$r_3 = 11 \bmod 7 = 4$
+
+$r_4 = 7 \bmod 4 = 3$
+
+$r_5 = 4 \bmod 3 = 1$
+
+$r_6 = 3 \bmod \textcircled{1} = 0 \Rightarrow (216,205)=1$

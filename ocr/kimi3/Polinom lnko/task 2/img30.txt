@@ -1,0 +1,21 @@
+$f: x^{4}+x^{3}+4 x+4 \in \mathbb{Z}_{5}[x]$
+
+$g: x^{5}+\cancel{4} x^{4}+4 x^{3}+2 \in \mathbb{Z}_{5}[x]$
+
+$m_{1}: 4 x^{3}+x^{2}+x+2 \quad /\cdot \cancel{4x} \quad x^{4}+4 x^{3}+4 x+3 \in \mathbb{Z}_{5}[x]$
+
+$m_{2}: 2 x^{3}+1 \quad /\cdot 2 \quad 4 x^{3}+2 \in \mathbb{Z}_{5}[x]$
+
+$m_{3}: x^{2}+x \quad /\cdot 2 x \quad 2 x^{3}+2 x^{2} \in \mathbb{Z}_{5}[x]$
+
+$m_{4}: 3 x^{2}+x \quad /\cdot \cancel{73} \quad x^{2}+2 x \in \mathbb{Z}_{5}[x]$
+
+$m_{5}: \circled{4 x} \quad /\cdot 2 x \quad 3 x^{2} \in \mathbb{Z}_{5}[x]$
+
+$m_{6}: x \Rightarrow$
+
+$\operatorname{LNKO}(\cancel{f}, g)=4$
+
+$0 \in \mathbb{Z}_{5}[x] \ \checkmark$
+
+$f: 1+4+1+4 \neq \mid g \quad 4+1+4 \times 4+2=0 \quad \in \mathbb{Z}_{5}[x] \ \checkmark$

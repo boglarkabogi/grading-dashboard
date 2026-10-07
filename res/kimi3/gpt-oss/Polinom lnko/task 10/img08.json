@@ -1,0 +1,15 @@
+{
+  "feladat": "Számoljon ki az f=x^4+x^3+3x^2+2x+2 ∈ Z_5[x] és g=x^5+x^4+x^3+3x^2+3x+3 ∈ Z_5[x] polinomok legnagyobb közös osztóját!",
+  "helyes_megoldas": "x^2 + x + 1",
+  "diak_vegeredmenye": "nem határozott",
+  "diak_megoldasa_osszefoglalva": "A diák helyesen elvégezte a g és f osztását, a maradék, ami 3x^3+x^2+x+3, meghatározása sikeres volt. Azonban a további lépéseket – a f osztását r1-gyel – nem sikerült helyesen folytatni, a számítási hibák és a levezetés zavaros területei miatt nem jutott el a végső gcd-ig.",
+  "pont": 0.25,
+  "indoklas": "A diák helyes módszert (Euklidészi algoritmus) alkalmazott, de a részletekben sok hiba és a végső eredmény hiányzása miatt a megoldás csak részben helyes. Ilyen esetben a 0.25 pont jár.",
+  "magabiztossag": 80,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A levezetés eredetileg tömör, de OCR-hibák miatt eltorzul, a diák nem adta meg a végső eredményt.",
+  "model": "openai/gpt-oss-20b"
+}

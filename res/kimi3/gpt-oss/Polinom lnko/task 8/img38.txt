@@ -1,0 +1,14 @@
+Feladat: Számolja ki az f=x^4+3x^3+3x^2+2x ∈ Z_5[x] és g=x^5+x^4+3x^2+3x+4 ∈ Z_5[x] polinomok legnagyobb közös osztóját
+Helyes megoldás: x^2 + x + 1
+
+Diák végeredménye: 2(x^2 + x + 1)
+
+Pontszám: 0.75/1
+Indoklás:
+A diák helyesen alkalmazta az Euclid algoritmust, és a maradékokból 2(x^2 + x + 1)-t kapott, ami távol belül a monic gcd x^2 + x + 1-nek egy egységtöbbletveszete. Ez miatt a módszer helyes, de az eredmény nem a kért monic formát adja, ezért 0.75 pont.
+
+Modell magabiztossága: 85/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+A végső eredmény 2(x^2+x+1) egység (2) összetevővel van meg jelezve, ami az elvárt monic gcd-nak megfelelő. Az egységtöbblet miatt azonban a hagyományos megoldás (x^2+x+1) helyett 2(x^2+x+1) van, de a polinomok közös osztójára határozott eredményt ad.

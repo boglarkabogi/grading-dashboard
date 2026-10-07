@@ -1,0 +1,11 @@
+{
+  "feladat": "Kerese meg 213 és 200 legnagyobb közös osztóját.",
+  "hiba": "A modell nem adott értelmezhető JSON választ.",
+  "pont": null,
+  "ertelmezheto": false,
+  "magabiztossag": 0,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "model": "moonshotai/kimi-k3"
+}

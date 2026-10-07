@@ -1,0 +1,18 @@
+BEADANDÓ 2.
+
+\[
+\mathrm{LNKO}(216,205)=
+\]
+
+\[
+\begin{aligned}
+216 &= 1\cdot 205+11\\
+205 &= 18\cdot 11+7\\
+11 &= 1\cdot 7+4\\
+7 &= 1\cdot 4+3\\
+4 &= 1\cdot 3+1\\
+3 &= 3\cdot 1+0
+\end{aligned}
+\]
+
+Tehát a \(\mathrm{LNKO}(216,205)=1\)

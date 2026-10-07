@@ -1,0 +1,18 @@
+Feladat: Számolja ki az f=x^{4}+3x^{3}+3x^{2}+2x 
+in <sub<z_5[x]</sub> és g=x^{5}+x^{4}+3x^{2}+3x+4 
+in <sub<z_5[x]</sub> polinomok legnagyobb közös osztóját!
+Helyes megoldás: A legnagyobb közös osztó a monikus polinom x^{2}+x+1 (vagy bármely egységnel szorozott változata, pl. 3x^{2}+3x+3).
+
+Diák végeredménye: x^{2}+x+1
+Diák megoldása (összefoglalva):
+A diák az Euclid‑eljárást végzi, először g-ról lebont f-t és egy maradékot, aztán f-t a maradékot osztva egy új maradékot, majd a maradékot további maradék hollandul szorzata alakul, végül a maradék nulla egészendet és a legnagyobb közös osztóként 3x^{2}+3x+3, majd normálisan 1 szerűre helyezi.
+
+Pontszám: 1/1
+Indoklás:
+A diák használta a helyes Euclid‑eljárást, a részlevek számítása és a maradékok helyes mérete csökkent bazártalán érte javított, végső végeredmény megegyezik a helyes gcd-vel, amely monikus formában x^{2}+x+1.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

@@ -1,0 +1,15 @@
+{
+  "feladat": "Számolja ki az f=x^4+x^3+3x^2+2x+2 és g=x^5+x^4+x^3+3x^2+3x+3 polinomok legnagyobb közös osztóját!",
+  "helyes_megoldas": "x^2 + x + 1",
+  "diak_vegeredmenye": "3",
+  "diak_megoldasa_osszefoglalva": "A diák elosztotta g-t f-fel, majd f-t az első maradékkal, és elérte a második osztás stepjét, ahol a hányszót hibásan 3-nekvece 2 helyett vett, így a további lépések nem vezették helyes eredményhez.",
+  "pont": 0.5,
+  "indoklas": "Az első két osztás helyes, de a harmadik osztás hányadosa hibás (3 helyett 2), ezért a diák nem jutott a helyes Legközös osztójához (x^2+x+1); a végeredményként megadott 3 egy konstans, nem a lugaros polinom.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "Az OBR-beli szövegben nem látható 7/1-hiba.",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

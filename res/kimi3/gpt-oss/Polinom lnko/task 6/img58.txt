@@ -1,0 +1,16 @@
+Feladat: Számolja ki az f=x^4+2x^3+3x^2+2x+1 és g=x^5+x^4+2x^3+4x^2+4x+3 polinomok legnagyobb közös osztóját (Z_5[x]ben).
+Helyes megoldás: x^2 + x + 1
+
+Diák végeredménye: 3x^2 + 3x + 3
+Diák megoldása (összefoglalva):
+A diák a Polinomiális Euclid-algoritmust alkalmazta, lépésről lépésre elvitte a hányadosokat és maradékokat, végül a 3x^2+3x+3 polinomot kapta eredményül.
+
+Pontszám: 1/1
+Indoklás:
+A Euclid-algoritmus helyes módon lett alkalmazva, és a végső eredmény 3x^2+3x+3 valóban a legnagyobb közös osztó (rendkívüli egység akár). Módosítva a vezető együtthatóval (2‑tel) monikussá, kapjuk x^2+x+1, tehát a diák válasza helyes.
+
+Modell magabiztossága: 90/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

@@ -1,0 +1,16 @@
+Feladat: Számolja ki az f = x^4 + 3x^3 + 2x^2 + x + 4 és g = x^5 + x^4 + x^2 + x + 2 polinomok legnagyobb közös osztóját Z_5[x]-ben!
+Helyes megoldás: Euklideszi algoritmussal: g = f*x + r1, f = r1*q + r2, r1 = r2*x + 0 alapján az utolsó nemnulla maradék 4x^2+4x+4 = 4(x^2+x+1). Mivel 4 egység Z_5-ben, a monik gcd: x^2 + x + 1. Ellenőrzés: f = (x^2+x+1)(x^2+2x+4), g = (x^2+x+1)(x^3+4x+2), és a második tényezők relatív prímek, tehát gcd(f,g) = x^2+x+1.
+
+Diák végeredménye: (f,g) = 4x^2 + 4x + 4
+Diák megoldása (összefoglalva):
+A diák az euklideszi algoritmust alkalmazta Z_5-ben: g-t osztotta f-fel, r1 = 4x^3+4x^2+4x-et kapott, majd f-et r1-gyel osztva r2 = 4x^2+4x+4-et, végül r1-et r2-vel osztva 0 maradékot. Az utolsó nemnulla maradékot adta meg gcd-ként.
+
+Pontszám: 1/1
+Indoklás:
+A módszer (euklideszi algoritmus polinomokra Z_5 felett) és a végeredmény is helyes: 4x^2+4x+4 a helyes gcd asszociáltja (4 egység Z_5-ben), a monik alak x^2+x+1. A lépések konzisztensek, a végeredmény helyes.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+A diák a gcd-t nem monik alakban adta meg (4x^2+4x+4 monik alakja x^2+x+1 lenne), de ez Z_5-ben ugyanannak az ideálnak a generátora, így teljesen helyes.

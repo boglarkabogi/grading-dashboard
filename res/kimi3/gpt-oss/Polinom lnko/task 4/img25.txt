@@ -1,0 +1,16 @@
+Feladat: Számolja ki az f=x^4+4x^3+x^2+2 és g=x^5+x^4+3x^3+x^2+x+4 értelmezéseit a Z_5[x] polinomok közös osztóját.
+Helyes megoldás: x^2+x+1
+
+Diák végeredménye: 1
+Diák megoldása (összefoglalva):
+A diák a polinomok Euclid‑járatával próbálta meghatározni a GCD-t, de a műveletek során hibás maradékokat számított, így végül azt állította, hogy a gcd 1.
+
+Pontszám: 0/1
+Indoklás:
+A diák által bemutatott számítások alapján a maradékok helytelenül lettek kiszámítva (például a 4x^3+4x+2 maradék helyett a helyes 4x^3+4x^2+4x szerepel). Emiatt a későbbi lépések is hibásak, és a végső eredmény a helytelen 1. A módszer összességében nem volt helyes, ezért 0 pont.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+A diák Euclid‑járatot alkalmazott, de matematikai hibái miatt a maradékok nem egyeztek a helyesekkel. A végeredmény 1 helytelen.

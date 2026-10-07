@@ -1,0 +1,16 @@
+Feladat: Számolja ki az f=x^4+3x^3+3x^2+2x és g=x^5+x^4+3x^2+3x+4 polinomok legnagyobb közös osztóját a Z5[x]ben.
+Helyes megoldás: x^2 + x + 1
+
+Diák végeredménye: 3
+Diák megoldása (összefoglalva):
+Az diák elosztotta g-t f‑el, első maradék 3x^3+2x^2+2x+4‑et kapva. Ezután f‑et osztotta ezt a maradékkal, és hibásan 3x^2+3x+2‑t kapott helyette 3x^2+3x+3‑t, ami tovább biased eredményhez vezetve, végül konstans 3‑at vegerédménynek adott.
+
+Pontszám: 0.5/1
+Indoklás:
+A diák eljárása részben helyes (az első osztás és az r1 maradék helyes), de a következő lépésben számítási hiba miatt a maradék hibás lett, így a végeresultát (3) nem a skute függő Legközös osztó (x^2+x+1).
+
+Modell magabiztossága: 90/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+Az OCR szöveg olvasható, 7/1 confundálás nem fordul elő.

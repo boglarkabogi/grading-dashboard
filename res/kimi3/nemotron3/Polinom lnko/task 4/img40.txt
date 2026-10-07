@@ -1,0 +1,16 @@
+Feladat: Számolja ki az f=x^4+4x^3+x^2+2 in Z_5[x] és g=x^5+x^4+3x^3+x^2+x+4 in Z_5[x] polinomok legnagyobb közös osztóját!
+Helyes megoldás: x^2 + x + 1
+
+Diák végeredménye: x^2 + x + 1
+Diák megoldása (összefoglalva):
+A diák полиномos osztással effettuált euklideszi algoritmust alkalmazva sorosan kivonja a két polinomot, majd a további osztásokkal egy egyszerűbb maradékot kap, amely eventualmente a x^2+x+1 polinom pozitivja, így a legközös osztója x^2+x+1.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyes módszert (euklideszi algoritmus Z_5[x]-ben) használva, az OCR-beli eltérések ellenére a helyes maradékokat és végül a monikus legnagyobb közös osztóját x^2+x+1-t kapta.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+Az OCR-beadott lépésekben néhány számjegy hibásan jelenik meg (pl. az első maradék x^4 együtthatójának 4-ét helyett 2 kellene lennie), de ezek a jelek nem változtatták meg az algoritmus logikáját, ezért a pont vollständig adható.

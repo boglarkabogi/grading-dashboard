@@ -1,0 +1,15 @@
+{
+  "feladat": "Számolja ki az f=x^4+3x^3+3x^2+2x ∈ Z_5[x] és g=x^5+x^4+3x^2+3x+4 ∈ Z_5[x] polinomok legnagyobb közös osztóját",
+  "helyes_megoldas": "x^2 + x + 1",
+  "diak_vegeredmenye": "2(x^2 + x + 1)",
+  "diak_megapos_osszefoglalva": "A diák Euclid algoritmust alkalmazott: először osztotta g-t f-vel, ezután f-t az első maradékkal, a maradékokat további osztással értelmezve, végül 2(x^2 + x + 1) maradékot kapott. Minden művelet mod 5 értelme alatt történt, és a részmenny értékek helyesen lettek kiszámítva.",
+  "pont": 0.75,
+  "indoklas": "A diák helyesen alkalmazta az Euclid algoritmust, és a maradékokból 2(x^2 + x + 1)-t kapott, ami távol belül a monic gcd x^2 + x + 1-nek egy egységtöbbletveszete. Ez miatt a módszer helyes, de az eredmény nem a kért monic formát adja, ezért 0.75 pont.",
+  "magabiztossag": 85,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A végső eredmény 2(x^2+x+1) egység (2) összetevővel van meg jelezve, ami az elvárt monic gcd-nak megfelelő. Az egységtöbblet miatt azonban a hagyományos megoldás (x^2+x+1) helyett 2(x^2+x+1) van, de a polinomok közös osztójára határozott eredményt ad.",
+  "model": "openai/gpt-oss-20b"
+}

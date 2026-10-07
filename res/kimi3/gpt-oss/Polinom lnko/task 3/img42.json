@@ -1,0 +1,15 @@
+{
+  "feladat": "Számolja ki az f=x^4+2 x^3+x^2+4 in Z_5[x] és g=x^5+x^4+2 x^3+2 x^2+2 x+1 in Z_5[x] polinomok legnagyobb közös osztóját!",
+  "helyes_megoldas": "x^2+x+1",
+  "diak_vegeredmenye": "4x^2+4x+4",
+  "diak_megoldasa_osszefoglalva": "A diák alkalmazta az egylépcsős Euclid–algoritmust: először hányado és maradék kezdeti lépéseket, majd újratermett benne a maradékokat, amíg nulla maradék jön ki, és a utolsó nem nulla maradék, 4x^2+4x+4, jelzi a gcd-ot.",
+  "pont": 1,
+  "indoklas": "A végső eredmény a helyes gcd-nak egészen egyenértékű egy egységfaktor (4) szorzataként. Mivel az egységek nem befolyásolják a gcd-ot, a megoldás helyes. A módszer (Euclid–algoritmus) megfelelő és minden lépés helyesen követi a polinomiális osztást 5-szoros modon. Nincs jelezett 1↔7 OCR-hiba, a levezetés értelmezhető.",
+  "magabiztossag": 90,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

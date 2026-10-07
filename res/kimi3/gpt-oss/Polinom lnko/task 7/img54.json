@@ -1,0 +1,15 @@
+{
+  "feladat": "Számolja ki f=x^4+4x^3+4x^2+3x in Z_5[x] és g=x^5+x^4+1 in Z_5[x] polinomok legnagyobb közös osztóját!",
+  "helyes_megoldas": "x^2 + x + 1",
+  "diak_vegeredmenye": "x^2 + x + 1",
+  "diak_megoldasa_osszefoglalva": "A diák long division-t és a diophantine Elastic algorithm-t használva csökkentette a polinomokat, a maradékok nullára alakultak, tehát a legrendesebb közös osztó a pontos maradék, x^2 + x + 1.",
+  "pont": 1,
+  "indoklas": "A diák a helyes módszert – Euclid-algoritmust – alkalmazta, és a végső eredmény összhangban van a helyes számítással. Mivel az eredmény helyes, pontot kap.",
+  "magabiztossag": 90,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

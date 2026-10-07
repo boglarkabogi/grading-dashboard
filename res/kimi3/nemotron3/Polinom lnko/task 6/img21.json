@@ -1,0 +1,15 @@
+{
+  "feladat": "Számolja ki az f=x^4+2x^3+3x^2+2x+1 in Z_5[x] es g=x^5+x^4+2x^3+4x^2+4x+3 in Z_5[x] polinomok legnagyobb közös osztóját!",
+  "helyes_megoldas": "x^2 + x + 1",
+  "diak_vegeredmenye": "1",
+  "diak_megoldasa_osszefoglalva": "A diák Euclidész algoritmust alkalmazott, de az f polinom 3x^2 tagged-tag hiányzik a bemenetben, így a köztes maradékok hibásak és a végeredmény 1-et ad.",
+  "pont": 0.5,
+  "indoklas": "A módszer (polinomiális osztás, Euclidész algoritmus) helyes, de az f-hiányos másolat miatt a számítás pontatlan, így a végeresultát nem egyezik a helyes ggT-tel (x^2+x+1).",
+  "magabiztossag": 90,
+  "ertelezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A diák OCR-ozott f-je hiányzik a 3x^2 tagból, ami nem 7/1-beli OCR-hiba, hanem hiányzó karakter.",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

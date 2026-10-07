@@ -1,0 +1,15 @@
+{
+  "feladat": "Számolja ki az f=x^4+2 x^3+x^2+4 és g=x^5+x^4+2 x^3+2 x^2+2 x+1 polinomok legnagyobb közös osztóját a Z_5[x]ben!",
+  "helyes_megoldas": "x^2 + x + 1",
+  "diak_vegeredmenye": "x^2 + x + 1",
+  "diak_megoldasa_osszefoglalva": "A diák polynomialsoros osztással végzett Euclid-algoritmust alkalmazva előállította a maradékokat, végül 4x^2+4x+4-t kapva, és osztással 4-el kapott x^2+x+1-t a legnagyobb közös osztójónak.",
+  "pont": 1,
+  "indoklas": "A diák végeredménye helyes és módszere (polynomios osztás, maradékok) fundamentally megfelel a euklidés algoritmusnak, malgré az intermédiaire lépések OCR-hibákkal (törtek, ungewömas számok) rendelkezni; ezért teljes pontot ér el.",
+  "magabiztossag": 90,
+  "ertelmezheto": true,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "ocr_7_1_gyanu": false,
+  "megjegyzes": "Az OCR-ben előforduló 8, 16 stb. számok valószínűleg maradékok mód 5 (3 és 1), a törtek (1/3) a Z_5-ban 3 inverzát (2) jelölik; ezek nem befolyásolták a végeredmény helyességét.",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

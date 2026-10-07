@@ -1,0 +1,18 @@
+Feladat: Szamolja ki az f=x^4+x^3+4x+4 es g=x^5+x^4+4x^3+2 polinomok legnagyobb kozos osztójat a Z_5[x] ben.
+Helyes megoldás: x^2 + x + 1
+
+Diák végeredménye: 4
+Diák megoldása (összefoglalva):
+A diák euklidész algoritmust próbált alkalmazni több lépésben, de a lépésekben számos hibát kovetett el, és végül a ggT-nek a konstans 4-et adott.
+
+Pontszám: 0.25/1
+Indoklás:
+A módszer csak részben megfelel euklidész algoritmusnak, de a végeredmény hibás; a helyes ggT x^2+x+1 (egy együtthatójú polinom).
+
+Modell magabiztossága: 85/100
+Értelmezhető volt a bemenet: igen
+
+Figyelem: valószínű 7↔1 OCR-elírás, elfogadva.
+
+Megjegyzés:
+A ackslash cancel{73} jel likely OCR-beli 7<-1 hibaja eredul; a ackslash cancel{4x} esetleg egyben ackslash cancel{1x} maradvany lehet.

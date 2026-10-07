@@ -1,0 +1,16 @@
+Feladat: Számolja ki az f=x^4+2x^3+3x^2+2x+1 és g=x^5+x^4+2x^3+4x^2+4x+3 polinomok legnagyobb közös osztóját a Z_5[x] modulban.
+Helyes megoldás: 1
+
+Diák végeredménye: 3
+Diák megoldása (összefoglalva):
+A diák több polinomos osztást hajtott végre, az eredmények között egyősszerűen állandó maradékkal zárult, és a végén a maradék 3 volt, így a gcd‑ként 3-ot határozta meg. A módszer a Böbi–Euclid algoritmushoz hasonlít, de a részletes sok lépésben hibás számítások táptettek a végeredményt.
+
+Pontszám: 0.75/1
+Indoklás:
+A diák helyes módszert használ, de a végeredmény (3) nem a kívánt monikus egység (1). Ez egy kisebb hibának tekinthető, mert 3 a skalaros unit, csupán a normál szokásos 1 helyett lett adva.
+
+Modell magabiztossága: 80/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

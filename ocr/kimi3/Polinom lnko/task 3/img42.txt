@@ -1,0 +1,36 @@
+\[
+\begin{aligned}
+&x^{5}+x^{4}+2 x^{3}+2 x^{2}+2 x+1: x^{4}+2 x^{3}+x^{2}+4=x+4\\
+-&\left(x^{5}+2 x^{4}+x^{3}+4 x\right)\\
+\hline
+&4 x^{4}+x^{3}+2 x^{2}+3 x+1\\
+-&\left(4 x^{4}+2 x^{3}+4 x^{2}+1\right)\\
+\hline
+&3 x^{3}+3 x^{2}+3 x
+\end{aligned}
+\]
+
+\[
+\begin{aligned}
+&x^{4}+2 x^{3}+x^{2}+4: 3 x^{3}+3 x^{2}+3 x=2 x+2\\
+-&\left(x^{4}+4 x^{3}+x^{2}\right)\\
+\hline
+&x^{3}+4\\
+-&\left(x^{3}+x^{2}+x\right)\\
+\hline
+&4 x^{2}+4 x+4
+\end{aligned}
+\]
+
+\[
+\begin{aligned}
+&3 x^{3}+3 x^{2}+3 x: 4 x^{2}+4 x+4=2 x\\
+-&\left(3 x^{3}+3 x^{2}+3 x\right)\\
+\hline
+&0
+\end{aligned}
+\]
+
+\[
+\lnko(f,g)=4x^{2}+4x+4
+\]

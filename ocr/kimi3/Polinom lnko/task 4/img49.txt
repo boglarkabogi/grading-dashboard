@@ -1,0 +1,21 @@
+$f(x)=x^{4}+4 x^{3}+x^{2}+2$
+
+$g(x)=x^{5}+x^{4}+3 x^{3}+x^{2}+x+4$
+
+$g(x)=(x+2) f(x)+r_{1}(x)$
+
+$r_{1}(x)=-x^{3}-x^{2}-x \equiv 4 x^{3}+4 x^{2}+4 x \bmod 5$
+
+$r_{1}(x)=4 x\left(x^{2}+x+1\right)$
+
+$f(x)=(-x+2) r_{1}(x)+r_{2}(x)$
+
+$r_{2}(x)=2 x^{2}+2 x+2 \equiv 2 \cdot\left(x^{2}+x+1\right) \bmod 5$
+
+$r_{1}(x)=(2 x) r_{2}(x)+0$
+
+$r_{2}(x)=2\left(x^{2}+x+1\right)$
+
+$3 \cdot r_{2}(x)=3 \cdot 2\left(x^{2}+x+1\right)=\left(x^{2}+x+1\right)$
+
+$(f, g)=x^{2}+x+1$

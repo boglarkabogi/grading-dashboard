@@ -1,0 +1,15 @@
+{
+  "feladat": "Szamolja ki az f=x^4+x^3+4x+4 es g=x^5+x^4+4x^3+2 polinomok legnagyobb kozos osztójat a Z_5[x] ben.",
+  "helyes_megoldas": "x^2 + x + 1",
+  "diak_vegeredmenye": "4",
+  "diak_megoldasa_osszefoglalva": "A diák euklidész algoritmust próbált alkalmazni több lépésben, de a lépésekben számos hibát kovetett el, és végül a ggT-nek a konstans 4-et adott.",
+  "pont": 0.25,
+  "indoklas": "A módszer csak részben megfelel euklidész algoritmusnak, de a végeredmény hibás; a helyes ggT x^2+x+1 (egy együtthatójú polinom).",
+  "magabiztossag": 85,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": true,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A \backslash cancel{73} jel likely OCR-beli 7<-1 hibaja eredul; a \backslash cancel{4x} esetleg egyben \backslash cancel{1x} maradvany lehet.",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

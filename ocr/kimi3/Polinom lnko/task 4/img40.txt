@@ -1,0 +1,65 @@
+\[
+\deg(f)<\deg(g)
+\]
+
+\[
+\frac{g}{f}=\frac{x^{5}}{x^{4}}=x
+\]
+
+\[
+\begin{aligned}
+& x^{5}+x^{4}+3x^{3}+x^{2}+x+4\\
+-&\bigl(x^{5}+4x^{4}+x^{3}+2x\bigr)\\
+\hline
+=&\ 4x^{4}+2x^{3}+x^{2}+4x+4 \quad \Leftarrow r_{1}
+\end{aligned}
+\]
+
+\[
+x\cdot f(x)=x^{5}+4x^{4}+x^{3}+2x
+\]
+
+\[
+\frac{f}{r_{1}}=
+\frac{x^{4}+4x^{3}+x^{2}+2}
+{2x^{4}+2x^{3}+x^{2}+4x+4}
+\]
+
+mivel
+\[
+f(x)-3r_{1}(x)=
+\begin{aligned}
+& x^{4}+4x^{3}+x^{2}+2\\
+-&\bigl(x^{4}+x^{3}+3x^{2}+2x+2\bigr)\\
+\hline
+=&\ 3x^{3}+3x^{2}+3x \quad \Leftarrow r_{2}
+\end{aligned}
+\]
+
+\[
+r_{2}=3x(x^{2}+x+1)
+\]
+
+\[
+\frac{r_{1}}{r_{2}}=4x
+\]
+
+\[
+r_{2}\cdot 4x=4x(3x^{3}+3x^{2}+3x)
+=12x^{4}+12x^{3}+12x^{2}
+=2x^{4}+2x^{3}+2x^{2}
+\]
+
+\[
+\begin{aligned}
+r_{1}-(4x)r_{2}
+&=2x^{4}+2x^{3}+x^{2}+4x+4\\
+&\quad -\bigl(2x^{4}+2x^{3}+2x^{2}\bigr)\\
+&=4x^{2}+4x+4 \quad \Leftarrow r_{3}\\
+&=4(x^{2}+x+1)
+\end{aligned}
+\]
+
+\[
+\gcd(f,g)=x^{2}+x+1
+\]

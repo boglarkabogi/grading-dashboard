@@ -1,0 +1,15 @@
+{
+  "feladat": "Számolja ki az f=x^4+4 x^3+3 x^2+2 x+4 ∈ Z5[x] és g=x^5+x^4+x^2+x+2 ∈ Z5[x] polinomok legnagyobb közös osztóját!",
+  "helyes_megoldas": "x^2+x+1",
+  "diak_vegeredmenye": "2 x^2+2 x+2",
+  "diak_megoldasa_osszefoglalva": "A diák először triviálisan rögzítette, hogy f=g*0+f, majd g-t osztotta f-vel, kiderítve a maradékot 4x^3+3x^2+3x+4. Azután folytatta a hatványos eljárást, meghatározva a további maradékokat, amíg a folyamatból 2x^2+2x+2 világult fel. Ez a végső maradék garantálja, hogy a számított polinom a legnagyobb közös osztó, mivel a polinomok írhatók ennek bármely egységgel szorzott alakjaként.",
+  "pont": 1,
+  "indoklas": "A diák teljesen helyes módon alkalmazta az egb (mod5) polinomiak elveit, végül egy egységgel szorzott, tehát érvényes, legnagyobb közös osztót kapott. Az eredmény 2x^2+2x+2 a helyes gcd, mert egységgel szorozva nem változtat a divisibilityre. Nincs észlelt félreértés vagy hasonló hibás lépés.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

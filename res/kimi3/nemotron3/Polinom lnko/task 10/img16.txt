@@ -1,0 +1,16 @@
+Feladat: Számolja ki az f = x^4 + x^3 + 3x^2 + 2x + 2 ∈ Z_5[x] és g = x^5 + x^4 + x^3 + 3x^2 + 3x + 3 ∈ Z_5[x] polinomok legnagyobb közös osztóját!
+Helyes megoldás: x^2 + x + 1
+
+Diák végeredménye: 2x^2 + 2x + 2
+Diák megoldása (összefoglalva):
+A diák elosztotta g-t f-fel, kapta r1 maradékot, majd f-t r1-el, r1-et r2-el, r2-et r3-el, és végül r3-et r4-el osztva kapta, hogy r3 = 2·r4, így a utolsó nem nulla maradék r4 = 2x^2+2x+2, és ezek szerint a LegKOsztó ez (akár egységvel szorzva is).
+
+Pontszám: 1/1
+Indoklás:
+A módszer helyes (Euklidesi algoritmus), a végeredmény 2x^2+2x+2, amely csak egy egység (2) szorzata a helyes monikus GCD-nek, ezért teljes pontot kap.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+A diák válasza csak egységfaktorral eltér a monikus LegKOsztótól,ämberben acceptálható.

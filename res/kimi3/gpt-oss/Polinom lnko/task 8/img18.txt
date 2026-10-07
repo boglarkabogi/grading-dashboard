@@ -1,0 +1,20 @@
+Feladat: Számolja ki az f=x^4+3x^3+3x^2+2x 
+
+x^4+3x^3+3x^2+2x 
+
+Cikk minuszba?
+Helyes megoldás: x^2 + x + 1
+
+Diák végeredménye: 3x^2 + 3x + 3
+Diák megoldása (összefoglalva):
+A diák a polinomok Euclid-féle osztó algoritmusát alkalmazta, hosszú osztással a maradékokat kiszámolta, és a végén a 3x^2+3x+3 nevezővel találta meg a legnagyobb közös osztót.
+
+Pontszám: 1/1
+Indoklás:
+A diák végrehajtott eljárása megfelel az Euclid algoritmusának, és az eredmény 3x^2+3x+3, amely a te számításaimhoz (x^2+x+1) csak egy egységszorzóval tér el, ezért a végső találat helyes.
+
+Modell magabiztossága: 90/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

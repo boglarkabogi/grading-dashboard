@@ -1,0 +1,15 @@
+{
+  "feladat": "Szamolja ki az f = x^4 + x^3 + 4x + 4 es g = x^5 + x^4 + 4x^3 + 2 polinomok legnagyobb kozos osztóját a Z_5[x]ben.",
+  "helyes_megoldas": "x^2 + x + 1",
+  "diak_vegeredmenye": "1",
+  "diak_megoldasa_osszefoglalva": "A diák eloszlando osztást végrehajtva elosztotta g-t f-el, majd f-t az első maradéktal, de a második osztás során elhatározatlanul elhagyta az x^2-tagot, aminek köszönhetően a további maradékok constans szammá váltak, így a végkövetkeztetésben a LegNagyobb közös osztót 1-nek vélelte.",
+  "pont": 0.25,
+  "indoklas": "A diák helyesen alkalmazta az euklideszi algoritmust és az első osztás pontos volt, de a második osztás során algebraic hiba (az x^2 member elhagyása) hibás maradékot Résultált, amely a végeredmény helytelenül 1-et adta; ezért módszer partiellement helyes, de a végső eredmény rossz, így 0.25 pont.",
+  "magabiztossag": 90,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "Az OCR-szövegben nem fordult elő 7-es számjegy, így nincs 1<->7 OCR-gyanú.",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

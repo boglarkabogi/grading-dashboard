@@ -1,0 +1,15 @@
+{
+  "feladat": "Számolja ki az f=x^4+2x^3+x^2+4  in Z_5[x] és g=x^5+x^4+2x^3+2x^2+2x+1  in Z_5[x] polinomok legnagyobb közös osztóját!",
+  "helyes_megoldas": "x^2 + x + 1",
+  "diak_vegeredmenye": "-4x+4",
+  "diak_megapolas_osszefoglalva": "A diák megpróbálja kiszámolni a legnagyobb közös osztót Euklid-algoritmussal. Először megpróbálja elosztani g-t f-vel, de hibásen számolja ki a hányadót (x-1 helyett x+4). A további lépésekben nem javítja ki a hibát, és végül egy -4x+4 maradékot kap, ami nem a megfelelő gcd.",
+  "pont": 0,
+  "indoklas": "Az elvezetés lényegesen hibás: a hányadó kiszámítása (x-1 fordítva) és az utólagos maradékok helytelenül lettek meghatározva. Emiatt a végső kapott eredmény nem felel meg a helyes legnagyobb közös osztónak, amely x^2 + x + 1. Mivel a diák nem adja meg a helyes végeredményt és a módszer nem helyes, pont 0.",
+  "magabiztossag": 90,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

@@ -1,0 +1,15 @@
+{
+  "feladat": "Számolja ki az f=x^4+4x^3+x^2+2 ∈ Z_5[x] és g=x^5+x^4+3x^3+x^2+x+4 ∈ Z_5[x] polinomok legnagyobb közös osztóját!",
+  "helyes_megoldas": "x^2 + x + 1",
+  "diak_vegeredmenye": "2x^2+2x+2",
+  "diak_megoldasa_osszefoglalva": "A diák elvégzi a hosszú osztást g / f, megtalálja a maradékot 4x^3+4x^2+4x, majd ezt osztja f / (4x^3+4x^2+4x), hogy kapja 2x^2+2x+2. Végül annyit követ, hogy ez a maradék több mint ötödik maradék, ami nullává válik, így a gcd az előző maradék.",
+  "pont": 1,
+  "indoklas": "A diák helyes módszert alkalmazott (egész hosszú osztás) és a végeredmény, 2x^2+2x+2, egy mértékegység szorzata a monikus nyers végleges maradékra, tehát a GCD helyes módon kapott. Mivel a feladatban nem kérték kifejezetten a monikus alakot, a diák eredménye teljesen elfogadható.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

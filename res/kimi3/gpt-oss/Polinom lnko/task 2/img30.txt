@@ -1,0 +1,16 @@
+Feladat: Számolja ki az f=x^4+x^3+4x+4 in Z5[x] és g=x^5+x^4+4x^3+2 in Z5[x] polinomok legnagyobb közös osztóját!
+Helyes megoldás: x^2+x+1
+
+Diák végeredménye: 4
+Diák megoldása (összefoglalva):
+The student attempted the Euclidean algorithm but made errors, concluding that the gcd is the constant 4.
+
+Pontszám: 0/1
+Indoklás:
+The final gcd is incorrect. The correct gcd is x^2+x+1. The student's work contains mistakes, leading to a wrong result.
+
+Modell magabiztossága: 100/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

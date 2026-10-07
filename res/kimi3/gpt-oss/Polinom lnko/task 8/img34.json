@@ -1,0 +1,15 @@
+{
+  "feladat": "Számolja ki az f=x^4+3x^3+3x^2+2x és g=x^5+x^4+3x^2+3x+4 polinomok legnagyobb közös osztóját Z_5[x] belé!",
+  "helyes_megoldas": "1",
+  "diak_vegeredmenye": "",
+  "diak_megoldasa_osszefoglalva": "A diák beképítésségben gézhetőt polinomhöírlényet vágyt, de a maradákot átalmatlanul álló érték mozgott hés nem határozzta, a végségben nem adta meg a gcd.",
+  "pont": 0,
+  "indoklas": "A diák levezetése elátszódik, és a maradák/ószárán a értelmezett mást értéket újt. A témánra vonatkozó módszer maradák, de nincs értelmes új, helyes újvárték, éppen\naz.\n\nMód új írá értelmezetlen.\n",
+  "magabiztossag": 80,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

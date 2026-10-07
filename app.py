@@ -398,7 +398,7 @@ for task_dir in task_dirs:
                     )
 
                 elif column_name == "Értékelés":
-                    render_text(
+                    render_result(
                         result_data,
                         result_path,
                     )

@@ -1,0 +1,16 @@
+Feladat: Szamolja ki az f=x^4+4 x^3+x^2+2 in Z_5[x] es g=x^5+x^4+3 x^3+x^2+x+4 in Z_5[x] polinomok legnagyobb közös osztóját!
+Helyes megoldás: x^2 + x + 1
+
+Diák végeredménye: x^2 + 4x - 1
+Diák megoldása (összefoglalva):
+A diák elosztotta g-t f-fel, majd fortsatte az Euklidesi algoritmust, végül -2 maradékot kaptam és az utolsó nem nulla osztóként x^2+4x-1-t adta meg.
+
+Pontszám: 1/1
+Indoklás:
+A diák módszere helyes (Euklidesi algoritmus), a végeredmény egy egység szorzata a pontos monikus LNKO-hoz (x^2+x+1), derfor teljes pontot kap.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+A diák eredménye 4-szeres szorzata a monikus LNKO-nak, de az Z_5[x] corpozában ez ekvivalens.

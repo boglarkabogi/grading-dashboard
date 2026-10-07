@@ -1,0 +1,16 @@
+Feladat: Számolja ki az f = x^4 + 4x^3 + x^2 + 2 in Z_5[x] és g = x^5 + x^4 + 3x^3 + x^2 + x + 4 in Z_5[x] polinomok legnagyobb közös osztóját!
+Helyes megoldás: x^2 + x + 1
+
+Diák végeredménye: 2x^2 + 2x + 2
+Diák megoldása (összefoglalva):
+Az osztást elvégve g és f között kapta a q1 = x+2 maradékot r1 = 4x^3+4x^2+4x, majd f osztása r1-vel q2 = 4x+2 maradékot r2 = 2x^2+2x+2 yielded, finally r1 osztása r2-vel q3 = 2x maradék 0, így a legnagyobb közös osztó r2 = 2x^2+2x+2.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyesen alkalmazta az euklidésosztáljat, a lépések pontosak, a végeredmény 2x^2+2x+2, ami skálázásával monikus x^2+x+1, tehát helyes.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: nem
+
+Megjegyzés:
+A diák eredménye 2‑szorozza a monikus x^2+x+1‑et, de Z_5‑ben ez ugyanaz a legosztályos osztó, így nincs pontlevonás.

@@ -1,0 +1,16 @@
+Feladat: Számolja ki az f = x^4 + 3x^3 + 2x^2 + x + 4 és g = x^5 + x^4 + x^2 + x + 2 polinomok legnagyobb közös osztóját Z_5[x]-ben!
+Helyes megoldás: Euklideszi algoritmus Z_5[x]-ben: g = (x+3)f + (4x^3+4x^2+4x); f = (x+2)(4x^3+4x^2+4x) + (4x^2+4x+4); 4x^3+4x^2+4x = x(4x^2+4x+4) + 0. Az utolsó nemnulla maradék 4x^2+4x+4, így a normált lnko: gcd = x^2 + x + 1.
+
+Diák végeredménye: (f,g) = x^2 + x + 1
+Diák megoldása (összefoglalva):
+A diák helyesen alkalmazza az euklideszi algoritmust Z_5[x]-ben: három polinomosztást végez, a maradékok 4x^3+4x^2+4x, majd 4x^2+4x+4, végül 0, és a végén normálva megadja az lnko-t.
+
+Pontszám: 1/1
+Indoklás:
+A módszer (euklideszi algoritmus Z_5[x] felett) helyes, a maradékok mod 5 konzisztensek az én számolásommal, és a végeredmény (x^2+x+1, az utolsó nemnulla maradék normálva) helyes.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

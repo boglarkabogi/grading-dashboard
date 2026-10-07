@@ -1,0 +1,14 @@
+{
+  "feladat": "Számolja ki az f=x^4+x^3+4x+4 in Z5[x] és g=x^5+x^4+4x^3+2 in Z5[x] polinomok legnagyobb közös osztóját!",
+  "helyes_megoldas": "x^2 + x + 1",
+  "diak_vegeredmenye": "-1",
+  "diak_megoldasa_osszefoglalva": "A diák elosztásként vizsgálta g és f polinomokat, első maradékként 4x^3-4x^2-4x+2-t obtenu, majd f-et osztotta ez által, szerintük 3x^2+3x+3 maradékot kapva, és végül r1 osztásával konstans -1 maradékot talált, így a lnko -1 szerint.",
+  "indoklas": "A diák által alkalmazott módszer (euklideszi algoritmus) grundsätzlich helyes, de a számításokban előforduló előjel- és együttható-hibák miatt a végső maradék nem x^2+x+1而是 -1, ezért a végeredmény helytelen; metódus részenként helyes, ezért részpont.",
+  "magabiztossag": 90,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A szöveg olvasható, nincs látható 7↔1 OCR-hiba; a hibák a diák számításai között jelentkeztek (elojel- és együtthatós hibák).",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

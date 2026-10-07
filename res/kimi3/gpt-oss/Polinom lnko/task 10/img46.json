@@ -1,0 +1,15 @@
+{
+  "feladat": "Számolja ki az f=x^4+x^3+3x^2+2x+2 és g=x^5+x^4+x^3+3x^2+3x+3 polinomok legnagyobb közös osztóját a Z_5[x] körben.",
+  "helyes_megoldas": "x^2 + x + 1",
+  "diak_vegeredmenye": "-1",
+  "diak_megoldasa_osszefoglalva": "The student applied the Euclidean algorithm but made arithmetic mistakes, eventually obtaining a constant remainder and thus concluding a constant gcd.",
+  "pont": 0,
+  "indoklas": "The student’s final result is the constant −1 (i.e. 4 mod 5), whereas the correct gcd of f and g over Z_5[x] is x^2 + x + 1. The algorithm was misapplied and leads to an incorrect answer.",
+  "magabiztossag": 90,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "The solution is legible; no 7↔1 OCR errors detected.",
+  "model": "openai/gpt-oss-20b"
+}

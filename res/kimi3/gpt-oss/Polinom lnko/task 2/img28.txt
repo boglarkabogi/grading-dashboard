@@ -1,0 +1,16 @@
+Feladat: Számolja ki a f=x^4+x^3+4x+4 és g=x^5+x^4+4x^3+2 polinomok legnagyobb közös osztóját a Z_5[x] körben
+Helyes megoldás: x^2+x+1
+
+Diák végeredménye: -1
+Diák megoldása (összefoglalva):
+Az oktáv 1. lépésében a polinomoknak Euclid‑osztását követésében a maradékot helyesen kiszámolta, de a további eljárás során a következő maradékokat tévesen számolta ki, így a végső maradék –1 lett, amely hibás eredmény.
+
+Pontszám: 0/1
+Indoklás:
+A diák végső maradékát –1-nek számolta, ami azt jelenti, hogy a polinomok egymástól szabadak, míg a valódi legnagyobb közös osztó x^2+x+1 (bár minden egységkel szorzva a térben is elfogadható). A módszer helytelen maradékkiszámítások miatt hibás a végső eredmény.
+
+Modell magabiztossága: 90/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

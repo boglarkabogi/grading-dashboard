@@ -1,0 +1,16 @@
+Feladat: Számolja ki az f=x^4+x^3+3x^2+2x+2 és g=x^5+x^4+x^3+3x^2+3x+3 polinomok legnagyobb közös osztóját
+Helyes megoldás: x^2+x+1
+
+Diák végeredménye: 3x^2+3x+3
+Diák megoldása (összefoglalva):
+A diák elvégezte a polinomos hányados műveleteket, homogen szorzákat alkalmazva és a maradékokat meghatározva; utólag összehasonlítva a maradékokat, a 3x^2+3x+3 osztóként jövevő állapotát találta derülő módon.
+
+Pontszám: 1/1
+Indoklás:
+A feladat megoldása helyes: a levezetésben a helyes módosítószámokkal végzett polinomiak osztása a modulo 5 körül általánosan elért, és a végeredmény 3x^2+3x+3 egy egységgel (a 3-mal) összehasonlított polinomot ad, amely hozzáadott jógépnek italának kerület: a gcd kiegészítve a skálázással is monic x^2+x+1.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

@@ -1,0 +1,15 @@
+{
+  "feladat": "Számolja ki az f = x^4 + 3x^3 + 2x^2 + x + 4 in Z5[x] és g = x^5 + x^4 + x^2 + x + 2 in Z5[x] polinomok legnagyobb közös osztóját!",
+  "helyes_megoldas": "x^2 + x + 1",
+  "diak_vegeredmenye": "x^2 + x + 1",
+  "diak_megoldasa_osszefoglalva": "Az Euclid-algoritmusával megtalálták a maradékokat: r1=4x^3+4x^2+4x, r2=4x^2+4x+4, majd a következő maradék nulla, így a gcd az utolsó nem nulla maradék, amitegységgel szorzva x^2+x+1.",
+  "pont": 1,
+  "indoklas": "A diák által alkalmazott Euclid-algoritmus helyes és a végső eredmény x^2+x+1 megegyezik a helyes megoldással.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

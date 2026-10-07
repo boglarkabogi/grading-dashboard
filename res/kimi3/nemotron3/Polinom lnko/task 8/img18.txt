@@ -1,0 +1,16 @@
+Feladat: Számolja ki az f=x^4+3x^3+3x^2+2x és g=x^5+x^4+3x^2+3x+4 polinomok legnagyobb közös osztóját Z_5[x]ban!
+Helyes megoldás: x^2 + x + 1
+
+Diák végeredménye: 3x^2+3x+3
+Diák megoldása (összefoglalva):
+A diák polynomiális osztással végte az euklidész algoritmust, először g-osztása f-tel maradék 3x^3+2x^2+2x+4-t kap, ezután f osztása ezzel a maradékkal, végül a maradék 3x^2+3x+3-t obtenu, amit lnkóként jelölt.
+
+Pontszám: 1/1
+Indoklás:
+A módszer helyes euklidész algoritmus, a végeredmény 3x^2+3x+3, ami az x^2+x+1 polinomhoz scalar szorzással (3) kapcsolódik, mivel 3 egy egység Z_5-ben, ezért a lnkó helyes.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+A diák eredménye a valódi lnkó egy egységMultiple, így elfogadható.

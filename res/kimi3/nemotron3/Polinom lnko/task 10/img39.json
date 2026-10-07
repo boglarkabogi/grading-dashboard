@@ -1,0 +1,15 @@
+{
+  "feladat": "Számolja ki az f=x^{4}+x^{3}+3x^{2}+2x+2 ∈ Z_{5}[x] és g=x^{5}+x^{4}+x^{3}+3x^{2}+3x+3 ∈ Z_{5}[x] polinomok legnagyobb közös osztóját!",
+  "helyes_megoldas": "x^2 + x + 1",
+  "diak_vegeredmenye": "x^2 + x + 1",
+  "diak_megoldasa_osszefoglalva": "A diák az euklideszi algoritmust alkalmazta: сначала osztotta g-t f-al, így első maradékként 3x^3+x^2+x+3-t kapta, majd f-t osztotta ebbe a maradékkbola, továbbra is maradékokat számítva, végül egy szorzattal (2) egyszerűsítve ottenere x^2+x+1-t, amelyet azonosította a Legközös Osztóként.",
+  "pont": 1,
+  "indoklas": "A diák módszere helyes (euklideszi algoritmus), és a végeredmény is pontosan megfelel a helyes największ közös osztónak.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "Az OCR-olt szöveg kielégítően olvasható, geen 7/1-összekeverés nincs benne.",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

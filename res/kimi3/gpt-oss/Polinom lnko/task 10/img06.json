@@ -1,0 +1,15 @@
+{
+  "feladat": "Számolja ki az f=x^{4}+x^{3}+3x^{2}+2x+2 \n\ng=x^{5}+x^{4}+x^{3}+3x^{2}+3x+3 \n\npolinomok legnagyobb közös osztóját a Z5[x] keretrendszerben",
+  "helyes_megoldas": "x^{2}+x+1",
+  "diak_vegeredmenye": "3",
+  "diak_megoldasa_osszefoglalva": "A diák rövid sorokban próbálta végrehajtani az egésszűrű (Euclid) algoritmust. A levezetésben több helyes leosztás látszik, de a végén a maradék egy konstans (3) lett, ami alapján a diák úgy értelmezte, hogy a gcd is 3 (egy egység).",
+  "pont": 0.25,
+  "indoklas": "A diák a helyes módszert (Euclid algoritmus a polinomok melletti osztás) alkalmazta, de a végső eredményt hibásan értelmezte, mert a maradékot konstansnak látta. A valós gcd azonban nem konstans, hanem a polinom x^2+x+1. Így csak részben helyes a megoldása, ezért 0.25 pont.",
+  "magabiztossag": 85,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

@@ -1,0 +1,15 @@
+{
+  "feladat": "Számolja ki az f=x^4+4x^3+x^2+2 in Z_5[x] és g=x^5+x^4+3x^3+x^2+x+4 in Z_5[x] polinomok legnagyobb közös osztóját!",
+  "helyes_megoldas": "x^2 + x + 1",
+  "diak_vegeredmenye": "2x^2 + 2x + 2",
+  "diak_megoldasa_osszefoglalva": "A diák az euklidész algoritmust alkalmazta: először g-t f-vel osztva maradékot 4x^3+4x^2+4x kapta, majd f-t eztel osztva maradékot 2x^2+2x+2 kapott, és végül az előző maradékot eztel osztva nulla maradékot szerzett, így a legközös osztó 2x^2+2x+2.",
+  "pont": 1,
+  "indoklas": "A módszer helyes, és a kapott eredmény 2x^2+2x+2, ami a x^2+x+1 polinom egy növelő (2) szorozata, vagyis egységkelönt többszöröse, ezért a legs közös osztó helyes.",
+  "magabiztossag": 95,
+  "ertelezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A diák eredménye egységkelönt többszöröse a monikus legközös osztónak, így helyes.",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

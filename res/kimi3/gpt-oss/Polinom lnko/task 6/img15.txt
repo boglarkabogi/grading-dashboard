@@ -1,0 +1,16 @@
+Feladat: Számolja ki az f=x^{4}+2x^{3}+3x^{2}+2x+1 \in Z_{5}[x] és g=x^{5}+x^{4}+2x^{3}+4x^{2}+4x+3 \in Z_{5}[x] polinomok legnagyobb közös osztóját
+Helyes megoldás: x^{2}+x+1
+
+Diák végeredménye: x^{2}+x+1
+Diák megoldása (összefoglalva):
+A diák a polinomok Euclid‑szerű határfélében hasonló lebontást hajtott végre, de a levezetés során a műveletek részletei nem egyeznek pontosan a szabályos osztással. Azonban a végeredményként Átlagos osztó a helyes x^{2}+x+1
+
+Pontszám: 0.5/1
+Indoklás:
+A végső eredmény helyes, de az első osztási lépésben hibás módon állították be a hányadost (q=x-1), ami nincsen összhangban a normál polinomi osztással. Ennek ellenére a további lépések korrekten kapják meg a maradékot és a végső megosztót, így a módszer részben helyes, a végső válasz pedig helyes.
+
+Modell magabiztossága: 80/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

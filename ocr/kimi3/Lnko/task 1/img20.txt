@@ -1,0 +1,13 @@
+lead:
+
+$213 \mod 200 = 13$
+
+$200 \mod 13 = 5$ $(13 \cdot 15 = 195)$
+
+$13 \mod 5 = 3$
+
+$5 \mod 3 = 2$
+
+$3 \mod 2 = \textcircled{1}$ 1 a legnagyobb közös oszt
+
+$2 \mod 1 = 0$

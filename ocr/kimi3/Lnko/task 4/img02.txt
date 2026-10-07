@@ -1,0 +1,13 @@
+$\operatorname{lnko}(216,205)$
+
+$216-1 \cdot 205=9$
+
+$205-22 \cdot 9=7$
+
+$9-1 \cdot 7=2$
+
+$7-3 \cdot 2=1$
+
+$2-2 \cdot 1=0$
+
+Relatív prímek

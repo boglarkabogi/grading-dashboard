@@ -1,0 +1,15 @@
+{
+  "feladat": "Számolja ki az f = x^4 + 3x^3 + 2x^2 + x + 4 es g = x^5 + x^4 + x^2 + x + 2 polinomok legnagyobb közös osztóját Z_5[x]-ben.",
+  "helyes_megoldas": "Euklideszi algoritmussal Z_5[x]-ben: g = (x+3)f + (4x^3+4x^2+4x); innen gcd(f, x^3+x^2+x) = gcd(f, x) kapcsán f mod x = 4 != 0, továbbá f mod (x^2+x+1) = 2x+4 != 0; gcd(x^2+x+1, 2x+4): x=3 helyen 3^2+3+1 = 13 = 3 != 0, így a maradékoztatás végül nemnulla konstanshoz vezet: lnko(f,g) = 1. Tehát a két polinom relatív prím, a legnagyobb közös osztó 1 (egység).",
+  "diak_vegeredmenye": "lnko(f,g) = 2x^2+2x+2",
+  "diak_megoldasa_osszefoglalva": "A diák euklideszi algoritmust alkalmaz, de az első osztásban csak egyetlen lépést végez (g - x f), és a fokszáma még mindig 4-es maradékot (3x^4+3x^3+2x+2) tévesen tekinti végmaradéknak, ahelyett hogy folytatta volna az osztást (a helyes maradék 4x^3+4x^2+4x, hányados x+3). A további lépések formálisan euklideszi osztások, és nulla maradékig jut, de a kiinduló maradék hibája miatt a végeredmény rossz.",
+  "pont": 0.5,
+  "indoklas": "A módszer (euklideszi algoritmus polinomok felett) helyes keret, de a diák az első polinomosztást félbehagyta: a 3x^4+3x^3+2x+2 még osztható f-fel, a helyes maradék 4x^3+4x^2+4x lenne. Emiatt az egész további lánc és a végeredmény (2x^2+2x+2) hibás; a helyes lnko 1, azaz a polinomok relatív prímek. Jó módszer, elrontott végrehajtás és végeredmény.",
+  "magabiztossag": 85,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A levezetés jól olvasható; a hiba valódi matematikai hiba (félbemaradt polinomosztás), nem OCR-probléma.",
+  "model": "moonshotai/kimi-k3"
+}

@@ -1,0 +1,15 @@
+{
+  "feladat": "Számolja ki az f=x^4+4x^3+4x^2+3x ∈ Z_5[x] és g=x^5+x^4+1 ∈ Z_5[x] polinomok legnagyobb közös osztóját!",
+  "helyes_megoldas": "x^2 + x + 1",
+  "diak_vegeredmenye": "3x^2+3x+3",
+  "diak_megoldasa_osszefoglalva": "A diák polynomialos osztással végrehajtotta az euklideszi algoritmust, sorosan osztva g-t f-tel, majd f-t az első maradékkel, stb., így nullamaradékot kapva az utolsó nem nulla maradék 3x^2+3x+3.",
+  "pont": 1,
+  "indoklas": "A módszer helyes, a végeredmény 3‑el szorozott változat a pontos gcd-re (x^2+x+1), de mivel 3 egység a Z_5-ben, ezt szintén megfelelő gcd‑nek tekintjük.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A diák eredménye 3‑szorosa a monikus gcd-nek, de ez egységzelfaktor a Z_5[x]-ben, ezért teljes pontot adunk.",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

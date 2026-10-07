@@ -1,0 +1,15 @@
+{
+  "feladat": "Számolja ki az f = x^4 + 3x^3 + 2x^2 + x + 4 és g = x^5 + x^4 + x^2 + x + 2 polinomok legnagyobb közös osztóját Z_5[x]-ben.",
+  "helyes_megoldas": "Euklideszi algoritmus Z_5[x]-ben: g = (x+3)f + (4x^3+4x^2+4x); f = (4x+3)(4x^3+4x^2+4x) + (4x^2+4x+4); 4x^3+4x^2+4x = x(4x^2+4x+4) + 0. Az utolsó nemnulla maradék 4x^2+4x+4, normálva gcd(f,g) = x^2+x+1.",
+  "diak_vegeredmenye": "gcd(f,g) = x^2+x+1 (az utolsó nemnulla maradék r_2 = 4x^2+4x+4 normálva)",
+  "diak_megoldasa_osszefoglalva": "A diák kibővített Euklideszi algoritmust futtat táblázatos formában: q_1 = x+3, r_1 = 4x^3+4x^2+4x; q_2 = 4x+3, r_2 = 4x^2+4x+4; q_3 = x, r_3 = 0. A gcd-t r_2 normálásával x^2+x+1-nek adja meg.",
+  "pont": 1,
+  "indoklas": "A módszer (Euklideszi algoritmus Z_5[x]-ben) helyes, az összes hányados és maradék helyes (g-(x+3)f = 4x^3+4x^2+4x, f-(4x+3)r_1 = 4x^2+4x+4, r_1 = x*r_2), és a normált végeredmény x^2+x+1 megegyezik a helyes megoldással.",
+  "magabiztossag": 97,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "moonshotai/kimi-k3"
+}

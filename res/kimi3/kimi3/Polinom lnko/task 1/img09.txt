@@ -1,0 +1,16 @@
+Feladat: Számolja ki az f = x^4 + 3x^3 + 2x^2 + x + 4 ∈ Z_5[x] és g = x^5 + x^4 + x^2 + x + 2 ∈ Z_5[x] polinomok legnagyobb közös osztóját!
+Helyes megoldás: Euklideszi algoritmus Z_5[x]-ben: g = (x+3)f + (4x^3+4x^2+4x); f = (4x+3)(4x^3+4x^2+4x) + (4x^2+4x+4); 4x^3+4x^2+4x = x(4x^2+4x+4) + 0. Az utolsó nemnulla maradék a 4x^2+4x+4 = 4(x^2+x+1), tehát lnko (normált alakban) x^2+x+1.
+
+Diák végeredménye: lnko = 4x^2+4x+4 (azaz 4(x^2+x+1), konstans szorzótól eltekintve x^2+x+1)
+Diák megoldása (összefoglalva):
+A diák az euklideszi algoritmust alkalmazta: g-t f-fel osztotta (hányados x+3), a maradékkal f-et osztotta, majd a következő osztás maradéka 0 lett. Az utolsó nemnulla maradékot, a 4x^2+4x+4-et adta meg lnkóként.
+
+Pontszám: 1/1
+Indoklás:
+Helyes módszer (euklideszi algoritmus Z_5[x]-ben) és helyes végeredmény: a 4x^2+4x+4 konstans-szorzótól eltekintve megegyezik a helyes lnko-val (x^2+x+1). A maradékok (4x^3+4x^2+4x, 4x^2+4x+4) és a záró osztás (maradék 0) mind helyesek; a köztes soroknál az OCR-zaj (pl. a kivont polinomok soraiban) nem érinti a helyes végeredményt.
+
+Modell magabiztossága: 90/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+A köztes sorokban (pl. az első osztás maradékánál a 3x^4+3x^3+2x+2 sor) OCR-zaj látszik, de a lényegi maradékok és a végeredmény helyesek. lnko-t általában normálva x^2+x+1 formában szokás megadni, de a diák alakja ekvivalens (4 szerese), így nem pontlevonás.

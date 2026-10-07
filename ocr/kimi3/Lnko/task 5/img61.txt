@@ -1,0 +1,15 @@
+Beadandó 2.
+
+$[217, 201)$
+
+$217 = 201 \cdot 1 + 16$ $\Downarrow$
+
+$201 = 16 \cdot 12 + 9$ $\Downarrow$
+
+$16 = 9 \cdot 1 + 7$ $\Downarrow$
+
+$9 = 7 \cdot 1 + 2$ $\Downarrow$
+
+$\underline{2 = 2 \cdot \textcircled{1} + 0}$
+
+$\underline{(217, 201)\ \text{lnko} = 1}$

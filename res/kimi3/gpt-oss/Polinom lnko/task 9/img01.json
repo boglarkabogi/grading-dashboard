@@ -1,0 +1,15 @@
+{
+  "feladat": "Számolja ki az f=x^4+4x^3+3x^2+2x+4 ∈ Z_5[x] és g=x^5+x^4+x^2+x+2 ∈ Z_5[x] polinomok legnagyobb közös osztóját!",
+  "helyes_megoldas": "x^2 + x + 1",
+  "diak_vegeredmenye": "x^2 + x + 1",
+  "diak_megapolas_osszefoglalva": "A diák a polinomok közti értelmezett euclidiumi levezetést alkalmazta: először felbontotta g-t f-vel, meghatározta a maradákot r1; majd f-et r1-rel, kapva r2; végön r1 és r2 szorzata egyenlő r1-nel, tehát a legnagyobb összesör jelent kilér ő értelmezett maradák, melyet tehát faktorizált fábon, örtve mint ábeles összeg, a szabódmass gyakorlata szerint megszorolva. Ennek eredeti alakja 2x^2+2x+2, melyet a 2 előttevel szorozva monic alakba hoztak: x^2+x+1.",
+  "pont": 1,
+  "indoklas": "A diák megoldása pontosan alkalmazta a polinomiális euclidium algoritmust Z_5[x] környezetben, helyes maradákait hatogatta, majd a legvágön elmaradt maradákot monic alakba konvertált. A végsó eredmény, x^2 + x + 1, megegyezik a helyes megoldással.",
+  "magabiztossag": 100,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

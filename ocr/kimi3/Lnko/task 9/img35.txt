@@ -1,0 +1,19 @@
+2. Beadandó
+
+$(180,219)=?$ euklideszi algoritmussal
+
+$219=1\cdot180+39$
+
+$180=4\cdot39+24$
+
+$39=1\cdot24+15$
+
+$24=1\cdot15+9$
+
+$15=1\cdot9+6$
+
+$9=1\cdot6+\boxed{3}$ lnko
+
+$6=2\cdot3$
+
+Megoldás: $(180,219)=3$

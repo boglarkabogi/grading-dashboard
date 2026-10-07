@@ -1,0 +1,25 @@
+Feladat: Számolja ki az f=x^{4}+2 x^{3}+x^{2}+4 
+    és g=x^{5}+x^{4}+2 x^{3}+2 x^{2}+2 x+1 
+    polinomok legnagyobb közös osztóját a 
+    
+    
+    
+    
+    
+    
+    
+Helyes megoldás: x^{2}+x+1
+
+Diák végeredménye: x^{2}+x+1
+Diák megoldása (összefoglalva):
+A diák ügyesen végigírtotta az Euklid-számítást: előbódik r1=g−x·f, majd r2=f−4·r1, ezután r3=r1−3x·r2, r4=r2−4·r3, végül r5=r3−2x·r4, és a sikeres hányadosok után mind a maradékok megegyeznek. Így a legnagyobb közös osztó a legkisebb nem nulla maradék
+
+Pontszám: 1/1
+Indoklás:
+A diák lépései mathematikailag helyesek és a végső eredmény egyezik a korrekcióval. Nincs szükség módosításra.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

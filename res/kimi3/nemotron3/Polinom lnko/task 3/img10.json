@@ -1,0 +1,14 @@
+{
+  "feladat": "Szamolja ki az f=x^4+2 x^3+x^2+4 es g=x^5+x^4+2 x^3+2 x^2+2 x+1 polinomok legnagyobb kozos osztóját a Z_5[x]ben!",
+  "helyes_megoldas": "x^2 + x + 1",
+  "diak_vegeredmenye": "x^2 + x + 1",
+  "diak_megoldasa_osszefoglalva": "A diák az euklideszi algoritmust alkalmazta: először g-t osztotta f-tel, kapva osztányt x+4 és maradékot 3x^3+3x^2+3x; majd f-t osztotta ezt a maradékkal, majd a következő osztásban nulle maradékot kapva, így a Legközös osztó x^2+x+1-nek megadott (egységesítve).",
+  "pont": 1,
+  "magabiztossag": 95,
+  "ertelezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

@@ -1,0 +1,13 @@
+$\operatorname{lnko}(216,205)$
+
+$216=1 \cdot 205+11$
+
+$205=18 \cdot 11+\cancel{7}$
+
+$18=2 \cdot \boxed{7+2}$
+
+$7=3 \cdot 2+\underline{1}$
+
+$2=2 \cdot 1$
+
+$\operatorname{lnko}(216,205)=1$

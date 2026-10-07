@@ -1,0 +1,9 @@
+②  
+$(218,202)=?$
+
+$218=1\cdot 202+16$  
+$202=12\cdot 16+10$  
+$16=1\cdot 10+6$  
+$10=1\cdot 6+4$  
+$6=1\cdot 4+\textcircled{2}\quad \longrightarrow \quad (218,202)=2$  
+$4=2\cdot 2+0$

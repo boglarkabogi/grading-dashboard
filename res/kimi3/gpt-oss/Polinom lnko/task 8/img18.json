@@ -1,0 +1,15 @@
+{
+  "feladat": "Számolja ki az f=x^4+3x^3+3x^2+2x \n\nx^4+3x^3+3x^2+2x \n\nCikk minuszba?",
+  "helyes_megoldas": "x^2 + x + 1",
+  "diak_vegeredmenye": "3x^2 + 3x + 3",
+  "diak_megoldasa_osszefoglalva": "A diák a polinomok Euclid-féle osztó algoritmusát alkalmazta, hosszú osztással a maradékokat kiszámolta, és a végén a 3x^2+3x+3 nevezővel találta meg a legnagyobb közös osztót.",
+  "pont": 1,
+  "indoklas": "A diák végrehajtott eljárása megfelel az Euclid algoritmusának, és az eredmény 3x^2+3x+3, amely a te számításaimhoz (x^2+x+1) csak egy egységszorzóval tér el, ezért a végső találat helyes.",
+  "magabiztossag": 90,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

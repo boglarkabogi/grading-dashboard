@@ -1,0 +1,15 @@
+{
+  "feladat": "Számolja ki az f=x^4+x^3+3x^2+2x+2 \nand g=x^5+x^4+x^3+3x^2+3x+3 polinomok legnagyobb közös osztóját!",
+  "helyes_megoldas": "x^2 + x + 1",
+  "diak_vegeredmenye": "2(x^2 + x + 1)",
+  "diak_megoldasa_osszefoglalva": "A diák az Euclid‑algoritmust alkalmazta a Z_5[x] ringben, sorra kiszámította a maradékokat, és a legutóbb nulla maradéka kölcsönös prímszám(móniak) szorzata 2x^2+2x+2, amely 2(x^2+x+1)-t ad. Ez egy olyan polinom, amely a legnagyobb közös osztóhoz egy csatlakozó egységet szorozza.",
+  "pont": 1,
+  "indoklas": "A diák a helyes módszert alkalmazta (Euclid‑algoritmus) és a végeredménye 2x^2+2x+2, mely egy egység (2) szorzata a monik gcd-nek x^2+x+1. Ebben az esetben a végeredmény egy állandó egység által szorzott polinom, ami megegyezik a legnagyobb közös osztóval a polinomiális egységeket figyelembe véve. Tehát a megoldás teljesen helyes.",
+  "magabiztossag": 90,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

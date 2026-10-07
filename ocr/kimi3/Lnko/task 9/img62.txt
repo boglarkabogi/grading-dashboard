@@ -1,0 +1,17 @@
+Házi feladat
+
+Számolja ki a $(180,219)$ legnagyobb közös osztó értékét az euklideszi algoritmussal.
+
+$(180,190)=3$
+
+\[
+\begin{aligned}
+219 &= 1\cdot 180+39\\
+180 &= 4\cdot 39+24\\
+39 &= 1\cdot 24+15\\
+24 &= 1\cdot 15+9\\
+15 &= 1\cdot 9+6\\
+9 &= 1\cdot 6+3\\
+6 &= 2\cdot \boxed{3}+\boxed{0}
+\end{aligned}
+\]

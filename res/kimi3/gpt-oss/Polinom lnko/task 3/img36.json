@@ -1,0 +1,15 @@
+{
+  "feladat": "Számolja ki az f=x^4+2 x^3+x^2+4 és g=x^5+x^4+2 x^3+2 x^2+2 x+1 polinomok legnagyobb közös osztóját a Z_5[x] környezetben",
+  "helyes_megoldas": "x^2+x+1",
+  "diak_vegeredmenye": "x^2+x+1",
+  "diak_megoldasa_osszefoglalva": "A diák elvégzett egy-egy osztást a polinomokkal, és a maradékok közt a monikális x^2+x+1 szerepelt, amelyenő lapos marad. Ebből leolvasta, hogy a gcd ebben az esetben x^2+x+1.",
+  "pont": 1,
+  "indoklas": "A diák alkalmazta a polinomiális Euclid‑algoritmust, még ha néhány köztes lépésben zavarosan jelzett sem, a végső eredmény a helyes, monikális legnagyobb közös osztó. Ez teljes pontot ér.",
+  "magabiztossag": 90,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

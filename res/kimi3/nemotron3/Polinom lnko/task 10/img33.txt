@@ -1,0 +1,16 @@
+Feladat: Számolja ki az f=x^4+x^3+3x^2+2x+2 in Z_5[x] és g=x^5+x^4+x^3+3x^2+3x+3 in Z_5[x] polinomok legnagyobb közös osztóját!
+Helyes megoldás: 3x^2 + 3x + 3
+
+Diák végeredménye: 3x^2 + 3x + 3
+Diák megoldása (összefoglalva):
+A diák elosztotta g‑t f‑tel, első maradékként r1=3x^3+x^2+x+3-et kapta. Ezután f‑t osztotta r1‑el, így kvócienst 2x+3‑at, maradékként r2=3x^2+3x+3‑at kapott. Végül r1‑et osztotta r2‑el, kvócienst x+1‑et, maradék 0‑at, így a legnagyobb közös osztójáknak r2=3x^2+3x+3‑et adott meg.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyesen alkalmazte az euklideszi algoritmust, helyes maradékokat és kvótásokat számítva, és a végső maradék helyes (egyenértékű) legnagyobb közös osztót adta.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+Az eredmény 3‑szorozattal egy együtthatóval différál a monikus x^2+x+1‑től, de mivel 3 egység Z_5‑ben, a diák válasza helyes.

@@ -1,0 +1,7 @@
+{
+  "feladat": "Számolja ki az f=x^4+3x^3+3x^2+2x ∈ Z_5[x] és g=x^5+x^4+3x^2+3x+4 ∈ Z_5[x] polinomok legnagyobb közös osztóját!",
+  "helyes_megoldas": "x^2 + x + 1",
+  "diak_vegeredmenye": "x^2 + x + 1",
+  "diak_megoldasa_osszefoglalva": "A diák Euclid‑szerű algoritmust próbált alkalmazni: először a g-et elosztotta f‑el, majd folytatta a maradékok kiszámítását, de a „rész",
+  "model": "openai/gpt-oss-20b"
+}

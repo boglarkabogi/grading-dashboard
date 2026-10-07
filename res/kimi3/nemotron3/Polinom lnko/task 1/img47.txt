@@ -1,0 +1,16 @@
+Feladat: Számolja ki az f = x^4 + 3x^3 + 2x^2 + x + 4 (mod 5) és g = x^5 + x^4 + x^2 + x + 2 (mod 5) polinomok legnagyobb közös osztóját!
+Helyes megoldás: x^2 + x + 1
+
+Diák végeredménye: 4x^2 + 4x + 4
+Diák megoldása (összefoglalva):
+A diák euklideszi algoritmust alkalmazta: először g = f·(x-2) + (-x^3 - x^2 - x) kaprált, majd f = (-x^3 - x^2 - x)·(-x-2) + (-x^2 - x -1), végül (-x^3 - x^2 - x) = (-x^2 - x -1)·x + 0, így a lnko = -x^2 - x -1, amely asszociált x^2 + x + 1-zel.
+
+Pontszám: 1/1
+Indoklás:
+A módszer helyes (euklideszi algoritmus), a végeredmény 4x^2+4x+4 = -(x^2+x+1), azaz x^2+x+1 asszociáltja, ezért teljes pontszám tartozik.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+A kezdeti „f=g·(-x^5+3x^3+4)” sor hibás, de azt a diák nem használja tovább, így nincs hatása a pontszámra.

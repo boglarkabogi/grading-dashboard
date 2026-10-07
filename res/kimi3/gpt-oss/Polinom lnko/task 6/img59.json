@@ -1,0 +1,15 @@
+{
+  "feladat": "Számolja ki az f=x^4+2x^3+3x^2+2x+1 in Z_5[x] és g=x^5+x^4+2x^3+4x^2+4x+3 in Z_5[x] polinomok legnagyobb közös osztóját!",
+  "helyes_megoldas": "A legnagyobb közös osztó a f és g polinomok Z_5[x] körében 3x^2+3x+3 (az up mérősége miatt bármely 1,2,3 vagy 4-szoros is egyenértékű).",
+  "diak_vegeredmenye": "3x^2+3x+3",
+  "diak_megoldasa_osszefoglalva": "A diák az Euclid‑eljárást használta, lépésről lépésre osztott a polinomiális hányados és maradékok felhasználásával, és így megállapította, hogy a legnagyobb közös osztó 3x^2+3x+3.",
+  "pont": 1,
+  "indoklas": "A diák helyesen alkalmazta az Euclid eljárást, a maradékokat pontosan kiszámolta, és a végső eredmény 3x^2+3x+3 megegyezik a saját megoldással.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

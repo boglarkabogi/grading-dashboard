@@ -1,0 +1,15 @@
+{
+  "feladat": "Számolja ki az f=x^4+x^3+3x^2+2x+2 ∈ Z5[x] és g=x^5+x^4+x^3+3x^2+3x+3 ∈ Z5[x] polinomok legnagyobb közös osztóját!",
+  "helyes_megoldas": "x^2+x+1",
+  "diak_vegeredmenye": "3x^2+3x+3",
+  "diak_megoldasa_osszefoglalva": "A diák a Euclid-értékelést alkalmazva először a g osztot f-vel, majd a f osztot az első maradékkal, és végül a maradékokat egymásra. A végső nem nulla maradék 3x^2+3x+3 lett, amelyben a maradéksort 0 jelig point.",
+  "pont": 1,
+  "indoklas": "A diák helyes módszert alkalmazott, a maradékok számítása és a bekötés megegyezik a helyes eredménnyel (egy egységsel egyenértékű a monikus változata x^2+x+1).",
+  "magabiztossag": 90,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

@@ -1,0 +1,15 @@
+{
+  "feladat": "Számolja ki az f = x^4 + 3x^3 + 2x^2 + x + 4 és g = x^5 + x^4 + x^2 + x + 2 polinomok legnagyobb közös osztóját Z_5[x]-ben!",
+  "helyes_megoldas": "Az euklideszi algoritmus Z_5[x]-ben: g = (x+3)f + r1, f = q2*r1 + r2 ahol r2 ~ x^2+x+1, majd r2 osztja r1-et, így gcd(f,g) = x^2 + x + 1. Ellenőrzés: f = (x^2+x+1)(x^2+2x+4), g = (x^2+x+1)(x^3+4x+2), és a hányadosok relatív prímek.",
+  "diak_vegeredmenye": "gcd(f,g) = x^2 + x + 1, f = (x^2+x+1)(x^2+2x+4), g = (x^2+x+1)(x^3+4x+2)",
+  "diak_megoldasa_osszefoglalva": "A diák az euklideszi algoritmust alkalmazta Z_5[x]-ben: g-t osztotta f-fel (hányados x-2, maradék r1 = 4x^3+4x^2+4x), majd f-et r1-gyel (hányados -x-2, maradék r2 = 4x^2+4x+4), normalizálta a maradékot, és megkapta a gcd = x^2+x+1 eredményt, amit faktorizálással ellenőrzött is.",
+  "pont": 1,
+  "indoklas": "A módszer (euklideszi algoritmus) helyes, a végeredmény gcd = x^2+x+1 helyes, és a faktorizálásos ellenőrzés mindkét polinomra helyes. A köztes sorokban lévő apró együttható-eltérések (pl. az első osztásnál) az OCR és a Z_5-beli jelölések miatt nem relevánsak; a diák konzisztensen a helyes maradékokkal dolgozott.",
+  "magabiztossag": 90,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A diák a negatív és a 5-tel ekvivalens együtthatókat keverve írta (pl. -1 helyett 4), ami mod 5 rendben van.",
+  "model": "moonshotai/kimi-k3"
+}

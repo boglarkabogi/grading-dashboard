@@ -1,0 +1,11 @@
+$218, 201$ LNKO /BEADANDÓ, 02/
+
+$17 \cdot 12 = 198$
+
+$218 = 201 \cdot 1 + 17$
+
+$201 = 17 \cdot 12 + 3$
+
+$17 = 3 \cdot 6 + 1$
+
+$3 = \textcircled{1} \cdot 3 + 0$ $(218, 201) = \underline{1}$

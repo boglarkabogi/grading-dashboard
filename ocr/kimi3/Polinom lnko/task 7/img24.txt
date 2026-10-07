@@ -1,0 +1,29 @@
+$$
+\begin{aligned}
+&x^{5}+x^{4}+1 : x^{4}+4 x^{3}+4 x^{2}+3 x=x+2\\
+&\frac{-\left(x^{5}+4 x^{4}+4 x^{3}+3 x^{2}\right)}{-3 x^{4}-4 x^{3}-3 x^{2}+1}\\
+&\quad \perp \equiv 2 x^{4}+x^{3}+2 x^{2}+1 \quad(\bmod 5)\\
+&\quad \frac{-\left(2 x^{4}+8 x^{3}+8 x^{2}+6 x\right)}{-7 x^{3}-6 x^{2}-6 x+1} \equiv 3 x^{3}+4 x^{2}+4 x+1 \quad(\bmod 5)=r_{1}
+\end{aligned}
+$$
+
+$\frac{1}{3} \equiv 2$, mert $\quad 2 \cdot 3 \bmod 5=1$
+
+$$
+\begin{aligned}
+&x^{4}+4 x^{3}+4 x^{2}+3 x : 3 x^{3}+4 x^{2}+4 x+1=2 x+2\\
+&\frac{-\left(6 x^{4}+8 x^{3}+8 x^{2}+2 x\right)}{-5 x^{4}-4 x^{3}-4 x^{2}+x}\\
+&\quad \perp \equiv x^{3}+x^{2}+x\\
+&\quad \frac{-\left(6 x^{3}+8 x^{2}+8 x+2\right)}{-5 x^{3}-7 x^{2}-7 x-2} \equiv 3 x^{2}+3 x+3 \quad(\bmod 5)=r_{2}
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+&3 x^{3}+4 x^{2}+4 x+1 : 3 x^{2}+3 x+3=x+2\\
+&\frac{-\left(3 x^{3}+3 x^{2}+3 x\right)}{x^{2}+x+1}\\
+&\frac{-\left(6 x^{2}+6 x+6\right)}{-5 x^{2}-5 x-5} \equiv 0(\bmod 5) \quad\left(=r_{3}\right)
+\end{aligned}
+$$
+
+tehát $\quad(f, g)=3 x^{2}+3 x+3$

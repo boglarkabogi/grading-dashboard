@@ -1,0 +1,15 @@
+{
+  "feladat": "Számolja ki az f = x^4 + 3x^3 + 2x^2 + x + 4 ∈ Z_5[x] és g = x^5 + x^4 + x^2 + x + 2 ∈ Z_5[x] polinomok legnagyobb közös osztóját!",
+  "helyes_megoldas": "x^2 + x + 1",
+  "diak_vegeredmenye": "4x^2+4x+4",
+  "diak_megoldasa_osszefoglalva": "Elvégezte a polinomok osztását először a g-et f-vel, majd f-et a kapott maradékkal, és így tovább, végül a 4x^2+4x+4 polinomot kapta megelőző maradékként.",
+  "pont": 0.75,
+  "indoklas": "A diák néhány mással megjegyzott maradékot, de a végső megmaradónak a 4x^2+4x+4, ami 4-mal (egy egységgel) szorozva a helyes monikus legnagyobb közös osztót, x^2+x+1, adja. Mivel a módszer alapvetően Euclid-térképet követ, a végeredmény helyes, bár a részletes számítások hibásak",
+  "magabiztossag": 85,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

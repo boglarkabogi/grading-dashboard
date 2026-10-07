@@ -1,0 +1,14 @@
+{
+  "feladat": "Számolja ki az f = x^4 + 3x^3 + 2x^2 + x + 4 és g = x^5 + x^4 + x^2 + x + 2 polinomok legnagyobb közös osztóját a Z_5[x] halmazban.",
+  "helyes_megoldas": "x^2 + x + 1",
+  "diak_vegeredmenye": "x^2 + x + 1",
+  "diak_megoldasa_osszefoglalva": "A diák elosztotta g‑et f‑tel, kapva maradékot 4x^3+4x^2+4x, majd f‑et osztotta ezt a maradékkal,endu 4x^2+4x+4 maradékot, végül ezt a maradékkal osztotta az előző maradékot és nullát kapott, így a legkövetkező nem‑nulla maradék x^2+x+1 a legnagyobb közös osztó.",
+  "pont": 1,
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "Az OCR‑olt szöveg világos, nessun 7/1 confusion nem jelentkezett.",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

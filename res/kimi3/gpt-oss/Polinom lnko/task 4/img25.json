@@ -1,0 +1,15 @@
+{
+  "feladat": "Számolja ki az f=x^4+4x^3+x^2+2 és g=x^5+x^4+3x^3+x^2+x+4 értelmezéseit a Z_5[x] polinomok közös osztóját.",
+  "helyes_megoldas": "x^2+x+1",
+  "diak_vegeredmenye": "1",
+  "diak_megoldasa_osszefoglalva": "A diák a polinomok Euclid‑járatával próbálta meghatározni a GCD-t, de a műveletek során hibás maradékokat számított, így végül azt állította, hogy a gcd 1.",
+  "pont": 0,
+  "indoklas": "A diák által bemutatott számítások alapján a maradékok helytelenül lettek kiszámítva (például a 4x^3+4x+2 maradék helyett a helyes 4x^3+4x^2+4x szerepel). Emiatt a későbbi lépések is hibásak, és a végső eredmény a helytelen 1. A módszer összességében nem volt helyes, ezért 0 pont.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A diák Euclid‑járatot alkalmazott, de matematikai hibái miatt a maradékok nem egyeztek a helyesekkel. A végeredmény 1 helytelen.",
+  "model": "openai/gpt-oss-20b"
+}

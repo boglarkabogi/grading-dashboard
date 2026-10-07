@@ -1,0 +1,15 @@
+{
+  "feladat": "Számolja ki az f = x^4 + 3x^3 + 2x^2 + x + 4 in Z_5[x] és g = x^5 + x^4 + x^2 + x + 2 in Z_5[x] polinomok legnagyobb közös osztóját!",
+  "helyes_megoldas": "x^2 + x + 1",
+  "diak_vegeredmenye": "4x^2 + 4x + 4",
+  "diak_megoldasa_osszefoglalva": "A diák elosztotta g-t f-fel, aztán f-t a maradékkal, ezeket folytatta, majd utolsó nem nulla maradékként 4x^2+4x+4-t kapta.",
+  "pont": 1,
+  "indoklas": "A módscher helyes (Euklidesi algoritmus), a végeredmény egy egységszorzata a helyes monikus gcd-nek, ezért teljes pont.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A diák válasza 4‑szorozottal unterscheidet a monikus x^2+x+1-tól, de az egységszorzatok ekvivalens GCD‑t adnak.",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

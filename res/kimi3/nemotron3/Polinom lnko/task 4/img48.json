@@ -1,0 +1,15 @@
+{
+  "feladat": "Számolja ki az f=x^{4}+4 x^{3}+x^{2}+2 ∈ Z_{5}[x] és g=x^{5}+x^{4}+3 x^{3}+x^{2}+x+4 ∈ Z_{5}[x] polinomok legnagyobb közös osztóját!",
+  "helyes_megoldas": "x^2 + x + 1",
+  "diak_vegeredmenye": "2 x^2 + 2 x + 2",
+  "diak_megoldasa_osszefoglalva": "A diák elosztotta g-t f-fel, kapott maradékot 4x^3+4x^2+4x, tovább osztotta f-t ezzel a maradékkel, és végül állítódott, hogy a legutolsó nem nulla maradék 2x^2+2x+2, vagy ekvivalens -3x^2-3x+2, amiket Z_5-ben egy đầu szorzáshoz kapcsolatos, így a LegNagyobbKözösOsztó x^2+x+1 (egységfelül nonzero szorzattal).",
+  "pont": 1,
+  "indoklas": "A diák helyesen alkalmazta az euklidés algoritmust, a köztes maradékok pontosak (OCR-eljegyzések eseténは 7/1-beli összekévertés nem befolyásolja), és a végeredmény 2x^2+2x+2, ami Z_5-ben egy egységszorzattal (2) szorozott x^2+x+1-et, így a LegNagyobbKözösOsztó x^2+x+1.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A diák végeredménye 2*(x^2+x+1), ami Z_5-ben egy egységszorzattal szorozott helyes monikus LegNagyobbKözösOsztó-val egyenértékű, így полновесного решения regard.",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

@@ -1,0 +1,16 @@
+Feladat: Szamolja ki az f=x^4+x^3+3x^2+2x+2 es g=x^5+x^4+x^3+3x^2+3x+3 polinomok legnagyobb kozos osztóját a Z5[x] halmazban.
+Helyes megoldás: x^2 + x + 1 ( vagy biloika skalar szorozattal, pl. 3x^2+3x+3 )
+
+Diák végeredménye: 3 x^2 + 3 x + 3
+Diák megoldása (összefoglalva):
+A diák elosztotta g-t f-fel, kapva maradékot 3x^3+x^2+x+3, azt osztotta f-fel, így deuxième maradék 3x^2+3x+3-ből lett, majd ezzel osztotta az előző maradékot és nulle maradékot kapve, ezért a lnko ez a maradék.
+
+Pontszám: 1/1
+Indoklás:
+A módszer (euklideszi algoritmus) helyes, a végeredmény a pontos lnko pontosan egy szorosa (egyenlôen 3x^2+3x+3), így teljes pontszám.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: nem
+
+Megjegyzés:
+Az OCR-vezetésben nem fordult elő 7/1-jelentésbeli конфúzió.

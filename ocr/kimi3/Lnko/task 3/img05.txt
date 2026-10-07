@@ -1,0 +1,19 @@
+1. $(216,203)$
+
+$216=1\cdot203+13$
+
+$203=15\cdot13+8$
+
+$13=1\cdot8+5$
+
+$8=1\cdot5+3$
+
+$5=1\cdot3+2$
+
+$3=1\cdot2+1$
+
+$2=1\cdot2+0$
+
+Ilyen módon az utolsó nem 0 maradék, azaz 1 lesz a legnagyobb közös osztó
+
+$(216,203)=1$

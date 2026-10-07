@@ -1,0 +1,15 @@
+{
+  "feladat": "Számolja ki az f=x^{4}+4 x^{3}+x^{2}+2 ∈ Z_5[x] és g=x^{5}+x^{4}+3 x^{3}+x^{2}+x+4 ∈ Z_5[x] polinomok legnagyobb közös osztóját!",
+  "helyes_megoldas": "x^2 + x + 1",
+  "diak_vegeredmenye": "x^2 + x + 1",
+  "diak_megoldasa_osszefoglalva": "A diák az Euclid‑eljárást használja, először g osztása f-rel, kapva egy közbeni maradékot r1. Majd f osztása r1-rel, r2-t kapva, és végül r1 osztása r2-rel, ami 4x maradékot ad, ami egy egyszerűsítés után 4(x^2+x+1). Mivel 4 és 3 a Z_5 egységek, a többi maradék a táblázatban cancel, és a végső gcd x^2+x+1.",
+  "pont": 1,
+  "indoklas": "A diák helyes módszert alkalmaz: Euclid‑eljárás a polinomok között, mod 5-ös szorzást és kivonást végez, és a végeredmény x^2+x+1 helyes. Kisebb jellegű OCR-számítási hiba a r1 levezetésben nem befolyásolja a végső eredményt, tehát teljes pont jár.",
+  "magabiztossag": 90,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A levezetésben egy kis hibás r1 megjegyzés (4x^4 helyett 2x^4) van, de a későbbi szövegben a helyes érték szerepel (3r1, amit 2x^4 alapjából kapott).",
+  "model": "openai/gpt-oss-20b"
+}

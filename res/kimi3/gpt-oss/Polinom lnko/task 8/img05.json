@@ -1,0 +1,15 @@
+{
+  "feladat": "Számolja ki az f=x^{4}+3x^{3}+3x^{2}+2x \nin <sub<z_5[x]</sub> és g=x^{5}+x^{4}+3x^{2}+3x+4 \nin <sub<z_5[x]</sub> polinomok legnagyobb közös osztóját!",
+  "helyes_megoldas": "A legnagyobb közös osztó a monikus polinom x^{2}+x+1 (vagy bármely egységnel szorozott változata, pl. 3x^{2}+3x+3).",
+  "diak_vegeredmenye": "x^{2}+x+1",
+  "diak_megoldasa_osszefoglalva": "A diák az Euclid‑eljárást végzi, először g-ról lebont f-t és egy maradékot, aztán f-t a maradékot osztva egy új maradékot, majd a maradékot további maradék hollandul szorzata alakul, végül a maradék nulla egészendet és a legnagyobb közös osztóként 3x^{2}+3x+3, majd normálisan 1 szerűre helyezi.",
+  "pont": 1,
+  "indoklas": "A diák használta a helyes Euclid‑eljárást, a részlevek számítása és a maradékok helyes mérete csökkent bazártalán érte javított, végső végeredmény megegyezik a helyes gcd-vel, amely monikus formában x^{2}+x+1.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

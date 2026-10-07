@@ -1,0 +1,15 @@
+{
+  "feladat": "Számolja ki az f=x^4+2x^3+3x^2+2x+1 ∈ 存_{5}[x] és g=x^5+x^4+2x^3+4x^2+4x+3 ∈ 存_{5}[x] polinomok legnagyobb közös osztóját!",
+  "helyes_megoldas": "A legnagyobb közös osztó a monikus szorzó ⸪ x^2+x+1 ⸪.",
+  "diak_vegeredmenye": "2x^2+2x+4",
+  "diak_megoldasa_osszefoglalva": "Az OCR-özött megoldásban a diák az Euclid-kalibrát alkalmazta, de a polinomok osztása során hibákat követett el, ami miatt rossz maradékot és végül is 2x^2+2x+4\n",
+  "pont": 0.5,
+  "indoklas": "A diák az Euclid‑algoritmust használta, ami helyes módszer, de a polinomok osztására vonatkozó kiértelése hibás, ezért a végeredmény (2x^2+2x+4) nem egyezik a helyes gcd-vel (x^2+x+1).",
+  "magabiztossag": 80,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

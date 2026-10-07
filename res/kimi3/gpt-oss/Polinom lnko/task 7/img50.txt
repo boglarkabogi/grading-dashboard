@@ -1,0 +1,16 @@
+Feladat: Számolja ki az f=x^4+4x^3+4x^2+3x ∈ Z_5[x] és g=x^5+x^4+1 ∈ Z_5[x] polinomok legnagyobb közös osztóját!
+Helyes megoldás: x^2 + x + 1 (a monikus gcd), egyenértékű 3x^2 + 3x + 3-gyel
+
+Diák végeredménye: 3x^2 + 3x + 3
+Diák megoldása (összefoglalva):
+A diák a legtöbb lépésben a saját Euclid-értékeléssel dolgozott, végül r1 = 3x^3+4x^2+4x+1 és r2 = 3x^2+3x+3, majd r1 = (x+2)·r2, így r2 marad a gcd
+
+Pontszám: 1/1
+Indoklás:
+A diák helyes módszert alkalmazott (Euclid‑algorithm), és a végeredmény 3x^2+3x+3 egy együtthatói egység (3) szorzataként ugyanaz a monikus gcd x^2+x+1. Ez a helyes eredmény, tehát teljes pontot ér.
+
+Modell magabiztossága: 90/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

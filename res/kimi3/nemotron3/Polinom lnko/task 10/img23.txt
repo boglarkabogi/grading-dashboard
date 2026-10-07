@@ -1,0 +1,16 @@
+Feladat: Compute the greatest common divisor of f = x^4 + x^3 + 3x^2 + 2x + 2 and g = x^5 + x^4 + x^3 + 3x^2 + 3x + 3 in Z_5[x].
+Helyes megoldás: x^2 + x + 1
+
+Diák végeredménye: 3x^2 + 3x + 3
+Diák megoldása (összefoglalva):
+The student divided g by f, obtaining remainder 3x^3 + x^2 + x + 3; then divided f by this remainder, getting remainder 3x^2 + 3x + 3; finally divided the previous remainder by this last remainder, yielding zero remainder, so the gcd is 3x^2 + 3x + 3.
+
+Pontszám: 1/1
+Indoklás:
+The student applied the Euclidean algorithm correctly; all division steps are accurate in Z_5[x]. The result 3x^2 + 3x + 3 is a scalar multiple (by 3) of the monic gcd x^2 + x + 1, which is acceptable as a greatest common divisor.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+The student's gcd differs from the monic gcd only by an invertible constant factor in Z_5, so it is considered correct.

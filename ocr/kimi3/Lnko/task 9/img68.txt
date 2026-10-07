@@ -1,0 +1,14 @@
+Hf., $\operatorname{lnko}(180,219)$
+
+- $219>180$
+- $219 \bmod 180=39$
+- $180 \bmod 39=24$
+- $39 \bmod 24=15$
+- $24 \bmod 15=9$
+- $15 \bmod 9=6$
+- $9 \bmod 6=3$
+- $6 \bmod \textcircled{3}=0$
+
+$\downarrow$
+
+$\gcd(180,219)=3$

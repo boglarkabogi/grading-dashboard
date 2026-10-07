@@ -1,0 +1,15 @@
+{
+  "feladat": "Számolja ki az f=x^{4}+4 x^{3}+x^{2}+2 ∈ Z_{5}[x] és g=x^{5}+x^{4}+3 x^{3}+x^{2}+x+4 ∈ Z_{5}[x] polinomok legnagyobb közös osztóját!",
+  "helyes_megoldas": "x^2 + x + 1",
+  "diak_vegeredmenye": "x^2 + 4 x - 1",
+  "diak_megoldasa_osszefoglalva": "A diák megpróbálta használni az egylépcsős euclid‑szteljesztést, de a hányadási lépések során sok mématikai hibát követett el, és a végül kapott polinom nem felel meg a helyes legnagyobb közös osztónak.",
+  "pont": 0,
+  "indoklas": "A diák végeredménye x^2+4x-1 (ami mod 5-re x^2+4x+4) nem egyenlő a helyes gcd-vel x^2+x+1, és a levezetés egyértelműen hibás. Nem áll szó kazandó mértékű helyes módszerről vagy végeredményről.",
+  "magabiztossag": 100,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

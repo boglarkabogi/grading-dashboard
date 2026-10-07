@@ -1,0 +1,61 @@
+$f=x^{4}+3x^{3}+2x^{2}+x+4\in \mathbb{Z}_{5}$
+
+$g=x^{5}+x^{4}+x^{2}+x+2\in \mathbb{Z}_{5}$
+
+\[
+\begin{array}{c|c|c}
+i & r & q\\ \hline
+-1 & x^{5}+x^{4}+x^{2}+x+2 & \\
+0 & x^{4}+3x^{3}+2x^{2}+x+4 & \\
+1 & 4x^{3}+4x^{2} & x+3\\
+2 & x+4 & 4x+3\\
+3 & 3 & 4x^{2}+3x+3\\
+4 & 0 & 2x+3
+\end{array}
+\]
+
+\[
+(f,g)=\frac{3}{3}=1
+\]
+
+\[
+\begin{aligned}
+&x^{5}+x^{4}+x^{2}+x+2 : x^{4}+3x^{3}+2x^{2}+x+4 = x+3\\
+&\underline{x^{5}+3x^{4}+2x^{3}+x^{2}+4x}\\
+&D\ 3x^{4}+3x^{3}+3x+2\\
+&\underline{3x^{4}+4x^{3}+x^{2}+3x+2}\\
+&\qquad \boxed{4x^{3}+4x^{2}}
+\end{aligned}
+\]
+
+\[
+\begin{aligned}
+&x^{4}+3x^{3}+2x^{2}+x+4 : 4x^{3}+4x^{2}=4x+3\\
+&\underline{x^{4}+x^{3}}\\
+&\quad 2x^{3}+2x^{2}+x+4\\
+&\quad \underline{2x^{3}+2x^{2}}\\
+&\qquad \boxed{x+4}
+\end{aligned}
+\]
+
+\[
+\begin{aligned}
+&4x^{3}+4x^{2} : x+4 = 4x^{2}+3x+3\\
+&\underline{4x^{3}+x^{2}}\\
+&\quad 3x^{2}\\
+&\quad \underline{3x^{2}+2x}\\
+&\qquad 2x\\
+&\qquad \underline{3x+2}\\
+&\qquad \boxed{3}
+\end{aligned}
+\]
+
+\[
+\begin{aligned}
+&x+4 : 3 = 2x+3\\
+&x\\
+&\overline{\quad 4\quad}\\
+&\quad 4\\
+&\quad \overline{0}
+\end{aligned}
+\]

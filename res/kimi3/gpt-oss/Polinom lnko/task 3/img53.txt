@@ -1,0 +1,22 @@
+Feladat: Számolja ki az f=x^4+2 x^3+x^2+4 és g=x^5+x^4+2 x^3+2 x^2+2 x+1 polinomok legnagyobb közös osztóját!
+Helyes megoldás: x^2 + x + 4
+
+Diák végeredménye: x^2 + x + 1
+Diák megoldása (összefoglalva):
+A diák egy Euclid-szerű osztást próbált végrehajtani, de hibásan alkalmazta a 1/3, 3/4 stb. 
+
+Jegyzeteliszt: a módosítás alatt, a 
+
+az aszól a bekotis. This step took several steps.
+
+Resulting gcd x^2 + x +1.
+
+Pontszám: 0/1
+Indoklás:
+The computed gcd x^2 + x + 1 does not match the correct gcd x^2 + x + 4.  The student’s division steps contain errors in handling modular inverses and remainders, leading to an incorrect final result.
+
+Modell magabiztossága: 90/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

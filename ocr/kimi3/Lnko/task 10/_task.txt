@@ -1,0 +1,1 @@
+Keresd meg 219 és 205 legnagyobb közös osztóját.

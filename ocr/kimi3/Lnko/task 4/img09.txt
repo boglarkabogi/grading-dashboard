@@ -1,0 +1,13 @@
+$216 \bmod 205 = 11$
+
+$\Rightarrow 205 \bmod 11 = 7$
+
+$\Rightarrow 11 \bmod 7 = 4$
+
+$\Rightarrow 7 \bmod 4 = 3$
+
+$\Rightarrow 4 \bmod 3 = 1$
+
+$\Rightarrow 3 \bmod 1 = 0$
+
+$\textcircled{1}, 0 \Rightarrow$ relatív prímek

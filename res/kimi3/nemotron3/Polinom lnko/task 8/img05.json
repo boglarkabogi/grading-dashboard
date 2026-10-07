@@ -1,0 +1,15 @@
+{
+  "feladat": "Számolja ki az f=x^4+3x^3+3x^2+2x elem Z_5[x] és g=x^5+x^4+3x^2+3x+4 elem Z_5[x] polinomok legnagyobb közös osztóját!",
+  "helyes_megoldas": "x^2 + x + 1",
+  "diak_vegeredmenye": "x^2 + x + 1",
+  "diak_megoldasa_osszefoglalva": "A diák Z_5[x]ben elosztás közbeni maradéksorozattal determinationt végzett: először g-t osztotta f-tel, így V1=3x^3+2x^2+2x+4-et kapta, aztán f-t V1-el, majd V1-t a kapott maradékkel, végül maradék 0-t otten véget érve, és a legutolsó nem nulla maradék 3x^2+3x+3 scalaros szorzásával monikon átalakítva x^2+x+1-t kapott.",
+  "pont": 1,
+  "indoklas": "A diák helyesen alkalmazott az Euklideszi algoritmust Z_5[x]ben, a köztes maradékek helyesek, és a végső monikus polinom x^2+x+1 a pontos legnagyobb közös osztó.",
+  "magabiztossag": 95,
+  "ertelezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

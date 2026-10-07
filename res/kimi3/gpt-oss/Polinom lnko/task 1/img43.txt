@@ -1,0 +1,16 @@
+Feladat: Számolja ki az f = x^4 + 3x^3 + 2x^2 + x + 4  és g = x^5 + x^4 + x^2 + x + 2  polinomok legnagyobb közös osztóját a Z5[x] polinomkörben
+Helyes megoldás: x^2 + x + 1
+
+Diák végeredménye: x^2 + x + 1
+Diák megoldása (összefoglalva):
+A diák a polinomok Euclid‑törését alkalmazta, szinte minden köztes lépésben megfelelő módon végzett műveleteket, még ha néhány jelöltben hibásen jelölte a hányadosos oprálást (x-2 helyett x+3), a végső maradék és a gcd is helyes.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyes módszert használt (Euclid algoritmus), a végső eredmény (x^2 + x + 1) helyes. Helytelen jelölés –x-2 helyett x-2 – az első hányadosnál nem befolyásolta a maradékot, ezért nem volt pontszabadság port. Az eljárás megérthető, és minden lépés a legtöbb esetben helyes volt.
+
+Modell magabiztossága: 90/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+Nincs 7↔1 OCR probléma; a bemenet jól olvasható és értelmezhető.

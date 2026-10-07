@@ -1,0 +1,16 @@
+Feladat: Számolja ki az f=x^4+3x^3+3x^2+2x in Z_5[x] es g=x^5+x^4+3x^2+3x+4 in Z_5[x] polinomok legnagyobb kozos osztojat!
+Helyes megoldás: x^2 + x + 1
+
+Diák végeredménye: 2(x^2 + x + 1)
+Diák megoldása (összefoglalva):
+A diák elosztotta g-t f-fel, kapva maradékot 3x^4+2x^3+x^2+3x+4, majd f-t eztel osztotta, továbbra is polinomos osztást folytatott, végül maradék 2(x^2+x+1)-et kapta, ami egy skaláris szorzatเจ้(x^2+x+1)-rel, ezért a lnko ez a másodfokú polinom.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyesen alkalmazta az euklideszi algoritmust Z_5[x]-ben, a köztes maradékok helyesek, a végeredmény 2(x^2+x+1), amely skálázása az x^2+x+1 monom polinomnal, így a módszer és eredmény (associált) helyes.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

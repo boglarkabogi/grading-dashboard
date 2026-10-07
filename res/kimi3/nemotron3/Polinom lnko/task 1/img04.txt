@@ -1,0 +1,16 @@
+Feladat: Szamolja ki az f = x^4 + 3x^3 + 2x^2 + x + 4 be Z_5[x] es g = x^5 + x^4 + x^2 + x + 2 be Z_5[x] polinomok legnagyobb közos osztójat!
+Helyes megoldás: x^2 + x + 1
+
+Diák végeredménye: x^2 + x + 1
+Diák megoldása (összefoglalva):
+A diák az euklideszi algoritmust alkalmazta, kiszámította az egymást követő maradékokat, és az utolsó nem nulla maradék r2 = 4x^2+4x+4-ből kiszámolta, hogy az lgnd = x^2 + x + 1 (mivel a 4 egy egység Z_5-ben).
+
+Pontszám: 1/1
+Indoklás:
+A módszer helyes (euklideszi algoritmo), a végeredmény is helyes (egységgel szorozott maradék), az intermédiaire lépésekben esiintyő OCR-hibák nem változtatnak a helyességről.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+Az intermédiaire számok (pl. 4x^3+4x^2+4x) esetleg OCR-eltérésnek akibat lehetnek, de ez nem befolyásolja a módszert vagy az eredményt.

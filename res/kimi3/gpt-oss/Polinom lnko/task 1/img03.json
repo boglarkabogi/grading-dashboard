@@ -1,0 +1,15 @@
+{
+  "feladat": "Számolja ki az f = x^4 + 3x^3 + 2x^2 + x + 4 \nin Z_5[x] és g = x^5 + x^4 + x^2 + x + 2 \nin Z_5[x] polinomok legnagyobb közös osztóját!",
+  "helyes_megoldas": "2x^2+2x+2",
+  "diak_vegeredmenye": "2x^2+2x+2",
+  "diak_megoldasa_osszefoglalva": "Az osztási sorozat során a maradékok fokszámán keresztül újraszámolták, majd a végső nem nullás maradék a GCD",
+  "pont": 1,
+  "indoklas": "A diák hibátlan módon hajtotta végre az Euclid-algoritmust, és a végeredményt helyesen számolta.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

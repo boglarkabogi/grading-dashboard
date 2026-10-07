@@ -1,0 +1,15 @@
+{
+  "feladat": "Számolja ki az f=x^4+4 x^3+x^2+2 és g=x^5+x^4+3 x^3+x^2+x+4 polinomok legnagyobb közös osztóját az Z_5[x] körben",
+  "helyes_megoldas": "1",
+  "diak_vegeredmenye": "2x^2+2x+2",
+  "diak_megoldasa_osszefoglalva": "A diák Euclid‑fokozaton több lépést is ír, de a hányadosok és maradékok helytelen értelmezése miatt a végeredmény téves, a végső állapotban a 2x^2+2x+2 kifejezést adja, ami nem a helyes gcd",
+  "pont": 0,
+  "indoklas": "A számítás során több eljárásrend és polinomiális művelet hibás, a maradékok nem csökkennek a megfelelő módon, és a végső bejegyzés nem következik a helyes Euclid‑egységes algoritmusból; így a végeredmény nem felel meg a megadott feladatnak.",
+  "magabiztossag": 90,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}
