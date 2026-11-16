@@ -1,0 +1,3 @@
+Oldja meg az alábbi lineáris kongruenciákat:
+
+13x ≡ 13 (mod 409) és 12x ≡ 7 (mod 302)

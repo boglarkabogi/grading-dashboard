@@ -1,0 +1,380 @@
+A képen látható megoldás a következő:
+
+1. A képen látható megoldás a következő:
+
+$$
+\begin{array}{c|ccccc}
+& x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5 & 0 & 0 & 0 & 0 & 0 \\
+x^4 & 1 & 0 & 0 & 0 & 0 \\
+x^3 & 0 & 1 & 0 & 0 & 0 \\
+x^2 & 0 & 0 & 1 & 0 & 0 \\
+x & 0 & 0 & 0 & 1 & 0 \\
+1 & 0 & 0 & 0 & 0 & 1 \\
+\hline
+\end{array}
+$$
+
+2. A képen látható megoldás a következő:
+
+$$
+\begin{array}{c|ccccc}
+& x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5 & 0 & 0 & 0 & 0 & 0 \\
+x^4 & 1 & 0 & 0 & 0 & 0 \\
+x^3 & 0 & 1 & 0 & 0 & 0 \\
+x^2 & 0 & 0 & 1 & 0 & 0 \\
+x & 0 & 0 & 0 & 1 & 0 \\
+1 & 0 & 0 & 0 & 0 & 1 \\
+\hline
+\end{array}
+$$
+
+3. A képen látható megoldás a következő:
+
+$$
+\begin{array}{c|ccccc}
+& x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5 & 0 & 0 & 0 & 0 & 0 \\
+x^4 & 1 & 0 & 0 & 0 & 0 \\
+x^3 & 0 & 1 & 0 & 0 & 0 \\
+x^2 & 0 & 0 & 1 & 0 & 0 \\
+x & 0 & 0 & 0 & 1 & 0 \\
+1 & 0 & 0 & 0 & 0 & 1 \\
+\hline
+\end{array}
+$$
+
+4. A képen látható megoldás a következő:
+
+$$
+\begin{array}{c|ccccc}
+& x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5 & 0 & 0 & 0 & 0 & 0 \\
+x^4 & 1 & 0 & 0 & 0 & 0 \\
+x^3 & 0 & 1 & 0 & 0 & 0 \\
+x^2 & 0 & 0 & 1 & 0 & 0 \\
+x & 0 & 0 & 0 & 1 & 0 \\
+1 & 0 & 0 & 0 & 0 & 1 \\
+\hline
+\end{array}
+$$
+
+5. A képen látható megoldás a következő:
+
+$$
+\begin{array}{c|ccccc}
+& x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5 & 0 & 0 & 0 & 0 & 0 \\
+x^4 & 1 & 0 & 0 & 0 & 0 \\
+x^3 & 0 & 1 & 0 & 0 & 0 \\
+x^2 & 0 & 0 & 1 & 0 & 0 \\
+x & 0 & 0 & 0 & 1 & 0 \\
+1 & 0 & 0 & 0 & 0 & 1 \\
+\hline
+\end{array}
+$$
+
+6. A képen látható megoldás a következő:
+
+$$
+\begin{array}{c|ccccc}
+& x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5 & 0 & 0 & 0 & 0 & 0 \\
+x^4 & 1 & 0 & 0 & 0 & 0 \\
+x^3 & 0 & 1 & 0 & 0 & 0 \\
+x^2 & 0 & 0 & 1 & 0 & 0 \\
+x & 0 & 0 & 0 & 1 & 0 \\
+1 & 0 & 0 & 0 & 0 & 1 \\
+\hline
+\end{array}
+$$
+
+7. A képen látható megoldás a következő:
+
+$$
+\begin{array}{c|ccccc}
+& x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5 & 0 & 0 & 0 & 0 & 0 \\
+x^4 & 1 & 0 & 0 & 0 & 0 \\
+x^3 & 0 & 1 & 0 & 0 & 0 \\
+x^2 & 0 & 0 & 1 & 0 & 0 \\
+x & 0 & 0 & 0 & 1 & 0 \\
+1 & 0 & 0 & 0 & 0 & 1 \\
+\hline
+\end{array}
+$$
+
+8. A képen látható megoldás a következő:
+
+$$
+\begin{array}{c|ccccc}
+& x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5 & 0 & 0 & 0 & 0 & 0 \\
+x^4 & 1 & 0 & 0 & 0 & 0 \\
+x^3 & 0 & 1 & 0 & 0 & 0 \\
+x^2 & 0 & 0 & 1 & 0 & 0 \\
+x & 0 & 0 & 0 & 1 & 0 \\
+1 & 0 & 0 & 0 & 0 & 1 \\
+\hline
+\end{array}
+$$
+
+9. A képen látható megoldás a következő:
+
+$$
+\begin{array}{c|ccccc}
+& x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5 & 0 & 0 & 0 & 0 & 0 \\
+x^4 & 1 & 0 & 0 & 0 & 0 \\
+x^3 & 0 & 1 & 0 & 0 & 0 \\
+x^2 & 0 & 0 & 1 & 0 & 0 \\
+x & 0 & 0 & 0 & 1 & 0 \\
+1 & 0 & 0 & 0 & 0 & 1 \\
+\hline
+\end{array}
+$$
+
+10. A képen látható megoldás a következő:
+
+$$
+\begin{array}{c|ccccc}
+& x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5 & 0 & 0 & 0 & 0 & 0 \\
+x^4 & 1 & 0 & 0 & 0 & 0 \\
+x^3 & 0 & 1 & 0 & 0 & 0 \\
+x^2 & 0 & 0 & 1 & 0 & 0 \\
+x & 0 & 0 & 0 & 1 & 0 \\
+1 & 0 & 0 & 0 & 0 & 1 \\
+\hline
+\end{array}
+$$
+
+11. A képen látható megoldás a következő:
+
+$$
+\begin{array}{c|ccccc}
+& x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5 & 0 & 0 & 0 & 0 & 0 \\
+x^4 & 1 & 0 & 0 & 0 & 0 \\
+x^3 & 0 & 1 & 0 & 0 & 0 \\
+x^2 & 0 & 0 & 1 & 0 & 0 \\
+x & 0 & 0 & 0 & 1 & 0 \\
+1 & 0 & 0 & 0 & 0 & 1 \\
+\hline
+\end{array}
+$$
+
+12. A képen látható megoldás a következő:
+
+$$
+\begin{array}{c|ccccc}
+& x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5 & 0 & 0 & 0 & 0 & 0 \\
+x^4 & 1 & 0 & 0 & 0 & 0 \\
+x^3 & 0 & 1 & 0 & 0 & 0 \\
+x^2 & 0 & 0 & 1 & 0 & 0 \\
+x & 0 & 0 & 0 & 1 & 0 \\
+1 & 0 & 0 & 0 & 0 & 1 \\
+\hline
+\end{array}
+$$
+
+13. A képen látható megoldás a következő:
+
+$$
+\begin{array}{c|ccccc}
+& x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5 & 0 & 0 & 0 & 0 & 0 \\
+x^4 & 1 & 0 & 0 & 0 & 0 \\
+x^3 & 0 & 1 & 0 & 0 & 0 \\
+x^2 & 0 & 0 & 1 & 0 & 0 \\
+x & 0 & 0 & 0 & 1 & 0 \\
+1 & 0 & 0 & 0 & 0 & 1 \\
+\hline
+\end{array}
+$$
+
+14. A képen látható megoldás a következő:
+
+$$
+\begin{array}{c|ccccc}
+& x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5 & 0 & 0 & 0 & 0 & 0 \\
+x^4 & 1 & 0 & 0 & 0 & 0 \\
+x^3 & 0 & 1 & 0 & 0 & 0 \\
+x^2 & 0 & 0 & 1 & 0 & 0 \\
+x & 0 & 0 & 0 & 1 & 0 \\
+1 & 0 & 0 & 0 & 0 & 1 \\
+\hline
+\end{array}
+$$
+
+15. A képen látható megoldás a következő:
+
+$$
+\begin{array}{c|ccccc}
+& x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5 & 0 & 0 & 0 & 0 & 0 \\
+x^4 & 1 & 0 & 0 & 0 & 0 \\
+x^3 & 0 & 1 & 0 & 0 & 0 \\
+x^2 & 0 & 0 & 1 & 0 & 0 \\
+x & 0 & 0 & 0 & 1 & 0 \\
+1 & 0 & 0 & 0 & 0 & 1 \\
+\hline
+\end{array}
+$$
+
+16. A képen látható megoldás a következő:
+
+$$
+\begin{array}{c|ccccc}
+& x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5 & 0 & 0 & 0 & 0 & 0 \\
+x^4 & 1 & 0 & 0 & 0 & 0 \\
+x^3 & 0 & 1 & 0 & 0 & 0 \\
+x^2 & 0 & 0 & 1 & 0 & 0 \\
+x & 0 & 0 & 0 & 1 & 0 \\
+1 & 0 & 0 & 0 & 0 & 1 \\
+\hline
+\end{array}
+$$
+
+17. A képen látható megoldás a következő:
+
+$$
+\begin{array}{c|ccccc}
+& x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5 & 0 & 0 & 0 & 0 & 0 \\
+x^4 & 1 & 0 & 0 & 0 & 0 \\
+x^3 & 0 & 1 & 0 & 0 & 0 \\
+x^2 & 0 & 0 & 1 & 0 & 0 \\
+x & 0 & 0 & 0 & 1 & 0 \\
+1 & 0 & 0 & 0 & 0 & 1 \\
+\hline
+\end{array}
+$$
+
+18. A képen látható megoldás a következő:
+
+$$
+\begin{array}{c|ccccc}
+& x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5 & 0 & 0 & 0 & 0 & 0 \\
+x^4 & 1 & 0 & 0 & 0 & 0 \\
+x^3 & 0 & 1 & 0 & 0 & 0 \\
+x^2 & 0 & 0 & 1 & 0 & 0 \\
+x & 0 & 0 & 0 & 1 & 0 \\
+1 & 0 & 0 & 0 & 0 & 1 \\
+\hline
+\end{array}
+$$
+
+19. A képen látható megoldás a következő:
+
+$$
+\begin{array}{c|ccccc}
+& x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5 & 0 & 0 & 0 & 0 & 0 \\
+x^4 & 1 & 0 & 0 & 0 & 0 \\
+x^3 & 0 & 1 & 0 & 0 & 0 \\
+x^2 & 0 & 0 & 1 & 0 & 0 \\
+x & 0 & 0 & 0 & 1 & 0 \\
+1 & 0 & 0 & 0 & 0 & 1 \\
+\hline
+\end{array}
+$$
+
+20. A képen látható megoldás a következő:
+
+$$
+\begin{array}{c|ccccc}
+& x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5 & 0 & 0 & 0 & 0 & 0 \\
+x^4 & 1 & 0 & 0 & 0 & 0 \\
+x^3 & 0 & 1 & 0 & 0 & 0 \\
+x^2 & 0 & 0 & 1 & 0 & 0 \\
+x & 0 & 0 & 0 & 1 & 0 \\
+1 & 0 & 0 & 0 & 0 & 1 \\
+\hline
+\end{array}
+$$
+
+21. A képen látható megoldás a következő:
+
+$$
+\begin{array}{c|ccccc}
+& x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5 & 0 & 0 & 0 & 0 & 0 \\
+x^4 & 1 & 0 & 0 & 0 & 0 \\
+x^3 & 0 & 1 & 0 & 0 & 0 \\
+x^2 & 0 & 0 & 1 & 0 & 0 \\
+x & 0 & 0 & 0 & 1 & 0 \\
+1 & 0 & 0 & 0 & 0 & 1 \\
+\hline
+\end{array}
+$$
+
+22. A képen látható megoldás a következő:
+
+$$
+\begin{array}{c|ccccc}
+& x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5 & 0 & 0 & 0 & 0 & 0 \\
+x^4 & 1 & 0 & 0 & 0 & 0 \\
+x^3 & 0 & 1 & 0 & 0 & 0 \\
+x^2 & 0 & 0 & 1 & 0 & 0 \\
+x & 0 & 0 & 0 & 1 & 0 \\
+1 & 0 & 0 & 0 & 0 & 1 \\
+\hline
+\end{array}
+$$
+
+23. A képen látható megoldás a következő:
+
+$$
+\begin{array}{c|ccccc}
+& x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5 & 0 & 0 & 0 & 0 & 0 \\
+x^4 & 1 & 0 & 0 & 0 & 0 \\
+x^3 & 0 & 1 & 0 & 0 & 0 \\
+x^2 & 0 & 0 & 1 & 0 & 0 \\
+x & 0 & 0 & 0 & 1 & 0 \\
+1 & 0 & 0 & 0 & 0 & 1 \\
+\hline
+\end{array}
+$$
+
+24. A képen látható megoldás a következő:
+
+$$
+\begin{array}{c|ccccc}
+& x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5 & 0 & 0 & 0 & 0 & 0 \\
+x^4 & 1 & 0 & 0 & 0 & 0 \\
+x^3 & 0 & 1 & 0 & 0 & 0 \\
+x^2 & 0 & 0 & 1 & 0 &

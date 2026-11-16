@@ -1,0 +1,41 @@
+f = x^4 + 4
+
+g = x^3 + 2 \quad \mathbb{Z}_5
+
+\mod x^3 + x + 4 :
+
+\mathbb{Z}_5 : x^3 \equiv -x - 4 \equiv 4x + 1
+
+x^4 = x \cdot x^3 \equiv 4x^2 + x
+
+f = x^4 + 4 \equiv 4x^2 + x + 4
+
+g \equiv 4x + 1 + 2 \equiv 4x + 3
+
+f \cdot g \mod x^3 + x + 4 : \# 
+
+(4x^2 + x + 4)(4x + 3) = 16x^3 + 16x^2 + 19x + 12 \equiv x^3 + x^2 + 4x + 2
+
+x^3 \equiv 4x + 1 \quad \rightarrow \quad x^2 + 8x + 3 \equiv x^2 + 3x + 3 \equiv f \cdot g
+
+f \cdot g^2 + f^2 \cdot g = (f \cdot g)(f + g)
+
+f + g \mod x^3 + x + 4 :
+
+4x^2 + x + 4 + 4x + 3 = 4x^2 + 5x + 7 \equiv 4x^2 + 2
+
+fg(f + g) \mod x^3 + x + 4 :
+
+(x^2 + 3x + 3)(4x^2 + 2) = 4x^4 + 2x^2 + 12x^3 + 6x + 12x^2 + 6 = 4x^4 + 12x^3 + 14x^2 + 6x + 6
+
+\# x^3 \equiv 4x + 1 \quad \rightarrow \quad fg^2 + f^2g = 3x + 3
+
+f^8 \mod x^3 + x + 4 :
+
+f^2 : (4x^2 + x + 4)(4x + 3) = 16x^3 + 8x^2 + 4x + 16
+
+f^4 : (2x^2 + x + 4)^2 = 4x^4 + 4x^3 + 17x^2 + 8x + 16
+
+\equiv 4x^4 + 4x^3 + 2x^2 + 3x + 1 \equiv 3x^2 + 3x
+
+f^8 : (3x^2 + 3x)^2 = 9x^4 + 18x^3 + 9x^2 \equiv 4x^4 + 3x^3 + 4x^2 \equiv x + 3 \equiv f^8 \mod x^3 + x + 4

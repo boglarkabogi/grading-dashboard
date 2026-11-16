@@ -1,0 +1,98 @@
+(1)
+\[
+\begin{cases}
+2x \equiv 5 \pmod{21} \\
+3x \equiv 15 \pmod{24}
+\end{cases}
+\]
+
+\[
+2x \equiv 5 \pmod{21}
+\]
+\[
+2^{-1} \equiv 11 \pmod{21}
+\]
+\[
+x \equiv 5 \cdot 11 \pmod{21}
+\]
+\[
+x \equiv 55 \equiv 13 \pmod{21}
+\]
+
+\[
+3x \equiv 15 \pmod{24} \qquad (3,24)=3
+\]
+\[
+x \equiv 5 \pmod{8} \qquad /3 \cdot 2
+\]
+\[
+x \equiv 13 \pmod{21}
+\]
+\[
+x \equiv 5 \pmod{8}
+\]
+\[
+13 + 21k \equiv 5 \pmod{8} \qquad 13 \equiv 5
+\]
+\[
+21 \equiv 5 \pmod{8}
+\]
+\[
+5 + 5k \equiv 5 \pmod{8}
+\]
+\[
+5k \equiv 0 \pmod{8} \qquad (5,8)=1
+\]
+\[
+k \equiv 0 \pmod{8}
+\]
+\[
+x = 13 + 21 \cdot 8k = 13 + 168k
+\]
+\[
+x \equiv 13 \pmod{168}
+\]
+
+(2)
+\[
+2x \equiv 1 \pmod{21}
+\]
+\[
+5x \equiv 11 \pmod{24}
+\]
+\[
+x \equiv 1 \cdot 11 \pmod{21}
+\]
+\[
+x \equiv 11 \pmod{21}
+\]
+\[
+5x \equiv 11 \pmod{24}
+\]
+\[
+5^{-1} = 5(5 \cdot 5 = 25 \equiv 1 \pmod{24})
+\]
+\[
+x \equiv 11 \cdot 5 \pmod{24}
+\]
+\[
+x \equiv 55 \equiv 7 \pmod{24}
+\]
+\[
+x = 11 + 21k \equiv 7 \pmod{24}
+\]
+\[
+11 - 3k \equiv 7 \pmod{24} \quad /-11
+\]
+\[
+-3k \equiv -4 \pmod{24} \quad /(-1)
+\]
+\[
+3k \equiv 4 \pmod{24}
+\]
+\[
+(3,24)=3 \quad 3 \nmid 4 \quad 5
+\]
+\[
+\text{minus megoldás}
+\]

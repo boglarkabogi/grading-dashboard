@@ -1,0 +1,14 @@
+\begin{aligned}
+& u\left(x^{2}-2x+3\right)+v\left(x^{2}-1\right)=-x^{2}+2x+3 \\
+& u\left(x^{2}-2x+3\right) \equiv-x^{2}+2x+3 \quad \text{MOD} \quad x^{2}-1 \\
+& \left(u_{1} x+u_{0}\right)\left(x^{2}-2x+3\right)=u_{1} x^{3}+u_{0} x^{2}-u_{1} x^{2}+3 u_{1} x-2 u_{0} x+3 u_{0}=x^{2} \equiv 1 \quad \text{MOD} \quad x^{3}-1 \\
+& =u_{1} x^{3}+\left(u_{0}-u_{1}\right) x^{2}+\left(3 u_{1}-2 u_{0}\right) x+3 u_{0}= \\
+& \equiv u_{1} x+\left(u_{0}-u_{1}\right)+\left(3 u_{1}-2 u_{0}\right) x+3 u_{0}= \\
+& =\left(4 u_{1}-2 u_{0}\right) x+4 u_{0}-u_{1} \equiv-x^{2}+2x+3 \quad \text{MOD} \quad x^{2}-1 \\
+& -x^{2}+2x+3 \equiv-1+2x+3 \equiv 2x+2 \quad \text{MOD} \quad x^{2}-1 \\
+& \left(4 u_{1}-2 u_{0}\right) x+4 u_{0}-u_{1} \equiv 2x+2 \quad \text{MOD} \quad x^{2}-1 \\
+& 4 u_{1}-2 u_{0}=2 \qquad u_{0}=2 u_{1} \\
+& -u_{1}+4 u_{0} \quad 4 u_{0}-u_{1}=2 \qquad 3 u_{1}=2 \qquad u_{1}=\frac{2}{3} \\
+& \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad u_{0}=\frac{4}{3} \\
+& u=\frac{2}{3} x+\frac{4}{3}
+\end{aligned}

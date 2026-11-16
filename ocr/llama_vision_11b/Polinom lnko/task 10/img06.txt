@@ -1,0 +1,250 @@
+A képen látható megoldás a következő:
+
+$$
+\begin{align*}
+f(x) &= x^4+x^3+3x^2+2x+2,\\
+g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+\end{align*}
+$$
+
+A legnagyobb közös osztó (LCM) kiszámításához, a képen látható megoldás szerint, a következő lépéseket hajtjuk végre:
+
+1.  A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+2.  A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+3.  A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+4.  A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+5.  A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+6.  A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+7.  A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+8.  A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+9.  A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+10. A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+11. A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+12. A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+13. A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+14. A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+15. A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+16. A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+17. A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+18. A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+19. A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+20. A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+21. A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+22. A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+23. A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+24. A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+25. A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+26. A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+27. A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+28. A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+29. A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+30. A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+31. A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+32. A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+33. A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+34. A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+35. A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+36. A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+37. A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+38. A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+39. A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+40. A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+41. A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+42. A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+43. A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+44. A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+45. A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+46. A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+47. A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+    \end{align*}
+48. A két polinomot egymás után írjuk ki:
+    \begin{align*}
+    f(x) &= x^4+x^3+3x^2+2x+2,\\
+    g(x) &=

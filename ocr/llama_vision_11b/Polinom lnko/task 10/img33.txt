@@ -1,0 +1,118 @@
+A képen látható hallgatói megoldás a következő:
+
+$$
+\begin{align*}
+f(x) &= x^4+x^3+3x^2+2x+2,\\
+g(x) &= x^5+x^4+x^3+3x^2+3x+3.
+\end{align*}
+$$
+
+A legnagyobb közös osztó (LCM) kiszámításához, a képen látható megoldás szerint, a következő lépéseket hajtjuk végre:
+
+1.  A $f(x)$ és $g(x)$ polinomokat egymással osztjuk, és a maradékot kiszámítjuk.
+2.  A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+3.  A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+4.  A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+5.  A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+6.  A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+7.  A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+8.  A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+9.  A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+10. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+11. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+12. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+13. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+14. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+15. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+16. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+17. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+18. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+19. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+20. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+21. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+22. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+23. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+24. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+25. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+26. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+27. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+28. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+29. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+30. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+31. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+32. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+33. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+34. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+35. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+36. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+37. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+38. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+39. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+40. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+41. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+42. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+43. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+44. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+45. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+46. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+47. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+48. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+49. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+50. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+51. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+52. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+53. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+54. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+55. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+56. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+57. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+58. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+59. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+60. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+61. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+62. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+63. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+64. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+65. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+66. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+67. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+68. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+69. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+70. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+71. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+72. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+73. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+74. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+75. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+76. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+77. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+78. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+79. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+80. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+81. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+82. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+83. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+84. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+85. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+86. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+87. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+88. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+89. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+90. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+91. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+92. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+93. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+94. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+95. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+96. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+97. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+98. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+99. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+100. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+101. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+102. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+103. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+104. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+105. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+106. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal műveletet végezzük.
+107. A maradékot a $\mathbb{Z}_5$ halmazba tartozó számokkal m

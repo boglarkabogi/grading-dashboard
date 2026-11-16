@@ -1,0 +1,11 @@
+A képen látható megoldás a következő:
+
+**1. $7x\equiv 12\pmod{313}$**
+
+*   A megoldás a következő: $x\equiv 270\pmod{313}$
+
+**2. $20x\equiv 5\pmod{454}$**
+
+*   A megoldás a következő: $x\equiv 113\pmod{454}$
+
+A megoldásokat a képen látható kézzel írt megoldás alapján írtam át.

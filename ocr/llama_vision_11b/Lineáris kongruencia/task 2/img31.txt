@@ -1,0 +1,61 @@
+### 1. Lineáris Kongruencia
+
+A képen látható megoldás a következő:
+
+$$12x\equiv 8\pmod{259}$$
+
+A megoldás a következő:
+
+$$x\equiv 12^{-1}\cdot 8\pmod{259}$$
+
+A 12 mod 259 reciprokát keresve, a következőt találjuk:
+
+$$12^{-1}\equiv 216\pmod{259}$$
+
+Ezért:
+
+$$x\equiv 216\cdot 8\pmod{259}$$
+
+$$x\equiv 1728\pmod{259}$$
+
+$$x\equiv 1728-259\cdot 6\pmod{259}$$
+
+$$x\equiv 1728-1554\pmod{259}$$
+
+$$x\equiv 174\pmod{259}$$
+
+### 2. Lineáris Kongruencia
+
+A képen látható megoldás a következő:
+
+$$16x\equiv 13\pmod{314}$$
+
+A megoldás a következő:
+
+$$x\equiv 16^{-1}\cdot 13\pmod{314}$$
+
+A 16 mod 314 reciprokát keresve, a következőt találjuk:
+
+$$16^{-1}\equiv 197\pmod{314}$$
+
+Ezért:
+
+$$x\equiv 197\cdot 13\pmod{314}$$
+
+$$x\equiv 2561\pmod{314}$$
+
+$$x\equiv 2561-314\cdot 8\pmod{314}$$
+
+$$x\equiv 2561-2512\pmod{314}$$
+
+$$x\equiv 49\pmod{314}$$
+
+### 3. Végeredmény
+
+A két lineáris kongruencia megoldása a következő:
+
+$$x\equiv 174\pmod{259}$$
+
+$$x\equiv 49\pmod{314}$$
+
+A két megoldás nem egyezik meg, ezért a feladatnak nincs egyetlen megoldása.

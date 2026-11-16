@@ -1,0 +1,25 @@
+\begin{tabular}{cccc}
+$x^2+x+7$ & $-$ & $7$ & $0$ \\
+$x^2-7$ & $-$ & $0$ & $7$ \\
+$x+2$ & $1$ & $7$ & $-7$ \\
+$3$ & $x-2$ & $2-x$ & $x-7$ \\
+$0$ & $\frac{x+2}{3}$ & $-$ & $2$ \\
+\end{tabular}
+
+\begin{tabular}{cc}
+$A:=x^2+x+7$ & $B:=x^2-7$ \\
+\end{tabular}
+
+$x+2=A+(-7)\cdot B$
+
+$3=(2-x)\cdot A+(x-7)\cdot B$
+
+$A+(A-B)-\left[(2-x)\cdot A+(x-7)\cdot B\right]$
+
+$x-7=(1-2+x)\cdot A+(-7-x+7)\cdot B$
+
+$x-7=(x-7)\cdot A+(-x)\cdot B$
+
+\begin{tabular}{cc}
+$u=x-1$ & $v=-x$ \\
+\end{tabular}

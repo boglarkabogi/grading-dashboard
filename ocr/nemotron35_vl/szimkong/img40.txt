@@ -1,0 +1,32 @@
+\begin{cases} 
+2x \equiv 5 \pmod{21} \\ 
+3x \equiv 15 \pmod{24} 
+\end{cases}
+
+(2x, 3x)
+
+2x \equiv -5 \pmod{21}
+
+2x \in \{5, 26, 47, 68, \dots\}
+
+\text{Ponni kell legyen, hogy legyen: } 26 = 5 \cdot x \equiv 13
+
+21 - \text{szorzat } 4 = 73, 36, 85
+
+3x \equiv 15 \pmod{24}
+
+3x \in \{15, 39, 63\}
+
+x = 5(13) \pmod{27}
+
+\text{Közön: } 13 - 25 \cdot x \equiv 13 \pmod{168}
+
+2x \equiv 1 \pmod{27}
+
+2x = 7, 22, 63 = 5 \cdot x = 71 \quad (22 \text{ az 1. poz})
+
+5x \equiv 11 \pmod{24}
+
+5x = 11, 35, 59 \rightarrow 5 - \text{el osztható } 35 \rightarrow x = 7
+
+\text{Nincsen megoldva: } (7 \cdot 2 \text{ nem osztható } 3\text{-mal, és nem osztható } 2 \cdot 1 \text{-el})

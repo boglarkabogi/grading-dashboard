@@ -1,0 +1,29 @@
+u(x^2-2x+3)+v(x^2-1)=-x^2+2x+3
+
+x^2-2x+3 : x^2-1=1
+
+\frac{x^2-2x+3}{x^2-1}=\frac{1}{-2x+4}
+
+x^2-2x+3=1\cdot(x^2-1)+(-2x+4)
+
+x^2-1=\left(-\frac{1}{2}x-1\right)(-2x+4)+3
+
+x^2-1:-2x+4=-\frac{1}{2}x-1
+
+\frac{x^2-2x}{2x-1}
+
+\frac{2x-4}{2x-4}
+
+3
+
+3=(x^2-1)-\left(-\frac{1}{2}x-1\right)(-2x+4)
+
+3=(x^2-1)-\left(-\frac{1}{2}x-1\right)\left[(x^2-2x+3)-(x^2-1)\right]
+
+3=\left(\frac{1}{2}x+1\right)(x^2-2x+3)+\left(-\frac{1}{2}x\right)(x^2-1)
+
+-x^2+2x+3=(-1)(x^2-2x+3)+2\cdot3
+
+-x^2+2x+3=(x+1)(x^2-2x+3)+(-x)(x^2-1)
+
+u=x+1 \qquad v=-x

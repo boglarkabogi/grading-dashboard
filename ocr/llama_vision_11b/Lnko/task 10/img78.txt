@@ -1,0 +1,13 @@
+219 mod 205 = 14
+
+205 mod 14 = 9
+
+74 mod 9 = 5
+
+9 mod 5 = 4
+
+5 mod 4 = 1
+
+4 mod 1 = 0
+
+A legnagyobb közös osztályozó 1.

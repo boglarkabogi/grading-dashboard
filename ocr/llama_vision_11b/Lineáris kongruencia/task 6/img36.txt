@@ -1,0 +1,16 @@
+A képen látható megoldás a következő:
+
+1.  A $7x\equiv 14\pmod{343}$ lineáris kongruenciát megoldjuk. A modulust 7-gyel osztjuk, és a maradékot 49-gyel osztjuk. A maradék 0, ezért a megoldás $x\equiv 0\pmod{49}$.
+2.  A $16x\equiv 5\pmod{346}$ lineáris kongruenciát megoldjuk. A modulust 2-gyel osztjuk, és a maradékot 173-gyel osztjuk. A maradék 1, ezért a megoldás $x\equiv 1\pmod{173}$.
+
+A megoldásokat a következőképpen írhatjuk le:
+
+*   $x\equiv 0\pmod{49}$
+*   $x\equiv 1\pmod{173}$
+
+A megoldásokat a következőképpen is írhatjuk le:
+
+*   $x=49k$
+*   $x=173l+1$
+
+Ahol $k$ és $l$ egész számok.

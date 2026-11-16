@@ -1,0 +1,63 @@
+\[
+\begin{cases}
+2x \equiv 5 \pmod{27} \\
+3x \equiv 15 \pmod{24} \quad /:3
+\end{cases}
+\quad (21, 24) = 3
+\]
+
+\[
+2 \cdot 11 = 22 \equiv 1 \pmod{21}
+\]
+
+\[
+\begin{cases}
+x \equiv 13 \pmod{21} \\
+x \equiv 5 \pmod{8}
+\end{cases}
+\]
+
+\[
+21a_1 + 8b_2 = 1
+\]
+
+\[
+21 \cdot (-3) + 8 \cdot 8 = 1
+\]
+
+\[
+a_1 = (-3)
+\]
+
+\[
+b_2 = 8
+\]
+
+\[
+x_2 \equiv 21 \cdot 8 \cdot (-3) \cdot 5 + 8 \cdot 8 \cdot 13 \pmod{21 \cdot 8} \equiv 13 \pmod{168}
+\]
+
+\[
+-375 \pmod{168} \quad 432 \pmod{168} \quad 168
+\]
+
+\[
+21 \quad 760
+\]
+
+\[
+\begin{cases}
+2x \equiv 1 \pmod{21} \\
+5x \equiv 11 \pmod{24}
+\end{cases}
+\quad
+\begin{cases}
+x \equiv 11 \pmod{21} \\
+x \equiv 7 \pmod{24}
+\end{cases}
+\quad (21, 24) = 3
+\]
+
+\[
+27a + 24b = 1
+\]

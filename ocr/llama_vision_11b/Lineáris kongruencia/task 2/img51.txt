@@ -1,0 +1,585 @@
+A képen látható megoldás a következő:
+
+$12x\equiv 8\pmod{259}$
+
+$16x\equiv 13\pmod{314}$
+
+A megoldás a következő:
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{259}$
+
+$12x\equiv 8\pmod{

@@ -1,0 +1,92 @@
+4. Beadandó
+
+a)
+\[
+\begin{cases}
+2x \equiv 11 \pmod{15} \\
+3x \equiv 18 \pmod{21}
+\end{cases}
+\qquad
+\begin{cases}
+x \equiv 13 \pmod{15} \\
+x \equiv 6 \pmod{7}
+\end{cases}
+\]
+
+\[
+2x \equiv 11 \pmod{15}
+\]
+\[
+2x \equiv 26 \pmod{15}
+\]
+\[
+x \equiv 13
+\]
+
+\[
+13 + 15k \equiv 6 \pmod{7}
+\]
+\[
+6 + k \equiv 6 \pmod{7}
+\]
+\[
+k \equiv 0 \pmod{7}
+\]
+
+\[
+3x \equiv 18 \pmod{21}
+\]
+\[
+x \equiv 6 \pmod{7}
+\]
+
+\[
+x \equiv 13 \pmod{105}
+\]
+
+b)
+\[
+\begin{cases}
+2x \equiv 7 \pmod{15} \\
+5x \equiv 17 \pmod{21}
+\end{cases}
+\qquad
+\begin{cases}
+x \equiv 11 \pmod{15} \\
+x \equiv 16 \pmod{21}
+\end{cases}
+\]
+
+\[
+2x \equiv 7 \pmod{15}
+\]
+\[
+2x \equiv 22 \pmod{15}
+\]
+\[
+x \equiv 11 \pmod{15}
+\]
+
+\[
+11 + 15k \equiv 16 \pmod{21}
+\]
+\[
+15k \equiv 5 \pmod{21}
+\]
+
+\[
+(15, 21) = 3 \quad 3 \nmid 5
+\]
+\[
+\Rightarrow \text{nincs megoldás}
+\]
+
+\[
+5x \equiv 17 \pmod{21}
+\]
+\[
+5x \equiv 80 \pmod{21}
+\]
+\[
+x \equiv 16 \pmod{21}
+\]

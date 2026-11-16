@@ -1,0 +1,67 @@
+\[
+\begin{cases}
+2x \equiv 7 \pmod{15} \\
+5x \equiv 17 \pmod{21}
+\end{cases}
+\quad \Rightarrow \quad
+\begin{cases}
+x \equiv 11 \pmod{15} \\
+x \equiv 0 \pmod{21}
+\end{cases}
+\quad (15, 21) = 3
+\]
+
+\[
+73 + 3 \cdot 27 = 80
+\]
+
+\[
+x \equiv 14 \pmod{15} \quad x \equiv 0 \pmod{21}
+\]
+
+\[
+\begin{cases}
+x \equiv 2 \pmod{3} \\
+x \equiv 1 \pmod{5}
+\end{cases}
+\quad \neq \quad
+\begin{cases}
+x \equiv 0 \pmod{3} \\
+x \equiv 0 \pmod{7}
+\end{cases}
+\]
+
+\[
+\text{nagy megoldás}
+\]
+
+\[
+\begin{cases}
+2x \equiv 11 \pmod{15} \quad \Rightarrow \quad x \equiv 13 \pmod{15} \\
+3x \equiv 18 \pmod{21} \quad \Rightarrow \quad x \equiv 6 \pmod{7}
+\end{cases}
+\]
+
+\[
+x \equiv 13 \pmod{15} \quad x \equiv 2 \pmod{5} \quad x \equiv 1 \pmod{3}
+\]
+
+\[
+3 \cdot 5 \cdot 7 = 105
+\]
+
+\[
+\text{nagy megoldás} \pmod{105}
+\]
+
+\[
+x = 5y + 2
+\]
+
+\[
+x = 3y + 1
+\]
+
+\[
+x = 2y + 6
+\]

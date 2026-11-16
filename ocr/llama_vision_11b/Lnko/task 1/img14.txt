@@ -1,0 +1,14 @@
+A képen látható megoldás a következő:
+
+1. 213 és 200 legnagyobb közös osztójának meghatározásához először a két szám legnagyobb közös osztójának (LCM) meghatározására van szükség.
+2. A két szám LCM-ét a következő módon lehet meghatározni:
+    * A két szám legnagyobb prímtényezőit határozzuk meg.
+    * A két szám legnagyobb prímtényezőinek legnagyobb hatványát vesszük.
+    * A két szám LCM-ét a legnagyobb prímtényezők hatványainak szorzatával kapjuk.
+3. A 213 legnagyobb prímtényezői: 3, 71.
+4. A 200 legnagyobb prímtényezői: 2, 2, 2, 5, 5.
+5. A két szám legnagyobb prímtényezőinek legnagyobb hatványai: 3^1, 71^1, 2^3, 5^2.
+6. A két szám LCM-ét a legnagyobb prímtényezők hatványainak szorzatával kapjuk: 3^1 * 71^1 * 2^3 * 5^2 = 213 * 200 = 42600.
+7. A 213 és 200 legnagyobb közös osztója: 213 * 200 = 42600.
+
+A képen látható megoldás tehát helyes.

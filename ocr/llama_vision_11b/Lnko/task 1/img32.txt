@@ -1,0 +1,683 @@
+A képen látható megoldás a következő:
+
+$$
+\begin{array}{c|cc}
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 & 1 & 3 \\
+\hline
+2 &

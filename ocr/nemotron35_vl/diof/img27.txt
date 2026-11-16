@@ -1,0 +1,41 @@
+x^2-1=(x-1)(x+1)
+x=1 \quad x=-1
+
+ha \ x=1:
+u(1+3+3)+u \cdot 0=2+1-3
+u \cdot 7=0
+
+ha \ x=-1
+u(1-3+3)+u \cdot 0=2-1-3
+u \cdot 1=-2
+
+u=u_1x+u_0
+
+x=1 \quad u_1 \cdot 1+u_0=0 \quad u_1=-u_0
+x=-1 \quad u_1(-1)+u_0=-2 \quad u_0+2=u_1
+
+\left.
+\begin{array}{l}
+u_1 \cdot 1+u_0=0 \\
+u_1=-u_0 \\
+u_1(-1)+u_0=-2 \\
+u_0+2=u_1
+\end{array}
+\right.
+\quad
+\begin{array}{l}
+u_0+2=-u_0 \\
+2=-2u_0 \\
+-1=u_0 \rightarrow u_1=1
+\end{array}
+
+\underline{u=x-1}
+
+\downarrow
+
+(x-1)(x^2+3x+3)+v \cdot (x^2-1)=2x^2+x-3
+x^3+3x^2+3x-x^2-3x-3+v \cdot (x^2-1)=2x^2+x-3
+x^3+2x^2-3+v \cdot (x^2-1)=2x^2+x-3
+v \cdot (x^2-1)=-x^3+x=-x(x^2-1)
+
+\underline{v=-x}

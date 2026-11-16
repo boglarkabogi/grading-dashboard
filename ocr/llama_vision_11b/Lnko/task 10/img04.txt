@@ -1,0 +1,10 @@
+\begin{align*}
+219 &= 1\cdot 205 + 14\\
+205 &= 14\cdot 14 + 9\\
+14 &= 1\cdot 9 + 5\\
+9 &= 1\cdot 5 + 4\\
+5 &= 1\cdot 4 + 1\\
+4 &= 4\cdot 1
+\end{align*}
+
+A legnagyobb közös osztó 1.

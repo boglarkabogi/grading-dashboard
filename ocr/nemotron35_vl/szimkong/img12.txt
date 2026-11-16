@@ -1,0 +1,43 @@
+\[
+\begin{cases}
+2x \equiv 5 \pmod{21} \\
+3x \equiv 17 \pmod{24}
+\end{cases}
+\quad x \equiv 3 \pmod{8}
+\]
+
+\[
+2 \cdot 11 = 22 \equiv 1 \pmod{21}
+\]
+
+\[
+x \equiv 5 \cdot 11 = 55 \equiv 13 \pmod{21}
+\]
+
+\[
+x \equiv 13 \pmod{21}
+\]
+
+\[
+x \equiv 3 \pmod{8}
+\]
+
+\[
+x \equiv 73 \pmod{168}
+\]
+
+\[
+\begin{cases}
+2x \equiv 1 \pmod{21} \\
+5x \equiv 11 \pmod{24}
+\end{cases}
+\quad \gcd(21, 24) = 3
+\]
+
+\[
+x \equiv 11 \pmod{21}
+\]
+
+\[
+x \equiv 7 \pmod{24}
+\]

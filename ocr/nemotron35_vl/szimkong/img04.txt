@@ -1,0 +1,54 @@
+\[
+\begin{cases}
+2x \equiv 11 \pmod{15} \\
+3x \equiv 18 \pmod{21}
+\end{cases}
+\quad
+x \equiv 13 \cdot (-2) \cdot 4 + 6 \cdot (1) \cdot 15 \equiv -92 \pmod{105}
+\]
+
+\[
+2x \equiv 26 \pmod{15} \quad x \equiv 13 \pmod{105}
+\]
+
+\[
+\begin{cases}
+x \equiv 13 \pmod{15} \\
+x \equiv 6 \pmod{4}
+\end{cases}
+\]
+
+\[
+a \cdot 15 + b \cdot 4 = 1
+\]
+
+\[
+(1) \cdot 15 + (-2) \cdot 4 = 1
+\]
+
+\[
+\begin{cases}
+2x \equiv 2 \pmod{15} \\
+5x \equiv 14 \pmod{27}
+\end{cases}
+\]
+
+\[
+2x \equiv 22 \pmod{15} \quad x \equiv 2 \pmod{3}
+\]
+
+\[
+x \equiv 11 \pmod{15} \quad x \equiv 1 \pmod{5}
+\]
+
+\[
+5x \equiv -25 \pmod{27} \quad x \equiv 1 \pmod{3}
+\]
+
+\[
+x \equiv -5 \pmod{27} \quad x \equiv 2 \pmod{7}
+\]
+
+\[
+x \equiv 16 \pmod{27}
+\]

@@ -1,0 +1,45 @@
+1.10) 
+a) \(3x \equiv 9 \pmod{15}\)
+b) \(5x \equiv 17 \pmod{25}\)
+
+a) \(3x \equiv 9 \pmod{15} \Rightarrow x \equiv 3 \pmod{5}\)
+b) \(5x \equiv 17 \pmod{25} \Rightarrow x \equiv 13 \pmod{25}\) (k.m.t.)
+
+\(x \equiv 7 \pmod{120}\)
+
+\(x = 52 + 3 \quad (k \in \mathbb{Z}) \Rightarrow x = 5(24m + 2) + 3 = 120m + 13\)
+
+\(52 + 3 \equiv 13 \pmod{25}\)
+
+\(52 \equiv 40 \pmod{25}\)
+
+\(k \equiv 2 \pmod{25} \Rightarrow k = 24m + 2\)
+
+That \(x \equiv 13 \pmod{120}\)
+
+2. 
+\(2x \equiv 5 \pmod{15}\) \hspace{2cm} \(5x \equiv 7 \pmod{25}\)
+
+\(\downarrow\) \hspace{3.5cm} \(\downarrow\)
+
+\(nivel \, 2 \cdot 3 = 16 \equiv 1 \pmod{15}\) \hspace{1cm} \(25x \equiv 35 \pmod{24}\)
+
+\(16x \equiv 50 \pmod{15}\)
+
+\(x \equiv 10 \pmod{15}\)
+
+\(\downarrow\)
+
+\(x \equiv 1 \pmod{3}\)
+
+\(x \equiv 35 \pmod{24}\)
+
+\(x \equiv 11 \pmod{24}\)
+
+\(\downarrow\)
+
+\(x \equiv 2 \pmod{3}\)
+
+ellenőrzés, vagy
+
+nincs megoldás

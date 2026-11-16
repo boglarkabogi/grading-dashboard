@@ -1,0 +1,28 @@
+Beadandó 6.
+
+-f -et és g-t külön redukáljon mod n és
+cseréljük vissza őket
+
+f \equiv f' \text{ és } g \equiv g' \quad (\text{mod } n)
+
+akkor \quad f \cdot g \equiv f' \cdot g' \quad (\text{mod } n)
+
+1) \quad \text{deg } f = 4 \quad \text{deg } g = 3 \quad (4n = x^3 + x + 4)
+
+\text{szorzás}
+
+x \cdot h = x^4 + x^2 + 4x
+
+\text{levonás:} \quad f - x \cdot n = (x^4 + x^2 + 2) - (x^4 + x^2 + 4x) = -4x + 2
+
+= x + 2 \quad \text{mert } 1 \equiv 3 \quad f \equiv x + 2 \quad (\text{mod } n)
+
+\text{mert } g - n = (x^3 + 3x + 2) - (x^3 + x + 4) = 2x + 3 \quad (\text{mod } n)
+
+g \equiv 2x + 3 \quad (\text{mod } n)
+
+(x+2)(2x+3) = 2x^2 + 3x + 4x + 6 = 2x^2 + 7x + 6 \equiv 2x^2 + 2x + 1
+
+2. feladat
+
+Kön

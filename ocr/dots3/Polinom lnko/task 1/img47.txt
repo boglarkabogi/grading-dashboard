@@ -1,0 +1,15 @@
+A képen látható kézzel írt megoldás transzkripciója:
+
+$$f = x^4+3x^3+2x^2+x+4 \in \mathbb{Z}_5[x] \text{ és } g = x^5+x^4+x^2+x+2 \in \mathbb{Z}_5[x]$$
+
+$$\lnko(f,g) = ?$$
+
+$$f = g \cdot (-x + 3x^2 + 4) \quad \text{( át van húzva )}$$
+
+$$g = v_0(x-2) + (-x^2-x-x)''$$
+
+$$f = v_1(-x-2) + \underline{\underline{(-x^2-x-1)^{v_2}}}$$
+
+$$v_1 = v_2(x) + 0$$
+
+$$\lnko(f,g) = \underline{\underline{4x^2+4x+4}}$$

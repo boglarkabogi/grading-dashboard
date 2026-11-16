@@ -1,0 +1,3 @@
+Oldja meg az alábbi lineáris kongruenciákat:
+
+$12x\equiv 8\pmod{259}$ és $16x\equiv 13\pmod{314}$

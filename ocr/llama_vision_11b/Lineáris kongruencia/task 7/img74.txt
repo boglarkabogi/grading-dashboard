@@ -1,0 +1,34 @@
+A képen látható megoldás a következő:
+
+**13x ≡ 19 (mod 414)**
+
+*   A megoldás a következő:
+    *   13x ≡ 19 (mod 414)
+    *   13x ≡ 19 + 3*414 (mod 414)
+    *   13x ≡ 437 (mod 414)
+    *   13x ≡ 437 - 3*414 (mod 414)
+    *   13x ≡ 437 - 1242 (mod 414)
+    *   13x ≡ -805 (mod 414)
+    *   13x ≡ -805 + 2*414 (mod 414)
+    *   13x ≡ -805 + 828 (mod 414)
+    *   13x ≡ 23 (mod 414)
+    *   x ≡ 23/13 (mod 414)
+    *   x ≡ 1 + 10/13 (mod 414)
+    *   x ≡ 1 + 10 (mod 414)
+    *   x ≡ 11 (mod 414)
+
+**20x ≡ 6 (mod 412)**
+
+*   A megoldás a következő:
+    *   20x ≡ 6 (mod 412)
+    *   20x ≡ 6 + 2*412 (mod 412)
+    *   20x ≡ 6 + 824 (mod 412)
+    *   20x ≡ 830 (mod 412)
+    *   20x ≡ 830 - 2*412 (mod 412)
+    *   20x ≡ 830 - 824 (mod 412)
+    *   20x ≡ 6 (mod 412)
+    *   x ≡ 6/20 (mod 412)
+    *   x ≡ 3/10 (mod 412)
+    *   x ≡ 3 (mod 412)
+
+A két lineáris kongruencia megoldása x ≡ 11 (mod 414) és x ≡ 3 (mod 412).

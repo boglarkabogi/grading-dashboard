@@ -1,0 +1,17 @@
+A képen látható megoldás a következő:
+
+217 = 1 * 201 + 16
+
+201 = 12 * 16 + 9
+
+16 = 1 * 9 + 7
+
+9 = 1 * 7 + 2
+
+7 = 3 * 2 + 1
+
+2 = 2 * 1 + 0
+
+(217, 201) = 1
+
+A megoldás szerint a 217 és 201 legnagyobb közös osztója 1.

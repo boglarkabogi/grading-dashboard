@@ -1,0 +1,22 @@
+A képen látható megoldás a következő:
+
+\begin{align*}
+\text{L} &= x^4 + 2x^3 + 3x^2 + 2x + 1, \\
+\text{Z} &= x^5 + x^4 + 2x^3 + 4x^2 + 4x + 3, \\
+\text{P} &= \text{L}(x) + \text{Z}(x) = x^5 + 3x^4 + 5x^3 + 7x^2 + 6x + 4, \\
+\text{Q} &= \text{L}(x) - \text{Z}(x) = -x^5 + x^4 - x^3 + x^2 - 2x + 1, \\
+\text{R} &= \text{P}(x) \cdot \text{Q}(x) = (x^5 + 3x^4 + 5x^3 + 7x^2 + 6x + 4)(-x^5 + x^4 - x^3 + x^2 - 2x + 1), \\
+\text{S} &= \text{P}(x) + \text{Q}(x) = 2x^5 + 4x^4 + 6x^3 + 8x^2 + 8x + 5, \\
+\text{T} &= \text{P}(x) - \text{Q}(x) = 2x^5 + 2x^4 + 6x^3 + 6x^2 + 8x + 3, \\
+\text{U} &= \text{R}(x) + \text{S}(x) = 2x^5 + 2x^4 + 6x^3 + 6x^2 + 8x + 3, \\
+\text{V} &= \text{R}(x) - \text{S}(x) = 0, \\
+\text{W} &= \text{U}(x) \cdot \text{V}(x) = 0, \\
+\text{X} &= \text{U}(x) + \text{V}(x) = 2x^5 + 2x^4 + 6x^3 + 6x^2 + 8x + 3, \\
+\text{Y} &= \text{U}(x) - \text{V}(x) = 2x^5 + 2x^4 + 6x^3 + 6x^2 + 8x + 3, \\
+\text{Z} &= \text{X}(x) \cdot \text{Y}(x) = (2x^5 + 2x^4 + 6x^3 + 6x^2 + 8x + 3)(2x^5 + 2x^4 + 6x^3 + 6x^2 + 8x + 3), \\
+\text{P} &= \text{Z}(x) = 2x^5 + 2x^4 + 6x^3 + 6x^2 + 8x + 3.
+\end{align*}
+
+A legnagyobb közös osztó a következő:
+
+$$\text{LKO} = \boxed{2x^5 + 2x^4 + 6x^3 + 6x^2 + 8x + 3}.$$

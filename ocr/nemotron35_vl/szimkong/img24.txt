@@ -1,0 +1,88 @@
+\[
+\begin{cases}
+2x \equiv 5 \pmod{21} \\
+3x \equiv 15 \pmod{24}
+\end{cases}
+\quad \xrightarrow{2 \cdot 11 = 22 \equiv 1} \quad
+\begin{cases}
+2^{-1} \equiv 11 \pmod{21} \\
+x \equiv 5 \pmod{8}
+\end{cases}
+\quad \xrightarrow{\cdot 11} \quad x \equiv 55 \equiv 13 \pmod{21}
+\]
+
+\[
+\downarrow
+\]
+
+\[
+\begin{cases}
+x \equiv 13 \pmod{21} \\
+x \equiv 5 \pmod{8}
+\end{cases}
+\]
+
+\[
+x = 13 + 21k \equiv 5 \pmod{8} \quad (k \in \mathbb{Z}) \quad \rightarrow \quad 13 \equiv 5 \pmod{8}
+\]
+\[
+21 \equiv 5 \pmod{8}
+\]
+
+\[
+5 + 5k \equiv 5 \pmod{8}
+\]
+\[
+5k \equiv 0 \pmod{8} \quad \xrightarrow{\cdot 5}
+\]
+\[
+25k \equiv 0 \pmod{8}
+\]
+\[
+k \equiv 0 \pmod{8}
+\]
+\[
+k = 8l \quad (l \in \mathbb{Z}) \quad \rightarrow \quad x = 13 + 21k
+\]
+\[
+x = 13 + 168l
+\]
+\[
+x \equiv 13 \pmod{168}
+\]
+
+\[
+\begin{cases}
+2x \equiv 1 \pmod{21} \\
+5x \equiv 11 \pmod{24}
+\end{cases}
+\quad
+\begin{cases}
+2^{-1} \equiv 11 \pmod{21} \\
+5^{-1} \equiv 5 \pmod{24}
+\end{cases}
+\]
+
+\[
+\begin{cases}
+x \equiv 11 \pmod{21} \\
+x \equiv 55 \equiv 7 \pmod{24}
+\end{cases}
+\]
+
+\[
+x = 11 + 21k \equiv 7 \pmod{24} \quad (k \in \mathbb{Z}) \quad \rightarrow \quad 21k \equiv 20 \pmod{24}
+\]
+\[
+-3k \equiv 20 \pmod{24} \quad \xrightarrow{\cdot (-1)}
+\]
+\[
+3k \equiv -20 \pmod{24}
+\]
+\[
+3k \equiv 4 \pmod{24}
+\]
+
+\[
+(3, 24) = 3 \nmid 4 \quad \text{minus megoldás}
+\]

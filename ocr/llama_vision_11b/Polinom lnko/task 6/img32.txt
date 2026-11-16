@@ -1,0 +1,5 @@
+A képen látható megoldás a következő:
+
+LNKO = 3x^2 + 3x + 3
+
+A megoldás a képen látható, így nem kell további lépéseket hajtanunk végre.

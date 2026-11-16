@@ -1,0 +1,101 @@
+\[
+\begin{cases}
+2x \equiv 79 \pmod{15} \\
+3x \equiv 18 \pmod{27}
+\end{cases}
+\quad
+\begin{cases}
+2x \equiv 7 \pmod{15} \\
+5x \equiv 17 \pmod{27}
+\end{cases}
+\]
+
+\[
+2x \equiv 71 \pmod{75}
+\]
+\[
+2x \equiv 26 \pmod{15}
+\]
+\[
+x \equiv 13 \pmod{75}
+\]
+
+\[
+2x \equiv 7 \pmod{75}
+\]
+\[
+2x \equiv 22 \pmod{75}
+\]
+\[
+x \equiv 11 \pmod{75}
+\]
+
+\[
+3x \equiv 78 \pmod{27}
+\]
+\[
+x \equiv 6 \pmod{7}
+\]
+
+\[
+5x \equiv 17 \pmod{27}
+\]
+\[
+5x \equiv 80 \pmod{27}
+\]
+\[
+x \equiv 16 \pmod{27}
+\]
+
+\[
+\begin{cases}
+x \equiv 13 \pmod{25} \\
+x \equiv 6 \pmod{7}
+\end{cases}
+\quad
+\begin{cases}
+x \equiv 17 \pmod{15} \\
+x \equiv 16 \pmod{27}
+\end{cases}
+\]
+
+\[
+\gcd(13, 7) = 1
+\]
+\[
+\gcd(75, 27) = 3
+\]
+
+\[
+\gcd(13, 7) = 105
+\]
+
+\[
+x = 15r + 13
+\]
+\[
+x \equiv 17 \equiv 2 \pmod{3}
+\]
+\[
+x = 16 \equiv 1 \pmod{3}
+\]
+
+\[
+15r + 13 \equiv 6 \pmod{7}
+\]
+\[
+r + 6 = 6 \pmod{7}
+\]
+\[
+r \equiv 0 \pmod{7}
+\]
+\[
+r = 7m
+\]
+\[
+x = 15(7m) + 13 = 105m + 13
+\]
+
+\[
+x \equiv 73 \pmod{105}
+\]

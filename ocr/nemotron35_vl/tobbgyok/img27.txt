@@ -1,0 +1,73 @@
+Hári 6
+
+\(f = x^4 + 4 \in \mathbb{Z}_5[x]\) és \(g = x^3 + 2 \in \mathbb{Z}_5[x]\)
+
+1. \(f \cdot g \mod x^3 + x + 4\)
+2. \(f \cdot g^2 + f^2 \cdot g \mod x^3 + x + 4\)
+3. \(f^8 \mod x^3 + x + 4\) ?
+
+Expreszkéntes: modulus \(x^3 + x + 4\) mellett:
+- \(x^3 \equiv -x - 4 \equiv 4x + 1\)
+- \(x^4 \equiv x \cdot x^3 \equiv x(4x + 1) \#= 4x^2 + x\)
+
+tehát:
+- \(f \cdot g = x^4 + 4 \equiv (4x^2 + x) + 4 = 4x^2 + x + 4\)
+- \(g \cdot g = x^3 + 2 \equiv (4x + 1) + 2 = 4x + 3\)
+
+1.) \(f \cdot g \equiv (4x^2 + x + 4)(4x + 3) = 16x^3 + 12x^2 + 4x^2 + 3x + 16x + 12\)
+
+\(16x^3 + 12x^2 + 4x^2 + 3x + 16x + 12 \mod 5\)
+
+\(= 1x^3 + 2x^2 + 4x^2 + 3x + 1x + 2 = x^3 + x^2 + 4x + 2\)
+
+Mivel \(x^3 \equiv 4x + 1\)
+
+\((4x + 1) + x^2 + 4x + 2 = x^2 + 8x + 3\)
+
+2.) \(f \cdot g^2 + f^2 \cdot g = (f \cdot g)(f + g)\)
+
+már megvan
+
+\(f + g \equiv (4x^3 + x + 4) + (4x + 3) = 4x^2 + 5x + 3 \equiv 4x^2 + 2 \mod 5\)
+
+\((f \cdot g)(f + g) \equiv (x^3 + 3x + 3)(4x^2 + 2) = 4x^4 + 2x^2 + 12x^3 + 6x + 12x^2 + 6\)
+
+\(4x^4 + 2x^2 + 12x^3 + 6x + 12x^2 + 6 \mod 5\)
+
+\(= 4x^4 + 2x^3 + 4x^2 + x + 1\)
+
+\(4x^4 + 2x^3 + 4x^2 + 4x + 1\) helyettesítés
+
+\(4(4x^2 + x) + 2(4x + 1) + 4x^2 + x + 1 = 16x^2 + 4x + 8x + 2 + 4x^2\)
+
+\(+ x + 1 = 20x^2 + 13x + 3 \mod 5\)
+
+3.) \(f^8\)
+
+\(f^2 \equiv (4x^2 + x + 4)^2 = 16x^4 + x^2 + 16 + 8x^3 + 32x^2 + 8x \equiv\)
+
+\(x^4 + 3x^3 + 3x^2 + 3x + 1\)
+
+helyettesítés:
+
+\((4x^2 + x) + 3(4x + 1) + 3x^2 + 3x + 1 = 7x^2 + 16x + 4 \equiv\)
+
+\(2x^2 + x + 4 \mod 5 = f^2\)
+
+\(f^4 = (f^2)^2 \equiv (2x^2 + x + 4)^2 = 4x^4 + x^2 + 16 + 4x^3 + 16x^2 + 8x \equiv\)
+
+\(4x^4 + 4x^3 + 2x^2 + 3x + 1\)
+
+helyettesítés:
+
+\(4(4x^2 + x) + 4(4x + 1) + 2x^2 + 3x + 1 = 18x^2 + 23x + 5 \equiv\)
+
+\(3x^2 + 3x \mod 5 = f^4\)
+
+\(f^8 = (f^4)^2 \equiv (3x^2 + 3x)^2 = 9x^4 + 18x^3 + 9x^2 \equiv 4x^4 + 3x^3 + 4x^2\)
+
+helyettesítés:
+
+\(4(4x^2 + x) + 3(4x + 1) + 4x^2 = 20x^2 + 16x + 3 \equiv x + 3 \mod 5\)
+
+\(f^8 = x + 3 \mod 5\)

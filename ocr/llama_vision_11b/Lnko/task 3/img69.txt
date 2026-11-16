@@ -1,0 +1,13 @@
+A képen látható megoldás a következő:
+
+216 = 1. 203 + 13
+
+203 = 7. 13 + 12
+
+13 = 1. 12 + 1
+
+12 = 12. 1 + 0
+
+(216, 203) = 1
+
+A megoldás szerint a 216 és 203 legnagyobb közös osztója 1.

@@ -1,0 +1,22 @@
+**Megoldás**
+
+A képen látható megoldás a következő:
+
+1. 13x ≡ 13 (mod 409)
+    *   x ≡ 1 (mod 409)
+2. 12x ≡ 7 (mod 302)
+    *   x ≡ 302 (mod 302)
+3. x ≡ 1 (mod 409) és x ≡ 302 (mod 302)
+    *   x ≡ 302 (mod 409)
+
+A megoldás szerint a két lineáris kongruencia megoldása x ≡ 302 (mod 409).
+
+**Megjegyzés**
+
+A képen látható megoldás a következő lépéseket tartalmazza:
+
+1.  A 13x ≡ 13 (mod 409) kongruenciát megoldja, amelynek eredménye x ≡ 1 (mod 409).
+2.  A 12x ≡ 7 (mod 302) kongruenciát megoldja, amelynek eredménye x ≡ 302 (mod 302).
+3.  A két kongruencia eredményét összeadja, amelynek eredménye x ≡ 302 (mod 409).
+
+A megoldás szerint a két lineáris kongruencia megoldása x ≡ 302 (mod 409).

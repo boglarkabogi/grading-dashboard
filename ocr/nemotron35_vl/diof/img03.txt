@@ -1,0 +1,12 @@
+\begin{aligned}
+&\text{Behandelt: } u \cdot (y^2 + y + 1) + v \cdot (y^2 - 1) = x - 1 \qquad u,v \in \mathbb{Q}[x] \\
+&\text{Tegényl fel/hozzá: } u = (x-1) \\
+&\Downarrow (x-1)(y^2+x+1) + v \cdot (y^2-1) = x-1 \\
+&\big((x-1)(y^2+x+1) + v \cdot (x^2-1)(y+1) = (x-1) \cdot (x-1)\big) \\
+&x^2+x+1 + v(y+1) = 1 \\
+&x^3-1 + v(y^2-1) = x-1 \\
+&v(y^2-1) = x-x^3 \\
+&v(y^2-1) = -x(x^2-1) \\
+&\boxed{v=-x} \\
+&\boxed{u=x-1}
+\end{aligned}

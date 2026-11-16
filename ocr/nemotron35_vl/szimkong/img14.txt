@@ -1,0 +1,44 @@
+1. \(2x \equiv 1 \pmod{27}\)
+2. \(5x \equiv 11 \pmod{24}\)
+3. 
+\[
+\begin{aligned}
+2x &\equiv 21 \pmod{27} \\
+2x &\equiv 22 \pmod{21} \\
+x &\equiv 11 \pmod{27}
+\end{aligned}
+\]
+\[
+\begin{aligned}
+5x &\equiv 35 \pmod{24} \\
+x &\equiv 7 \pmod{24}
+\end{aligned}
+\]
+\(\gcd(21, 24) = 3\)
+\[
+\begin{aligned}
+x &\equiv 17 \equiv 2 \pmod{3} \\
+x &\equiv 7 \equiv 1 \pmod{3}
+\end{aligned}
+\]
+\(\downarrow\)
+\(h'\)-s mód.
+\[
+\begin{aligned}
+2x &\equiv 5 \pmod{21} & 2x &\equiv 26 \pmod{27} & x &\equiv 13 \pmod{27} \\
+3x &\equiv 15 \pmod{24} & x &\equiv 5 \pmod{8} & \gcd(21, 8) = 1
+\end{aligned}
+\]
+\(x = 27k + 13 \quad k \in \mathbb{Z}\)
+\[
+27k + 13 \equiv 5 \pmod{8}
+\]
+\[
+5k \equiv 0 \pmod{8}
+\]
+\[
+k = 8m \quad m \in \mathbb{Z} \quad x = 21(8m) + 13
+\]
+\[
+x = 168m + 13
+\]

@@ -1,0 +1,243 @@
+A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+\[ \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) = 3x^2 + 3x + 3 \in \mathbb{Z}_5[x] \]
+
+\[ \Rightarrow \gcd(f,g) =

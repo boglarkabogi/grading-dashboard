@@ -1,0 +1,95 @@
+Beadandó 4
+
+\[
+\begin{cases}
+2x \equiv 11 \pmod{15} \\
+3x \equiv 18 \pmod{21}
+\end{cases}
+\]
+
+\[
+2x \equiv 11 \pmod{15} \quad (2,15)=1
+\]
+
+\[
+16x \equiv 88 \pmod{15}
+\]
+
+\[
+x \equiv 13 \pmod{15}
+\]
+
+\[
+x = 15k + 13 \quad (k \in \mathbb{Z})
+\]
+
+\[
+3x \equiv 18 \pmod{21} \quad (3,21)=3 \Rightarrow 8 \text{ megoldás}
+\]
+
+\[
+x \equiv 6 \pmod{7}
+\]
+
+\[
+15k + 13 \equiv 6 \pmod{7}
+\]
+
+\[
+15k \equiv -7 \pmod{7} \Rightarrow k \equiv 0 \pmod{7}
+\]
+
+\[
+k = 7m \quad (m \in \mathbb{Z})
+\]
+
+\[
+x = 15(7m) + 13 = 105m + 13 \Rightarrow \boxed{x \equiv 13 \pmod{105}}
+\]
+
+\[
+\begin{cases}
+2x \equiv 7 \pmod{15} \\
+5x \equiv 17 \pmod{21}
+\end{cases}
+\]
+
+\[
+2x \equiv 7 \pmod{15} \quad (2,15)=1
+\]
+
+\[
+16x \equiv 56 \pmod{15}
+\]
+
+\[
+x \equiv 11 \pmod{15}
+\]
+
+\[
+x = 15h + 11 \quad (h \in \mathbb{Z})
+\]
+
+\[
+5x \equiv 17 \pmod{21} \quad (5,21)=1
+\]
+
+\[
+-5
+\]
+
+\[
+x \equiv \text{áá} \pmod{21} \Rightarrow x \equiv 16 \pmod{21}
+\]
+
+\[
+15h + 11 \equiv 16 \pmod{21}
+\]
+
+\[
+15h \equiv 45 \pmod{21}
+\]
+
+\[
+3k \equiv 1 \pmod{21} \quad (3,21)=3 \quad \text{DE } 3 \nmid 1! \quad \text{é}
+\]

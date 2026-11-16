@@ -1,0 +1,31 @@
+Dinnet 4. beadandó
+
+u \cdot (x^2 - 2x + 3) + v \cdot (x^2 - 1) = -x^2 + 2x + 3 \quad u,v \in \mathbb{Q}[x]
+
+f = x^2 - 2x + 3 \quad , \quad g = x^2 - 1
+
+Van-e m.o.t?
+
+-2(x-2)
+
+\cancel{\text{fg}} \quad \text{Eukl. alg.} \quad x^2 - 2x + 3 = 1 \cdot (x^2 - 1) + (-2x + 4)
+
+x^2 - 1 = (x-2)(x+2) + 3
+
+\Rightarrow 3 = g - (x-2)(x+2)
+
+\cancel{\text{fg}} = 1 \Rightarrow v.m_0
+
+f - g = -2(x-2) \Rightarrow x-2 = -\frac{1}{2}(f-g)
+
+3 = g + \frac{1}{2}(x+2)(f-g) = \frac{x+2}{2} \cdot f + (1 - \frac{x+2}{2}) \cdot g =
+
+= \frac{x+2}{2} \cdot f - \frac{x}{2} \cdot g \quad (-2)
+
+(x+2) \cdot f - x \cdot g = 6
+
+-x^2 + 2x + 3 = -(x^2 - 2x + 3) + 6 = -f + 6
+
+-x^2 + 2x + 3 = -f + (x+2) \cdot f - xg = (x+1) \cdot f + (-x) \cdot g
+
+\underline{u = x+1 \quad v = -x}

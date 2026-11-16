@@ -1,0 +1,13 @@
+A képen látható megoldás a következő:
+
+1. 19x ≡ 14 mod 297
+    (13, 247) = 19
+    19x ≡ 14 mod 247
+    2x ≡ 13 mod 19
+    x ≡ 7 mod 19
+2. 18x ≡ 17 mod 482
+    (18, 482) = 2
+    9x ≡ 9 mod 241
+    x ≡ 1 mod 241
+
+A megoldás szerint a két lineáris kongruencia megoldása x ≡ 7 mod 19 és x ≡ 1 mod 241.

@@ -1,0 +1,12 @@
+A képen látható megoldás a következő:
+
+*   219 > 180
+*   213 mod 180 = 39
+*   180 mod 33 = 24
+*   39 mod 24 = 15
+*   24 mod 15 = 9
+*   15 mod 9 = 6
+*   9 mod 6 = 3
+*   6 mod 3 = 0
+
+A legnagyobb közös osztó 3.

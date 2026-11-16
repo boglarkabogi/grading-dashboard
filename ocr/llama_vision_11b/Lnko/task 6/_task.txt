@@ -1,0 +1,1 @@
+Keresd meg 217 és 206 legnagyobb közös osztóját.

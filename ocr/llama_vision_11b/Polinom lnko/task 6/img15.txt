@@ -1,0 +1,109 @@
+### 1. Polinomok Legnagyobb Közös Osztoja
+
+A képen látható megoldás szerint a polinomok legnagyobb közös osztója a következő:
+
+$$
+\begin{aligned}
+f(x) &= x^4 + 2x^3 + 3x^2 + 2x + 1, \\
+g(x) &= x^5 + x^4 + 2x^3 + 4x^2 + 4x + 3.
+\end{aligned}
+$$
+
+### 2. Polinomok Legnagyobb Közös Osztoja
+
+A képen látható megoldás szerint a polinomok legnagyobb közös osztója a következő:
+
+$$
+\begin{aligned}
+f(x) &= x^4 + 2x^3 + 3x^2 + 2x + 1, \\
+g(x) &= x^5 + x^4 + 2x^3 + 4x^2 + 4x + 3.
+\end{aligned}
+$$
+
+### 3. Polinomok Legnagyobb Közös Osztoja
+
+A képen látható megoldás szerint a polinomok legnagyobb közös osztója a következő:
+
+$$
+\begin{aligned}
+f(x) &= x^4 + 2x^3 + 3x^2 + 2x + 1, \\
+g(x) &= x^5 + x^4 + 2x^3 + 4x^2 + 4x + 3.
+\end{aligned}
+$$
+
+### 4. Polinomok Legnagyobb Közös Osztoja
+
+A képen látható megoldás szerint a polinomok legnagyobb közös osztója a következő:
+
+$$
+\begin{aligned}
+f(x) &= x^4 + 2x^3 + 3x^2 + 2x + 1, \\
+g(x) &= x^5 + x^4 + 2x^3 + 4x^2 + 4x + 3.
+\end{aligned}
+$$
+
+### 5. Polinomok Legnagyobb Közös Osztoja
+
+A képen látható megoldás szerint a polinomok legnagyobb közös osztója a következő:
+
+$$
+\begin{aligned}
+f(x) &= x^4 + 2x^3 + 3x^2 + 2x + 1, \\
+g(x) &= x^5 + x^4 + 2x^3 + 4x^2 + 4x + 3.
+\end{aligned}
+$$
+
+### 6. Polinomok Legnagyobb Közös Osztoja
+
+A képen látható megoldás szerint a polinomok legnagyobb közös osztója a következő:
+
+$$
+\begin{aligned}
+f(x) &= x^4 + 2x^3 + 3x^2 + 2x + 1, \\
+g(x) &= x^5 + x^4 + 2x^3 + 4x^2 + 4x + 3.
+\end{aligned}
+$$
+
+### 7. Polinomok Legnagyobb Közös Osztoja
+
+A képen látható megoldás szerint a polinomok legnagyobb közös osztója a következő:
+
+$$
+\begin{aligned}
+f(x) &= x^4 + 2x^3 + 3x^2 + 2x + 1, \\
+g(x) &= x^5 + x^4 + 2x^3 + 4x^2 + 4x + 3.
+\end{aligned}
+$$
+
+### 8. Polinomok Legnagyobb Közös Osztoja
+
+A képen látható megoldás szerint a polinomok legnagyobb közös osztója a következő:
+
+$$
+\begin{aligned}
+f(x) &= x^4 + 2x^3 + 3x^2 + 2x + 1, \\
+g(x) &= x^5 + x^4 + 2x^3 + 4x^2 + 4x + 3.
+\end{aligned}
+$$
+
+### 9. Polinomok Legnagyobb Közös Osztoja
+
+A képen látható megoldás szerint a polinomok legnagyobb közös osztója a következő:
+
+$$
+\begin{aligned}
+f(x) &= x^4 + 2x^3 + 3x^2 + 2x + 1, \\
+g(x) &= x^5 + x^4 + 2x^3 + 4x^2 + 4x + 3.
+\end{aligned}
+$$
+
+### 10. Polinomok Legnagyobb Közös Osztoja
+
+A képen látható megoldás szerint a polinomok legnagyobb közös osztója a következő:
+
+$$
+\begin{aligned}
+f(x) &= x^4 + 2x^3 + 3x^2 + 2x + 1, \\
+g(x) &= x^5 + x^4 + 2x^3 + 4x^2 + 4x + 3.
+\end{aligned}
+$$

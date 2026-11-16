@@ -1,0 +1,19 @@
+A képen látható megoldás a következő:
+
+219 = 1 * 2 * 3 * 73
+205 = 5 * 41
+
+A legnagyobb közös osztójukat (LCM) a következőképpen számoljuk ki:
+
+219 = 1 * 2 * 3 * 73
+205 = 5 * 41
+
+A legnagyobb közös osztójuk az, amelyik a két szám legnagyobb osztójának a szorzata. A két szám legnagyobb osztója 73 és 41, ezért a legnagyobb közös osztójuk:
+
+LCM(219, 205) = 73 * 41 = 2993
+
+Végül, a képen látható megoldás szerint:
+
+LCM(219, 205) = 1 * 2 * 3 * 73 * 41 = 2993
+
+A képen látható megoldás tehát helyes.

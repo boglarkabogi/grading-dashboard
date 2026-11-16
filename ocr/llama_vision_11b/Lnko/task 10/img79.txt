@@ -1,0 +1,12 @@
+A képen látható megoldás a következő:
+
+219 = 1.205 + 14
+205 = 14.14 + 9
+
+14 = 1.9 + 5
+9 = 1.5 + 4
+5 = 1.4 + 1
+
+4 = 1.4
+
+A legnagyobb közös osztó 1.4.

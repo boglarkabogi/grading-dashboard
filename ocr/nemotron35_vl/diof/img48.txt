@@ -1,0 +1,30 @@
+Beadandó 7
+
+\(u.(x^2+x+1) \equiv x-1 \mod x^2-1\)
+
+\(u.(x+2) \equiv x-1 \mod x^2-1\)
+
+\(\deg u \leq 1\)
+
+\((u_1x+u_0)(x+2) \equiv x-1 \mod x^2-1\)
+
+\(u_1x^2+2u_1x+u_0x+2u_0 \equiv x-1 \mod x^2-1\)
+
+\((2u_1+u_0)x+(2u_0+u_1) \equiv x-1 \mod x^2-1\)
+
+\(\begin{cases} 
+2u_1+u_0=1 \Rightarrow u_0=1-2u_1 \\ 
+u_1+2u_0=-1 
+\end{cases}\)
+
+\(u_1+2(1-2u_1)=-1\)
+
+\(-3u_1=-3\)
+
+\(u_1=1\)
+
+\(2\cdot 1+u_0=1\)
+
+\(u_0=-1\)
+
+\(u=x-1\)

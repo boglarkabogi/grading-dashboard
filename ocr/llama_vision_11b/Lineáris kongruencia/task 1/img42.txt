@@ -1,0 +1,183 @@
+A képen látható megoldás a következő:
+
+1.  Azt mondjuk, hogy $19x\equiv 16\pmod{470}$, ami azt jelenti, hogy $19x-16$ osztója van 470-nek. Ezt a következőképpen írhatjuk fel:
+    \begin{align*}
+    19x-16&amp;\equiv 0\pmod{470}\\
+    \Rightarrow\qquad 19x&amp;\equiv 16\pmod{470}
+    \end{align*}
+    Azt mondjuk, hogy $19x\equiv 16\pmod{470}$, ami azt jelenti, hogy $19x-16$ osztója van 470-nek. Ezt a következőképpen írhatjuk fel:
+    \begin{align*}
+    19x-16&amp;\equiv 0\pmod{470}\\
+    \Rightarrow\qquad 19x&amp;\equiv 16\pmod{470}
+    \end{align*}
+    Azt mondjuk, hogy $19x\equiv 16\pmod{470}$, ami azt jelenti, hogy $19x-16$ osztója van 470-nek. Ezt a következőképpen írhatjuk fel:
+    \begin{align*}
+    19x-16&amp;\equiv 0\pmod{470}\\
+    \Rightarrow\qquad 19x&amp;\equiv 16\pmod{470}
+    \end{align*}
+    Azt mondjuk, hogy $19x\equiv 16\pmod{470}$, ami azt jelenti, hogy $19x-16$ osztója van 470-nek. Ezt a következőképpen írhatjuk fel:
+    \begin{align*}
+    19x-16&amp;\equiv 0\pmod{470}\\
+    \Rightarrow\qquad 19x&amp;\equiv 16\pmod{470}
+    \end{align*}
+    Azt mondjuk, hogy $19x\equiv 16\pmod{470}$, ami azt jelenti, hogy $19x-16$ osztója van 470-nek. Ezt a következőképpen írhatjuk fel:
+    \begin{align*}
+    19x-16&amp;\equiv 0\pmod{470}\\
+    \Rightarrow\qquad 19x&amp;\equiv 16\pmod{470}
+    \end{align*}
+    Azt mondjuk, hogy $19x\equiv 16\pmod{470}$, ami azt jelenti, hogy $19x-16$ osztója van 470-nek. Ezt a következőképpen írhatjuk fel:
+    \begin{align*}
+    19x-16&amp;\equiv 0\pmod{470}\\
+    \Rightarrow\qquad 19x&amp;\equiv 16\pmod{470}
+    \end{align*}
+    Azt mondjuk, hogy $19x\equiv 16\pmod{470}$, ami azt jelenti, hogy $19x-16$ osztója van 470-nek. Ezt a következőképpen írhatjuk fel:
+    \begin{align*}
+    19x-16&amp;\equiv 0\pmod{470}\\
+    \Rightarrow\qquad 19x&amp;\equiv 16\pmod{470}
+    \end{align*}
+    Azt mondjuk, hogy $19x\equiv 16\pmod{470}$, ami azt jelenti, hogy $19x-16$ osztója van 470-nek. Ezt a következőképpen írhatjuk fel:
+    \begin{align*}
+    19x-16&amp;\equiv 0\pmod{470}\\
+    \Rightarrow\qquad 19x&amp;\equiv 16\pmod{470}
+    \end{align*}
+    Azt mondjuk, hogy $19x\equiv 16\pmod{470}$, ami azt jelenti, hogy $19x-16$ osztója van 470-nek. Ezt a következőképpen írhatjuk fel:
+    \begin{align*}
+    19x-16&amp;\equiv 0\pmod{470}\\
+    \Rightarrow\qquad 19x&amp;\equiv 16\pmod{470}
+    \end{align*}
+    Azt mondjuk, hogy $19x\equiv 16\pmod{470}$, ami azt jelenti, hogy $19x-16$ osztója van 470-nek. Ezt a következőképpen írhatjuk fel:
+    \begin{align*}
+    19x-16&amp;\equiv 0\pmod{470}\\
+    \Rightarrow\qquad 19x&amp;\equiv 16\pmod{470}
+    \end{align*}
+    Azt mondjuk, hogy $19x\equiv 16\pmod{470}$, ami azt jelenti, hogy $19x-16$ osztója van 470-nek. Ezt a következőképpen írhatjuk fel:
+    \begin{align*}
+    19x-16&amp;\equiv 0\pmod{470}\\
+    \Rightarrow\qquad 19x&amp;\equiv 16\pmod{470}
+    \end{align*}
+    Azt mondjuk, hogy $19x\equiv 16\pmod{470}$, ami azt jelenti, hogy $19x-16$ osztója van 470-nek. Ezt a következőképpen írhatjuk fel:
+    \begin{align*}
+    19x-16&amp;\equiv 0\pmod{470}\\
+    \Rightarrow\qquad 19x&amp;\equiv 16\pmod{470}
+    \end{align*}
+    Azt mondjuk, hogy $19x\equiv 16\pmod{470}$, ami azt jelenti, hogy $19x-16$ osztója van 470-nek. Ezt a következőképpen írhatjuk fel:
+    \begin{align*}
+    19x-16&amp;\equiv 0\pmod{470}\\
+    \Rightarrow\qquad 19x&amp;\equiv 16\pmod{470}
+    \end{align*}
+    Azt mondjuk, hogy $19x\equiv 16\pmod{470}$, ami azt jelenti, hogy $19x-16$ osztója van 470-nek. Ezt a következőképpen írhatjuk fel:
+    \begin{align*}
+    19x-16&amp;\equiv 0\pmod{470}\\
+    \Rightarrow\qquad 19x&amp;\equiv 16\pmod{470}
+    \end{align*}
+    Azt mondjuk, hogy $19x\equiv 16\pmod{470}$, ami azt jelenti, hogy $19x-16$ osztója van 470-nek. Ezt a következőképpen írhatjuk fel:
+    \begin{align*}
+    19x-16&amp;\equiv 0\pmod{470}\\
+    \Rightarrow\qquad 19x&amp;\equiv 16\pmod{470}
+    \end{align*}
+    Azt mondjuk, hogy $19x\equiv 16\pmod{470}$, ami azt jelenti, hogy $19x-16$ osztója van 470-nek. Ezt a következőképpen írhatjuk fel:
+    \begin{align*}
+    19x-16&amp;\equiv 0\pmod{470}\\
+    \Rightarrow\qquad 19x&amp;\equiv 16\pmod{470}
+    \end{align*}
+    Azt mondjuk, hogy $19x\equiv 16\pmod{470}$, ami azt jelenti, hogy $19x-16$ osztója van 470-nek. Ezt a következőképpen írhatjuk fel:
+    \begin{align*}
+    19x-16&amp;\equiv 0\pmod{470}\\
+    \Rightarrow\qquad 19x&amp;\equiv 16\pmod{470}
+    \end{align*}
+    Azt mondjuk, hogy $19x\equiv 16\pmod{470}$, ami azt jelenti, hogy $19x-16$ osztója van 470-nek. Ezt a következőképpen írhatjuk fel:
+    \begin{align*}
+    19x-16&amp;\equiv 0\pmod{470}\\
+    \Rightarrow\qquad 19x&amp;\equiv 16\pmod{470}
+    \end{align*}
+    Azt mondjuk, hogy $19x\equiv 16\pmod{470}$, ami azt jelenti, hogy $19x-16$ osztója van 470-nek. Ezt a következőképpen írhatjuk fel:
+    \begin{align*}
+    19x-16&amp;\equiv 0\pmod{470}\\
+    \Rightarrow\qquad 19x&amp;\equiv 16\pmod{470}
+    \end{align*}
+    Azt mondjuk, hogy $19x\equiv 16\pmod{470}$, ami azt jelenti, hogy $19x-16$ osztója van 470-nek. Ezt a következőképpen írhatjuk fel:
+    \begin{align*}
+    19x-16&amp;\equiv 0\pmod{470}\\
+    \Rightarrow\qquad 19x&amp;\equiv 16\pmod{470}
+    \end{align*}
+    Azt mondjuk, hogy $19x\equiv 16\pmod{470}$, ami azt jelenti, hogy $19x-16$ osztója van 470-nek. Ezt a következőképpen írhatjuk fel:
+    \begin{align*}
+    19x-16&amp;\equiv 0\pmod{470}\\
+    \Rightarrow\qquad 19x&amp;\equiv 16\pmod{470}
+    \end{align*}
+    Azt mondjuk, hogy $19x\equiv 16\pmod{470}$, ami azt jelenti, hogy $19x-16$ osztója van 470-nek. Ezt a következőképpen írhatjuk fel:
+    \begin{align*}
+    19x-16&amp;\equiv 0\pmod{470}\\
+    \Rightarrow\qquad 19x&amp;\equiv 16\pmod{470}
+    \end{align*}
+    Azt mondjuk, hogy $19x\equiv 16\pmod{470}$, ami azt jelenti, hogy $19x-16$ osztója van 470-nek. Ezt a következőképpen írhatjuk fel:
+    \begin{align*}
+    19x-16&amp;\equiv 0\pmod{470}\\
+    \Rightarrow\qquad 19x&amp;\equiv 16\pmod{470}
+    \end{align*}
+    Azt mondjuk, hogy $19x\equiv 16\pmod{470}$, ami azt jelenti, hogy $19x-16$ osztója van 470-nek. Ezt a következőképpen írhatjuk fel:
+    \begin{align*}
+    19x-16&amp;\equiv 0\pmod{470}\\
+    \Rightarrow\qquad 19x&amp;\equiv 16\pmod{470}
+    \end{align*}
+    Azt mondjuk, hogy $19x\equiv 16\pmod{470}$, ami azt jelenti, hogy $19x-16$ osztója van 470-nek. Ezt a következőképpen írhatjuk fel:
+    \begin{align*}
+    19x-16&amp;\equiv 0\pmod{470}\\
+    \Rightarrow\qquad 19x&amp;\equiv 16\pmod{470}
+    \end{align*}
+    Azt mondjuk, hogy $19x\equiv 16\pmod{470}$, ami azt jelenti, hogy $19x-16$ osztója van 470-nek. Ezt a következőképpen írhatjuk fel:
+    \begin{align*}
+    19x-16&amp;\equiv 0\pmod{470}\\
+    \Rightarrow\qquad 19x&amp;\equiv 16\pmod{470}
+    \end{align*}
+    Azt mondjuk, hogy $19x\equiv 16\pmod{470}$, ami azt jelenti, hogy $19x-16$ osztója van 470-nek. Ezt a következőképpen írhatjuk fel:
+    \begin{align*}
+    19x-16&amp;\equiv 0\pmod{470}\\
+    \Rightarrow\qquad 19x&amp;\equiv 16\pmod{470}
+    \end{align*}
+    Azt mondjuk, hogy $19x\equiv 16\pmod{470}$, ami azt jelenti, hogy $19x-16$ osztója van 470-nek. Ezt a következőképpen írhatjuk fel:
+    \begin{align*}
+    19x-16&amp;\equiv 0\pmod{470}\\
+    \Rightarrow\qquad 19x&amp;\equiv 16\pmod{470}
+    \end{align*}
+    Azt mondjuk, hogy $19x\equiv 16\pmod{470}$, ami azt jelenti, hogy $19x-16$ osztója van 470-nek. Ezt a következőképpen írhatjuk fel:
+    \begin{align*}
+    19x-16&amp;\equiv 0\pmod{470}\\
+    \Rightarrow\qquad 19x&amp;\equiv 16\pmod{470}
+    \end{align*}
+    Azt mondjuk, hogy $19x\equiv 16\pmod{470}$, ami azt jelenti, hogy $19x-16$ osztója van 470-nek. Ezt a következőképpen írhatjuk fel:
+    \begin{align*}
+    19x-16&amp;\equiv 0\pmod{470}\\
+    \Rightarrow\qquad 19x&amp;\equiv 16\pmod{470}
+    \end{align*}
+    Azt mondjuk, hogy $19x\equiv 16\pmod{470}$, ami azt jelenti, hogy $19x-16$ osztója van 470-nek. Ezt a következőképpen írhatjuk fel:
+    \begin{align*}
+    19x-16&amp;\equiv 0\pmod{470}\\
+    \Rightarrow\qquad 19x&amp;\equiv 16\pmod{470}
+    \end{align*}
+    Azt mondjuk, hogy $19x\equiv 16\pmod{470}$, ami azt jelenti, hogy $19x-16$ osztója van 470-nek. Ezt a következőképpen írhatjuk fel:
+    \begin{align*}
+    19x-16&amp;\equiv 0\pmod{470}\\
+    \Rightarrow\qquad 19x&amp;\equiv 16\pmod{470}
+    \end{align*}
+    Azt mondjuk, hogy $19x\equiv 16\pmod{470}$, ami azt jelenti, hogy $19x-16$ osztója van 470-nek. Ezt a következőképpen írhatjuk fel:
+    \begin{align*}
+    19x-16&amp;\equiv 0\pmod{470}\\
+    \Rightarrow\qquad 19x&amp;\equiv 16\pmod{470}
+    \end{align*}
+    Azt mondjuk, hogy $19x\equiv 16\pmod{470}$, ami azt jelenti, hogy $19x-16$ osztója van 470-nek. Ezt a következőképpen írhatjuk fel:
+    \begin{align*}
+    19x-16&amp;\equiv 0\pmod{470}\\
+    \Rightarrow\qquad 19x&amp;\equiv 16\pmod{470}
+    \end{align*}
+    Azt mondjuk, hogy $19x\equiv 16\pmod{470}$, ami azt jelenti, hogy $19x-16$ osztója van 470-nek. Ezt a következőképpen írhatjuk fel:
+    \begin{align*}
+    19x-16&amp;\equiv 0\pmod{470}\\
+    \Rightarrow\qquad 19x&amp;\equiv 16\pmod{470}
+    \end{align*}
+    Azt mondjuk, hogy $19x\equiv 16\pmod{470}$, ami azt jelenti, hogy $19x-16$ osztója van 470-nek. Ezt a következőképpen írhatjuk fel:
+    \begin{align*}
+    19x-16&amp;\equiv 0\pmod{470}\\
+    \Rightarrow\qquad 19x&amp;\equiv 16\pmod{470}
+    \end{align*}
+    Azt mondjuk, hogy $19x

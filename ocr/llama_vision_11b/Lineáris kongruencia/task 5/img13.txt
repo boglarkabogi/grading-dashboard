@@ -1,0 +1,21 @@
+**Matematikai Kézírás-Transzkripciós Rendszert**
+
+A képen látható kézzel írt megoldás a következő:
+
+*   13x ≡ 13 (mod 409)
+*   12x ≡ 7 (mod 302)
+
+A megoldás a következő:
+
+*   13x ≡ 13 (mod 409)
+    *   x ≡ 1 (mod 409)
+*   12x ≡ 7 (mod 302)
+    *   x ≡ 7 (mod 302)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+*   x ≡ 1 (mod 409) és x ≡ 7 (mod 302)
+    *   x ≡ 302*7 + 1 (mod 409*302)
+    *   x ≡ 2121 (mod 122,708)
+
+A megoldás tehát x ≡ 2121 (mod 122,708).

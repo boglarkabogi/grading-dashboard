@@ -1,0 +1,422 @@
+**Megoldás**
+
+A képen látható megoldás a következő:
+
+1. 13x ≡ 19 (mod 414)
+2. 20x ≡ 6 (mod 412)
+
+A megoldás a következő:
+
+1. 13x ≡ 19 (mod 414)
+   x ≡ 19 × 31 (mod 414)
+   x ≡ 589 (mod 414)
+   x ≡ 175 (mod 414)
+
+2. 20x ≡ 6 (mod 412)
+   x ≡ 6 × 19 (mod 412)
+   x ≡ 114 (mod 412)
+   x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412)
+
+A két egyenletet együttesen megoldva kapjuk:
+
+x ≡ 175 (mod 414) és x ≡ 2 (mod 412

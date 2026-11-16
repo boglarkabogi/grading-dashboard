@@ -1,0 +1,25 @@
+a) 13x ≡ 13 (mod 409)
+
+13x ≡ 13 (mod 409)
+
+13x - 13 ≡ 0 (mod 409)
+
+13(x - 1) ≡ 0 (mod 409)
+
+x - 1 ≡ 0 (mod 409)
+
+x ≡ 1 (mod 409)
+
+b) 12x ≡ 7 (mod 302)
+
+12x ≡ 7 (mod 302)
+
+12x - 7 ≡ 0 (mod 302)
+
+12(x - 1) ≡ 0 (mod 302)
+
+x - 1 ≡ 0 (mod 302)
+
+x ≡ 1 (mod 302)
+
+A két egyenlet megoldása x ≡ 1 (mod 409) és x ≡ 1 (mod 302).

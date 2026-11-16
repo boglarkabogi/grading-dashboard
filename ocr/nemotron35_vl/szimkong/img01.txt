@@ -1,0 +1,28 @@
+Bézd
+Beadandó
+
+1.)
+2x \equiv 11 \pmod{15} \rightarrow 16x \equiv 88 \pmod{15} \rightarrow x \equiv 13 \pmod{15}
+3x \equiv 18 \pmod{21} \rightarrow x \equiv 6 \pmod{7}
+
+x = 15k + 13
+
+15k + 13 \equiv 6 \pmod{7}
+k + 6 \equiv 6 \pmod{7}
+k \equiv 0 \pmod{7}
+k = 7m
+x = 15(7m) + 13 = 105m + 13
+x \equiv 13 \pmod{105}
+
+2.)
+2x \equiv 7 \pmod{15} \rightarrow 16x \equiv 56 \pmod{15} \quad x \equiv 11 \pmod{15}
+5x \equiv 17 \pmod{21} \rightarrow x \equiv 17 \cdot 17 \pmod{21}
+x \equiv 289 \pmod{21}
+x \equiv 16 \pmod{21}
+
+\left.
+\begin{aligned}
+x \equiv 11 \equiv 2 \pmod{3} \\
+x \equiv 16 \equiv 1 \pmod{5}
+\end{aligned}
+\right\} \quad 2

@@ -1,0 +1,29 @@
+### 1. $17x\equiv 17\pmod{375}$
+
+A képen látható megoldás szerint:
+
+$$
+\begin{aligned}
+17x&\equiv 17\pmod{375}\\
+\Rightarrow\qquad 17x-17&\equiv 0\pmod{375}\\
+\Rightarrow\qquad 17(x-1)&\equiv 0\pmod{375}\\
+\Rightarrow\qquad x-1&\equiv 0\pmod{25}\\
+\Rightarrow\qquad x&\equiv 1\pmod{25}\\
+\Rightarrow\qquad x&\equiv 1\pmod{375}
+\end{aligned}
+$$
+
+### 2. $19x\equiv 9\pmod{358}$
+
+A képen látható megoldás szerint:
+
+$$
+\begin{aligned}
+19x&\equiv 9\pmod{358}\\
+\Rightarrow\qquad 19x-9&\equiv 0\pmod{358}\\
+\Rightarrow\qquad 19(x-1)&\equiv 0\pmod{358}\\
+\Rightarrow\qquad x-1&\equiv 0\pmod{19}\\
+\Rightarrow\qquad x&\equiv 1\pmod{19}\\
+\Rightarrow\qquad x&\equiv 1\pmod{358}
+\end{aligned}
+$$

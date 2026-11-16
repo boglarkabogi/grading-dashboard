@@ -1,0 +1,15 @@
+A képen látható megoldás a következő:
+
+$$\gcd(213,200) = 1$$
+
+A megoldás lépései:
+
+1. 213 > 200
+2. 213 = 200 + 13
+3. 200 = 13 \cdot 15 + 5
+4. 13 = 5 \cdot 2 + 3
+5. 5 = 3 \cdot 1 + 2
+6. 3 = 2 \cdot 1 + 1
+7. 2 = 1 \cdot 2 + 0
+
+A legnagyobb közös osztó (LKO) a legnagyobb szám, amely mindkét számot osztja. A képen látható megoldás szerint a legnagyobb közös osztó 1, mivel 1 osztja mindkét számot.

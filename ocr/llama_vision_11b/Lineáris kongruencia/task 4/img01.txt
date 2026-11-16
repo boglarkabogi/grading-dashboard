@@ -1,0 +1,353 @@
+### 1. $17x\equiv 17\pmod{375}$
+
+A képen látható megoldás szerint:
+
+$$17x\equiv 17\pmod{375} \Rightarrow x\equiv 1\pmod{25}.$$
+
+### 2. $19x\equiv 9\pmod{358}$
+
+A képen látható megoldás szerint:
+
+$$19x\equiv 9\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 3. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 4. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 5. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 6. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 7. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 8. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 9. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 10. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 11. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 12. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 13. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 14. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 15. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 16. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 17. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 18. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 19. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 20. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 21. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 22. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 23. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 24. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 25. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 26. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 27. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 28. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 29. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 30. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 31. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 32. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 33. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 34. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 35. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 36. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 37. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 38. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 39. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 40. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 41. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 42. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 43. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 44. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 45. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 46. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 47. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 48. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 49. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 50. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 51. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 52. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 53. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 54. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 55. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 56. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 57. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 58. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv 57\pmod{358}.$$
+
+### 59. A két egyenlet összege
+
+A képen látható megoldás szerint:
+
+$$x\equiv 1\pmod{25} \text{ és } x\equiv 57\pmod{358} \Rightarrow x\equiv

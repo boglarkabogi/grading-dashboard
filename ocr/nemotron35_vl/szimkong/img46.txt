@@ -1,0 +1,40 @@
+\[
+\begin{cases}
+2x \equiv 17 \pmod{15} \\
+3x \equiv 18 \pmod{27}
+\end{cases}
+\qquad
+\begin{cases}
+x \equiv 13 \pmod{75} \\
+x \equiv 6 \pmod{7}
+\end{cases}
+\]
+
+\(15q + 7k = 1\)
+
+\(q = 1\)
+
+\(k = -2\)
+
+\(x = 15 \cdot 1 \cdot 6 + 7 \cdot (-2) \cdot 13 = 90 - 182 = -92\)
+
+\(x \equiv -95 - 92 \equiv 13 \pmod{105}\)
+
+\[
+\begin{cases}
+2x \equiv 7 \pmod{75} \\
+5x \equiv 17 \pmod{27}
+\end{cases}
+\qquad
+\begin{cases}
+x \equiv 11 \pmod{15} \\
+x \equiv 16 \pmod{27}
+\end{cases}
+\qquad
+\begin{cases}
+x \equiv 2 \pmod{3} \\
+x \equiv 7 \pmod{3} \quad 4
+\end{cases}
+\]
+
+\(mire \cdot modulus\)

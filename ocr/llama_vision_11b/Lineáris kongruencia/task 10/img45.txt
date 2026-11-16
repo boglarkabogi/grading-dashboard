@@ -1,0 +1,49 @@
+A képen látható megoldás a következő:
+
+**1. $7x\equiv 8\pmod{340}$**
+
+*   A képen látható megoldás szerint a következő lépéseket hajtjuk végre:
+    *   $7x\equiv 8\pmod{340}$
+    *   $x\equiv 8\cdot 7^{-1}\pmod{340}$
+    *   $x\equiv 8\cdot 49\pmod{340}$
+    *   $x\equiv 392\pmod{340}$
+    *   $x\equiv 52\pmod{340}$
+
+**2. $16x\equiv 15\pmod{330}$**
+
+*   A képen látható megoldás szerint a következő lépéseket hajtjuk vére:
+    *   $16x\equiv 15\pmod{330}$
+    *   $x\equiv 15\cdot 16^{-1}\pmod{330}$
+    *   $x\equiv 15\cdot 2\pmod{330}$
+    *   $x\equiv 30\pmod{330}$
+    *   $x\equiv 0\pmod{330}$
+
+A képen látható megoldás szerint a két lineáris kongruenciát a következőképpen oldjuk meg:
+
+*   A $7x\equiv 8\pmod{340}$ kongruenciát a következőképpen oldjuk meg:
+    *   $7x\equiv 8\pmod{340}$
+    *   $x\equiv 8\cdot 7^{-1}\pmod{340}$
+    *   $x\equiv 8\cdot 49\pmod{340}$
+    *   $x\equiv 392\pmod{340}$
+    *   $x\equiv 52\pmod{340}$
+*   A $16x\equiv 15\pmod{330}$ kongruenciát a következőképpen oldjuk meg:
+    *   $16x\equiv 15\pmod{330}$
+    *   $x\equiv 15\cdot 16^{-1}\pmod{330}$
+    *   $x\equiv 15\cdot 2\pmod{330}$
+    *   $x\equiv 30\pmod{330}$
+    *   $x\equiv 0\pmod{330}$
+
+A képen látható megoldás szerint a két lineáris kongruenciát a következőképpen oldjuk meg:
+
+*   A $7x\equiv 8\pmod{340}$ kongruenciát a következőképpen oldjuk meg:
+    *   $7x\equiv 8\pmod{340}$
+    *   $x\equiv 8\cdot 7^{-1}\pmod{340}$
+    *   $x\equiv 8\cdot 49\pmod{340}$
+    *   $x\equiv 392\pmod{340}$
+    *   $x\equiv 52\pmod{340}$
+*   A $16x\equiv 15\pmod{330}$ kongruenciát a következőképpen oldjuk meg:
+    *   $16x\equiv 15\pmod{330}$
+    *   $x\equiv 15\cdot 16^{-1}\pmod{330}$
+    *   $x\equiv 15\cdot 2\pmod{330}$
+    *   $x\equiv 30\pmod{330}$
+    *   $x\equiv 0\pmod{330}$

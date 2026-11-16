@@ -1,0 +1,62 @@
+\[
+\begin{cases}
+2x \equiv 11 \pmod{15} \Rightarrow 2x \equiv 26 \pmod{15} \Rightarrow \boxed{x \equiv 13 \pmod{15}} \\
+3x \equiv 18 \pmod{21} \Rightarrow (3,21)=3 \Rightarrow \boxed{x \equiv 6 \pmod{7}}
+\end{cases}
+\]
+
+\[
+x = 13 + 15k \quad \Rightarrow \quad 13 + 15k \equiv 6 \pmod{7} \quad / \bmod 4
+\]
+\[
+6 + k \equiv 6 \pmod{7} \quad / -6
+\]
+\[
+k \equiv 0 \pmod{7}
+\]
+\[
+k = 7m
+\]
+
+\[
+x = 13 + 15 \cdot 7k
+\]
+\[
+x_k = 13 + 105k \quad , \quad 0202 \quad \cancel{k} \quad \cancel{482}
+\]
+\[
+\underline{x \equiv 13 \pmod{105}}
+\]
+
+\[
+2x \equiv 4 \pmod{15} \Rightarrow 2x \equiv 22 \pmod{15} \Rightarrow (2,15)=1 \Rightarrow \boxed{x \equiv 11 \pmod{15}}
+\]
+\[
+5x \equiv 18 \pmod{21} \Rightarrow \boxed{x \equiv 12 \pmod{21}}
+\]
+\[
+(15,21) = 3 \neq 1
+\]
+
+\[
+\cancel{x \equiv 11 \pmod{15}} \quad \cancel{15 = 3 \cdot 5}
+\]
+\[
+\cancel{5x \equiv 18 \pmod{21}} \quad \cancel{21 = 3 \cdot 7}
+\]
+
+\[
+\begin{array}{ll}
+\text{I.} & x \equiv 11 \pmod{3} \quad \xleftarrow{\quad} \quad x \equiv 2 \pmod{3} \\
+\text{II.} & x \equiv 11 \pmod{5} \\
+\text{III.} & x \equiv 12 \pmod{3} \quad \xleftarrow{\quad} \quad x \equiv 0 \pmod{3} \\
+\text{IV.} & x \equiv 12 \pmod{7} \quad / \bmod 3
+\end{array}
+\]
+
+\[
+\text{Chinese Remainder Theorem}
+\]
+\[
+\text{erre nincs megoldás}
+\]

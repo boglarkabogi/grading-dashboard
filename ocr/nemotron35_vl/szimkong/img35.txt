@@ -1,0 +1,53 @@
+2x \equiv 5 \mod 21 \quad x \equiv 13 \mod 21 \quad \text{létrehozik m.o.}
+3x \equiv 15 \mod 24 \quad x \equiv 5 \mod 8 \quad \mod 168
+\downarrow
+x \equiv 5 \mod 8 \quad x = 8k + 5 \quad (k \in \mathbb{Z})
+
+8k + 5 \equiv 13 \mod 21
+8k \equiv 8 \mod 21
+k \equiv 1 \mod 21
+k = 21l + 7
+x = 8(21l + 7) + 5
+x = 168l + 8 + 5 = 168l + 13
+\boxed{x \equiv 13 \mod 168}
+
+2x + 21y = 1
+21 = 2 \cdot 10 + 1
+2 = 1 \cdot 2 + 0
+2 \cdot (-10) + 21 \cdot 1 = 1
+2 \cdot (-10) \equiv 1 \mod 21
+
+5x \equiv 11 \mod 24
+5k + 24y = 11
+24 = 5 \cdot 4 + 4
+5 = 4 \cdot 1 + 1
+1 = 1 \cdot 1 + 0
+
+x_0 \quad y_0
+0 \quad 1
+1 \quad 0
+-10 \quad 1
+21 \quad -2
+
+x = -10 + 21k
+x = 11 + 21k
+
+5x \equiv 11 \mod 24
+x_2 \equiv 55 \mod 24
+x_2 \equiv 7 \mod 24
+
+x_0 \quad y_0
+0 \quad 1
+1 \quad 0
+-4 \quad 1
+\boxed{5 \quad -1}
+
+5 \cdot 5 + 24 \cdot (-1) = 1 \quad \cdot 11
+5 \cdot 55 + 24 \cdot (-11) = 17
+x = 55 + k \cdot 24
+
+11 \equiv 2 \mod 3
+7 \equiv 1 \mod 3
+\text{NINCS MEGOLDÁS.}
+\boxed{x \equiv 11 \mod 21}
+x_2 \equiv 7 \mod 24

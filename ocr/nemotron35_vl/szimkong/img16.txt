@@ -1,0 +1,70 @@
+\[
+\begin{cases}
+2x \equiv 11 \pmod{15} \\
+3x \equiv 18 \pmod{21}
+\end{cases}
+\implies
+\begin{cases}
+x \equiv 13 \pmod{15} \\
+x \equiv 6 \pmod{7}
+\end{cases}
+\quad x = 15k + 13
+\]
+\[
+15k + 13 \equiv 6 \pmod{7}
+\]
+\[
+1 \cdot k + (-1) \equiv 6 \pmod{7}
+\]
+\[
+\Downarrow
+\]
+\[
+k - 1 \equiv 6 \pmod{7}
+\]
+\[
+k \equiv 7 \pmod{7}
+\]
+\[
+x = 15(7m) + 13 = 105m + 13
+\]
+\[
+x \equiv 13 \pmod{105}
+\]
+
+\[
+\begin{cases}
+2x \equiv 7 \pmod{15} \\
+5x \equiv 17 \pmod{21}
+\end{cases}
+\implies
+\begin{cases}
+x \equiv 11 \pmod{15} \\
+x \equiv 16 \pmod{21}
+\end{cases}
+\]
+\[
+x = 15k + 11
+\]
+\[
+15k + 11 \equiv 16 \pmod{21}
+\]
+\[
+15k \equiv 5 \pmod{21}
+\]
+\[
+\text{elő: } 3
+\]
+\[
+3 \nmid 5 \quad \text{nincs megoldás.}
+\]
+
+\[
+2x \equiv 26 \pmod{15} \qquad 3x \equiv 18 \pmod{21}
+\]
+\[
+\text{elő: } 1 \qquad \div 3
+\]
+\[
+x \equiv 13 \pmod{15} \qquad x \equiv 6 \pmod{7}
+\]

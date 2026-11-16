@@ -1,0 +1,57 @@
+Beadandó 04
+
+u \cdot f + v \cdot g = x - 1 \qquad v \cdot g \equiv x - 1 \mod f
+
+v \cdot (x^2 - 1) \equiv x - 1 \mod x^2 + x + 1 \qquad x^2 + x + 1 \equiv 0 \mod x^2 + x + 1
+
+v \cdot (-x - 2) \equiv x - 1 \mod x^2 + x + 1 \quad / \cdot (-1) \qquad x^2 \equiv -x - 1 \mod x^2 + x + 1
+
+v(x + 2) \equiv 1 - x \mod x^2 + x + 1
+
+(u_1 x + v_0)(x + 2) \equiv 1 - x \mod x^2 + x + 1
+
+u_1 x^2 + 2 u_1 x + v_0 x + 2 v_0 \equiv 1 - x \mod x^2 + x + 1
+
+\cancel{u_1 x^2 + 2 u_1 x + v_0 x + 2 v_0 \equiv 1 \mod x^2 + x + 1}
+
+\cancel{v_1 x^2 + (v_0 + 2 v_1)x + 2 v_0 = x + 1 \mod x^2 + x + 1}
+
+\cancel{v_1(x - 1) + (v_0 + 2 v_1)x + 2 v_0 = v_1 x - v_1 + v_0 x + 2 v_1 x + 2 v_0}
+
+\cancel{v_0 + 2 v_0 = v_0 x + v_1 x + 2 v_0 - v_1 =}
+
+(v_0 + v_1)x + 2 v_0 - v_1 \equiv -x + 1 \mod x^2 + x + 1
+
+-1 \cdot x + 1(2 v_0 - v_1) = -1 \cdot x + 1 \cdot 1 \mod x^2 + x + 1
+
+\left\{
+\begin{aligned}
+v_0 + v_1 &= -x \\
+2 v_0 - v_1 &= 1
+\end{aligned}
+\right.
+\qquad v_1 - 2 v_0 = -1
+
+\cancel{v_0 + 2 v_0 - 1} x
+
+3 v_0
+
+u_1 x^2 + 2 u_1 x + v_0 x + x + 2 v_0 \equiv 1 \mod x^2 + x + 1
+
+v_1(-x - 1) + (v_0 + 2 v_1 + 1)x + 2 v_0 \equiv 1 \mod x^2 + x + 1
+
+\cancel{-u_1 x - v_1 + v_0 x + 2 v_1 x + x + 2 v_0 = v_0 x + v_1 x + x + 2 v_0 - v_1 =}
+
+= (v_0 + v_1 + 1)x + 2 v_0 - v_1 \equiv 1 \mod x^2 + x + 1 \qquad 0 \cdot x + 1(2 v_0 + v_1) \equiv 0 x + 1
+
+= 2 \quad v_0 + v_1 + 1 \equiv 0 \quad \Rightarrow \quad v_1 = -v_0 - 1
+
+2 v_0 - v_1 = 1 \qquad \qquad \qquad 2 v_0 - (-v_0 - 1) = 1
+
+Válasz:
+
+v = x + 0 = v_1 x + v_0 \qquad 2 v_0 + v_0 + 1 = 1
+
+V = x \qquad 3 v_0 = 0 \Rightarrow \boxed{v_0 = 0}
+
+\qquad v_1 = -0 - 1 = 1 = v_1

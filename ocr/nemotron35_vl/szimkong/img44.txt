@@ -1,0 +1,31 @@
+1.)
+2x \equiv 11 \mod 14
+2x \equiv 26 \mod 15
+x \equiv 13 \mod 15
+
+3x \equiv 18 \mod 21
+x \equiv 6 \mod 7
+15a + 7b = 1
+a = -1, b = 2
+
+x \equiv -103 \mod 405
+x \equiv 823 \mod 405
+15 \cdot 1 \cdot 6 + 7 \cdot (-2) \cdot 13 = -182 = -92
+
+x \equiv -92 \mod 105
+x \equiv 13 \mod 105
+
+2.)
+2x \equiv 7 \mod 15
+x \equiv 11 \mod 15
+2x \equiv 22 \mod 15
+\downarrow
+x \equiv 1 \mod 5
+x \equiv 2 \mod 3
+
+5x \equiv 17 \mod 21
+5x \equiv 80 \mod 21
+x \equiv 18 \mod 21 \Rightarrow x \equiv 4 \mod 7
+x \equiv 0 \mod 3
+
+NINCS MEGOLDÁS

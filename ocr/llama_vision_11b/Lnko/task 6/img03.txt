@@ -1,0 +1,9 @@
+A képen látható megoldás a következő:
+
+1. 217 = 4 * 206 + 11
+2. 206 = 18 * 11 + 8
+3. 8 = 2 * 3 + 2
+4. 3 = 1 * 2 + 1
+5. 2 = 2 * 1 + 0
+
+A legnagyobb közös osztó 1.

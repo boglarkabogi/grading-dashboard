@@ -1,0 +1,273 @@
+### 1. $19x\equiv 16\pmod{470}$
+
+A képen látható megoldás szerint:
+
+*   $19x\equiv 16\pmod{470}$-t $19x\equiv 16\pmod{10}$-re redukáljuk.
+*   A redukció után $x\equiv 6\pmod{10}$.
+*   Aztán $x\equiv 6\pmod{10}$-t $x\equiv 6\pmod{47}$-re redukáljuk.
+*   A redukció után $x\equiv 6\pmod{47}$.
+*   Végül $x\equiv 6\pmod{47}$-t $x\equiv 6\pmod{470}$-re redukáljuk.
+*   A redukció után $x\equiv 6\pmod{470}$.
+
+### 2. $16x\equiv 5\pmod{202}$
+
+A képen látható megoldás szerint:
+
+*   $16x\equiv 5\pmod{202}$-t $16x\equiv 5\pmod{2}$-re redukáljuk.
+*   A redukció után $x\equiv 1\pmod{2}$.
+*   Aztán $x\equiv 1\pmod{2}$-t $x\equiv 1\pmod{101}$-re redukáljuk.
+*   A redukció után $x\equiv 1\pmod{101}$.
+*   Végül $x\equiv 1\pmod{101}$-t $x\equiv 1\pmod{202}$-re redukáljuk.
+*   A redukció után $x\equiv 1\pmod{202}$.
+
+### 3. Összefüggés
+
+A képen látható megoldás szerint:
+
+*   $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$ összefüggését $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$-re redukáljuk.
+*   A redukció után $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$.
+
+### 4. Végeredmény
+
+A képen látható megoldás szerint:
+
+*   A két lineáris kongruenciát $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$-re redukáljuk.
+*   A redukció után $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$.
+
+### 5. Végeredmény
+
+A képen látható megoldás szerint:
+
+*   A két lineáris kongruenciát $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$-re redukáljuk.
+*   A redukció után $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$.
+
+### 6. Végeredmény
+
+A képen látható megoldás szerint:
+
+*   A két lineáris kongruenciát $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$-re redukáljuk.
+*   A redukció után $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$.
+
+### 7. Végeredmény
+
+A képen látható megoldás szerint:
+
+*   A két lineáris kongruenciát $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$-re redukáljuk.
+*   A redukció után $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$.
+
+### 8. Végeredmény
+
+A képen látható megoldás szerint:
+
+*   A két lineáris kongruenciát $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$-re redukáljuk.
+*   A redukció után $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$.
+
+### 9. Végeredmény
+
+A képen látható megoldás szerint:
+
+*   A két lineáris kongruenciát $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$-re redukáljuk.
+*   A redukció után $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$.
+
+### 10. Végeredmény
+
+A képen látható megoldás szerint:
+
+*   A két lineáris kongruenciát $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$-re redukáljuk.
+*   A redukció után $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$.
+
+### 11. Végeredmény
+
+A képen látható megoldás szerint:
+
+*   A két lineáris kongruenciát $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$-re redukáljuk.
+*   A redukció után $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$.
+
+### 12. Végeredmény
+
+A képen látható megoldás szerint:
+
+*   A két lineáris kongruenciát $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$-re redukáljuk.
+*   A redukció után $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$.
+
+### 13. Végeredmény
+
+A képen látható megoldás szerint:
+
+*   A két lineáris kongruenciát $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$-re redukáljuk.
+*   A redukció után $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$.
+
+### 14. Végeredmény
+
+A képen látható megoldás szerint:
+
+*   A két lineáris kongruenciát $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$-re redukáljuk.
+*   A redukció után $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$.
+
+### 15. Végeredmény
+
+A képen látható megoldás szerint:
+
+*   A két lineáris kongruenciát $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$-re redukáljuk.
+*   A redukció után $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$.
+
+### 16. Végeredmény
+
+A képen látható megoldás szerint:
+
+*   A két lineáris kongruenciát $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$-re redukáljuk.
+*   A redukció után $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$.
+
+### 17. Végeredmény
+
+A képen látható megoldás szerint:
+
+*   A két lineáris kongruenciát $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$-re redukáljuk.
+*   A redukció után $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$.
+
+### 18. Végeredmény
+
+A képen látható megoldás szerint:
+
+*   A két lineáris kongruenciát $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$-re redukáljuk.
+*   A redukció után $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$.
+
+### 19. Végeredmény
+
+A képen látható megoldás szerint:
+
+*   A két lineáris kongruenciát $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$-re redukáljuk.
+*   A redukció után $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$.
+
+### 20. Végeredmény
+
+A képen látható megoldás szerint:
+
+*   A két lineáris kongruenciát $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$-re redukáljuk.
+*   A redukció után $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$.
+
+### 21. Végeredmény
+
+A képen látható megoldás szerint:
+
+*   A két lineáris kongruenciát $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$-re redukáljuk.
+*   A redukció után $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$.
+
+### 22. Végeredmény
+
+A képen látható megoldás szerint:
+
+*   A két lineáris kongruenciát $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$-re redukáljuk.
+*   A redukció után $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$.
+
+### 23. Végeredmény
+
+A képen látható megoldás szerint:
+
+*   A két lineáris kongruenciát $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$-re redukáljuk.
+*   A redukció után $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$.
+
+### 24. Végeredmény
+
+A képen látható megoldás szerint:
+
+*   A két lineáris kongruenciát $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$-re redukáljuk.
+*   A redukció után $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$.
+
+### 25. Végeredmény
+
+A képen látható megoldás szerint:
+
+*   A két lineáris kongruenciát $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$-re redukáljuk.
+*   A redukció után $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$.
+
+### 26. Végeredmény
+
+A képen látható megoldás szerint:
+
+*   A két lineáris kongruenciát $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$-re redukáljuk.
+*   A redukció után $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$.
+
+### 27. Végeredmény
+
+A képen látható megoldás szerint:
+
+*   A két lineáris kongruenciát $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$-re redukáljuk.
+*   A redukció után $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$.
+
+### 28. Végeredmény
+
+A képen látható megoldás szerint:
+
+*   A két lineáris kongruenciát $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$-re redukáljuk.
+*   A redukció után $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$.
+
+### 29. Végeredmény
+
+A képen látható megoldás szerint:
+
+*   A két lineáris kongruenciát $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$-re redukáljuk.
+*   A redukció után $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$.
+
+### 30. Végeredmény
+
+A képen látható megoldás szerint:
+
+*   A két lineáris kongruenciát $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$-re redukáljuk.
+*   A redukció után $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$.
+
+### 31. Végeredmény
+
+A képen látható megoldás szerint:
+
+*   A két lineáris kongruenciát $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$-re redukáljuk.
+*   A redukció után $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$.
+
+### 32. Végeredmény
+
+A képen látható megoldás szerint:
+
+*   A két lineáris kongruenciát $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$-re redukáljuk.
+*   A redukció után $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$.
+
+### 33. Végeredmény
+
+A képen látható megoldás szerint:
+
+*   A két lineáris kongruenciát $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$-re redukáljuk.
+*   A redukció után $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$.
+
+### 34. Végeredmény
+
+A képen látható megoldás szerint:
+
+*   A két lineáris kongruenciát $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$-re redukáljuk.
+*   A redukció után $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$.
+
+### 35. Végeredmény
+
+A képen látható megoldás szerint:
+
+*   A két lineáris kongruenciát $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$-re redukáljuk.
+*   A redukció után $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$.
+
+### 36. Végeredmény
+
+A képen látható megoldás szerint:
+
+*   A két lineáris kongruenciát $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$-re redukáljuk.
+*   A redukció után $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$.
+
+### 37. Végeredmény
+
+A képen látható megoldás szerint:
+
+*   A két lineáris kongruenciát $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$-re redukáljuk.
+*   A redukció után $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$.
+
+### 38. Végeredmény
+
+A képen látható megoldás szerint:
+
+*   A két lineáris kongruenciát $x\equiv 6\pmod{470}$ és $x\equiv 1\pmod{202}$-re redukáljuk.
+*   A redukció után $x\equiv 6\p

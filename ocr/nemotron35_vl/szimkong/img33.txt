@@ -1,0 +1,219 @@
+\begin{aligned}
+& \text{Diophantos} \\
+& \text{Lineáris congruencia: } ax \equiv b \pmod m \\
+& \text{1) } ax + my = b \\
+& \text{2) } ax \equiv b \pmod m \\
+& \text{3) } ax \equiv b \pmod m \\
+& \text{4) } ax \equiv b \pmod m \\
+& \text{5) } ax \equiv b \pmod m \\
+& \text{6) } ax \equiv b \pmod m \\
+& \text{7) } ax \equiv b \pmod m \\
+& \text{8) } ax \equiv b \pmod m \\
+& \text{9) } ax \equiv b \pmod m \\
+& \text{10) } ax \equiv b \pmod m \\
+& \text{11) } ax \equiv b \pmod m \\
+& \text{12) } ax \equiv b \pmod m \\
+& \text{13) } ax \equiv b \pmod m \\
+& \text{14) } ax \equiv b \pmod m \\
+& \text{15) } ax \equiv b \pmod m \\
+& \text{16) } ax \equiv b \pmod m \\
+& \text{17) } ax \equiv b \pmod m \\
+& \text{18) } ax \equiv b \pmod m \\
+& \text{19) } ax \equiv b \pmod m \\
+& \text{20) } ax \equiv b \pmod m \\
+& \text{21) } ax \equiv b \pmod m \\
+& \text{22) } ax \equiv b \pmod m \\
+& \text{23) } ax \equiv b \pmod m \\
+& \text{24) } ax \equiv b \pmod m \\
+& \text{25) } ax \equiv b \pmod m \\
+& \text{26) } ax \equiv b \pmod m \\
+& \text{27) } ax \equiv b \pmod m \\
+& \text{28) } ax \equiv b \pmod m \\
+& \text{29) } ax \equiv b \pmod m \\
+& \text{30) } ax \equiv b \pmod m \\
+& \text{31) } ax \equiv b \pmod m \\
+& \text{32) } ax \equiv b \pmod m \\
+& \text{33) } ax \equiv b \pmod m \\
+& \text{34) } ax \equiv b \pmod m \\
+& \text{35) } ax \equiv b \pmod m \\
+& \text{36) } ax \equiv b \pmod m \\
+& \text{37) } ax \equiv b \pmod m \\
+& \text{38) } ax \equiv b \pmod m \\
+& \text{39) } ax \equiv b \pmod m \\
+& \text{40) } ax \equiv b \pmod m \\
+& \text{41) } ax \equiv b \pmod m \\
+& \text{42) } ax \equiv b \pmod m \\
+& \text{43) } ax \equiv b \pmod m \\
+& \text{44) } ax \equiv b \pmod m \\
+& \text{45) } ax \equiv b \pmod m \\
+& \text{46) } ax \equiv b \pmod m \\
+& \text{47) } ax \equiv b \pmod m \\
+& \text{48) } ax \equiv b \pmod m \\
+& \text{49) } ax \equiv b \pmod m \\
+& \text{50) } ax \equiv b \pmod m \\
+& \text{51) } ax \equiv b \pmod m \\
+& \text{52) } ax \equiv b \pmod m \\
+& \text{53) } ax \equiv b \pmod m \\
+& \text{54) } ax \equiv b \pmod m \\
+& \text{55) } ax \equiv b \pmod m \\
+& \text{56) } ax \equiv b \pmod m \\
+& \text{57) } ax \equiv b \pmod m \\
+& \text{58) } ax \equiv b \pmod m \\
+& \text{59) } ax \equiv b \pmod m \\
+& \text{60) } ax \equiv b \pmod m \\
+& \text{61) } ax \equiv b \pmod m \\
+& \text{62) } ax \equiv b \pmod m \\
+& \text{63) } ax \equiv b \pmod m \\
+& \text{64) } ax \equiv b \pmod m \\
+& \text{65) } ax \equiv b \pmod m \\
+& \text{66) } ax \equiv b \pmod m \\
+& \text{67) } ax \equiv b \pmod m \\
+& \text{68) } ax \equiv b \pmod m \\
+& \text{69) } ax \equiv b \pmod m \\
+& \text{70) } ax \equiv b \pmod m \\
+& \text{71) } ax \equiv b \pmod m \\
+& \text{72) } ax \equiv b \pmod m \\
+& \text{73) } ax \equiv b \pmod m \\
+& \text{74) } ax \equiv b \pmod m \\
+& \text{75) } ax \equiv b \pmod m \\
+& \text{76) } ax \equiv b \pmod m \\
+& \text{77) } ax \equiv b \pmod m \\
+& \text{78) } ax \equiv b \pmod m \\
+& \text{79) } ax \equiv b \pmod m \\
+& \text{80) } ax \equiv b \pmod m \\
+& \text{81) } ax \equiv b \pmod m \\
+& \text{82) } ax \equiv b \pmod m \\
+& \text{83) } ax \equiv b \pmod m \\
+& \text{84) } ax \equiv b \pmod m \\
+& \text{85) } ax \equiv b \pmod m \\
+& \text{86) } ax \equiv b \pmod m \\
+& \text{87) } ax \equiv b \pmod m \\
+& \text{88) } ax \equiv b \pmod m \\
+& \text{89) } ax \equiv b \pmod m \\
+& \text{90) } ax \equiv b \pmod m \\
+& \text{91) } ax \equiv b \pmod m \\
+& \text{92) } ax \equiv b \pmod m \\
+& \text{93) } ax \equiv b \pmod m \\
+& \text{94) } ax \equiv b \pmod m \\
+& \text{95) } ax \equiv b \pmod m \\
+& \text{96) } ax \equiv b \pmod m \\
+& \text{97) } ax \equiv b \pmod m \\
+& \text{98) } ax \equiv b \pmod m \\
+& \text{99) } ax \equiv b \pmod m \\
+& \text{100) } ax \equiv b \pmod m \\
+\end{aligned}
+
+\begin{aligned}
+& \text{1) } 2x \equiv 5 \pmod{21} \\
+& \text{2) } 3x \equiv 15 \pmod{24} \\
+& \text{3) } 2x \equiv 5 \pmod{21} \\
+& \text{4) } 3x \equiv 15 \pmod{24} \\
+& \text{5) } 2x \equiv 5 \pmod{21} \\
+& \text{6) } 3x \equiv 15 \pmod{24} \\
+& \text{7) } 2x \equiv 5 \pmod{21} \\
+& \text{8) } 3x \equiv 15 \pmod{24} \\
+& \text{9) } 2x \equiv 5 \pmod{21} \\
+& \text{10) } 3x \equiv 15 \pmod{24} \\
+& \text{11) } 2x \equiv 5 \pmod{21} \\
+& \text{12) } 3x \equiv 15 \pmod{24} \\
+& \text{13) } 2x \equiv 5 \pmod{21} \\
+& \text{14) } 3x \equiv 15 \pmod{24} \\
+& \text{15) } 2x \equiv 5 \pmod{21} \\
+& \text{16) } 3x \equiv 15 \pmod{24} \\
+& \text{17) } 2x \equiv 5 \pmod{21} \\
+& \text{18) } 3x \equiv 15 \pmod{24} \\
+& \text{19) } 2x \equiv 5 \pmod{21} \\
+& \text{20) } 3x \equiv 15 \pmod{24} \\
+& \text{21) } 2x \equiv 5 \pmod{21} \\
+& \text{22) } 3x \equiv 15 \pmod{24} \\
+& \text{23) } 2x \equiv 5 \pmod{21} \\
+& \text{24) } 3x \equiv 15 \pmod{24} \\
+& \text{25) } 2x \equiv 5 \pmod{21} \\
+& \text{26) } 3x \equiv 15 \pmod{24} \\
+& \text{27) } 2x \equiv 5 \pmod{21} \\
+& \text{28) } 3x \equiv 15 \pmod{24} \\
+& \text{29) } 2x \equiv 5 \pmod{21} \\
+& \text{30) } 3x \equiv 15 \pmod{24} \\
+& \text{31) } 2x \equiv 5 \pmod{21} \\
+& \text{32) } 3x \equiv 15 \pmod{24} \\
+& \text{33) } 2x \equiv 5 \pmod{21} \\
+& \text{34) } 3x \equiv 15 \pmod{24} \\
+& \text{35) } 2x \equiv 5 \pmod{21} \\
+& \text{36) } 3x \equiv 15 \pmod{24} \\
+& \text{37) } 2x \equiv 5 \pmod{21} \\
+& \text{38) } 3x \equiv 15 \pmod{24} \\
+& \text{39) } 2x \equiv 5 \pmod{21} \\
+& \text{40) } 3x \equiv 15 \pmod{24} \\
+& \text{41) } 2x \equiv 5 \pmod{21} \\
+& \text{42) } 3x \equiv 15 \pmod{24} \\
+& \text{43) } 2x \equiv 5 \pmod{21} \\
+& \text{44) } 3x \equiv 15 \pmod{24} \\
+& \text{45) } 2x \equiv 5 \pmod{21} \\
+& \text{46) } 3x \equiv 15 \pmod{24} \\
+& \text{47) } 2x \equiv 5 \pmod{21} \\
+& \text{48) } 3x \equiv 15 \pmod{24} \\
+& \text{49) } 2x \equiv 5 \pmod{21} \\
+& \text{50) } 3x \equiv 15 \pmod{24} \\
+& \text{51) } 2x \equiv 5 \pmod{21} \\
+& \text{52) } 3x \equiv 15 \pmod{24} \\
+& \text{53) } 2x \equiv 5 \pmod{21} \\
+& \text{54) } 3x \equiv 15 \pmod{24} \\
+& \text{55) } 2x \equiv 5 \pmod{21} \\
+& \text{56) } 3x \equiv 15 \pmod{24} \\
+& \text{57) } 2x \equiv 5 \pmod{21} \\
+& \text{58) } 3x \equiv 15 \pmod{24} \\
+& \text{59) } 2x \equiv 5 \pmod{21} \\
+& \text{60) } 3x \equiv 15 \pmod{24} \\
+& \text{61) } 2x \equiv 5 \pmod{21} \\
+& \text{62) } 3x \equiv 15 \pmod{24} \\
+& \text{63) } 2x \equiv 5 \pmod{21} \\
+& \text{64) } 3x \equiv 15 \pmod{24} \\
+& \text{65) } 2x \equiv 5 \pmod{21} \\
+& \text{66) } 3x \equiv 15 \pmod{24} \\
+& \text{67) } 2x \equiv 5 \pmod{21} \\
+& \text{68) } 3x \equiv 15 \pmod{24} \\
+& \text{69) } 2x \equiv 5 \pmod{21} \\
+& \text{70) } 3x \equiv 15 \pmod{24} \\
+& \text{71) } 2x \equiv 5 \pmod{21} \\
+& \text{72) } 3x \equiv 15 \pmod{24} \\
+& \text{73) } 2x \equiv 5 \pmod{21} \\
+& \text{74) } 3x \equiv 15 \pmod{24} \\
+& \text{75) } 2x \equiv 5 \pmod{21} \\
+& \text{76) } 3x \equiv 15 \pmod{24} \\
+& \text{77) } 2x \equiv 5 \pmod{21} \\
+& \text{78) } 3x \equiv 15 \pmod{24} \\
+& \text{79) } 2x \equiv 5 \pmod{21} \\
+& \text{80) } 3x \equiv 15 \pmod{24} \\
+& \text{81) } 2x \equiv 5 \pmod{21} \\
+& \text{82) } 3x \equiv 15 \pmod{24} \\
+& \text{83) } 2x \equiv 5 \pmod{21} \\
+& \text{84) } 3x \equiv 15 \pmod{24} \\
+& \text{85) } 2x \equiv 5 \pmod{21} \\
+& \text{86) } 3x \equiv 15 \pmod{24} \\
+& \text{87) } 2x \equiv 5 \pmod{21} \\
+& \text{88) } 3x \equiv 15 \pmod{24} \\
+& \text{89) } 2x \equiv 5 \pmod{21} \\
+& \text{90) } 3x \equiv 15 \pmod{24} \\
+& \text{91) } 2x \equiv 5 \pmod{21} \\
+& \text{92) } 3x \equiv 15 \pmod{24} \\
+& \text{93) } 2x \equiv 5 \pmod{21} \\
+& \text{94) } 3x \equiv 15 \pmod{24} \\
+& \text{95) } 2x \equiv 5 \pmod{21} \\
+& \text{96) } 3x \equiv 15 \pmod{24} \\
+& \text{97) } 2x \equiv 5 \pmod{21} \\
+& \text{98) } 3x \equiv 15 \pmod{24} \\
+& \text{99) } 2x \equiv 5 \pmod{21} \\
+& \text{100) } 3x \equiv 15 \pmod{24} \\
+\end{aligned}
+
+\begin{aligned}
+& \text{1) } 2x \equiv 5 \pmod{21} \\
+& \text{2) } 3x \equiv 15 \pmod{24} \\
+& \text{3) } 2x \equiv 5 \pmod{21} \\
+& \text{4) } 3x \equiv 15 \pmod{24} \\
+& \text{5) } 2x \equiv 5 \pmod{21} \\
+& \text{6) } 3x \equiv 15 \pmod{24} \\
+& \text{7) } 2x \equiv 5 \pmod{21} \\
+& \text{8) } 3x \equiv 15 \pmod{24} \\
+& \text{9) } 2x \equiv 5 \pmod{21} \\
+& \text{10) } 3x \equiv 15 \pmod{24}

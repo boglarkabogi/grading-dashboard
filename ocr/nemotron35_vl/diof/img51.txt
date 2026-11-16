@@ -1,0 +1,58 @@
+\[
+u \cdot (x^2 + x + 1) + v \cdot (x^2 - 1) = x - 1 \quad u, v \in \mathbb{Q}[x]
+\]
+
+\[
+u \cdot (x^2 + x + 1) \equiv x - 1 \pmod{x^2 - 1} \quad x^2 \equiv 1 \pmod{x^2 - 1}
+\]
+
+\[
+u \cdot (x + 2) \equiv x - 1 \pmod{x^2 - 1} \quad u = u_1 x + u_0
+\]
+
+\[
+(u_1 x + u_0)(x + 2) \equiv (x - 1 \equiv) u_1(x^2 + 2x) + u_0(x + 2) \equiv u_1(2x + 1) + u_0(x + 2) \equiv x - 1 \pmod{x^2 - 1}
+\]
+
+\[
+\begin{bmatrix}
+2 & 1 \\
+1 & 2
+\end{bmatrix}
+\times
+\begin{bmatrix}
+u_1 \\
+u_0
+\end{bmatrix}
+=
+\begin{bmatrix}
+1 \\
+-1
+\end{bmatrix}
+\]
+
+\[
+\begin{array}{cc|c}
+2 & 1 & 1 \\
+1 & 2 & -1
+\end{array}
+\quad
+\begin{array}{cc|c}
+0 & -3 & 3 \\
+1 & 2 & -1
+\end{array}
+\quad
+\begin{array}{cc|c}
+0 & 1 & -1 \\
+1 & 0 & 1
+\end{array}
+\quad u_1 = 1
+\]
+
+\[
+u_0 = -1
+\]
+
+\[
+u = x - 1
+\]

@@ -1,0 +1,267 @@
+A képen látható megoldás a következő:
+\begin{align*}
+f(x) &= x^4 + x^3 + 4x + 4, \\
+g(x) &= x^5 + x^4 + 4x^3 + 2.
+\end{align*}
+A legnagyobb közös osztó (LNKO) kiszámításához, a képen látható megoldás szerint, a következő lépéseket kell végrehajtani:
+\begin{align*}
+f(x) &= x^4 + x^3 + 4x + 4, \\
+g(x) &= x^5 + x^4 + 4x^3 + 2.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös osztó a következő:
+\begin{align*}
+\text{LNKO}(f,g) &= x^2 + 2x + 3.
+\end{align*}
+A képen látható megoldás szerint, a legnagyobb közös

@@ -1,0 +1,317 @@
+A képen látható megoldás a következő:
+
+1. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+2. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+3. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+4. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+5. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+6. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+7. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+8. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+9. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+10. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+11. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+12. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+13. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+14. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+15. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+16. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+17. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+18. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+19. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+20. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+21. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+22. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+23. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+24. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+25. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+26. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+27. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+28. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+29. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+30. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+31. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+32. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+33. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+34. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+35. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+36. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+37. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+38. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+39. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+40. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+41. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+42. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+43. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+44. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+45. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+46. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+47. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+48. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+49. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+50. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+51. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+52. A képen látható megoldás a következő:
+
+\[ f = x^4 + 4x^3 + 4x^2 + 3x \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 1 \in \mathbb{Z}_5[x] \]
+
+53. A képen látható megoldás a következő:
+
+\[ f = x^4 +

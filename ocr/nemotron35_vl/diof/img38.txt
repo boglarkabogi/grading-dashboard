@@ -1,0 +1,43 @@
+u \cdot (x^2 - x + 2) + v \cdot (x^2 - 1) = x^2 + x + 4
+
+f = x^2 - x + 2  
+g = x^2 - 1  
+h = x^2 + x + 4  
+
+\Rightarrow uf + vg = h
+
+x^2 - x + 2 = 1 \cdot (x^2 - 1) + (-x + 3)
+
+q_1 = 1 \quad r_1 = -x + 3
+
+x^2 - 1 = (-x - 3)(-x + 3) + 8
+
+q_2 = -x - 3 \quad r_2 = 8
+
+-x + 3 = \left(-\frac{1}{8}x + \frac{3}{8}\right) \cdot 8 + 0
+
+\text{utolsó nem nulla maradék: } 8
+
+(f, g) | h ? \quad 1 | h \checkmark \Rightarrow \text{Van Meg}
+
+8 = g - (-x - 3) \cdot r_1 = g + (x + 3) \cdot r_1
+
+r_1 = f - g
+
+8 = g + (x + 3)(f - g) = (x + 3)f + (1 - x - 3)g
+
+8 = (x + 3)f + (-x - 2)g
+
+1 = \frac{x + 3}{8}f + \frac{-x - 2}{8}g \quad / \cdot h
+
+x^2 + x + 4 = \frac{(x + 3)(x^2 + x + 4)}{8}f + \frac{(-x - 2)(x^2 + x + 4)}{8}g
+
+8 \cdot \frac{x^3 + x^2 + 4x + 3x^2 + 3x + 12}{8} = \frac{x^3 + 4x^2 + 9x + 12}{1} = (x + 4)(x^2 - 1) + (8x + 16)
+
+u = \frac{x + 4}{8}g + (x + 2)
+
+u = x + 2
+
+v = \frac{h - uf}{g} = \frac{x^2 + x + 4 - (x + 2)(x^2 - x + 2)}{x^2 - 1} = -\frac{x}{1}
+
+u = x + 2 + t(x^2 - 1) \quad v = -x - t(x^2 - x + 2) \quad t \in \mathbb{Q}[x]

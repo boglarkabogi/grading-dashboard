@@ -1,0 +1,19 @@
+A képen látható megoldás a következő:
+
+1. 13x ≡ 19 (mod 414)
+2. 20x ≡ 6 (mod 412)
+
+A megoldás a következő:
+
+1. 13x ≡ 19 (mod 414)
+   x ≡ 19 * 31 (mod 414)
+   x ≡ 589 (mod 414)
+   x ≡ 175 (mod 414)
+
+2. 20x ≡ 6 (mod 412)
+   x ≡ 6 * 20 (mod 412)
+   x ≡ 120 (mod 412)
+   x ≡ 120 - 412 * 0 (mod 412)
+   x ≡ 120 (mod 412)
+
+A két egyenlet megoldása x ≡ 175 (mod 414) és x ≡ 120 (mod 412).

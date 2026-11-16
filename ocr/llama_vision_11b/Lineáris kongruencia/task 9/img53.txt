@@ -1,0 +1,625 @@
+**19x ≡ 14 mod 297**
+
+A képen látható megoldás szerint a feladat megoldása:
+
+\[19x\equiv 14\pmod{297}\]
+
+\[x\equiv 8\pmod{297}\]
+
+**18x ≡ 17 mod 482**
+
+A képen látható megoldás szerint a feladat megoldása:
+
+\[18x\equiv 17\pmod{482}\]
+
+\[x\equiv 2\pmod{482}\]
+
+**19x ≡ 14 mod 297 és 18x ≡ 17 mod 482**
+
+A képen látható megoldás szerint a feladat megoldása:
+
+\[19x\equiv 14\pmod{297}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[18x\equiv 17\pmod{482}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]
+
+\[x\equiv 2\pmod{482}\]
+
+\[x\equiv 8\pmod{297}\]

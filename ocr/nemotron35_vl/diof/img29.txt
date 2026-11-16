@@ -1,0 +1,37 @@
+a = x^2 - 2x + 3  
+b = x^2 - 1  
+c = -x^2 + 2x + 3  
+
+u \cdot a + v \cdot b = c  
+
+mod a \to a = 0 \to u \cdot a = 0  
+
+v \cdot b \equiv c \pmod{a}  
+
+x^2 = 2x - 3  
+
+b = x^2 - 1 \equiv (2x - 3) - 1 = 2x - 4  
+
+c = -x^2 + 2x + 3 \equiv -(2x - 3) + 2x + 3 = 6  
+
+v \cdot (2x - 4) \equiv 6 \pmod{a}  
+
+v \text{ foka kisebb mint a } f \text{ foka} \quad \text{egyed } v = v_1 x + v_0  
+
+(v_1 x + v_0)(2x - 4) = 2v_1 x^2 + (2v_0 - 4v_1)x - 4v_0  
+
+x^2 \equiv 2x - 3  
+
+2v_1(2x - 3) + (2v_0 - 4v_1)x - 4v_0 = \text{áthúzva}  
+
+= (4v_1 + 2v_0 - 4v_1)x - 6v_1 - 4v_0 = 2v_0 \cdot x - 6v_1 - 4v_0 \equiv 6  
+
+x^7: 2v_0 = 0  
+x^0: -6v_1 - 4v_0 = 6 \to v_0 = 0  
+v_1 = -1 \quad v = -x  
+
+u = (c - v \cdot b) / a = (x^2 + 2x + 3 + x(x^2 - 1)) / (x^2 - 2x + 3)  
+
+= (x^3 - x^2 + x + 3) / (x^2 - 2x + 3) = x + 1  
+
+\boxed{v = -x}

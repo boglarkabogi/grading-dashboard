@@ -1,0 +1,562 @@
+### 1. Lineáris Kongruenciák Megoldása
+
+A képen látható megoldás a következő:
+
+*   13x ≡ 13 (mod 409)
+*   12x ≡ 7 (mod 302)
+
+### 2. Megoldás
+
+A képen látható megoldás a következő:
+
+*   13x ≡ 13 (mod 409)
+    *   13x ≡ 13 (mod 409)
+    *   13x - 13 ≡ 0 (mod 409)
+    *   13(x - 1) ≡ 0 (mod 409)
+    *   x ≡ 1 (mod 409)
+*   12x ≡ 7 (mod 302)
+    *   12x ≡ 7 (mod 302)
+    *   12x - 7 ≡ 0 (mod 302)
+    *   12(x - 1) ≡ 0 (mod 302)
+    *   x ≡ 1 (mod 302)
+
+### 3. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 4. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 5. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 6. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 7. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 8. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 9. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 10. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 11. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 12. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 13. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 14. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 15. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 16. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 17. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 18. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 19. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 20. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 21. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 22. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 23. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 24. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 25. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 26. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 27. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 28. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 29. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 30. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 31. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 32. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 33. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 34. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 35. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 36. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 37. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 38. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 39. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 40. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 41. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 42. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 43. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 44. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 45. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 46. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 47. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 48. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 49. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 50. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 51. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 52. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 53. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 54. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 55. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 56. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 57. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 58. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 59. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 60. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 61. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 62. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 63. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 64. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 65. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 66. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 67. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 68. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 69. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 70. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 71. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 72. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 73. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 74. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 75. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 76. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 77. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 78. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 79. Egyenlőség
+
+A képen látható megoldás a következő:
+
+*   x ≡ 1 (mod 409)
+*   x ≡ 1 (mod 302)
+
+### 80. Egyen

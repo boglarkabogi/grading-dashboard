@@ -1,0 +1,23 @@
+u \cdot f + v \cdot g = h
+
+v \cdot g \equiv h \mod f \qquad v = v_1 x + v_0
+
+v(x^2 - 1) \equiv -x^2 + 2x + 3 \mod x^2 - 2x + 3
+
+v(x^2 - 1) \equiv 6 \mod x^2 - 2x + 3 \qquad (v_1 x + v_0)(x^2 - 1) \equiv 6 \mod x^2 - 2x + 3
+
+v_1 x^3 + v_0 x^2 - v_1 x - v_0 \equiv 6 \mod x^2 - 2x + 3
+
+v_1 x(2x - 3) + v_0(2x - 3) - v_1 x - v_0 \equiv 6 \mod x^2 - 2x + 3
+
+2v_1(2x - 3) - 3v_1 x + 2v_0 x - 3v_0 - v_1 x - v_0 \equiv 6 \mod x^2 - 2x + 3
+
+\underbrace{4v_1 x - 6v_1}_{\cancel{}} - \underbrace{3v_1 x}_{\cancel{}} + \underbrace{2v_0 x - 3v_0}_{\cancel{}} - \underbrace{v_1 x - v_0}_{\cancel{}} = 2v_0 x - 6v_1 - 4v_0 \equiv 6 \mod x^2 - 2x + 3
+
+\begin{cases}
+2v_0 = 0 \\
+-6v_1 - 4v_0 = 6
+\end{cases}
+\qquad v_0 = 0 \qquad v_1 = -1 \qquad \underline{v = -x}
+
+-6v_1 = 6

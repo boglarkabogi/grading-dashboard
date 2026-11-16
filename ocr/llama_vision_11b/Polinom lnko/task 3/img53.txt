@@ -1,0 +1,7 @@
+**Polinomok Legnagyobb Közös Osztoja**
+
+A képen látható megoldás szerint a polinomok legnagyobb közös osztója:
+
+$$\boxed{x^2 + 2x + 1}$$
+
+Ez a megoldás a képen látható számítások alapján készült. A feladatban szereplő polinomokat a képen látható módon kellene kiszámolni, majd a legnagyobb közös osztót kellene meghatározni.

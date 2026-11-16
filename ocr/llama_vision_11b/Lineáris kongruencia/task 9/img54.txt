@@ -1,0 +1,393 @@
+A képen látható megoldás a következő:
+
+\[19x\equiv 14\pmod{297}\]
+
+\[18x\equiv 17\pmod{482}\]
+
+A megoldás a következő:
+
+\[x\equiv 2\pmod{297}\]
+
+\[x\equiv 3\pmod{482}\]
+
+A két egyenletet egyszerre oldjuk meg. A két egyenletet úgy írhatjuk át, hogy a két oldal együttese legyen páros:
+
+\[19x+18x\equiv 14+17\pmod{297\cdot482}\]
+
+\[37x\equiv 31\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\equiv 31\cdot37^{-1}\pmod{297\cdot482}\]
+
+\[x\

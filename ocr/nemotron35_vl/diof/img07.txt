@@ -1,0 +1,29 @@
+u \cdot (x^2+x+1) + v \cdot (x^2-1) = x-1
+
+(x^2-1) = (x+1)(x-1)
+
+(x^2+x+1) \cdot (1) = (1) \cdot (x^2-1) + (x+2) \quad \frac{x^2+x-1 : x^2-1 = 1}{x^2 \quad -1}
+
+(x^2-1) = (x-2) \cdot (x+2) + 3 \quad \frac{0+x+2}{x^2-1 \quad : x+2 = x \cdot 2 - 2}
+
+[(x^2+x+1); (x^2-1)] = 1 \quad \frac{x^2+2x}{0-2x-1}
+
+\frac{-2x-4}{0+3}
+
+u \cdot (x^2+x+1) \equiv x-1 \pmod{x^2-1} \quad x^2-1 \equiv 0 \pmod{x^2-1}
+
+u \cdot (x+2) \equiv x-1 \pmod{x^2-1} \quad x^2 \equiv 1 \pmod{x^2-1}
+
+(u_1 \cdot x + u_0) \cdot (x+2) \equiv u_1 \cdot x^2 + 2u_1x + u_0x + 2u_0 \equiv (2u_1+u_0)x + (2u_1+u_0)x + (u_1+2u_0) = x-1
+
+\begin{cases}
+2u_1+u_0=1 \\
+u_1+2u_0=-1
+\end{cases}
+\Rightarrow -3u_0=3 \quad u_0=-1
+
+-3u_1=-3 \quad u_1=1
+
+u = (1x+(-1)) = \frac{x-1}{1}
+
+(x-1) \cdot (x+2) = x^2+2x-x-2 \equiv 1+x-2 \equiv x-1 \quad (\mod x^2-1)

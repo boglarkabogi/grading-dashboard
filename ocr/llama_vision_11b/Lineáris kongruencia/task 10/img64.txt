@@ -1,0 +1,33 @@
+A képen látható hallgatói megoldás a következő:
+
+a) $7x\equiv 8\pmod{340}$
+
+*   A képen látható megoldás szerint a feladat megoldása a következő:
+    *   $7x\equiv 8\pmod{340}$
+    *   $x\equiv 8\cdot 48\pmod{340}$
+    *   $x\equiv 384\pmod{340}$
+    *   $x\equiv 44\pmod{340}$
+    *   A megoldás a következő: $x\equiv 44\pmod{340}$
+
+b) $16x\equiv 15\pmod{330}$
+
+*   A képen látható megoldás szerint a feladat megoldása a következő:
+    *   $16x\equiv 15\pmod{330}$
+    *   $x\equiv 15\cdot 21\pmod{330}$
+    *   $x\equiv 315\pmod{330}$
+    *   $x\equiv 15\pmod{330}$
+    *   A megoldás a következő: $x\equiv 15\pmod{330}$
+
+A képen látható hallgatói megoldás a következő:
+
+a) $7x\equiv 8\pmod{340}$
+
+*   $x\equiv 8\cdot 48\pmod{340}$
+*   $x\equiv 384\pmod{340}$
+*   $x\equiv 44\pmod{340}$
+
+b) $16x\equiv 15\pmod{330}$
+
+*   $x\equiv 15\cdot 21\pmod{330}$
+*   $x\equiv 315\pmod{330}$
+*   $x\equiv 15\pmod{330}$

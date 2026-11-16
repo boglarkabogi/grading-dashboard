@@ -1,0 +1,124 @@
+BEADANDÓ 4.
+
+\[
+\begin{cases}
+3y \equiv 5 \pmod{15} \Rightarrow x \equiv 3 \pmod{5} \\
+5x \equiv 17 \pmod{24} \Rightarrow x \equiv 13 \pmod{24}
+\end{cases}
+\Rightarrow 3a + 13b = 1
+\]
+
+\[
+24h + 17 = 0 \pmod{5}
+\]
+\[
+24h + 2 \equiv 0 \pmod{5}
+\]
+\[
+4h \equiv 3 \pmod{5}
+\]
+\[
+h = 2 = 5 \cdot x
+\]
+
+\[
+5y = 24g + 17 \Rightarrow 5x < 48 + 17 = 65
+\]
+\[
+5x - 24g = 17
+\]
+\[
+24g + 17 \equiv 0 \pmod{5}
+\]
+\[
+4g + 2 \equiv 0 \pmod{5}
+\]
+\[
+4g \equiv 2 \pmod{5}
+\]
+
+Legyen \( g = 2 \), akkor \( 8 \equiv 2 \pmod{5} \)
+
+\[
+\begin{cases}
+2x \equiv 5 \pmod{15} \Rightarrow x \equiv 10 \pmod{15} \\
+5x \equiv 7 \pmod{24} \Rightarrow x \equiv 11 \pmod{24}
+\end{cases}
+\]
+
+\[
+2y = 15g + 5 \Rightarrow 2x - 15g = 20
+\]
+\[
+x = 10
+\]
+
+\[
+5x = 24g + 7 \Rightarrow 5x = 48 + 7 = 55
+\]
+\[
+x = 11
+\]
+
+\[
+15a + 24b = 1
+\]
+\[
+24 = 1 \cdot 15 + 9
+\]
+\[
+15 = 1 \cdot 9 + 6
+\]
+\[
+9 = 1 \cdot 6 + 3
+\]
+\[
+6 = 2 \cdot 3 + 0
+\]
+
+\[
+3 = 9 - 6
+\]
+\[
+3 = 9 - (15 - 9)
+\]
+\[
+3 = 2 \cdot 9 - 15
+\]
+\[
+3 = 15 + 2 \cdot (24 - 15)
+\]
+\[
+3 = 2 \cdot 24 - 3 \cdot 15
+\]
+\[
+3 = 2 \cdot 24 \quad a = 3
+\]
+\[
+b = 2
+\]
+
+\[
+13 = 4 \cdot 3 + 1
+\]
+\[
+3 = 3 \cdot 1 + 0
+\]
+\[
+1 = 13 - 4 \cdot 3
+\]
+\[
+b > 1 \quad a = -4
+\]
+
+\[
+x = c_2 \cdot b_1 + c_1 \cdot b_2
+\]
+\[
+x = 13 \cdot (-4) + 3 \cdot 1 \cdot 24
+\]
+\[
+= -260 + 72 = -188 \pmod{120}
+\]
+
+Nincs megoldás.

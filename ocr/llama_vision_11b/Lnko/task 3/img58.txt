@@ -1,0 +1,20 @@
+A képen látható megoldás a következő:
+
+\begin{align*}
+216 &= 2^3 \cdot 3^3 \\
+203 &= 7 \cdot 29
+\end{align*}
+
+A legnagyobb közös osztó (LCM) kiszámításához a legnagyobb hatványokat vesszük figyelembe:
+
+\begin{align*}
+\text{LCM}(216, 203) &= 2^3 \cdot 3^3 \cdot 7 \cdot 29 \\
+&= 8 \cdot 27 \cdot 7 \cdot 29 \\
+&= 2 \cdot 2 \cdot 2 \cdot 3 \cdot 3 \cdot 3 \cdot 7 \cdot 29 \\
+&= 2^3 \cdot 3^3 \cdot 7 \cdot 29 \\
+&= 216 \cdot 7 \cdot 29 \\
+&= 216 \cdot 203 \\
+&= 44148
+\end{align*}
+
+A legnagyobb közös osztó 44148.

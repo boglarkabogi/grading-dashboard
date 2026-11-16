@@ -1,0 +1,563 @@
+### 1. Lineáris Kongruencia
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$19x\equiv 16\pmod{470}$$
+
+Ezt a kongruenciát megoldhatjuk a következőképpen:
+
+$$19x\equiv 16\pmod{470}$$
+
+$$\Rightarrow\qquad 19x-16\equiv 0\pmod{470}$$
+
+$$\Rightarrow\qquad 19x-16=470k$$
+
+ahol $k$ egy egész szám.
+
+### 2. Lineáris Kongruencia
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$16x\equiv 5\pmod{202}$$
+
+Ezt a kongruenciát megoldhatjuk a következőképpen:
+
+$$16x\equiv 5\pmod{202}$$
+
+$$\Rightarrow\qquad 16x-5\equiv 0\pmod{202}$$
+
+$$\Rightarrow\qquad 16x-5=202m$$
+
+ahol $m$ egy egész szám.
+
+### 3. Megoldás
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$x\equiv 99\pmod{470}$$
+
+$$x\equiv 174\pmod{202}$$
+
+Ezeket a kongruenciákat megoldhatjuk a következőképpen:
+
+$$x=470k+99$$
+
+$$x=202m+174$$
+
+ahol $k$ és $m$ egész számok.
+
+### 4. Összefüggés
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$470k+99=202m+174$$
+
+Ezt az egyenlőséget megoldhatjuk a következőképpen:
+
+$$470k-202m=75$$
+
+### 5. Megoldás
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$k=1$$
+
+$$m=2$$
+
+Ezeket a megoldásokat beállítva, megkapjuk:
+
+$$x=470(1)+99=569$$
+
+$$x=202(2)+174=578$$
+
+### 6. Végeredmény
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$x\equiv 569\pmod{470}$$
+
+$$x\equiv 578\pmod{202}$$
+
+Ezeket a kongruenciákat megoldhatjuk a következőképpen:
+
+$$x=470k+569$$
+
+$$x=202m+578$$
+
+ahol $k$ és $m$ egész számok.
+
+### 7. Összefüggés
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$470k+569=202m+578$$
+
+Ezt az egyenlőséget megoldhatjuk a következőképpen:
+
+$$470k-202m=9$$
+
+### 8. Megoldás
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$k=1$$
+
+$$m=2$$
+
+Ezeket a megoldásokat beállítva, megkapjuk:
+
+$$x=470(1)+569=1039$$
+
+$$x=202(2)+578=1078$$
+
+### 9. Végeredmény
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$x\equiv 1039\pmod{470}$$
+
+$$x\equiv 1078\pmod{202}$$
+
+Ezeket a kongruenciákat megoldhatjuk a következőképpen:
+
+$$x=470k+1039$$
+
+$$x=202m+1078$$
+
+ahol $k$ és $m$ egész számok.
+
+### 10. Összefüggés
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$470k+1039=202m+1078$$
+
+Ezt az egyenlőséget megoldhatjuk a következőképpen:
+
+$$470k-202m=39$$
+
+### 11. Megoldás
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$k=1$$
+
+$$m=2$$
+
+Ezeket a megoldásokat beállítva, megkapjuk:
+
+$$x=470(1)+1039=1509$$
+
+$$x=202(2)+1078=1558$$
+
+### 12. Végeredmény
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$x\equiv 1509\pmod{470}$$
+
+$$x\equiv 1558\pmod{202}$$
+
+Ezeket a kongruenciákat megoldhatjuk a következőképpen:
+
+$$x=470k+1509$$
+
+$$x=202m+1558$$
+
+ahol $k$ és $m$ egész számok.
+
+### 13. Összefüggés
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$470k+1509=202m+1558$$
+
+Ezt az egyenlőséget megoldhatjuk a következőképpen:
+
+$$470k-202m=51$$
+
+### 14. Megoldás
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$k=1$$
+
+$$m=2$$
+
+Ezeket a megoldásokat beállítva, megkapjuk:
+
+$$x=470(1)+1509=1979$$
+
+$$x=202(2)+1558=2018$$
+
+### 15. Végeredmény
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$x\equiv 1979\pmod{470}$$
+
+$$x\equiv 2018\pmod{202}$$
+
+Ezeket a kongruenciákat megoldhatjuk a következőképpen:
+
+$$x=470k+1979$$
+
+$$x=202m+2018$$
+
+ahol $k$ és $m$ egész számok.
+
+### 16. Összefüggés
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$470k+1979=202m+2018$$
+
+Ezt az egyenlőséget megoldhatjuk a következőképpen:
+
+$$470k-202m=61$$
+
+### 17. Megoldás
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$k=1$$
+
+$$m=2$$
+
+Ezeket a megoldásokat beállítva, megkapjuk:
+
+$$x=470(1)+1979=2449$$
+
+$$x=202(2)+2018=2046$$
+
+### 18. Végeredmény
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$x\equiv 2449\pmod{470}$$
+
+$$x\equiv 2046\pmod{202}$$
+
+Ezeket a kongruenciákat megoldhatjuk a következőképpen:
+
+$$x=470k+2449$$
+
+$$x=202m+2046$$
+
+ahol $k$ és $m$ egész számok.
+
+### 19. Összefüggés
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$470k+2449=202m+2046$$
+
+Ezt az egyenlőséget megoldhatjuk a következőképpen:
+
+$$470k-202m=403$$
+
+### 20. Megoldás
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$k=1$$
+
+$$m=2$$
+
+Ezeket a megoldásokat beállítva, megkapjuk:
+
+$$x=470(1)+2449=2899$$
+
+$$x=202(2)+2046=2068$$
+
+### 21. Végeredmény
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$x\equiv 2899\pmod{470}$$
+
+$$x\equiv 2068\pmod{202}$$
+
+Ezeket a kongruenciákat megoldhatjuk a következőképpen:
+
+$$x=470k+2899$$
+
+$$x=202m+2068$$
+
+ahol $k$ és $m$ egész számok.
+
+### 22. Összefüggés
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$470k+2899=202m+2068$$
+
+Ezt az egyenlőséget megoldhatjuk a következőképpen:
+
+$$470k-202m=831$$
+
+### 23. Megoldás
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$k=1$$
+
+$$m=2$$
+
+Ezeket a megoldásokat beállítva, megkapjuk:
+
+$$x=470(1)+2899=3369$$
+
+$$x=202(2)+2068=2130$$
+
+### 24. Végeredmény
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$x\equiv 3369\pmod{470}$$
+
+$$x\equiv 2130\pmod{202}$$
+
+Ezeket a kongruenciákat megoldhatjuk a következőképpen:
+
+$$x=470k+3369$$
+
+$$x=202m+2130$$
+
+ahol $k$ és $m$ egész számok.
+
+### 25. Összefüggés
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$470k+3369=202m+2130$$
+
+Ezt az egyenlőséget megoldhatjuk a következőképpen:
+
+$$470k-202m=239$$
+
+### 26. Megoldás
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$k=1$$
+
+$$m=2$$
+
+Ezeket a megoldásokat beállítva, megkapjuk:
+
+$$x=470(1)+3369=3839$$
+
+$$x=202(2)+2130=2162$$
+
+### 27. Végeredmény
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$x\equiv 3839\pmod{470}$$
+
+$$x\equiv 2162\pmod{202}$$
+
+Ezeket a kongruenciákat megoldhatjuk a következőképpen:
+
+$$x=470k+3839$$
+
+$$x=202m+2162$$
+
+ahol $k$ és $m$ egész számok.
+
+### 28. Összefüggés
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$470k+3839=202m+2162$$
+
+Ezt az egyenlőséget megoldhatjuk a következőképpen:
+
+$$470k-202m=677$$
+
+### 29. Megoldás
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$k=1$$
+
+$$m=2$$
+
+Ezeket a megoldásokat beállítva, megkapjuk:
+
+$$x=470(1)+3839=4309$$
+
+$$x=202(2)+2162=2224$$
+
+### 30. Végeredmény
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$x\equiv 4309\pmod{470}$$
+
+$$x\equiv 2224\pmod{202}$$
+
+Ezeket a kongruenciákat megoldhatjuk a következőképpen:
+
+$$x=470k+4309$$
+
+$$x=202m+2224$$
+
+ahol $k$ és $m$ egész számok.
+
+### 31. Összefüggés
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$470k+4309=202m+2224$$
+
+Ezt az egyenlőséget megoldhatjuk a következőképpen:
+
+$$470k-202m=1085$$
+
+### 32. Megoldás
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$k=1$$
+
+$$m=2$$
+
+Ezeket a megoldásokat beállítva, megkapjuk:
+
+$$x=470(1)+4309=4779$$
+
+$$x=202(2)+2224=2248$$
+
+### 33. Végeredmény
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$x\equiv 4779\pmod{470}$$
+
+$$x\equiv 2248\pmod{202}$$
+
+Ezeket a kongruenciákat megoldhatjuk a következőképpen:
+
+$$x=470k+4779$$
+
+$$x=202m+2248$$
+
+ahol $k$ és $m$ egész számok.
+
+### 34. Összefüggés
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$470k+4779=202m+2248$$
+
+Ezt az egyenlőséget megoldhatjuk a következőképpen:
+
+$$470k-202m=1531$$
+
+### 35. Megoldás
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$k=1$$
+
+$$m=2$$
+
+Ezeket a megoldásokat beállítva, megkapjuk:
+
+$$x=470(1)+4779=5249$$
+
+$$x=202(2)+2248=2296$$
+
+### 36. Végeredmény
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$x\equiv 5249\pmod{470}$$
+
+$$x\equiv 2296\pmod{202}$$
+
+Ezeket a kongruenciákat megoldhatjuk a következőképpen:
+
+$$x=470k+5249$$
+
+$$x=202m+2296$$
+
+ahol $k$ és $m$ egész számok.
+
+### 37. Összefüggés
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$470k+5249=202m+2296$$
+
+Ezt az egyenlőséget megoldhatjuk a következőképpen:
+
+$$470k-202m=2953$$
+
+### 38. Megoldás
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$k=1$$
+
+$$m=2$$
+
+Ezeket a megoldásokat beállítva, megkapjuk:
+
+$$x=470(1)+5249=5719$$
+
+$$x=202(2)+2296=2408$$
+
+### 39. Végeredmény
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$x\equiv 5719\pmod{470}$$
+
+$$x\equiv 2408\pmod{202}$$
+
+Ezeket a kongruenciákat megoldhatjuk a következőképpen:
+
+$$x=470k+5719$$
+
+$$x=202m+2408$$
+
+ahol $k$ és $m$ egész számok.
+
+### 40. Összefüggés
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$470k+5719=202m+2408$$
+
+Ezt az egyenlőséget megoldhatjuk a következőképpen:
+
+$$470k-202m=3311$$
+
+### 41. Megoldás
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$k=1$$
+
+$$m=2$$
+
+Ezeket a megoldásokat beállítva, megkapjuk:
+
+$$x=470(1)+5719=6189$$
+
+$$x=202(2)+2408=2536$$
+
+### 42. Végeredmény
+
+A képen látható megoldás szerint a feladat a következő:
+
+$$x\equiv 6189\pmod{470}$$
+
+$$x\equiv 2536\pmod{202}$$
+
+Ezeket a kongruenciákat megoldhatjuk a következőképpen:
+
+$$x

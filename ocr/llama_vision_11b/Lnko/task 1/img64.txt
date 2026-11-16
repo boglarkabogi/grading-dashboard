@@ -1,0 +1,681 @@
+A képen látható megoldás a következő:
+
+\begin{align*}
+213 &amp;= 200 + 13\\
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;= 13\\
+\end{align*}
+
+\begin{align*}
+200 &amp;= 200\\
+13 &amp;

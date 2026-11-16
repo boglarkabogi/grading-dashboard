@@ -1,0 +1,11 @@
+A képen látható megoldás a következő:
+
+a | 6 | r | 9
+---|---|---|---
+217 | 206 | 11 | 1
+11 | 8 | 3 | 1
+8 | 3 | 2 | 2
+3 | 2 | 1 | 1
+2 | 1 | 0 | 2
+
+Tehát a legnagyobb közös osztó (gcd) 1.

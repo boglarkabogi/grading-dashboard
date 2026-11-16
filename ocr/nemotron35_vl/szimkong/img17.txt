@@ -1,0 +1,38 @@
+\[
+\begin{cases}
+2x \equiv 11 \pmod{15} \\
+3x \equiv 18 \pmod{21}
+\end{cases}
+\Rightarrow
+\begin{cases}
+x \equiv 13 \pmod{15} \\
+x \equiv 6 \pmod{4}
+\end{cases}
+\]
+
+\[
+15a + 4b = 1 \qquad a = 1 \qquad b = -2
+\]
+
+\[
+x = c_2 \cdot a \cdot n_1 + c_1 \cdot b \cdot n_2 = 6 \cdot 1 \cdot 15 + 13 \cdot (-2) \cdot 4 = -92
+\]
+
+\[
+x \equiv -92 \pmod{15 \cdot 4} \Rightarrow \boxed{x \equiv 13 \pmod{105}}
+\]
+
+\[
+\begin{cases}
+2x \equiv 4 \pmod{15} \\
+5x \equiv 17 \pmod{21}
+\end{cases}
+\Rightarrow
+\begin{cases}
+x \equiv 11 \pmod{15} \Rightarrow x \equiv 11 \pmod{3} \Rightarrow x \equiv 2 \pmod{3} \\
+x \equiv 16 \pmod{21} \Rightarrow x \equiv 16 \pmod{3} \Rightarrow x \equiv 1 \pmod{3} \\
+\Rightarrow x \equiv 16 \pmod{7} \Rightarrow x \equiv 2 \pmod{4}
+\end{cases}
+\]
+
+Mivel \(x \equiv 2 \pmod{3}\) és \(x \equiv 1 \pmod{3}\) egyszerre nem lehet igaz, ezért egyik a kongruencia-rendszernek nincs megoldása.

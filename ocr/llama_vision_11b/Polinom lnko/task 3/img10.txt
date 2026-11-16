@@ -1,0 +1,197 @@
+A képen látható megoldás a következő:
+
+\[ f = x^4 + 2x^3 + x^2 + 4 \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 2x^3 + 2x^2 + 2x + 1 \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 + 4x^2 + 3x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ f = (x^2 + 3x + 2)(x^2 + 4x + 1) \in \mathbb{Z}_5[x] \]
+
+\[ g = (x^2 + 3x + 2)(x^3 +

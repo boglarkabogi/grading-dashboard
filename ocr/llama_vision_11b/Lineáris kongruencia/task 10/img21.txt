@@ -1,0 +1,25 @@
+### 1. $7x\equiv 8\pmod{340}$
+
+A képen látható megoldás szerint:
+
+$$7x\equiv 8\pmod{340}\Rightarrow x\equiv 8\cdot 49\pmod{340}\Rightarrow x\equiv 392\pmod{340}\Rightarrow x\equiv 52\pmod{340}.$$
+
+### 2. $16x\equiv 15\pmod{330}$
+
+A képen látható megoldás szerint:
+
+$$16x\equiv 15\pmod{330}\Rightarrow x\equiv 15\cdot 21\pmod{330}\Rightarrow x\equiv 315\pmod{330}\Rightarrow x\equiv 15\pmod{330}.$$
+
+### 3. Összehasonlítás
+
+A két egyenlősség megoldását összehasonlítva, látható, hogy:
+
+$$x\equiv 52\pmod{340}\equiv 15\pmod{330}.$$
+
+A két egyenlősség megoldása megegyezik, ezért a feladatnak egyetlen megoldása van.
+
+### 4. Megoldás
+
+A feladatnak egyetlen megoldása van, amely:
+
+$$x\equiv 15\pmod{330}.$$

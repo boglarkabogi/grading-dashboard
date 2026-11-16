@@ -1,0 +1,109 @@
+\[
+\begin{cases}
+3x \equiv 9 \pmod{15} \\
+6x \equiv 14 \pmod{24}
+\end{cases}
+\quad \longrightarrow \quad x \equiv 3 \pmod{5}
+\]
+
+\[
+\downarrow
+\]
+
+\[
+5x \equiv 65 \pmod{24}
+\]
+
+\[
+x \equiv 13 \pmod{24} \quad \frac{24}{(24,5)}
+\]
+
+\[
+\downarrow
+\]
+
+\[
+x \equiv 13 \pmod{24}
+\]
+
+\[
+x = 3 + 5k \equiv 13 \pmod{24}
+\]
+
+\[
+5k \equiv 10 \pmod{24}
+\]
+
+\[
+k \equiv 2 \pmod{24} \quad \frac{24}{(5,24)=1}
+\]
+
+\[
+k_2 = 2 + 24t
+\]
+
+\[
+x = 3 + 5 \cdot (2 + 24t)
+\]
+
+\[
+x = 13 + 120t
+\]
+
+\[
+x \equiv 13 \pmod{120}
+\]
+
+\[
+[15, 24] = 120
+\]
+
+---
+
+\[
+2x \equiv 5 \pmod{15} \quad \longrightarrow \quad 2x \equiv 20 \pmod{15}
+\]
+
+\[
+5x \equiv 7 \pmod{24}
+\]
+
+\[
+\downarrow
+\]
+
+\[
+x \equiv 10 \pmod{15} \quad \frac{15}{(2,15)=1}
+\]
+
+\[
+5x \equiv 55 \pmod{24}
+\]
+
+\[
+x \equiv 11 \pmod{24} \quad \frac{24}{(5,24)=1}
+\]
+
+\[
+(15, 24) = 3
+\]
+
+\[
+70 \equiv 1 \pmod{3}
+\]
+
+\[
+14 \equiv 2 \pmod{3}
+\]
+
+\[
+1 \not\equiv 2 \pmod{3} = \text{nincs megoldás}
+\]
+
+\[
+x = 10 + 15k_2 \not\equiv 11 \pmod{24}
+\]
+
+\[
+15k_2 \equiv 1 \pmod{24}
+\]

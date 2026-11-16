@@ -1,0 +1,189 @@
+### 1. Polinomok osztásának megkezdése
+
+A képen látható megoldás szerint a polinomok osztásának megkezdéséhez a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 2. Első lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 3. Második lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 4. Harmadik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 5. Negyedik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 6. Ötödik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 7. Hatodik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 8. Hetedik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 9. Nyolcadik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 10. Kilencedik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 11. Tizedik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 12. Tizenegyedik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 13. Tizenkettedik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 14. Tizenharmadik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 15. Tizennegyedik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 16. Tizenötödik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 17. Tizenhatodik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 18. Tizenhetedik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 19. Tizennyolcadik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 20. Tizenkilencedik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 21. Huszadik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 22. Huszonegyedik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 23. Huszonkettedik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 24. Huszonharmadik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 25. Huszonnegyedik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 26. Huszonötödik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 27. Huszonhatodik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 28. Huszonhetedik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 29. Huszonnyolcadik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 30. Huszonkilencedik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 31. Harmincadik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 32. Harmincegyedik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 33. Harminckettedik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 34. Harmincnegyedik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 35. Harmincötödik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 36. Harminchatodik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 37. Harminchetedik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 38. Harminnyolcadik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 39. Harminkilencedik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 40. Negyvenedik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 41. Negyvenegyedik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 42. Negyvenkettedik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 43. Negyvenharmadik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 44. Negyvennegyedik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 45. Negyvenötödik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 46. Negyvenhatodik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 47. Negyvenhetedik lépés: $f$ és $g$ osztása
+
+A képen látható megoldás szerint a polinomokat egymás után osztjuk. A legnagyobb közös osztó (LCM) a legnagyobb osztó, amely mindkét polinomot osztja.
+
+### 48.

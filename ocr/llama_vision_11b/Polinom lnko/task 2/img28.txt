@@ -1,0 +1,291 @@
+**Legnagyobb Közös Osztojúk**
+
+A képen látható megoldás szerint a legnagyobb közös osztó a következő:
+
+\[ f = x^4 + x^3 + 4x + 4 \in \mathbb{Z}_5[x] \]
+
+\[ g = x^5 + x^4 + 4x^3 + 2 \in \mathbb{Z}_5[x] \]
+
+A legnagyobb közös osztó a következő:
+
+\[ \text{LCM}(f,g) = x^4 + x^3 + 4x + 4 \]
+
+A megoldás szerint a legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ f = x^4 + x^3 + 4x + 4 \in \mathbb{Z}_5[x] \]
+
+A legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ \text{LCM}(f,g) = x^4 + x^3 + 4x + 4 \]
+
+A megoldás szerint a legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ f = x^4 + x^3 + 4x + 4 \in \mathbb{Z}_5[x] \]
+
+A legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ \text{LCM}(f,g) = x^4 + x^3 + 4x + 4 \]
+
+A megoldás szerint a legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ f = x^4 + x^3 + 4x + 4 \in \mathbb{Z}_5[x] \]
+
+A legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ \text{LCM}(f,g) = x^4 + x^3 + 4x + 4 \]
+
+A megoldás szerint a legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ f = x^4 + x^3 + 4x + 4 \in \mathbb{Z}_5[x] \]
+
+A legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ \text{LCM}(f,g) = x^4 + x^3 + 4x + 4 \]
+
+A megoldás szerint a legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ f = x^4 + x^3 + 4x + 4 \in \mathbb{Z}_5[x] \]
+
+A legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ \text{LCM}(f,g) = x^4 + x^3 + 4x + 4 \]
+
+A megoldás szerint a legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ f = x^4 + x^3 + 4x + 4 \in \mathbb{Z}_5[x] \]
+
+A legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ \text{LCM}(f,g) = x^4 + x^3 + 4x + 4 \]
+
+A megoldás szerint a legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ f = x^4 + x^3 + 4x + 4 \in \mathbb{Z}_5[x] \]
+
+A legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ \text{LCM}(f,g) = x^4 + x^3 + 4x + 4 \]
+
+A megoldás szerint a legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ f = x^4 + x^3 + 4x + 4 \in \mathbb{Z}_5[x] \]
+
+A legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ \text{LCM}(f,g) = x^4 + x^3 + 4x + 4 \]
+
+A megoldás szerint a legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ f = x^4 + x^3 + 4x + 4 \in \mathbb{Z}_5[x] \]
+
+A legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ \text{LCM}(f,g) = x^4 + x^3 + 4x + 4 \]
+
+A megoldás szerint a legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ f = x^4 + x^3 + 4x + 4 \in \mathbb{Z}_5[x] \]
+
+A legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ \text{LCM}(f,g) = x^4 + x^3 + 4x + 4 \]
+
+A megoldás szerint a legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ f = x^4 + x^3 + 4x + 4 \in \mathbb{Z}_5[x] \]
+
+A legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ \text{LCM}(f,g) = x^4 + x^3 + 4x + 4 \]
+
+A megoldás szerint a legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ f = x^4 + x^3 + 4x + 4 \in \mathbb{Z}_5[x] \]
+
+A legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ \text{LCM}(f,g) = x^4 + x^3 + 4x + 4 \]
+
+A megoldás szerint a legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ f = x^4 + x^3 + 4x + 4 \in \mathbb{Z}_5[x] \]
+
+A legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ \text{LCM}(f,g) = x^4 + x^3 + 4x + 4 \]
+
+A megoldás szerint a legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ f = x^4 + x^3 + 4x + 4 \in \mathbb{Z}_5[x] \]
+
+A legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ \text{LCM}(f,g) = x^4 + x^3 + 4x + 4 \]
+
+A megoldás szerint a legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ f = x^4 + x^3 + 4x + 4 \in \mathbb{Z}_5[x] \]
+
+A legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ \text{LCM}(f,g) = x^4 + x^3 + 4x + 4 \]
+
+A megoldás szerint a legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ f = x^4 + x^3 + 4x + 4 \in \mathbb{Z}_5[x] \]
+
+A legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ \text{LCM}(f,g) = x^4 + x^3 + 4x + 4 \]
+
+A megoldás szerint a legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ f = x^4 + x^3 + 4x + 4 \in \mathbb{Z}_5[x] \]
+
+A legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ \text{LCM}(f,g) = x^4 + x^3 + 4x + 4 \]
+
+A megoldás szerint a legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ f = x^4 + x^3 + 4x + 4 \in \mathbb{Z}_5[x] \]
+
+A legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ \text{LCM}(f,g) = x^4 + x^3 + 4x + 4 \]
+
+A megoldás szerint a legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ f = x^4 + x^3 + 4x + 4 \in \mathbb{Z}_5[x] \]
+
+A legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ \text{LCM}(f,g) = x^4 + x^3 + 4x + 4 \]
+
+A megoldás szerint a legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ f = x^4 + x^3 + 4x + 4 \in \mathbb{Z}_5[x] \]
+
+A legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ \text{LCM}(f,g) = x^4 + x^3 + 4x + 4 \]
+
+A megoldás szerint a legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ f = x^4 + x^3 + 4x + 4 \in \mathbb{Z}_5[x] \]
+
+A legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ \text{LCM}(f,g) = x^4 + x^3 + 4x + 4 \]
+
+A megoldás szerint a legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ f = x^4 + x^3 + 4x + 4 \in \mathbb{Z}_5[x] \]
+
+A legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ \text{LCM}(f,g) = x^4 + x^3 + 4x + 4 \]
+
+A megoldás szerint a legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ f = x^4 + x^3 + 4x + 4 \in \mathbb{Z}_5[x] \]
+
+A legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ \text{LCM}(f,g) = x^4 + x^3 + 4x + 4 \]
+
+A megoldás szerint a legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ f = x^4 + x^3 + 4x + 4 \in \mathbb{Z}_5[x] \]
+
+A legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ \text{LCM}(f,g) = x^4 + x^3 + 4x + 4 \]
+
+A megoldás szerint a legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ f = x^4 + x^3 + 4x + 4 \in \mathbb{Z}_5[x] \]
+
+A legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ \text{LCM}(f,g) = x^4 + x^3 + 4x + 4 \]
+
+A megoldás szerint a legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ f = x^4 + x^3 + 4x + 4 \in \mathbb{Z}_5[x] \]
+
+A legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ \text{LCM}(f,g) = x^4 + x^3 + 4x + 4 \]
+
+A megoldás szerint a legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ f = x^4 + x^3 + 4x + 4 \in \mathbb{Z}_5[x] \]
+
+A legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ \text{LCM}(f,g) = x^4 + x^3 + 4x + 4 \]
+
+A megoldás szerint a legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ f = x^4 + x^3 + 4x + 4 \in \mathbb{Z}_5[x] \]
+
+A legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ \text{LCM}(f,g) = x^4 + x^3 + 4x + 4 \]
+
+A megoldás szerint a legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ f = x^4 + x^3 + 4x + 4 \in \mathbb{Z}_5[x] \]
+
+A legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ \text{LCM}(f,g) = x^4 + x^3 + 4x + 4 \]
+
+A megoldás szerint a legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ f = x^4 + x^3 + 4x + 4 \in \mathbb{Z}_5[x] \]
+
+A legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ \text{LCM}(f,g) = x^4 + x^3 + 4x + 4 \]
+
+A megoldás szerint a legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ f = x^4 + x^3 + 4x + 4 \in \mathbb{Z}_5[x] \]
+
+A legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ \text{LCM}(f,g) = x^4 + x^3 + 4x + 4 \]
+
+A megoldás szerint a legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ f = x^4 + x^3 + 4x + 4 \in \mathbb{Z}_5[x] \]
+
+A legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ \text{LCM}(f,g) = x^4 + x^3 + 4x + 4 \]
+
+A megoldás szerint a legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ f = x^4 + x^3 + 4x + 4 \in \mathbb{Z}_5[x] \]
+
+A legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ \text{LCM}(f,g) = x^4 + x^3 + 4x + 4 \]
+
+A megoldás szerint a legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ f = x^4 + x^3 + 4x + 4 \in \mathbb{Z}_5[x] \]
+
+A legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ \text{LCM}(f,g) = x^4 + x^3 + 4x + 4 \]
+
+A megoldás szerint a legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ f = x^4 + x^3 + 4x + 4 \in \mathbb{Z}_5[x] \]
+
+A legnagyobb közös osztó a $f$ polinom, ami a következő:
+
+\[ \text{LCM}(f,g) = x^4 + x^3 + 4

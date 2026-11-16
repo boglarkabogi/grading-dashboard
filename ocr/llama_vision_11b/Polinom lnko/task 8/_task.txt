@@ -1,0 +1,5 @@
+Számolja ki az az $f$ = $x^4+3x^3+3x^2+2x \in \mathbb{Z}_5[x]$ polinomok legnagyobb közös osztóját!
+
+és $g$ = $x^5+x^4+3x^2+3x+4 \in \mathbb{Z}_5[x]$ polinomok legnagyobb közös osztóját!
+
+*Answer*: $f$ = $x^4+3x^3+3x^2+2x$ és $g$ = $x^5+x^4+3x^2+3x+4$ polinomok legnagyobb közös osztóját.

@@ -1,0 +1,34 @@
+2026, 10/16.  
+Házi feladat  
+
+\(x = x^4 + 2 \in \mathbb{Z}_5 \times \mathbb{Z}\)  
+\(g = x^3 + 2x \in \mathbb{Z}_5[x]\)  
+
+\(x \cdot g = (x^3 + 2)(x^3 + 2x) = x^5 + 2x^3 + 2x^3 + 4x\)  
+\(x^7 + 2x^5 + 2x^3 + 4x \cdot x^3 + x^4 + x^3 + 2x^2 + 2x + 1\)  
+\(-(x^7 + x^6 + x^5)\)  
+\(-x^6 + x^5 + 2x^3 + 4x\)  
+\(-(x^6 + x^5 + x^4)\)  
+\(-x^4 + 2x^3 + 4x\)  
+\(-(x^4 + x^3 + x^2)\)  
+\(x^3 + x^2 + 4x\)  
+\(-(x^3 + x^2 + x)\)  
+\(-x + 4\)  
+
+\(x^4 g \mod x^3 + x + 5 = -x - 4\)  
+
+\(x \cdot g^2 + x^2 \cdot g \mod x^3 + x + 4\)  
+\((x^3 + 2)(x^3 + 2x)^2 + (x^5 + 2)x^3(2x^2) \mod x^3 + x + 4\)  
+\(x^3 + x + 6 \equiv 0 \mod x^3 + x + 4\)  
+\(x \equiv -4 - x^3 \mod x^3 + x + 4\)  
+\(x \equiv 6x^3 + 1 \mod x^3 + x + 4\)  
+\(x^3 = 5x + 1 \mod x^3 + x + 4\)  
+
+\(x^4 = x^3 + 2 \equiv x(5x + 1) + 2 = 5x^2 + x + 2\)  
+\(g(x) = x^3 + 2x \equiv 6x + 1 + 2x = 6x + 1 \equiv x + 1\)  
+\(x \cdot g^2 + x^2 \cdot g = (x \cdot g) \cdot (x + g)\)  
+\(x + g = 5x^2 + x + 2 + x + 1 = 6x^2 + 2x + 3\)  
+\(x \cdot g = 6x^2 + x + 2)(x + 1) = 6x^3 + x^2 + 2x + 6x^2 + x + 2 = 6x^3 + 5x^2 + 3x + 2 \equiv 5x^2 + 3x + 2 \equiv 3x + 2 \equiv 6((6x + 1) + 3x + 2 = 16x + 5 + 3x + 2 = 19x + 6 \equiv 6x + 1\)  
+\((4 \cdot g) \cdot (4 + g) = (5x + 1) \cdot (6x^2 + 2x + 3) = 6x^2\)  
+\(= 6x^3 + 8x^2 + 12x + 6x^2 + 2x + 3 = 5x^3 + 10x^2 + 14x + 3\)  
+\(\equiv 5x^3 + 2x^2 + 5x + 3 \equiv 6(x + 1) + 2x^2 + 6x + 3 = 2x^2 + 3\)

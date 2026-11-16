@@ -1,0 +1,3 @@
+Oldja meg az alábbi lineáris kongruenciákat:
+
+$7x\equiv 8\pmod{340}$ és $16x\equiv 15\pmod{330}$

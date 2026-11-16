@@ -1,0 +1,10 @@
+A képen látható megoldás a következő:
+
+\begin{align*}
+273 &= 200 + 73\\
+200 &= 73 \cdot 2 + 74\\
+73 &= 74 \cdot 1 + 1\\
+74 &= 1 \cdot 74 + 0\\
+\end{align*}
+
+A legnagyobb közös osztó a 73.

@@ -1,0 +1,6 @@
+Számolja ki az $f$ és $g$ polinomok legnagyobb közös osztóját!
+
+\begin{align*}
+f(x) &= x^4 + 2x^3 + 3x^2 + 2x + 1, \\
+g(x) &= x^5 + x^4 + 2x^3 + 4x^2 + 4x + 3.
+\end{align*}

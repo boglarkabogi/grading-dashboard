@@ -1,0 +1,415 @@
+A képen látható megoldás a következő:
+
+1.  11x ≡ 2 (mod 238)
+    *   11x ≡ 2 (mod 238)
+    *   11x ≡ 2 + 238k (238)
+    *   11x = 2 + 238k
+    *   x = (2 + 238k) / 11
+    *   x = 2/11 + 22k
+    *   x = 0 + 22k
+2.  16x ≡ 15 (mod 490)
+    *   16x ≡ 15 (mod 490)
+    *   16x ≡ 15 + 490m (490)
+    *   16x = 15 + 490m
+    *   x = (15 + 490m) / 16
+    *   x = 15/16 + 30m
+    *   x = 0 + 30m
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30)
+
+A megoldások a következők:
+
+1.  11x ≡ 2 (mod 238)
+    *   x ≡ 0 (mod 22)
+2.  16x ≡ 15 (mod 490)
+    *   x ≡ 0 (mod 30

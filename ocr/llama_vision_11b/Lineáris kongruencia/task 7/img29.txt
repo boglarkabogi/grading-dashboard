@@ -1,0 +1,21 @@
+A képen látható megoldás a következő:
+
+13x ≡ 19 (mod 414) és 20x ≡ 6 (mod 412)
+
+A megoldás a következő:
+
+x ≡ 97 (mod 97)
+
+A megoldás lépései:
+
+1. A két lineáris kongruenciát egyszerűsítjük:
+13x ≡ 19 (mod 414) → x ≡ 19 (mod 31)
+20x ≡ 6 (mod 412) → x ≡ 3 (mod 20)
+
+2. A két kongruenciát összeadjuk:
+x ≡ 19 (mod 31) + x ≡ 3 (mod 20) → x ≡ 22 (mod 31)
+
+3. A kongruenciát egyszerűsítjük:
+x ≡ 22 (mod 31) → x ≡ 97 (mod 97)
+
+A megoldás tehát x ≡ 97 (mod 97).

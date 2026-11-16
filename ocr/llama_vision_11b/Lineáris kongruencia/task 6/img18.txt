@@ -1,0 +1,13 @@
+A képen látható megoldás a következő:
+
+**1. $7x\equiv 14\pmod{343}$**
+
+*   A kézzel írt megoldás szerint a feladat megoldása: $x\equiv 49\pmod{49}$.
+*   A megoldás értelmezése: A feladat megoldása az, hogy a $7x$ kifejezés értéke 14-gyel egyenlő a 343 modulussal. A megoldás szerint ez a feltétel akkor teljesül, ha $x$ értéke 49-gyel egyenlő a 49 modulussal.
+*   A megoldás értelmezése: A feladat megoldása az, hogy a $7x$ kifejezés értéke 14-gyel egyenlő a 343 modulussal. A megoldás szerint ez a feltétel akkor teljesül, ha $x$ értéke 49-gyel egyenlő a 49 modulussal.
+
+**2. $16x\equiv 5\pmod{346}$**
+
+*   A kézzel írt megoldás szerint a feladat megoldása: $x\equiv 215\pmod{346}$.
+*   A megoldás értelmezése: A feladat megoldása az, hogy a $16x$ kifejezés értéke 5-gyel egyenlő a 346 modulussal. A megoldás szerint ez a feltétel akkor teljesül, ha $x$ értéke 215-gyel egyenlő a 346 modulussal.
+*   A megoldás értelmezése: A feladat megoldása az, hogy a $16x$ kifejezés értéke 5-gyel egyenlő a 346 modulussal. A megoldás szerint ez a feltétel akkor teljesül, ha $x$ értéke 215-gyel egyenlő a 346 modulussal.

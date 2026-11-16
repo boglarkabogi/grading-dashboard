@@ -1,0 +1,267 @@
+### 1. A legnagyobb közös osztó (LCM) meghatározása
+
+A legnagyobb közös osztó meghatározásához a következő lépéseket kell végrehajtani:
+
+*   A két szám (219 és 180) osztóit keresni.
+*   A két szám osztóinak listáját összehasonlítani.
+*   A két szám közös osztóinak legnagyobbját kiválasztani.
+
+### 2. A két szám osztóinak keresése
+
+A két szám osztóinak keresése a következő lépéseket foglalja magában:
+
+*   A két számot felírni.
+*   A két számot kisebb és nagyobb számokkal osztani.
+*   A két szám osztóinak listáját összehasonlítani.
+
+### 3. A két szám közös osztóinak legnagyobbjának kiválasztása
+
+A két szám közös osztóinak legnagyobbjának kiválasztása a következő lépéseket foglalja magában:
+
+*   A két szám közös osztóinak listáját összehasonlítani.
+*   A két szám közös osztóinak legnagyobbját kiválasztani.
+
+### 4. A legnagyobb közös osztó meghatározása
+
+A legnagyobb közös osztó meghatározása a következő lépéseket foglalja magában:
+
+*   A két szám közös osztóinak legnagyobbját kiválasztani.
+*   A két szám közös osztóinak legnagyobbját meghatározni.
+
+### 5. A legnagyobb közös osztó meghatározása
+
+A legnagyobb közös osztó meghatározása a következő lépéseket foglalja magában:
+
+*   A két szám közös osztóinak legnagyobbját kiválasztani.
+*   A két szám közös osztóinak legnagyobbját meghatározni.
+
+### 6. A legnagyobb közös osztó meghatározása
+
+A legnagyobb közös osztó meghatározása a következő lépéseket foglalja magában:
+
+*   A két szám közös osztóinak legnagyobbját kiválasztani.
+*   A két szám közös osztóinak legnagyobbját meghatározni.
+
+### 7. A legnagyobb közös osztó meghatározása
+
+A legnagyobb közös osztó meghatározása a következő lépéseket foglalja magában:
+
+*   A két szám közös osztóinak legnagyobbját kiválasztani.
+*   A két szám közös osztóinak legnagyobbját meghatározni.
+
+### 8. A legnagyobb közös osztó meghatározása
+
+A legnagyobb közös osztó meghatározása a következő lépéseket foglalja magában:
+
+*   A két szám közös osztóinak legnagyobbját kiválasztani.
+*   A két szám közös osztóinak legnagyobbját meghatározni.
+
+### 9. A legnagyobb közös osztó meghatározása
+
+A legnagyobb közös osztó meghatározása a következő lépéseket foglalja magában:
+
+*   A két szám közös osztóinak legnagyobbját kiválasztani.
+*   A két szám közös osztóinak legnagyobbját meghatározni.
+
+### 10. A legnagyobb közös osztó meghatározása
+
+A legnagyobb közös osztó meghatározása a következő lépéseket foglalja magában:
+
+*   A két szám közös osztóinak legnagyobbját kiválasztani.
+*   A két szám közös osztóinak legnagyobbját meghatározni.
+
+### 11. A legnagyobb közös osztó meghatározása
+
+A legnagyobb közös osztó meghatározása a következő lépéseket foglalja magában:
+
+*   A két szám közös osztóinak legnagyobbját kiválasztani.
+*   A két szám közös osztóinak legnagyobbját meghatározni.
+
+### 12. A legnagyobb közös osztó meghatározása
+
+A legnagyobb közös osztó meghatározása a következő lépéseket foglalja magában:
+
+*   A két szám közös osztóinak legnagyobbját kiválasztani.
+*   A két szám közös osztóinak legnagyobbját meghatározni.
+
+### 13. A legnagyobb közös osztó meghatározása
+
+A legnagyobb közös osztó meghatározása a következő lépéseket foglalja magában:
+
+*   A két szám közös osztóinak legnagyobbját kiválasztani.
+*   A két szám közös osztóinak legnagyobbját meghatározni.
+
+### 14. A legnagyobb közös osztó meghatározása
+
+A legnagyobb közös osztó meghatározása a következő lépéseket foglalja magában:
+
+*   A két szám közös osztóinak legnagyobbját kiválasztani.
+*   A két szám közös osztóinak legnagyobbját meghatározni.
+
+### 15. A legnagyobb közös osztó meghatározása
+
+A legnagyobb közös osztó meghatározása a következő lépéseket foglalja magában:
+
+*   A két szám közös osztóinak legnagyobbját kiválasztani.
+*   A két szám közös osztóinak legnagyobbját meghatározni.
+
+### 16. A legnagyobb közös osztó meghatározása
+
+A legnagyobb közös osztó meghatározása a következő lépéseket foglalja magában:
+
+*   A két szám közös osztóinak legnagyobbját kiválasztani.
+*   A két szám közös osztóinak legnagyobbját meghatározni.
+
+### 17. A legnagyobb közös osztó meghatározása
+
+A legnagyobb közös osztó meghatározása a következő lépéseket foglalja magában:
+
+*   A két szám közös osztóinak legnagyobbját kiválasztani.
+*   A két szám közös osztóinak legnagyobbját meghatározni.
+
+### 18. A legnagyobb közös osztó meghatározása
+
+A legnagyobb közös osztó meghatározása a következő lépéseket foglalja magában:
+
+*   A két szám közös osztóinak legnagyobbját kiválasztani.
+*   A két szám közös osztóinak legnagyobbját meghatározni.
+
+### 19. A legnagyobb közös osztó meghatározása
+
+A legnagyobb közös osztó meghatározása a következő lépéseket foglalja magában:
+
+*   A két szám közös osztóinak legnagyobbját kiválasztani.
+*   A két szám közös osztóinak legnagyobbját meghatározni.
+
+### 20. A legnagyobb közös osztó meghatározása
+
+A legnagyobb közös osztó meghatározása a következő lépéseket foglalja magában:
+
+*   A két szám közös osztóinak legnagyobbját kiválasztani.
+*   A két szám közös osztóinak legnagyobbját meghatározni.
+
+### 21. A legnagyobb közös osztó meghatározása
+
+A legnagyobb közös osztó meghatározása a következő lépéseket foglalja magában:
+
+*   A két szám közös osztóinak legnagyobbját kiválasztani.
+*   A két szám közös osztóinak legnagyobbját meghatározni.
+
+### 22. A legnagyobb közös osztó meghatározása
+
+A legnagyobb közös osztó meghatározása a következő lépéseket foglalja magában:
+
+*   A két szám közös osztóinak legnagyobbját kiválasztani.
+*   A két szám közös osztóinak legnagyobbját meghatározni.
+
+### 23. A legnagyobb közös osztó meghatározása
+
+A legnagyobb közös osztó meghatározása a következő lépéseket foglalja magában:
+
+*   A két szám közös osztóinak legnagyobbját kiválasztani.
+*   A két szám közös osztóinak legnagyobbját meghatározni.
+
+### 24. A legnagyobb közös osztó meghatározása
+
+A legnagyobb közös osztó meghatározása a következő lépéseket foglalja magában:
+
+*   A két szám közös osztóinak legnagyobbját kiválasztani.
+*   A két szám közös osztóinak legnagyobbját meghatározni.
+
+### 25. A legnagyobb közös osztó meghatározása
+
+A legnagyobb közös osztó meghatározása a következő lépéseket foglalja magában:
+
+*   A két szám közös osztóinak legnagyobbját kiválasztani.
+*   A két szám közös osztóinak legnagyobbját meghatározni.
+
+### 26. A legnagyobb közös osztó meghatározása
+
+A legnagyobb közös osztó meghatározása a következő lépéseket foglalja magában:
+
+*   A két szám közös osztóinak legnagyobbját kiválasztani.
+*   A két szám közös osztóinak legnagyobbját meghatározni.
+
+### 27. A legnagyobb közös osztó meghatározása
+
+A legnagyobb közös osztó meghatározása a következő lépéseket foglalja magában:
+
+*   A két szám közös osztóinak legnagyobbját kiválasztani.
+*   A két szám közös osztóinak legnagyobbját meghatározni.
+
+### 28. A legnagyobb közös osztó meghatározása
+
+A legnagyobb közös osztó meghatározása a következő lépéseket foglalja magában:
+
+*   A két szám közös osztóinak legnagyobbját kiválasztani.
+*   A két szám közös osztóinak legnagyobbját meghatározni.
+
+### 29. A legnagyobb közös osztó meghatározása
+
+A legnagyobb közös osztó meghatározása a következő lépéseket foglalja magában:
+
+*   A két szám közös osztóinak legnagyobbját kiválasztani.
+*   A két szám közös osztóinak legnagyobbját meghatározni.
+
+### 30. A legnagyobb közös osztó meghatározása
+
+A legnagyobb közös osztó meghatározása a következő lépéseket foglalja magában:
+
+*   A két szám közös osztóinak legnagyobbját kiválasztani.
+*   A két szám közös osztóinak legnagyobbját meghatározni.
+
+### 31. A legnagyobb közös osztó meghatározása
+
+A legnagyobb közös osztó meghatározása a következő lépéseket foglalja magában:
+
+*   A két szám közös osztóinak legnagyobbját kiválasztani.
+*   A két szám közös osztóinak legnagyobbját meghatározni.
+
+### 32. A legnagyobb közös osztó meghatározása
+
+A legnagyobb közös osztó meghatározása a következő lépéseket foglalja magában:
+
+*   A két szám közös osztóinak legnagyobbját kiválasztani.
+*   A két szám közös osztóinak legnagyobbját meghatározni.
+
+### 33. A legnagyobb közös osztó meghatározása
+
+A legnagyobb közös osztó meghatározása a következő lépéseket foglalja magában:
+
+*   A két szám közös osztóinak legnagyobbját kiválasztani.
+*   A két szám közös osztóinak legnagyobbját meghatározni.
+
+### 34. A legnagyobb közös osztó meghatározása
+
+A legnagyobb közös osztó meghatározása a következő lépéseket foglalja magában:
+
+*   A két szám közös osztóinak legnagyobbját kiválasztani.
+*   A két szám közös osztóinak legnagyobbját meghatározni.
+
+### 35. A legnagyobb közös osztó meghatározása
+
+A legnagyobb közös osztó meghatározása a következő lépéseket foglalja magában:
+
+*   A két szám közös osztóinak legnagyobbját kiválasztani.
+*   A két szám közös osztóinak legnagyobbját meghatározni.
+
+### 36. A legnagyobb közös osztó meghatározása
+
+A legnagyobb közös osztó meghatározása a következő lépéseket foglalja magában:
+
+*   A két szám közös osztóinak legnagyobbját kiválasztani.
+*   A két szám közös osztóinak legnagyobbját meghatározni.
+
+### 37. A legnagyobb közös osztó meghatározása
+
+A legnagyobb közös osztó meghatározása a következő lépéseket foglalja magában:
+
+*   A két szám közös osztóinak legnagyobbját kiválasztani.
+*   A két szám közös osztóinak legnagyobbját meghatározni.
+
+### 38. A legnagyobb közös osztó meghatározása
+
+A legnagyobb közös osztó meghatározása a következő lépéseket foglalja magában:
+
+*   A két szám közös osztóinak legnagyobbját kiválasztani.
+*   A két szám közös osztóinak leg

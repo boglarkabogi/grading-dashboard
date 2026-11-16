@@ -1,0 +1,25 @@
+A képen látható hallgatói megoldás a következő:
+
+a) $17x\equiv 17\pmod{375}$
+
+*   $17x\equiv 17\pmod{375}$
+*   $17x-17\equiv 0\pmod{375}$
+*   $17(x-1)\equiv 0\pmod{375}$
+*   $x-1\equiv 0\pmod{25}$
+*   $x\equiv 1\pmod{25}$
+*   $x\equiv 1\pmod{375}$
+
+b) $19x\equiv 9\pmod{358}$
+
+*   $19x\equiv 9\pmod{358}$
+*   $19x-9\equiv 0\pmod{358}$
+*   $19(x-1)\equiv 0\pmod{358}$
+*   $x-1\equiv 0\pmod{19}$
+*   $x\equiv 1\pmod{19}$
+*   $x\equiv 1\pmod{358}$
+
+A hallgatói megoldás a következőképpen írható le:
+
+a) $x\equiv 1\pmod{25}$ és $x\equiv 1\pmod{375}$
+
+b) $x\equiv 1\pmod{19}$ és $x\equiv 1\pmod{358}$

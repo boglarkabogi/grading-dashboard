@@ -1,0 +1,497 @@
+A képen látható megoldás a következő:
+
+**1. 13x ≡ 13 (mod 409)**
+
+*   A megoldás: x ≡ 1 (mod 409)
+
+**2. 12x ≡ 7 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**3. 72x ≡ 7 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**4. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**5. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**6. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**7. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**8. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**9. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**10. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**11. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**12. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**13. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**14. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**15. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**16. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**17. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**18. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**19. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**20. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**21. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**22. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**23. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**24. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**25. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**26. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**27. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**28. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**29. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**30. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**31. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**32. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**33. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**34. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**35. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**36. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**37. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**38. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**39. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**40. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**41. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**42. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**43. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**44. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**45. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**46. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**47. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**48. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**49. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**50. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**51. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**52. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**53. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**54. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**55. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**56. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**57. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**58. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**59. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**60. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**61. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**62. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**63. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**64. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**65. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**66. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**67. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**68. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**69. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**70. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**71. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**72. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**73. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**74. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**75. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**76. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**77. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**78. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**79. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**80. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**81. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**82. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**83. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**84. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**85. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**86. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**87. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**88. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**89. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**90. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**91. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**92. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**93. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**94. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**95. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**96. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**97. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**98. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**99. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**100. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**101. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**102. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**103. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**104. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**105. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**106. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**107. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**108. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**109. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**110. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**111. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**112. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**113. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**114. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**115. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**116. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**117. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**118. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**119. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**120. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**121. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**122. 72x ≡ 2 (mod 301)**
+
+*   A megoldás: x ≡ 2 (mod 301)
+
+**123. 72x ≡ 2 (mod 302)**
+
+*   A megoldás: x ≡ 302 (mod 302)
+
+**124. 72x ≡ 2 (mod 301)**
+
+*   A megoldás

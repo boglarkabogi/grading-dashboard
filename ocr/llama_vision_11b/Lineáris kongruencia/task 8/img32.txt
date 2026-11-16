@@ -1,0 +1,24 @@
+A képen látható megoldás a következő:
+
+**1. $7x\equiv 12\pmod{313}$**
+
+*   A megoldás a következő:
+    *   $7x\equiv 12\pmod{313}$
+    *   $x\equiv 12\cdot 7^{-1}\pmod{313}$
+    *   $x\equiv 12\cdot 45\pmod{313}$
+    *   $x\equiv 540\pmod{313}$
+    *   $x\equiv 227\pmod{313}$
+
+**2. $20x\equiv 5\pmod{454}$**
+
+*   A megoldás a következő:
+    *   $20x\equiv 5\pmod{454}$
+    *   $x\equiv 5\cdot 20^{-1}\pmod{454}$
+    *   $x\equiv 5\cdot 23\pmod{454}$
+    *   $x\equiv 115\pmod{454}$
+    *   $x\equiv 115\pmod{454}$
+
+A megoldások a következők:
+
+*   $x\equiv 227\pmod{313}$
+*   $x\equiv 115\pmod{454}$

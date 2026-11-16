@@ -1,0 +1,18 @@
+**Polinomok Legnagyobb Közös Osztoja**
+
+A képen látható megoldás szerint a polinomok legnagyobb közös osztója a következő:
+
+$$\gcd(f,g) = x^2 + 2x + 1$$
+
+A megoldás lépései:
+
+1. A polinomok különbségét számoljuk ki:
+$$f - g = x^4 + 4x^3 + x^2 + 2 - (x^5 + x^4 + 3x^3 + x^2 + x + 4) = -x^5 + 3x^3 - x + 2$$
+2. A különbség polinomjának főtényezőjét számoljuk ki:
+$$\gcd(f-g, f) = \gcd(-x^5 + 3x^3 - x + 2, x^4 + 4x^3 + x^2 + 2)$$
+3. A különbség polinomjának főtényezőjét számoljuk ki:
+$$\gcd(f-g, f) = \gcd(-x^5 + 3x^3 - x + 2, x^4 + 4x^3 + x^2 + 2) = x^2 + 2x + 1$$
+
+A megoldás szerint a polinomok legnagyobb közös osztója $x^2 + 2x + 1$.
+
+**Megjegyzés:** A megoldásban használt polinomokat a képen látható módon írták le. A polinomokat a $\mathbb{Z}_5[x]$ testben számolták ki.

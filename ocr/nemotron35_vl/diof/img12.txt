@@ -1,0 +1,21 @@
+f = x^2 + 3x + 3
+
+g = x^2 - 1 \quad x^2 \equiv 1 \pmod g
+
+u \cdot v = 2x^2 + x - 3 \equiv x - 1 \pmod g
+
+f \equiv 3x + 4 \pmod g
+
+uf \equiv x - 1 \pmod g \quad \deg u < \deg g \quad : \quad u = u_1 x + u_0
+
+uf \equiv 3u_1 x^2 + 4u_1 x + 3u_0 x + 4u_0 \equiv (4u_1 + 3u_0)x + 4u_0 + 3u_1 \pmod g
+
+\begin{cases}
+4u_1 + 3u_0 = 1 \\
+4u_0 + 3u_1 = -1
+\end{cases}
+\quad u_1 = 1 \quad u_0 = -1 \quad u = \underline{x - 1}
+
+uf = x^3 + 3x^2 + 3x - x^2 - 3x - 3 = x^3 + 2x^2 - 3
+
+vg = -x^3 + x \quad v \equiv -x

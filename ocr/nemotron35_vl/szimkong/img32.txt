@@ -1,0 +1,29 @@
+3x \equiv 9 \mod 15
+\downarrow x \equiv 3 \mod \frac{15}{(15,3)}
+x \equiv 3 \mod 5
+
+5x \equiv 17 \mod 24
+5x \equiv 65 \mod 24 \quad \frac{24}{(24,5)}
+x \equiv \text{13} \mod 24
+
+x = 3 + 5k \equiv 13 \mod 24
+5k \equiv 10 \mod 24
+k \equiv 2 \mod \frac{24}{(24,5)} \equiv 2 \mod 24
+k = 2 + 24t
+
+x = 3 + 5 \cdot (2 + 24t)
+x = 13 + 120t
+x \equiv 13 \mod 120 \quad ( [15, 24] = 120 )
+
+2x \equiv 5 \mod 15 \qquad 5x \equiv 7 \mod 24
+2x \equiv 20 \mod 15 \qquad 5x \equiv 55 \mod 24
+x \equiv 10 \mod 15 \qquad x \equiv 11 \mod 24
+
+x = 10 + 15k \equiv 11 \mod 24
+\cancel{15k \equiv 1 \mod 24} \rightarrow \text{33 val osztva 1 mandel}
+\text{3-al osztva} \quad 15k \equiv 135 \mod 24 \qquad \text{Nincs Mo}
+k \equiv 9 \mod 24 \quad \text{ha } -7k \equiv 9 \mod 8
+k = 9 - 24t \quad 1 + 8t \qquad k \equiv 1 \mod 8
+x = 10 + 15 \cdot (1 + 8t)
+x = 145 + 120t \quad \text{25} + 120t
+\cancel{x \equiv 145 \mod 300} \rightarrow x \qquad x \equiv 25 \mod 120

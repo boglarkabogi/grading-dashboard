@@ -1,0 +1,48 @@
+Kan
+
+a)  
+2x ≡ 5 mod 21  
+3x ≡ 15 mod 24  
+
+2x ≡ 5 mod 3 → 2x ≡ 2 mod 3 → x ≡ 1 mod 3  
+2x ≡ 5 mod 7 → 2x ≡ 12 mod 7 → x ≡ 6 mod 7  
+3x ≡ 15 mod 3 → 0 ≡ 0 mod 3 ✓  
+3x ≡ 15 mod 8 → 3x ≡ 5 mod 8  
+
+x ≡ 1 mod 3  
+x ≡ 6 mod 4  
+x ≡ 5 mod 8  
+
+1·56·2 + 6·24·5 + 5·21·5 = 1352  
+M2 = 720  
+525  
+3·7·8 = 168  
+
+168 - 8 = 1344  
+1352 - 1344 = 8  
+
+M₁ = 168/3 = 56  
+M₂ = 168/4 = 42  
+M₃ = 168/8 = 21  
+
+x ≡ 13 mod 168  
+
+b)  
+2x ≡ 1 mod 21  
+5x ≡ 11 mod 24  
+
+2x ≡ 4 mod 3 → 2x ≡ 1 mod 3 → x ≡ 2 mod 3  
+2x ≡ 1 mod 4 → 2x ≡ 8 mod 7 → x ≡ 4 mod 4  
+5x ≡ 11 mod 3 → 5x ≡ 2 mod 3 → x ≡ 4 mod 3 → x ≡ 1 mod 3  
+5x ≡ 11 mod 8 → 5x ≡ 3 mod 8 → 5x ≡ 35 mod 8 → x ≡ 7 mod 8  
+
+x ≡ 2 mod 3  
+x ≡ 4 mod 7  
+x ≡ 1 mod 3  
+x ≡ 4 mod 8  
+
+x ≡ 2 mod 3  
+x ≡ 1 mod 3  
+igen szerint  
+
+x ≡ 13 mod 168

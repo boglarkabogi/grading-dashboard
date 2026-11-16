@@ -1,0 +1,19 @@
+(2\cdot8\cdot202) = ?
+
+2\cdot8 = 1\cdot202 + 46
+
+2\cdot202 = 12\cdot46 + 10
+
+16 = 1\cdot10 + 6
+
+10 = 1\cdot6 + 4
+
+6 = 1\cdot4 + 2
+
+4 = 2\cdot2 + 0
+
+\Rightarrow (2\cdot8\cdot202) = 2
+
+2\cdot8\cdot202 = 2\cdot2\cdot2\cdot101 = 2^3\cdot101
+
+A legnagyobb közös osztó 2.

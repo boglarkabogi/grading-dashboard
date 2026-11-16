@@ -1,0 +1,75 @@
+A képen látható megoldás a következő:
+
+1.  Azt mondjuk, hogy 11x ≡ 2 (mod 238) és 16x ≡ 15 (mod 490) együttes megoldását keresjük.
+2.  Azt mondjuk, hogy 11x ≡ 2 (mod 238) megoldása x ≡ 22 (mod 238).
+3.  Azt mondjuk, hogy 16x ≡ 15 (mod 490) megoldása x ≡ 15 (mod 490).
+4.  Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldását keresjük.
+5.  Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+6.  Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+7.  Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+8.  Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+9.  Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+10. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+11. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+12. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+13. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+14. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+15. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+16. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+17. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+18. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+19. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+20. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+21. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+22. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+23. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+24. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+25. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+26. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+27. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+28. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+29. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+30. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+31. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+32. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+33. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+34. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+35. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+36. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+37. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+38. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+39. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+40. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+41. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+42. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+43. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+44. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+45. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+46. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+47. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+48. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+49. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+50. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+51. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+52. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+53. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+54. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+55. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+56. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+57. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+58. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+59. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+60. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+61. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+62. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+63. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+64. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+65. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+66. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+67. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+68. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+69. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+70. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+71. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+72. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡ 22 (mod 238) és x ≡ 15 (mod 490).
+73. Azt mondjuk, hogy x ≡ 22 (mod 238) és x ≡ 15 (mod 490) együttes megoldása x ≡

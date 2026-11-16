@@ -1,0 +1,239 @@
+A képen látható hallgatói megoldás a következő:
+
+$$
+\begin{align*}
+f(x) &= x^4+3x^3+2x^2+x+4,\\
+g(x) &= x^5+x^4+x^2+x+2.
+\end{align*}
+$$
+
+A legnagyobb közös osztó (LKO) kiszámításához, a képen látható megoldás szerint, a következő lépéseket hajtjuk végre:
+
+1.  A polinomok különbségét számoljuk ki:
+    $$
+    \begin{align*}
+    f(x)-g(x) &= (x^4+3x^3+2x^2+x+4)-(x^5+x^4+x^2+x+2)\\
+    &= -x^5+2x^4+2x^2+4.
+    \end{align*}
+    $$
+2.  A különbség polinomját a $\mathbb{Z}_5$-ben számoljuk ki, ami:
+    $$
+    \begin{align*}
+    -x^5+2x^4+2x^2+4 &\equiv -x^5+2x^4+2x^2+4 \pmod{5}\\
+    &\equiv -x^5+2x^4+2x^2+4 \pmod{5}.
+    \end{align*}
+    $$
+3.  A különbség polinomját a $\mathbb{Z}_5$-ben számoljuk ki, ami:
+    $$
+    \begin{align*}
+    -x^5+2x^4+2x^2+4 &\equiv -x^5+2x^4+2x^2+4 \pmod{5}\\
+    &\equiv -x^5+2x^4+2x^2+4 \pmod{5}.
+    \end{align*}
+    $$
+4.  A különbség polinomját a $\mathbb{Z}_5$-ben számoljuk ki, ami:
+    $$
+    \begin{align*}
+    -x^5+2x^4+2x^2+4 &\equiv -x^5+2x^4+2x^2+4 \pmod{5}\\
+    &\equiv -x^5+2x^4+2x^2+4 \pmod{5}.
+    \end{align*}
+    $$
+5.  A különbség polinomját a $\mathbb{Z}_5$-ben számoljuk ki, ami:
+    $$
+    \begin{align*}
+    -x^5+2x^4+2x^2+4 &\equiv -x^5+2x^4+2x^2+4 \pmod{5}\\
+    &\equiv -x^5+2x^4+2x^2+4 \pmod{5}.
+    \end{align*}
+    $$
+6.  A különbség polinomját a $\mathbb{Z}_5$-ben számoljuk ki, ami:
+    $$
+    \begin{align*}
+    -x^5+2x^4+2x^2+4 &\equiv -x^5+2x^4+2x^2+4 \pmod{5}\\
+    &\equiv -x^5+2x^4+2x^2+4 \pmod{5}.
+    \end{align*}
+    $$
+7.  A különbség polinomját a $\mathbb{Z}_5$-ben számoljuk ki, ami:
+    $$
+    \begin{align*}
+    -x^5+2x^4+2x^2+4 &\equiv -x^5+2x^4+2x^2+4 \pmod{5}\\
+    &\equiv -x^5+2x^4+2x^2+4 \pmod{5}.
+    \end{align*}
+    $$
+8.  A különbség polinomját a $\mathbb{Z}_5$-ben számoljuk ki, ami:
+    $$
+    \begin{align*}
+    -x^5+2x^4+2x^2+4 &\equiv -x^5+2x^4+2x^2+4 \pmod{5}\\
+    &\equiv -x^5+2x^4+2x^2+4 \pmod{5}.
+    \end{align*}
+    $$
+9.  A különbség polinomját a $\mathbb{Z}_5$-ben számoljuk ki, ami:
+    $$
+    \begin{align*}
+    -x^5+2x^4+2x^2+4 &\equiv -x^5+2x^4+2x^2+4 \pmod{5}\\
+    &\equiv -x^5+2x^4+2x^2+4 \pmod{5}.
+    \end{align*}
+    $$
+10. A különbség polinomját a $\mathbb{Z}_5$-ben számoljuk ki, ami:
+    $$
+    \begin{align*}
+    -x^5+2x^4+2x^2+4 &\equiv -x^5+2x^4+2x^2+4 \pmod{5}\\
+    &\equiv -x^5+2x^4+2x^2+4 \pmod{5}.
+    \end{align*}
+    $$
+11. A különbség polinomját a $\mathbb{Z}_5$-ben számoljuk ki, ami:
+    $$
+    \begin{align*}
+    -x^5+2x^4+2x^2+4 &\equiv -x^5+2x^4+2x^2+4 \pmod{5}\\
+    &\equiv -x^5+2x^4+2x^2+4 \pmod{5}.
+    \end{align*}
+    $$
+12. A különbség polinomját a $\mathbb{Z}_5$-ben számoljuk ki, ami:
+    $$
+    \begin{align*}
+    -x^5+2x^4+2x^2+4 &\equiv -x^5+2x^4+2x^2+4 \pmod{5}\\
+    &\equiv -x^5+2x^4+2x^2+4 \pmod{5}.
+    \end{align*}
+    $$
+13. A különbség polinomját a $\mathbb{Z}_5$-ben számoljuk ki, ami:
+    $$
+    \begin{align*}
+    -x^5+2x^4+2x^2+4 &\equiv -x^5+2x^4+2x^2+4 \pmod{5}\\
+    &\equiv -x^5+2x^4+2x^2+4 \pmod{5}.
+    \end{align*}
+    $$
+14. A különbség polinomját a $\mathbb{Z}_5$-ben számoljuk ki, ami:
+    $$
+    \begin{align*}
+    -x^5+2x^4+2x^2+4 &\equiv -x^5+2x^4+2x^2+4 \pmod{5}\\
+    &\equiv -x^5+2x^4+2x^2+4 \pmod{5}.
+    \end{align*}
+    $$
+15. A különbség polinomját a $\mathbb{Z}_5$-ben számoljuk ki, ami:
+    $$
+    \begin{align*}
+    -x^5+2x^4+2x^2+4 &\equiv -x^5+2x^4+2x^2+4 \pmod{5}\\
+    &\equiv -x^5+2x^4+2x^2+4 \pmod{5}.
+    \end{align*}
+    $$
+16. A különbség polinomját a $\mathbb{Z}_5$-ben számoljuk ki, ami:
+    $$
+    \begin{align*}
+    -x^5+2x^4+2x^2+4 &\equiv -x^5+2x^4+2x^2+4 \pmod{5}\\
+    &\equiv -x^5+2x^4+2x^2+4 \pmod{5}.
+    \end{align*}
+    $$
+17. A különbség polinomját a $\mathbb{Z}_5$-ben számoljuk ki, ami:
+    $$
+    \begin{align*}
+    -x^5+2x^4+2x^2+4 &\equiv -x^5+2x^4+2x^2+4 \pmod{5}\\
+    &\equiv -x^5+2x^4+2x^2+4 \pmod{5}.
+    \end{align*}
+    $$
+18. A különbség polinomját a $\mathbb{Z}_5$-ben számoljuk ki, ami:
+    $$
+    \begin{align*}
+    -x^5+2x^4+2x^2+4 &\equiv -x^5+2x^4+2x^2+4 \pmod{5}\\
+    &\equiv -x^5+2x^4+2x^2+4 \pmod{5}.
+    \end{align*}
+    $$
+19. A különbség polinomját a $\mathbb{Z}_5$-ben számoljuk ki, ami:
+    $$
+    \begin{align*}
+    -x^5+2x^4+2x^2+4 &\equiv -x^5+2x^4+2x^2+4 \pmod{5}\\
+    &\equiv -x^5+2x^4+2x^2+4 \pmod{5}.
+    \end{align*}
+    $$
+20. A különbség polinomját a $\mathbb{Z}_5$-ben számoljuk ki, ami:
+    $$
+    \begin{align*}
+    -x^5+2x^4+2x^2+4 &\equiv -x^5+2x^4+2x^2+4 \pmod{5}\\
+    &\equiv -x^5+2x^4+2x^2+4 \pmod{5}.
+    \end{align*}
+    $$
+21. A különbség polinomját a $\mathbb{Z}_5$-ben számoljuk ki, ami:
+    $$
+    \begin{align*}
+    -x^5+2x^4+2x^2+4 &\equiv -x^5+2x^4+2x^2+4 \pmod{5}\\
+    &\equiv -x^5+2x^4+2x^2+4 \pmod{5}.
+    \end{align*}
+    $$
+22. A különbség polinomját a $\mathbb{Z}_5$-ben számoljuk ki, ami:
+    $$
+    \begin{align*}
+    -x^5+2x^4+2x^2+4 &\equiv -x^5+2x^4+2x^2+4 \pmod{5}\\
+    &\equiv -x^5+2x^4+2x^2+4 \pmod{5}.
+    \end{align*}
+    $$
+23. A különbség polinomját a $\mathbb{Z}_5$-ben számoljuk ki, ami:
+    $$
+    \begin{align*}
+    -x^5+2x^4+2x^2+4 &\equiv -x^5+2x^4+2x^2+4 \pmod{5}\\
+    &\equiv -x^5+2x^4+2x^2+4 \pmod{5}.
+    \end{align*}
+    $$
+24. A különbség polinomját a $\mathbb{Z}_5$-ben számoljuk ki, ami:
+    $$
+    \begin{align*}
+    -x^5+2x^4+2x^2+4 &\equiv -x^5+2x^4+2x^2+4 \pmod{5}\\
+    &\equiv -x^5+2x^4+2x^2+4 \pmod{5}.
+    \end{align*}
+    $$
+25. A különbség polinomját a $\mathbb{Z}_5$-ben számoljuk ki, ami:
+    $$
+    \begin{align*}
+    -x^5+2x^4+2x^2+4 &\equiv -x^5+2x^4+2x^2+4 \pmod{5}\\
+    &\equiv -x^5+2x^4+2x^2+4 \pmod{5}.
+    \end{align*}
+    $$
+26. A különbség polinomját a $\mathbb{Z}_5$-ben számoljuk ki, ami:
+    $$
+    \begin{align*}
+    -x^5+2x^4+2x^2+4 &\equiv -x^5+2x^4+2x^2+4 \pmod{5}\\
+    &\equiv -x^5+2x^4+2x^2+4 \pmod{5}.
+    \end{align*}
+    $$
+27. A különbség polinomját a $\mathbb{Z}_5$-ben számoljuk ki, ami:
+    $$
+    \begin{align*}
+    -x^5+2x^4+2x^2+4 &\equiv -x^5+2x^4+2x^2+4 \pmod{5}\\
+    &\equiv -x^5+2x^4+2x^2+4 \pmod{5}.
+    \end{align*}
+    $$
+28. A különbség polinomját a $\mathbb{Z}_5$-ben számoljuk ki, ami:
+    $$
+    \begin{align*}
+    -x^5+2x^4+2x^2+4 &\equiv -x^5+2x^4+2x^2+4 \pmod{5}\\
+    &\equiv -x^5+2x^4+2x^2+4 \pmod{5}.
+    \end{align*}
+    $$
+29. A különbség polinomját a $\mathbb{Z}_5$-ben számoljuk ki, ami:
+    $$
+    \begin{align*}
+    -x^5+2x^4+2x^2+4 &\equiv -x^5+2x^4+2x^2+4 \pmod{5}\\
+    &\equiv -x^5+2x^4+2x^2+4 \pmod{5}.
+    \end{align*}
+    $$
+30. A különbség polinomját a $\mathbb{Z}_5$-ben számoljuk ki, ami:
+    $$
+    \begin{align*}
+    -x^5+2x^4+2x^2+4 &\equiv -x^5+2x^4+2x^2+4 \pmod{5}\\
+    &\equiv -x^5+2x^4+2x^2+4 \pmod{5}.
+    \end{align*}
+    $$
+31. A különbség polinomját a $\mathbb{Z}_5$-ben számoljuk ki, ami:
+    $$
+    \begin{align*}
+    -x^5+2x^4+2x^2+4 &\equiv -x^5+2x^4+2x^2+4 \pmod{5}\\
+    &\equiv -x^5+2x^4+2x^2+4 \pmod{5}.
+    \end{align*}
+    $$
+32. A különbség polinomját a $\mathbb{Z}_5$-ben számoljuk ki, ami:
+    $$
+    \begin{align*}
+    -x^5+2x^4+2x^2+4 &\equiv -x^5+2x^4+2x^2+4 \pmod{5}\\
+    &\equiv -x^5+2x^4+2x^2+4 \pmod{5}.
+    \end{align*}
+    $$
+33. A különbség polinomját a $\mathbb{Z}_5$-ben számoljuk ki, ami:
+    $$
+    \begin{align*}
+    -x^5+2x^4+2x^2+4 &\equiv -x^5+2x^4+2x^2+

@@ -1,0 +1,12 @@
+A képen látható megoldás a következő:
+
+1. 219 és 205 legnagyobb közös osztójának meghatározásához, először a két szám legnagyobb közös osztójának (LCM) meghatározására van szükség.
+2. 219 és 205 LCM-ét a következő módon lehet meghatározni:
+    * 219 és 205 legnagyobb közös osztója az, amely a két szám legnagyobb közös osztója.
+    * A két szám legnagyobb közös osztója az, amely a két szám összege és a két szám különbsége közötti legnagyobb közös osztó.
+    * A két szám összege: 219 + 205 = 424.
+    * A két szám különbsége: 219 - 205 = 14.
+    * A két szám összege és a különbsége közötti legnagyobb közös osztó: 14.
+3. 219 és 205 legnagyobb közös osztója 14.
+
+A képen látható megoldás tehát helyes.

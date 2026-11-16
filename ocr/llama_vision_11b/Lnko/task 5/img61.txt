@@ -1,0 +1,5 @@
+A képen látható megoldás a következő:
+
+*   217 és 201 legnagyobb közös osztója 1.
+
+A megoldás a képen látható.

@@ -1,0 +1,1 @@
+A képen látható megoldás szerint a legnagyobb közös osztó (LCO) 1.

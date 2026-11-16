@@ -1,0 +1,9 @@
+A képen látható megoldás a következő:
+
+1.  Azt mondjuk, hogy 11x ≡ 2 (mod 238) és 16x ≡ 15 (mod 490) együttes megoldását keresjük.
+2.  Azt mondjuk, hogy 11x ≡ 2 (mod 238) megoldása x ≡ 68 (mod 238).
+3.  Azt mondjuk, hogy 16x ≡ 15 (mod 490) megoldása x ≡ 30 (mod 490).
+4.  Azt mondjuk, hogy x ≡ 68 (mod 238) és x ≡ 30 (mod 490) együttes megoldását keresjük.
+5.  Azt mondjuk, hogy x ≡ 68 (mod 238) és x ≡ 30 (mod 490) együttes megoldása x ≡ 30 (mod 490).
+
+A képen látható megoldás tehát x ≡ 30 (mod 490).

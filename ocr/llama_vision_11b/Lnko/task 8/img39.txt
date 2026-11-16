@@ -1,0 +1,11 @@
+A képen látható megoldás a következő:
+
+218 = 1.202 + 16
+202 = 12.16 + 10
+
+16 = 1.10 + 6
+10 = 1.6 + 4
+6 = 1.4 + 2
+4 = 2.2 + 0
+
+A legnagyobb közös osztó 2.

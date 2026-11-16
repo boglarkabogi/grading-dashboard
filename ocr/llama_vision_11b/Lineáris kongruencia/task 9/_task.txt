@@ -1,0 +1,3 @@
+Oldja meg az alábbi lineáris kongruenciákat:
+
+\[19x\equiv 14\pmod{297}\]és\[18x\equiv 17\pmod{482}\]

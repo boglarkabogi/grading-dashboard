@@ -1,0 +1,106 @@
+Breadkulo
+2020.10.08.
+
+\[
+\begin{cases}
+2x \equiv 11 \pmod{15} \\
+3x \equiv 18 \pmod{21}
+\end{cases}
+\]
+
+\[
+\begin{cases}
+2x \equiv 26 \pmod{15} \\
+3x \equiv 39 \pmod{21}
+\end{cases}
+\]
+
+\[
+\begin{cases}
+x \equiv 13 \pmod{15} \\
+x \equiv 13 \pmod{7}
+\end{cases}
+\quad \text{1)} \quad x \equiv 13 + 15k
+\]
+
+\[
+13 + 15k \equiv 13 \pmod{7}
+\]
+
+\[
+15k \equiv 0 \pmod{7}
+\]
+
+\[
+k \equiv 0 \pmod{7}
+\]
+
+\[
+k = 7t
+\]
+
+\[
+\text{2)} \quad x \equiv 13 + 15(7t) \quad \Downarrow
+\]
+
+\[
+x = 105t + 13 \quad \Downarrow
+\]
+
+\[
+\boxed{x \equiv 13 \pmod{105}}
+\]
+
+\[
+\begin{cases}
+2x \equiv 7 \pmod{5} \\
+5x \equiv 17 \pmod{21}
+\end{cases}
+\]
+
+\[
+\begin{cases}
+2x \equiv 12 \pmod{5} \\
+5x \equiv 80 \pmod{21}
+\end{cases}
+\]
+
+\[
+\begin{cases}
+x \equiv 1 \pmod{5} \\
+x \equiv 16 \pmod{21}
+\end{cases}
+\quad \text{1)} \quad x = 1 + 5k
+\]
+
+\[
+1 + 5k \equiv 16 \pmod{21}
+\]
+
+\[
+5k \equiv 15 \pmod{21}
+\]
+
+\[
+k \equiv 3 \pmod{21}
+\]
+
+\[
+\text{2)} \quad k = 3 + 21t \quad \Downarrow
+\]
+
+\[
+x = 1 + 5(3 + 21t)
+\]
+
+\[
+x = 1 + 15 + 105t
+\]
+
+\[
+x = 105t + 16 \quad \Downarrow
+\]
+
+\[
+\boxed{x \equiv 16 \pmod{105}}
+\]

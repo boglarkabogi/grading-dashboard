@@ -1,0 +1,73 @@
+\[
+\begin{cases}
+2x \equiv 5 \pmod{21} \rightarrow 2x \equiv 26 \pmod{21} \rightarrow x \equiv 13 \pmod{21} \\
+3x \equiv 15 \pmod{24} \rightarrow x \equiv 5 \pmod{8}
+\end{cases}
+\]
+
+\[
+21a + 8b = 1
+\]
+\[
+a = -3
+\]
+\[
+b = 8
+\]
+\[
+21 \cdot 8 = 168
+\]
+\[
+x \equiv (-3) \cdot 5 \cdot 21 + 8 \cdot 13 \cdot 8 = 517 \equiv 13 \pmod{168}
+\]
+\[
+\Rightarrow \boxed{x \equiv 13 \pmod{168}}
+\]
+
+\[
+2x \equiv 1 \pmod{21} \rightarrow 2x \equiv 22 \pmod{21} \rightarrow x \equiv 11 \pmod{21}
+\]
+\[
+5x \equiv 11 \pmod{24} \rightarrow 5x \equiv 35 \pmod{24} \rightarrow x \equiv 7 \pmod{24}
+\]
+
+\[
+(21, 24) = 3
+\]
+\[
+x \equiv 11 \pmod{21} \searrow x \equiv 11 \equiv 2 \pmod{3}
+\]
+\[
+\searrow x \equiv 11 \equiv 4 \pmod{7}
+\]
+\[
+x \equiv 7 \pmod{24} \searrow x \equiv 7 \pmod{8}
+\]
+\[
+\searrow x \equiv 7 \equiv 1 \pmod{3}
+\]
+\[
+\Rightarrow \boxed{\text{mince megoldás}}
+\]
+
+\[
+\swarrow x \equiv 7 \pmod{8}
+\]
+\[
+\searrow x \equiv 7 \equiv 1 \pmod{3}
+\]
+\[
+\text{nem lehet}
+\]
+\[
+\text{egyzserre}
+\]
+\[
+32 + 2 \text{ ej}
+\]
+\[
+32 + 1
+\]
+\[
+\text{alatt}
+\]

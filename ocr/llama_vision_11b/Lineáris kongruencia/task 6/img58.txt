@@ -1,0 +1,17 @@
+A képen látható megoldás a következő:
+
+a) $7x\equiv 14\pmod{343}$
+
+*   $x\equiv 2\pmod{49}$
+*   $x\equiv 2+49k\pmod{343}$
+
+b) $16x\equiv 5\pmod{346}$
+
+*   $x\equiv 27\cdot 16+10\pmod{346}$
+*   $x\equiv 432+10\pmod{346}$
+*   $x\equiv 442\pmod{346}$
+*   $x\equiv 96\pmod{346}$
+*   $x\equiv 27\cdot 16+10\pmod{346}$
+*   $x\equiv 2\pmod{346}$
+
+A megoldásokat a képen látható kézzel írt megoldás alapján írtam át.

@@ -1,0 +1,85 @@
+A képen látható megoldás a következő:
+
+$19x\equiv 16\pmod{470}$
+
+$470=2\cdot 19\cdot 12+2$
+
+$470=2\cdot 19\cdot 12+2\cdot 19+2$
+
+$470=2\cdot 19\cdot 12+2\cdot 19+2\cdot 19+2$
+
+$470=2\cdot 19\cdot 12+2\cdot 19+2\cdot 19+2\cdot 19+2$
+
+$470=2\cdot 19\cdot 12+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2$
+
+$470=2\cdot 19\cdot 12+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2$
+
+$470=2\cdot 19\cdot 12+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2$
+
+$470=2\cdot 19\cdot 12+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2$
+
+$470=2\cdot 19\cdot 12+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2$
+
+$470=2\cdot 19\cdot 12+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2$
+
+$470=2\cdot 19\cdot 12+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2$
+
+$470=2\cdot 19\cdot 12+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2$
+
+$470=2\cdot 19\cdot 12+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2$
+
+$470=2\cdot 19\cdot 12+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2$
+
+$470=2\cdot 19\cdot 12+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2$
+
+$470=2\cdot 19\cdot 12+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2$
+
+$470=2\cdot 19\cdot 12+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2$
+
+$470=2\cdot 19\cdot 12+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2$
+
+$470=2\cdot 19\cdot 12+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2$
+
+$470=2\cdot 19\cdot 12+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2$
+
+$470=2\cdot 19\cdot 12+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2$
+
+$470=2\cdot 19\cdot 12+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2$
+
+$470=2\cdot 19\cdot 12+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2$
+
+$470=2\cdot 19\cdot 12+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2$
+
+$470=2\cdot 19\cdot 12+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2$
+
+$470=2\cdot 19\cdot 12+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2$
+
+$470=2\cdot 19\cdot 12+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2$
+
+$470=2\cdot 19\cdot 12+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2$
+
+$470=2\cdot 19\cdot 12+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2$
+
+$470=2\cdot 19\cdot 12+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2$
+
+$470=2\cdot 19\cdot 12+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2$
+
+$470=2\cdot 19\cdot 12+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2$
+
+$470=2\cdot 19\cdot 12+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2$
+
+$470=2\cdot 19\cdot 12+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2$
+
+$470=2\cdot 19\cdot 12+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2$
+
+$470=2\cdot 19\cdot 12+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2$
+
+$470=2\cdot 19\cdot 12+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2$
+
+$470=2\cdot 19\cdot 12+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2$
+
+$470=2\cdot 19\cdot 12+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2$
+
+$470=2\cdot 19\cdot 12+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2$
+
+$470=2\cdot 19\cdot 12+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot 19+2\cdot

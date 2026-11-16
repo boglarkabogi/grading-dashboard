@@ -1,0 +1,332 @@
+A képen látható megoldás a következő:
+
+$$
+\begin{array}{c|ccccc}
+x^4+x^3+3x^2+2x+2 & x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5+x^3+2x+2 & -x^5 & +x^4 & +x^3 & +2x & +2 \\
+\hline
+x^5+x^4+x^3+3x^2+3x+3 & -x^5 & +x^4 & +x^3 & +3x^2 & +3x \\
+\hline
+\end{array}
+$$
+
+A megoldás szerint a legnagyobb közös osztó a következő:
+
+$$
+\begin{array}{c|ccccc}
+x^4+x^3+3x^2+2x+2 & x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5+x^3+2x+2 & -x^5 & +x^4 & +x^3 & +2x & +2 \\
+\hline
+x^5+x^4+x^3+3x^2+3x+3 & -x^5 & +x^4 & +x^3 & +3x^2 & +3x \\
+\hline
+\end{array}
+$$
+
+A legnagyobb közös osztó a következő:
+
+$$
+\begin{array}{c|ccccc}
+x^4+x^3+3x^2+2x+2 & x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5+x^3+2x+2 & -x^5 & +x^4 & +x^3 & +2x & +2 \\
+\hline
+x^5+x^4+x^3+3x^2+3x+3 & -x^5 & +x^4 & +x^3 & +3x^2 & +3x \\
+\hline
+\end{array}
+$$
+
+A legnagyobb közös osztó a következő:
+
+$$
+\begin{array}{c|ccccc}
+x^4+x^3+3x^2+2x+2 & x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5+x^3+2x+2 & -x^5 & +x^4 & +x^3 & +2x & +2 \\
+\hline
+x^5+x^4+x^3+3x^2+3x+3 & -x^5 & +x^4 & +x^3 & +3x^2 & +3x \\
+\hline
+\end{array}
+$$
+
+A legnagyobb közös osztó a következő:
+
+$$
+\begin{array}{c|ccccc}
+x^4+x^3+3x^2+2x+2 & x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5+x^3+2x+2 & -x^5 & +x^4 & +x^3 & +2x & +2 \\
+\hline
+x^5+x^4+x^3+3x^2+3x+3 & -x^5 & +x^4 & +x^3 & +3x^2 & +3x \\
+\hline
+\end{array}
+$$
+
+A legnagyobb közös osztó a következő:
+
+$$
+\begin{array}{c|ccccc}
+x^4+x^3+3x^2+2x+2 & x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5+x^3+2x+2 & -x^5 & +x^4 & +x^3 & +2x & +2 \\
+\hline
+x^5+x^4+x^3+3x^2+3x+3 & -x^5 & +x^4 & +x^3 & +3x^2 & +3x \\
+\hline
+\end{array}
+$$
+
+A legnagyobb közös osztó a következő:
+
+$$
+\begin{array}{c|ccccc}
+x^4+x^3+3x^2+2x+2 & x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5+x^3+2x+2 & -x^5 & +x^4 & +x^3 & +2x & +2 \\
+\hline
+x^5+x^4+x^3+3x^2+3x+3 & -x^5 & +x^4 & +x^3 & +3x^2 & +3x \\
+\hline
+\end{array}
+$$
+
+A legnagyobb közös osztó a következő:
+
+$$
+\begin{array}{c|ccccc}
+x^4+x^3+3x^2+2x+2 & x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5+x^3+2x+2 & -x^5 & +x^4 & +x^3 & +2x & +2 \\
+\hline
+x^5+x^4+x^3+3x^2+3x+3 & -x^5 & +x^4 & +x^3 & +3x^2 & +3x \\
+\hline
+\end{array}
+$$
+
+A legnagyobb közös osztó a következő:
+
+$$
+\begin{array}{c|ccccc}
+x^4+x^3+3x^2+2x+2 & x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5+x^3+2x+2 & -x^5 & +x^4 & +x^3 & +2x & +2 \\
+\hline
+x^5+x^4+x^3+3x^2+3x+3 & -x^5 & +x^4 & +x^3 & +3x^2 & +3x \\
+\hline
+\end{array}
+$$
+
+A legnagyobb közös osztó a következő:
+
+$$
+\begin{array}{c|ccccc}
+x^4+x^3+3x^2+2x+2 & x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5+x^3+2x+2 & -x^5 & +x^4 & +x^3 & +2x & +2 \\
+\hline
+x^5+x^4+x^3+3x^2+3x+3 & -x^5 & +x^4 & +x^3 & +3x^2 & +3x \\
+\hline
+\end{array}
+$$
+
+A legnagyobb közös osztó a következő:
+
+$$
+\begin{array}{c|ccccc}
+x^4+x^3+3x^2+2x+2 & x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5+x^3+2x+2 & -x^5 & +x^4 & +x^3 & +2x & +2 \\
+\hline
+x^5+x^4+x^3+3x^2+3x+3 & -x^5 & +x^4 & +x^3 & +3x^2 & +3x \\
+\hline
+\end{array}
+$$
+
+A legnagyobb közös osztó a következő:
+
+$$
+\begin{array}{c|ccccc}
+x^4+x^3+3x^2+2x+2 & x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5+x^3+2x+2 & -x^5 & +x^4 & +x^3 & +2x & +2 \\
+\hline
+x^5+x^4+x^3+3x^2+3x+3 & -x^5 & +x^4 & +x^3 & +3x^2 & +3x \\
+\hline
+\end{array}
+$$
+
+A legnagyobb közös osztó a következő:
+
+$$
+\begin{array}{c|ccccc}
+x^4+x^3+3x^2+2x+2 & x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5+x^3+2x+2 & -x^5 & +x^4 & +x^3 & +2x & +2 \\
+\hline
+x^5+x^4+x^3+3x^2+3x+3 & -x^5 & +x^4 & +x^3 & +3x^2 & +3x \\
+\hline
+\end{array}
+$$
+
+A legnagyobb közös osztó a következő:
+
+$$
+\begin{array}{c|ccccc}
+x^4+x^3+3x^2+2x+2 & x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5+x^3+2x+2 & -x^5 & +x^4 & +x^3 & +2x & +2 \\
+\hline
+x^5+x^4+x^3+3x^2+3x+3 & -x^5 & +x^4 & +x^3 & +3x^2 & +3x \\
+\hline
+\end{array}
+$$
+
+A legnagyobb közös osztó a következő:
+
+$$
+\begin{array}{c|ccccc}
+x^4+x^3+3x^2+2x+2 & x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5+x^3+2x+2 & -x^5 & +x^4 & +x^3 & +2x & +2 \\
+\hline
+x^5+x^4+x^3+3x^2+3x+3 & -x^5 & +x^4 & +x^3 & +3x^2 & +3x \\
+\hline
+\end{array}
+$$
+
+A legnagyobb közös osztó a következő:
+
+$$
+\begin{array}{c|ccccc}
+x^4+x^3+3x^2+2x+2 & x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5+x^3+2x+2 & -x^5 & +x^4 & +x^3 & +2x & +2 \\
+\hline
+x^5+x^4+x^3+3x^2+3x+3 & -x^5 & +x^4 & +x^3 & +3x^2 & +3x \\
+\hline
+\end{array}
+$$
+
+A legnagyobb közös osztó a következő:
+
+$$
+\begin{array}{c|ccccc}
+x^4+x^3+3x^2+2x+2 & x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5+x^3+2x+2 & -x^5 & +x^4 & +x^3 & +2x & +2 \\
+\hline
+x^5+x^4+x^3+3x^2+3x+3 & -x^5 & +x^4 & +x^3 & +3x^2 & +3x \\
+\hline
+\end{array}
+$$
+
+A legnagyobb közös osztó a következő:
+
+$$
+\begin{array}{c|ccccc}
+x^4+x^3+3x^2+2x+2 & x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5+x^3+2x+2 & -x^5 & +x^4 & +x^3 & +2x & +2 \\
+\hline
+x^5+x^4+x^3+3x^2+3x+3 & -x^5 & +x^4 & +x^3 & +3x^2 & +3x \\
+\hline
+\end{array}
+$$
+
+A legnagyobb közös osztó a következő:
+
+$$
+\begin{array}{c|ccccc}
+x^4+x^3+3x^2+2x+2 & x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5+x^3+2x+2 & -x^5 & +x^4 & +x^3 & +2x & +2 \\
+\hline
+x^5+x^4+x^3+3x^2+3x+3 & -x^5 & +x^4 & +x^3 & +3x^2 & +3x \\
+\hline
+\end{array}
+$$
+
+A legnagyobb közös osztó a következő:
+
+$$
+\begin{array}{c|ccccc}
+x^4+x^3+3x^2+2x+2 & x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5+x^3+2x+2 & -x^5 & +x^4 & +x^3 & +2x & +2 \\
+\hline
+x^5+x^4+x^3+3x^2+3x+3 & -x^5 & +x^4 & +x^3 & +3x^2 & +3x \\
+\hline
+\end{array}
+$$
+
+A legnagyobb közös osztó a következő:
+
+$$
+\begin{array}{c|ccccc}
+x^4+x^3+3x^2+2x+2 & x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5+x^3+2x+2 & -x^5 & +x^4 & +x^3 & +2x & +2 \\
+\hline
+x^5+x^4+x^3+3x^2+3x+3 & -x^5 & +x^4 & +x^3 & +3x^2 & +3x \\
+\hline
+\end{array}
+$$
+
+A legnagyobb közös osztó a következő:
+
+$$
+\begin{array}{c|ccccc}
+x^4+x^3+3x^2+2x+2 & x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5+x^3+2x+2 & -x^5 & +x^4 & +x^3 & +2x & +2 \\
+\hline
+x^5+x^4+x^3+3x^2+3x+3 & -x^5 & +x^4 & +x^3 & +3x^2 & +3x \\
+\hline
+\end{array}
+$$
+
+A legnagyobb közös osztó a következő:
+
+$$
+\begin{array}{c|ccccc}
+x^4+x^3+3x^2+2x+2 & x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5+x^3+2x+2 & -x^5 & +x^4 & +x^3 & +2x & +2 \\
+\hline
+x^5+x^4+x^3+3x^2+3x+3 & -x^5 & +x^4 & +x^3 & +3x^2 & +3x \\
+\hline
+\end{array}
+$$
+
+A legnagyobb közös osztó a következő:
+
+$$
+\begin{array}{c|ccccc}
+x^4+x^3+3x^2+2x+2 & x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5+x^3+2x+2 & -x^5 & +x^4 & +x^3 & +2x & +2 \\
+\hline
+x^5+x^4+x^3+3x^2+3x+3 & -x^5 & +x^4 & +x^3 & +3x^2 & +3x \\
+\hline
+\end{array}
+$$
+
+A legnagyobb közös osztó a következő:
+
+$$
+\begin{array}{c|ccccc}
+x^4+x^3+3x^2+2x+2 & x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5+x^3+2x+2 & -x^5 & +x^4 & +x^3 & +2x & +2 \\
+\hline
+x^5+x^4+x^3+3x^2+3x+3 & -x^5 & +x^4 & +x^3 & +3x^2 & +3x \\
+\hline
+\end{array}
+$$
+
+A legnagyobb közös osztó a következő:
+
+$$
+\begin{array}{c|ccccc}
+x^4+x^3+3x^2+2x+2 & x^4 & x^3 & x^2 & x & 1 \\
+\hline
+x^5+x^3+2x+2 & -x^5 & +x^4 & +x^

@@ -1,0 +1,27 @@
+A képen látható megoldás a következő:
+
+$$
+\begin{align*}
+f(x) &= x^4+3x^3+2x^2+x+4,\\
+g(x) &= x^5+x^4+x^2+x+2.
+\end{align*}
+$$
+
+A legnagyobb közös osztó (LCM) kiszámításához, először a két polinomot egyszerűsítjük. Azt tapasztaljuk, hogy $f(x)$ és $g(x)$ nem oszthatók egymással, ezért a LCM $1$ lesz.
+
+$$
+\begin{align*}
+f(x) &= x^4+3x^3+2x^2+x+4,\\
+g(x) &= x^5+x^4+x^2+x+2.
+\end{align*}
+$$
+
+A LCM $1$ lesz, mivel a két polinom nem osztható egymással.
+
+$$
+\begin{align*}
+\text{LCM}(f(x),g(x)) &= 1.
+\end{align*}
+$$
+
+A LCM $1$ lesz, mivel a két polinom nem osztható egymással.

@@ -1,0 +1,83 @@
+Beadandó 06
+
+a)
+\[
+\begin{cases}
+2x \equiv 5 \pmod{21} \Rightarrow 2x \equiv 26 \pmod{21} \Rightarrow x \equiv 13 \pmod{21} \\
+3x \equiv 15 \pmod{26} \Rightarrow x \equiv 5 \pmod{8}
+\end{cases}
+\]
+\[
+\begin{cases}
+x \equiv 13 \pmod{21} \rightarrow x = 13 + 21y \\
+x \equiv 5 \pmod{8} \Rightarrow 13 + 21y \equiv 5 \pmod{8}
+\end{cases}
+\]
+\[
+13, 21 \equiv 5 \pmod{8}
+\]
+\[
+5 + 5y \equiv 5 \pmod{8}
+\]
+\[
+5y \equiv 0 \pmod{8} \quad (5,8)=1
+\]
+\[
+y \equiv 0 \pmod{8} \Rightarrow y = 8k \quad (k \in \mathbb{Z})
+\]
+\[
+y = 1y + 21(8k) = 13 + 168k \Rightarrow x \equiv 13 \pmod{168}
+\]
+
+b)
+\[
+\begin{cases}
+27 \equiv 1 \pmod{21} \Rightarrow 2x - 21y = 1 \\
+5x \equiv 11 \pmod{26} \Rightarrow 5x - 26y = 1
+\end{cases}
+\]
+\[
+21 = 10 \cdot 2 + 1 \Rightarrow 1 = 21 - 10 \cdot 2
+\]
+\[
+2 = 2 \cdot 1 + 0
+\]
+\[
+x \equiv 1 \cdot 11 = 11 \pmod{21}
+\]
+\[
+26 = 6 \cdot 5 + 1
+\]
+\[
+x = 11 + 21k \quad (k \in \mathbb{Z})
+\]
+\[
+5 = 1 \cdot 4 + 1
+\]
+\[
+4 = 4 \cdot 1 + 0
+\]
+\[
+1 = 5 - 1(26 - 6 \cdot 5) = 5 - 26 + 6 \cdot 5 = 5 \cdot 5 - 1 \cdot 26 \Rightarrow 5 \cdot 5 \equiv 1 \pmod{26}
+\]
+\[
+\begin{cases}
+x \equiv 11 \pmod{21} \quad x = 11 + 21k \\
+x \equiv 4 \pmod{26}
+\end{cases}
+\]
+\[
+x \equiv 5 \cdot 11 = 55 \pmod{26}
+\]
+\[
+x \equiv 4 \pmod{26}
+\]
+\[
+11 + 21k \equiv 4 \pmod{26}
+\]
+\[
+21k \equiv -7 \equiv 20 \pmod{26} \Rightarrow 21k - 26y = 20 \quad (21,26)=3
+\]
+\[
+\frac{20}{3} = \emptyset
+\]

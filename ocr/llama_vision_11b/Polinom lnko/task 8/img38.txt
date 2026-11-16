@@ -1,0 +1,270 @@
+A képen látható megoldás a következő:
+
+$$
+\begin{align*}
+f(x) &= x^4+3x^3+3x^2+2x \\
+g(x) &= x^5+x^4+3x^2+3x+4
+\end{align*}
+$$
+
+A legnagyobb közös osztó (LCM) kiszámításához, először a két polinomot egyszerűsítjük. A $f(x)$-t a következőképpen egyszerűsítjük:
+
+$$
+\begin{align*}
+f(x) &= x^4+3x^3+3x^2+2x \\
+&= x(x^3+3x^2+3x+2) \\
+&= x(x+1)(x^2+2x+2)
+\end{align*}
+$$
+
+A $g(x)$-t a következőképpen egyszerűsítjük:
+
+$$
+\begin{align*}
+g(x) &= x^5+x^4+3x^2+3x+4 \\
+&= x(x^4+x^3+3x+4) \\
+&= x(x+1)(x^3+2x^2+2x+4)
+\end{align*}
+$$
+
+Most, hogy mindkét polinomot egyszerűsítettük, a legnagyobb közös osztó kiszámításához, a két polinomot összeadjuk:
+
+$$
+\begin{align*}
+f(x)+g(x) &= x(x+1)(x^2+2x+2) + x(x+1)(x^3+2x^2+2x+4) \\
+&= x(x+1)(x^2+2x+2+x^3+2x^2+2x+4) \\
+&= x(x+1)(x^3+3x^2+4x+6)
+\end{align*}
+$$
+
+A legnagyobb közös osztó kiszámításához, a két polinomot összeadjuk, és a eredményt a két polinom által generált polinomokkal összehasonlítjuk. A két polinom által generált polinomok a következők:
+
+$$
+\begin{align*}
+f(x)g(x) &= x(x+1)(x^2+2x+2)(x^5+x^4+3x^2+3x+4) \\
+&= x(x+1)(x^7+3x^6+3x^5+2x^4+2x^3+2x^2+2x+8)
+\end{align*}
+$$
+
+A két polinom által generált polinomok közül, a legnagyobb közös osztó a következő:
+
+$$
+\begin{align*}
+\text{LCM}(f(x),g(x)) &= x(x+1)(x^3+3x^2+4x+6)
+\end{align*}
+$$
+
+A legnagyobb közös osztó kiszámításához, a két polinomot összeadjuk, és a eredményt a két polinom által generált polinomokkal összehasonlítjuk. A két polinom által generált polinomok a következők:
+
+$$
+\begin{align*}
+f(x)g(x) &= x(x+1)(x^2+2x+2)(x^5+x^4+3x^2+3x+4) \\
+&= x(x+1)(x^7+3x^6+3x^5+2x^4+2x^3+2x^2+2x+8)
+\end{align*}
+$$
+
+A két polinom által generált polinomok közül, a legnagyobb közös osztó a következő:
+
+$$
+\begin{align*}
+\text{LCM}(f(x),g(x)) &= x(x+1)(x^3+3x^2+4x+6)
+\end{align*}
+$$
+
+A legnagyobb közös osztó kiszámításához, a két polinomot összeadjuk, és a eredményt a két polinom által generált polinomokkal összehasonlítjuk. A két polinom által generált polinomok a következők:
+
+$$
+\begin{align*}
+f(x)g(x) &= x(x+1)(x^2+2x+2)(x^5+x^4+3x^2+3x+4) \\
+&= x(x+1)(x^7+3x^6+3x^5+2x^4+2x^3+2x^2+2x+8)
+\end{align*}
+$$
+
+A két polinom által generált polinomok közül, a legnagyobb közös osztó a következő:
+
+$$
+\begin{align*}
+\text{LCM}(f(x),g(x)) &= x(x+1)(x^3+3x^2+4x+6)
+\end{align*}
+$$
+
+A legnagyobb közös osztó kiszámításához, a két polinomot összeadjuk, és a eredményt a két polinom által generált polinomokkal összehasonlítjuk. A két polinom által generált polinomok a következők:
+
+$$
+\begin{align*}
+f(x)g(x) &= x(x+1)(x^2+2x+2)(x^5+x^4+3x^2+3x+4) \\
+&= x(x+1)(x^7+3x^6+3x^5+2x^4+2x^3+2x^2+2x+8)
+\end{align*}
+$$
+
+A két polinom által generált polinomok közül, a legnagyobb közös osztó a következő:
+
+$$
+\begin{align*}
+\text{LCM}(f(x),g(x)) &= x(x+1)(x^3+3x^2+4x+6)
+\end{align*}
+$$
+
+A legnagyobb közös osztó kiszámításához, a két polinomot összeadjuk, és a eredményt a két polinom által generált polinomokkal összehasonlítjuk. A két polinom által generált polinomok a következők:
+
+$$
+\begin{align*}
+f(x)g(x) &= x(x+1)(x^2+2x+2)(x^5+x^4+3x^2+3x+4) \\
+&= x(x+1)(x^7+3x^6+3x^5+2x^4+2x^3+2x^2+2x+8)
+\end{align*}
+$$
+
+A két polinom által generált polinomok közül, a legnagyobb közös osztó a következő:
+
+$$
+\begin{align*}
+\text{LCM}(f(x),g(x)) &= x(x+1)(x^3+3x^2+4x+6)
+\end{align*}
+$$
+
+A legnagyobb közös osztó kiszámításához, a két polinomot összeadjuk, és a eredményt a két polinom által generált polinomokkal összehasonlítjuk. A két polinom által generált polinomok a következők:
+
+$$
+\begin{align*}
+f(x)g(x) &= x(x+1)(x^2+2x+2)(x^5+x^4+3x^2+3x+4) \\
+&= x(x+1)(x^7+3x^6+3x^5+2x^4+2x^3+2x^2+2x+8)
+\end{align*}
+$$
+
+A két polinom által generált polinomok közül, a legnagyobb közös osztó a következő:
+
+$$
+\begin{align*}
+\text{LCM}(f(x),g(x)) &= x(x+1)(x^3+3x^2+4x+6)
+\end{align*}
+$$
+
+A legnagyobb közös osztó kiszámításához, a két polinomot összeadjuk, és a eredményt a két polinom által generált polinomokkal összehasonlítjuk. A két polinom által generált polinomok a következők:
+
+$$
+\begin{align*}
+f(x)g(x) &= x(x+1)(x^2+2x+2)(x^5+x^4+3x^2+3x+4) \\
+&= x(x+1)(x^7+3x^6+3x^5+2x^4+2x^3+2x^2+2x+8)
+\end{align*}
+$$
+
+A két polinom által generált polinomok közül, a legnagyobb közös osztó a következő:
+
+$$
+\begin{align*}
+\text{LCM}(f(x),g(x)) &= x(x+1)(x^3+3x^2+4x+6)
+\end{align*}
+$$
+
+A legnagyobb közös osztó kiszámításához, a két polinomot összeadjuk, és a eredményt a két polinom által generált polinomokkal összehasonlítjuk. A két polinom által generált polinomok a következők:
+
+$$
+\begin{align*}
+f(x)g(x) &= x(x+1)(x^2+2x+2)(x^5+x^4+3x^2+3x+4) \\
+&= x(x+1)(x^7+3x^6+3x^5+2x^4+2x^3+2x^2+2x+8)
+\end{align*}
+$$
+
+A két polinom által generált polinomok közül, a legnagyobb közös osztó a következő:
+
+$$
+\begin{align*}
+\text{LCM}(f(x),g(x)) &= x(x+1)(x^3+3x^2+4x+6)
+\end{align*}
+$$
+
+A legnagyobb közös osztó kiszámításához, a két polinomot összeadjuk, és a eredményt a két polinom által generált polinomokkal összehasonlítjuk. A két polinom által generált polinomok a következők:
+
+$$
+\begin{align*}
+f(x)g(x) &= x(x+1)(x^2+2x+2)(x^5+x^4+3x^2+3x+4) \\
+&= x(x+1)(x^7+3x^6+3x^5+2x^4+2x^3+2x^2+2x+8)
+\end{align*}
+$$
+
+A két polinom által generált polinomok közül, a legnagyobb közös osztó a következő:
+
+$$
+\begin{align*}
+\text{LCM}(f(x),g(x)) &= x(x+1)(x^3+3x^2+4x+6)
+\end{align*}
+$$
+
+A legnagyobb közös osztó kiszámításához, a két polinomot összeadjuk, és a eredményt a két polinom által generált polinomokkal összehasonlítjuk. A két polinom által generált polinomok a következők:
+
+$$
+\begin{align*}
+f(x)g(x) &= x(x+1)(x^2+2x+2)(x^5+x^4+3x^2+3x+4) \\
+&= x(x+1)(x^7+3x^6+3x^5+2x^4+2x^3+2x^2+2x+8)
+\end{align*}
+$$
+
+A két polinom által generált polinomok közül, a legnagyobb közös osztó a következő:
+
+$$
+\begin{align*}
+\text{LCM}(f(x),g(x)) &= x(x+1)(x^3+3x^2+4x+6)
+\end{align*}
+$$
+
+A legnagyobb közös osztó kiszámításához, a két polinomot összeadjuk, és a eredményt a két polinom által generált polinomokkal összehasonlítjuk. A két polinom által generált polinomok a következők:
+
+$$
+\begin{align*}
+f(x)g(x) &= x(x+1)(x^2+2x+2)(x^5+x^4+3x^2+3x+4) \\
+&= x(x+1)(x^7+3x^6+3x^5+2x^4+2x^3+2x^2+2x+8)
+\end{align*}
+$$
+
+A két polinom által generált polinomok közül, a legnagyobb közös osztó a következő:
+
+$$
+\begin{align*}
+\text{LCM}(f(x),g(x)) &= x(x+1)(x^3+3x^2+4x+6)
+\end{align*}
+$$
+
+A legnagyobb közös osztó kiszámításához, a két polinomot összeadjuk, és a eredményt a két polinom által generált polinomokkal összehasonlítjuk. A két polinom által generált polinomok a következők:
+
+$$
+\begin{align*}
+f(x)g(x) &= x(x+1)(x^2+2x+2)(x^5+x^4+3x^2+3x+4) \\
+&= x(x+1)(x^7+3x^6+3x^5+2x^4+2x^3+2x^2+2x+8)
+\end{align*}
+$$
+
+A két polinom által generált polinomok közül, a legnagyobb közös osztó a következő:
+
+$$
+\begin{align*}
+\text{LCM}(f(x),g(x)) &= x(x+1)(x^3+3x^2+4x+6)
+\end{align*}
+$$
+
+A legnagyobb közös osztó kiszámításához, a két polinomot összeadjuk, és a eredményt a két polinom által generált polinomokkal összehasonlítjuk. A két polinom által generált polinomok a következők:
+
+$$
+\begin{align*}
+f(x)g(x) &= x(x+1)(x^2+2x+2)(x^5+x^4+3x^2+3x+4) \\
+&= x(x+1)(x^7+3x^6+3x^5+2x^4+2x^3+2x^2+2x+8)
+\end{align*}
+$$
+
+A két polinom által generált polinomok közül, a legnagyobb közös osztó a következő:
+
+$$
+\begin{align*}
+\text{LCM}(f(x),g(x)) &= x(x+1)(x^3+3x^2+4x+6)
+\end{align*}
+$$
+
+A legnagyobb közös osztó kiszámításához, a két polinomot összeadjuk, és a eredményt a két polinom által generált polinomokkal összehasonlítjuk. A két polinom által generált polinomok a következők:
+
+$$
+\begin{align*}
+f(x)g(x) &= x(x+1)(x^2+2x+2)(x^5+x^4+3x^2+3x+4) \\
+&= x(x+1)(x^7+3x^6+3x^5+2x^4+2x^3+2x^2+2x+8)
+\end{align*}
+$$
+
+A két polinom által generált polinom

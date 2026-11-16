@@ -1,0 +1,21 @@
+A képen látható megoldás a következő:
+
+$$
+\begin{align*}
+216 &= 2^3 \cdot 3^3 \\
+205 &= 5 \cdot 41
+\end{align*}
+$$
+
+A legnagyobb közös osztó (LCM) kiszámításához, a kétszeresével szorozzuk a legnagyobb exponensokat:
+
+$$
+\begin{align*}
+\text{LCM}(216, 205) &= 2^3 \cdot 3^3 \cdot 5 \cdot 41 \\
+&= 8 \cdot 27 \cdot 5 \cdot 41 \\
+&= 216 \cdot 205 \\
+&= 44160
+\end{align*}
+$$
+
+A legnagyobb közös osztó 44160.

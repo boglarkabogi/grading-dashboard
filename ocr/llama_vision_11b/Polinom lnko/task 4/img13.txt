@@ -1,0 +1,474 @@
+A képen látható megoldás a következő:
+
+1. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+2. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+3. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+4. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+5. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+6. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+7. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+8. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+9. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+10. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+11. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+12. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+13. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+14. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+15. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+16. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+17. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+18. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+19. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+20. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+21. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+22. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+23. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+24. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+25. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+26. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+27. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+28. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+29. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+30. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+31. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+32. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+33. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+34. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+35. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+36. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+37. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+38. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+39. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+40. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+41. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+42. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+43. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+44. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+45. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+46. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+47. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+48. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+49. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+50. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+51. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+52. A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4
+\end{array}
+$$
+
+53. A képen látható megoldás a következő:
+
+$$
+\begin{array}{r

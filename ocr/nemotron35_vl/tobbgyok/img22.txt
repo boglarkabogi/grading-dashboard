@@ -1,0 +1,25 @@
+f = x^4 + x^2 \in \mathbb{Z}_5[x] \quad g = x^3 \in \mathbb{Z}_6[x]
+
+f = x^4 + x^2 = (x^3 + x + 4)x + x
+
+f \equiv x \quad (x^3 + x + 4)
+
+g = x^3 = (x^3 + x + 4) + 4x + 1
+
+g \equiv 4x + 1 \quad (x^3 + x + 4)
+
+\frac{f \cdot g \equiv 4x^2 + x \quad (x^3 + x + 4)}{}
+
+f \cdot g^2 + f^2 \cdot g \equiv x(4x + 1)^2 + x^2(4x + 1) \equiv x^3 + 3x^2 + x + 4x^3 + x^2 \equiv 4x^2 + x
+
+\frac{f \cdot g^2 + f^2 \cdot g \equiv 4x^2 + x \quad (x^3 + x + 4)}{}
+
+f^8 \equiv x^8 \equiv (x^3 + x + 4)x^5 + 4x^6 + x^5 \equiv (x^3 + x + 4)x^3 + 4x^5 + 4x^4 + x^3
+
+\equiv (x^3 + x + 4) \cdot 4x^2 + 4x^6 + 2x^3 + 4x^3
+
+\equiv (x^3 + x + 4)x^2 + x^4 + 3x^3 + x^4 \equiv (x^3 + x + 4)x + 3x^3 + x \equiv
+
+\equiv (x^3 + x + 4) \cdot 3 + 3x + 3
+
+f^8 \equiv 3x + 3 \quad (x^3 + x + 4)

@@ -1,0 +1,28 @@
+A képen látható megoldás a következő:
+
+LNKOR16,205)
+
+216-1-205=9
+
+205-22.9=7
+
+9-1.7=2
+
+7-3.2=1
+
+2-2.1=0
+
+Relativ prinek
+
+A megoldás a legnagyobb közös osztó (LCM) kiszámítására szolgál. A LCM kiszámításához a két szám legnagyobb osztóit kell megtalálni, majd a két szám legnagyobb osztójának a szorzatát kell kiszámítani.
+
+A képen látható megoldás szerint:
+
+*   216 legnagyobb osztója 9
+*   205 legnagyobb osztója 7
+
+A két szám legnagyobb osztójának a szorzata:
+
+9 x 7 = 63
+
+Ezért a 216 és 205 legnagyobb közös osztója 63.

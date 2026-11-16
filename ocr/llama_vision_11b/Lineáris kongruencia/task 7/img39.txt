@@ -1,0 +1,427 @@
+A képen látható megoldás a következő:
+
+**13x ≡ 19 (mod 414)**
+
+*   A megoldás a következő:
+    *   13x ≡ 19 (mod 414)
+    *   13x ≡ 19 + 414k (mod 414)
+    *   13x ≡ 433 + 414k (mod 414)
+    *   13x ≡ 7 + 414k (mod 414)
+    *   x ≡ 7 + 414k/13 (mod 414)
+    *   x ≡ 7 + 32k (mod 414)
+    *   x ≡ 39 + 32k (mod 414)
+
+**20x ≡ 6 (mod 412)**
+
+*   A megoldás a következő:
+    *   20x ≡ 6 (mod 412)
+    *   20x ≡ 6 + 412k (mod 412)
+    *   20x ≡ 418 + 412k (mod 412)
+    *   20x ≡ 6 + 412k (mod 412)
+    *   x ≡ 6 + 412k/20 (mod 412)
+    *   x ≡ 6 + 20k (mod 412)
+    *   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡ 39 + 32k (mod 414)
+*   x ≡ 26 + 20k (mod 412)
+
+A két egyenlet megoldása a következő:
+
+*   x ≡

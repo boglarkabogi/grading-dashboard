@@ -1,0 +1,3 @@
+Oldja meg az alábbi lineáris kongruenciákat:
+
+$7x\equiv 12\pmod{313}$ és $20x\equiv 5\pmod{454}$

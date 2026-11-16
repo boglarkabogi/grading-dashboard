@@ -1,0 +1,585 @@
+A képen látható megoldás a következő:
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+A megoldás a következő:
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{343}$
+
+$16x\equiv 5\pmod{346}$
+
+$7x\equiv 14\pmod{

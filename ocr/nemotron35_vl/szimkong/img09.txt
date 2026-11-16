@@ -1,0 +1,32 @@
+Dímat 4. beadandó
+
+3x \equiv 9 \quad (75) \quad \rightarrow \quad x \equiv 3 \quad (5)
+
+5x \equiv 17 \quad (24) \quad \rightarrow \quad 25x \equiv 85^{(24)} \rightarrow x \equiv 85^{(24)} \rightarrow x \equiv 13 \quad (24)
+
+x \equiv 3 \mod 5
+x \equiv 13 \mod 24
+\Rightarrow \text{KMT. reptint van m.o. mod } 120 \quad (5,24)
+
+x = 24k + 13
+
+24k + 13 \equiv 3 \mod 5
+-k + 3 \equiv 3 \quad (5)
+-k \equiv 0 \quad (5)
+k \equiv 0 \quad (5)
+
+\Rightarrow k = 5m \quad (m \in \mathbb{Z}) \rightarrow x = 24(5m) + 13 = 120m + 13
+
+2x \equiv 5 \mod 15 \rightarrow x \equiv 10 \mod 15 \quad \Rightarrow \quad x \equiv 13 \mod 120
+
+5x \equiv 7 \mod 24 \rightarrow x \equiv 35 \quad (24) \rightarrow x \equiv 11 \quad (24)
+
+x \equiv 10 \quad (15)
+x \equiv 11 \quad (24)
+(15,24) = 3 \quad \Rightarrow \quad (40-3)10 \equiv 1 \mod 3
+11 \equiv 2 \mod 3
+1 \not\equiv 2 \mod 3
+
+\downarrow
+
+Nincs megoldás

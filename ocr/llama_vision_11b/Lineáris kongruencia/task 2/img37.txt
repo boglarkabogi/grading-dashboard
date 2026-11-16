@@ -1,0 +1,230 @@
+### 1. Lineáris Kongruencia 1: $12x\equiv 8\pmod{259}$
+
+A képen látható megoldás szerint:
+
+*   Azt mondják, hogy $12x\equiv 8\pmod{259}$, ami azt jelenti, hogy $12x-8$ osztója van $259$-nak.
+*   Azt mondják, hogy $12x-8=259k$, ahol $k$ egy egész szám.
+*   Azt mondják, hogy $12x=259k+8$.
+*   Azt mondják, hogy $x=\frac{259k+8}{12}$.
+*   Azt mondják, hogy $x=\frac{259k}{12}+\frac{8}{12}$.
+*   Azt mondják, hogy $x=\frac{259k}{12}+\frac{2}{3}$.
+*   Azt mondják, hogy $x=\frac{259k+8}{12}$.
+
+### 2. Lineáris Kongruencia 2: $16x\equiv 13\pmod{314}$
+
+A képen látható megoldás szerint:
+
+*   Azt mondják, hogy $16x\equiv 13\pmod{314}$, ami azt jelenti, hogy $16x-13$ osztója van $314$-nek.
+*   Azt mondják, hogy $16x-13=314m$, ahol $m$ egy egész szám.
+*   Azt mondják, hogy $16x=314m+13$.
+*   Azt mondják, hogy $x=\frac{314m+13}{16}$.
+*   Azt mondják, hogy $x=\frac{314m}{16}+\frac{13}{16}$.
+*   Azt mondják, hogy $x=\frac{314m}{16}+\frac{13}{16}$.
+*   Azt mondják, hogy $x=\frac{314m+13}{16}$.
+
+### 3. Együttes Megoldás
+
+A képen látható megoldás szerint:
+
+*   Azt mondják, hogy $x=\frac{259k+8}{12}$ és $x=\frac{314m+13}{16}$.
+*   Azt mondják, hogy $x=\frac{259k+8}{12}=\frac{314m+13}{16}$.
+*   Azt mondják, hogy $259k+8=314m+13$.
+*   Azt mondják, hogy $259k-314m=5$.
+*   Azt mondják, hogy $k=\frac{5+314m}{259}$.
+*   Azt mondják, hogy $k=\frac{5}{259}+\frac{314m}{259}$.
+*   Azt mondják, hogy $k=\frac{5}{259}+\frac{314m}{259}$.
+*   Azt mondják, hogy $k=\frac{5+314m}{259}$.
+
+### 4. Végső Megoldás
+
+A képen látható megoldás szerint:
+
+*   Azt mondják, hogy $x=\frac{259k+8}{12}$ és $k=\frac{5+314m}{259}$.
+*   Azt mondják, hogy $x=\frac{259k+8}{12}=\frac{5+314m}{259}$.
+*   Azt mondják, hogy $259k+8=5+314m$.
+*   Azt mondják, hogy $259k-314m=-3$.
+*   Azt mondják, hogy $k=\frac{-3+314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-3}{259}+\frac{314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-3}{259}+\frac{314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-3+314m}{259}$.
+
+### 5. Végső Megoldás
+
+A képen látható megoldás szerint:
+
+*   Azt mondják, hogy $x=\frac{259k+8}{12}$ és $k=\frac{-3+314m}{259}$.
+*   Azt mondják, hogy $x=\frac{259k+8}{12}=\frac{-3+314m}{259}$.
+*   Azt mondják, hogy $259k+8=-3+314m$.
+*   Azt mondják, hogy $259k-314m=-11$.
+*   Azt mondják, hogy $k=\frac{-11+314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-11}{259}+\frac{314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-11}{259}+\frac{314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-11+314m}{259}$.
+
+### 6. Végső Megoldás
+
+A képen látható megoldás szerint:
+
+*   Azt mondják, hogy $x=\frac{259k+8}{12}$ és $k=\frac{-11+314m}{259}$.
+*   Azt mondják, hogy $x=\frac{259k+8}{12}=\frac{-11+314m}{259}$.
+*   Azt mondják, hogy $259k+8=-11+314m$.
+*   Azt mondják, hogy $259k-314m=-19$.
+*   Azt mondják, hogy $k=\frac{-19+314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-19}{259}+\frac{314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-19}{259}+\frac{314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-19+314m}{259}$.
+
+### 7. Végső Megoldás
+
+A képen látható megoldás szerint:
+
+*   Azt mondják, hogy $x=\frac{259k+8}{12}$ és $k=\frac{-19+314m}{259}$.
+*   Azt mondják, hogy $x=\frac{259k+8}{12}=\frac{-19+314m}{259}$.
+*   Azt mondják, hogy $259k+8=-19+314m$.
+*   Azt mondják, hogy $259k-314m=-27$.
+*   Azt mondják, hogy $k=\frac{-27+314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-27}{259}+\frac{314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-27}{259}+\frac{314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-27+314m}{259}$.
+
+### 8. Végső Megoldás
+
+A képen látható megoldás szerint:
+
+*   Azt mondják, hogy $x=\frac{259k+8}{12}$ és $k=\frac{-27+314m}{259}$.
+*   Azt mondják, hogy $x=\frac{259k+8}{12}=\frac{-27+314m}{259}$.
+*   Azt mondják, hogy $259k+8=-27+314m$.
+*   Azt mondják, hogy $259k-314m=-35$.
+*   Azt mondják, hogy $k=\frac{-35+314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-35}{259}+\frac{314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-35}{259}+\frac{314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-35+314m}{259}$.
+
+### 9. Végső Megoldás
+
+A képen látható megoldás szerint:
+
+*   Azt mondják, hogy $x=\frac{259k+8}{12}$ és $k=\frac{-35+314m}{259}$.
+*   Azt mondják, hogy $x=\frac{259k+8}{12}=\frac{-35+314m}{259}$.
+*   Azt mondják, hogy $259k+8=-35+314m$.
+*   Azt mondják, hogy $259k-314m=-43$.
+*   Azt mondják, hogy $k=\frac{-43+314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-43}{259}+\frac{314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-43}{259}+\frac{314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-43+314m}{259}$.
+
+### 10. Végső Megoldás
+
+A képen látható megoldás szerint:
+
+*   Azt mondják, hogy $x=\frac{259k+8}{12}$ és $k=\frac{-43+314m}{259}$.
+*   Azt mondják, hogy $x=\frac{259k+8}{12}=\frac{-43+314m}{259}$.
+*   Azt mondják, hogy $259k+8=-43+314m$.
+*   Azt mondják, hogy $259k-314m=-51$.
+*   Azt mondják, hogy $k=\frac{-51+314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-51}{259}+\frac{314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-51}{259}+\frac{314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-51+314m}{259}$.
+
+### 11. Végső Megoldás
+
+A képen látható megoldás szerint:
+
+*   Azt mondják, hogy $x=\frac{259k+8}{12}$ és $k=\frac{-51+314m}{259}$.
+*   Azt mondják, hogy $x=\frac{259k+8}{12}=\frac{-51+314m}{259}$.
+*   Azt mondják, hogy $259k+8=-51+314m$.
+*   Azt mondják, hogy $259k-314m=-59$.
+*   Azt mondják, hogy $k=\frac{-59+314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-59}{259}+\frac{314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-59}{259}+\frac{314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-59+314m}{259}$.
+
+### 12. Végső Megoldás
+
+A képen látható megoldás szerint:
+
+*   Azt mondják, hogy $x=\frac{259k+8}{12}$ és $k=\frac{-59+314m}{259}$.
+*   Azt mondják, hogy $x=\frac{259k+8}{12}=\frac{-59+314m}{259}$.
+*   Azt mondják, hogy $259k+8=-59+314m$.
+*   Azt mondják, hogy $259k-314m=-67$.
+*   Azt mondják, hogy $k=\frac{-67+314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-67}{259}+\frac{314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-67}{259}+\frac{314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-67+314m}{259}$.
+
+### 13. Végső Megoldás
+
+A képen látható megoldás szerint:
+
+*   Azt mondják, hogy $x=\frac{259k+8}{12}$ és $k=\frac{-67+314m}{259}$.
+*   Azt mondják, hogy $x=\frac{259k+8}{12}=\frac{-67+314m}{259}$.
+*   Azt mondják, hogy $259k+8=-67+314m$.
+*   Azt mondják, hogy $259k-314m=-75$.
+*   Azt mondják, hogy $k=\frac{-75+314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-75}{259}+\frac{314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-75}{259}+\frac{314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-75+314m}{259}$.
+
+### 14. Végső Megoldás
+
+A képen látható megoldás szerint:
+
+*   Azt mondják, hogy $x=\frac{259k+8}{12}$ és $k=\frac{-75+314m}{259}$.
+*   Azt mondják, hogy $x=\frac{259k+8}{12}=\frac{-75+314m}{259}$.
+*   Azt mondják, hogy $259k+8=-75+314m$.
+*   Azt mondják, hogy $259k-314m=-83$.
+*   Azt mondják, hogy $k=\frac{-83+314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-83}{259}+\frac{314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-83}{259}+\frac{314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-83+314m}{259}$.
+
+### 15. Végső Megoldás
+
+A képen látható megoldás szerint:
+
+*   Azt mondják, hogy $x=\frac{259k+8}{12}$ és $k=\frac{-83+314m}{259}$.
+*   Azt mondják, hogy $x=\frac{259k+8}{12}=\frac{-83+314m}{259}$.
+*   Azt mondják, hogy $259k+8=-83+314m$.
+*   Azt mondják, hogy $259k-314m=-91$.
+*   Azt mondják, hogy $k=\frac{-91+314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-91}{259}+\frac{314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-91}{259}+\frac{314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-91+314m}{259}$.
+
+### 16. Végső Megoldás
+
+A képen látható megoldás szerint:
+
+*   Azt mondják, hogy $x=\frac{259k+8}{12}$ és $k=\frac{-91+314m}{259}$.
+*   Azt mondják, hogy $x=\frac{259k+8}{12}=\frac{-91+314m}{259}$.
+*   Azt mondják, hogy $259k+8=-91+314m$.
+*   Azt mondják, hogy $259k-314m=-99$.
+*   Azt mondják, hogy $k=\frac{-99+314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-99}{259}+\frac{314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-99}{259}+\frac{314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-99+314m}{259}$.
+
+### 17. Végső Megoldás
+
+A képen látható megoldás szerint:
+
+*   Azt mondják, hogy $x=\frac{259k+8}{12}$ és $k=\frac{-99+314m}{259}$.
+*   Azt mondják, hogy $x=\frac{259k+8}{12}=\frac{-99+314m}{259}$.
+*   Azt mondják, hogy $259k+8=-99+314m$.
+*   Azt mondják, hogy $259k-314m=-107$.
+*   Azt mondják, hogy $k=\frac{-107+314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-107}{259}+\frac{314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-107}{259}+\frac{314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-107+314m}{259}$.
+
+### 18. Végső Megoldás
+
+A képen látható megoldás szerint:
+
+*   Azt mondják, hogy $x=\frac{259k+8}{12}$ és $k=\frac{-107+314m}{259}$.
+*   Azt mondják, hogy $x=\frac{259k+8}{12}=\frac{-107+314m}{259}$.
+*   Azt mondják, hogy $259k+8=-107+314m$.
+*   Azt mondják, hogy $259k-314m=-115$.
+*   Azt mondják, hogy $k=\frac{-115+314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-115}{259}+\frac{314m}{259}$.
+*   Azt mondják, hogy $k=\frac{-115}{259}+\

@@ -1,0 +1,397 @@
+A képen látható megoldás a következő:
+
+11x ≡ 2 (mod 238)
+
+x ≡ 238 - 11(21) + 9 (mod 238)
+
+x ≡ 238 - 231 + 9 (mod 238)
+
+x ≡ 16 (mod 238)
+
+16x ≡ 15 (mod 490)
+
+x ≡ 15(30) - 1 (mod 490)
+
+x ≡ 450 - 1 (mod 490)
+
+x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (mod 238) és x ≡ 449 (mod 490)
+
+x ≡ 16 (

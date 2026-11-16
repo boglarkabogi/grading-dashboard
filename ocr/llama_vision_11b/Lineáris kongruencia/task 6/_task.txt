@@ -1,0 +1,3 @@
+Oldja meg az alábbi lineáris kongruenciákat:
+
+$7x\equiv 14\pmod{343}$ és $16x\equiv 5\pmod{346}$

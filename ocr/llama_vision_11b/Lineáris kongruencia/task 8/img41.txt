@@ -1,0 +1,338 @@
+A képen látható hallgatói megoldás a következő:
+
+**1. $7x\equiv 12\pmod{313}$**
+
+*   A megoldás a következő:
+    *   $7x\equiv 12\pmod{313}$
+    *   $x\equiv 12\cdot 45\pmod{313}$
+    *   $x\equiv 540\pmod{313}$
+    *   $x\equiv 227\pmod{313}$
+
+**2. $20x\equiv 5\pmod{454}$**
+
+*   A megoldás a következő:
+    *   $20x\equiv 5\pmod{454}$
+    *   $x\equiv 5\cdot 23\pmod{454}$
+    *   $x\equiv 115\pmod{454}$
+    *   $x\equiv 115\pmod{454}$
+
+**3. $7\cdot 227\equiv 1\pmod{313}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 227\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+
+**4. $7\cdot 115\equiv 1\pmod{454}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 115\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+
+**5. $7\cdot 227\equiv 1\pmod{313}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 227\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+
+**6. $7\cdot 115\equiv 1\pmod{454}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 115\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+
+**7. $7\cdot 227\equiv 1\pmod{313}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 227\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+
+**8. $7\cdot 115\equiv 1\pmod{454}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 115\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+
+**9. $7\cdot 227\equiv 1\pmod{313}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 227\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+
+**10. $7\cdot 115\equiv 1\pmod{454}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 115\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+
+**11. $7\cdot 227\equiv 1\pmod{313}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 227\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+
+**12. $7\cdot 115\equiv 1\pmod{454}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 115\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+
+**13. $7\cdot 227\equiv 1\pmod{313}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 227\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+
+**14. $7\cdot 115\equiv 1\pmod{454}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 115\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+
+**15. $7\cdot 227\equiv 1\pmod{313}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 227\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+
+**16. $7\cdot 115\equiv 1\pmod{454}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 115\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+
+**17. $7\cdot 227\equiv 1\pmod{313}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 227\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+
+**18. $7\cdot 115\equiv 1\pmod{454}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 115\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+
+**19. $7\cdot 227\equiv 1\pmod{313}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 227\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+
+**20. $7\cdot 115\equiv 1\pmod{454}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 115\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+
+**21. $7\cdot 227\equiv 1\pmod{313}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 227\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+
+**22. $7\cdot 115\equiv 1\pmod{454}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 115\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+
+**23. $7\cdot 227\equiv 1\pmod{313}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 227\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+
+**24. $7\cdot 115\equiv 1\pmod{454}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 115\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+
+**25. $7\cdot 227\equiv 1\pmod{313}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 227\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+
+**26. $7\cdot 115\equiv 1\pmod{454}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 115\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+
+**27. $7\cdot 227\equiv 1\pmod{313}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 227\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+
+**28. $7\cdot 115\equiv 1\pmod{454}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 115\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+
+**29. $7\cdot 227\equiv 1\pmod{313}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 227\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+
+**30. $7\cdot 115\equiv 1\pmod{454}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 115\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+
+**31. $7\cdot 227\equiv 1\pmod{313}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 227\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+
+**32. $7\cdot 115\equiv 1\pmod{454}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 115\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+
+**33. $7\cdot 227\equiv 1\pmod{313}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 227\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+
+**34. $7\cdot 115\equiv 1\pmod{454}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 115\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+
+**35. $7\cdot 227\equiv 1\pmod{313}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 227\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+
+**36. $7\cdot 115\equiv 1\pmod{454}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 115\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+
+**37. $7\cdot 227\equiv 1\pmod{313}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 227\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+
+**38. $7\cdot 115\equiv 1\pmod{454}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 115\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+
+**39. $7\cdot 227\equiv 1\pmod{313}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 227\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+
+**40. $7\cdot 115\equiv 1\pmod{454}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 115\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+
+**41. $7\cdot 227\equiv 1\pmod{313}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 227\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+
+**42. $7\cdot 115\equiv 1\pmod{454}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 115\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+
+**43. $7\cdot 227\equiv 1\pmod{313}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 227\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+
+**44. $7\cdot 115\equiv 1\pmod{454}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 115\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+
+**45. $7\cdot 227\equiv 1\pmod{313}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 227\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+
+**46. $7\cdot 115\equiv 1\pmod{454}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 115\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+    *   $805\equiv 1\pmod{454}$
+
+**47. $7\cdot 227\equiv 1\pmod{313}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 227\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+    *   $1599\equiv 1\pmod{313}$
+
+**48. $7\cdot 115\equiv 1\pmod{454}$**
+
+*   A megoldás a következő:
+    *   $7\cdot 115\equiv 1\pmod{454}$
+    *

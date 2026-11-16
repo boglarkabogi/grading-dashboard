@@ -1,0 +1,1 @@
+Keresd meg 213 és 300 legnagyobb közös osztóját.

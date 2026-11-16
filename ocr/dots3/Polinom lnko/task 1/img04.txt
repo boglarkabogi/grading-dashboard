@@ -1,0 +1,21 @@
+A képen látható kézzel írt megoldás transzkripciója:
+
+### Táblázat
+
+$$
+\begin{array}{c|c|c|c|c|c}
+i & r_i & q_i = & u_i & v_i & r_i = u_i \cdot f + v_i \cdot g \\
+\hline
+-1 & f = x^4 + 3x^3 + 2x^2 + x + 4 & - & 1 & 0 & f = 1 \cdot f + 0 \cdot g \\
+0 & g = x^5 + x^4 + x^2 + x + 2 & - & 0 & 1 & g = 0 \cdot f + 1 \cdot g \\
+1 & r_1 = 4x^3 + 4x^2 + 4x & q_1 = x + 3 & 1 & 2 & r_1 = 1 \cdot f + 2 \cdot g \\
+2 & r_2 = 4x^2 + 4x + 4 & q_2 = 4x + 3 & 3 & 1 & r_2 = 3 \cdot f + 1 \cdot g \\
+3 & r_3 = 0 & q_3 = x & - & - & -
+\end{array}
+$$
+
+### Az eredmény
+
+$$r_2 = 4x^2 + 4x + 4$$
+
+$$\boxed{\gcd(f,g) = x^2 + x + 1}$$

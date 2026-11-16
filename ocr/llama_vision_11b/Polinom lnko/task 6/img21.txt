@@ -1,0 +1,5 @@
+A képen látható megoldás szerint a legnagyobb közös osztó a következő:
+
+$$\boxed{x^2 + 2x + 1}$$
+
+A megoldás a képen látható.

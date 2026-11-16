@@ -1,0 +1,24 @@
+7. Beadandó
+
+f = x^2 - x + 2 \quad u, v \in \mathbb{Q}[x] \quad u \cdot f + v \cdot g = h \quad \mod g
+g = x^2 - 1 \quad u \cdot f = h \quad \mod g
+h = x^2 + x + h
+
+u(x^2 - x + 2) \equiv x^2 + x + h \quad \mod x^2 - 1 \quad x^2 - 1 \equiv 0
+\deg u < 1 \quad u(3 - x) \equiv x + 5 \quad \mod x^2 - 1 \quad x^2 \equiv 1
+(u_1 x + u_0)(3 - x) \equiv x + 5 \quad \mod x^2 - 1 \quad x^2 \cdot x + 2 \equiv 1 - x + 2 = 3 - x
+3u_1 x - u_1 x^2 + 3u_0 - u_0 x \equiv x + 5 \quad \mod x^2 - 1 \quad x^2 + x + h \equiv 1 + x + h = x + 5
+-u_1 x^2 + (3u_1 - u_0)x + 3u_0 \equiv x + 5 \quad \mod x^2 - 1 \quad x^2 \equiv 1
+-u_1 + (3u_1 - u_0)x + 3u_0 \equiv x + 5 \quad \mod x^2 - 1
+(3u_1 - u_0)x + (3u_0 - u_1) \equiv x + 5 \quad \mod x^2 - 1
+
+\begin{cases}
+3u_1 - u_0 = 1 \\
+-u_1 + 3u_0 = 5
+\end{cases}
+\quad u_0 = 3u_1 - 1 \quad u_0 = 3 \cdot 1 - 1 = 2 \quad (x+2)(x^2 - x + 2) + u(x^2 - 1) = x^2 + x + h
+-u_1 + 3(3u_1 - 1) = 5 \quad u = x + 2 \quad x^3 - x^2 + 2x + 2x^2 - 2x + h + u(x^2 - 1) = x^2 + x + h
+-u_1 + 9u_1 - 3 = 5 \quad x^3 + x^2 + h + u(x^2 - 1) = x^2 + x + h
+8u_1 = 8 \quad u(x^2 - 1) = -x^3 + x
+u_1 = 1 \quad u(x^2 - 1) = -x(x^2 - 1)
+\quad u = -x

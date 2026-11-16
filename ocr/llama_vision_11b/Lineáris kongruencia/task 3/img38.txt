@@ -1,0 +1,720 @@
+**Transzkripció**
+
+A képen látható kézzel írt megoldás a következő:
+
+$$
+\begin{align*}
+11x &\equiv 2 \pmod{238} \\
+16x &\equiv 15 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*}
+$$
+
+A megoldás a következő:
+
+$$
+\begin{align*}
+x &\equiv 22 \pmod{238} \\
+x &\equiv 7 \pmod{490}
+\end{align*

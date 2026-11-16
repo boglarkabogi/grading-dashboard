@@ -1,0 +1,13 @@
+A képen látható megoldás a következő:
+
+$$
+\begin{align*}
+\text{gcd}(218, 201) &= 7.207 + 77 \\
+&= 77.77 + 74 \\
+&= 74.74 + 3 \\
+&= 3.74 + 7 \\
+&= 3.7 + 0 \\
+\end{align*}
+$$
+
+A legnagyobb közös osztó (LKO) 7.

@@ -1,0 +1,96 @@
+A képen látható megoldás a következő:
+
+$$
+\begin{align*}
+f(x) &= x^4 + 2x^3 + x^2 + 4 \\
+g(x) &= x^5 + x^4 + 2x^3 + 2x^2 + 2x + 1 \\
+\end{align*}
+$$
+
+A legnagyobb közös osztó (LCM) kiszámításához, a képen látható megoldás szerint, a következő lépéseket kell végrehajtani:
+
+1.  A polinomokat egymás után osztjuk a másik polinommal, a maradékot pedig feljegyezzük.
+2.  A maradékokat összeadjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+3.  A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+4.  A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+5.  A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+6.  A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+7.  A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+8.  A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+9.  A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+10. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+11. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+12. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+13. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+14. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+15. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+16. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+17. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+18. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+19. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+20. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+21. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+22. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+23. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+24. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+25. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+26. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+27. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+28. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+29. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+30. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+31. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+32. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+33. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+34. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+35. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+36. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+37. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+38. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+39. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+40. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+41. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+42. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+43. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+44. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+45. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+46. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+47. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+48. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+49. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+50. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+51. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+52. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+53. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+54. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+55. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+56. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+57. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+58. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+59. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+60. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+61. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+62. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+63. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+64. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+65. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+66. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+67. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+68. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+69. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+70. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+71. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+72. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+73. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+74. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+75. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+76. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+77. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+78. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+79. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+80. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+81. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+82. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+83. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+84. A maradékot a legnagyobb közös osztóval osztjuk, és a kapott eredményt a legnagyobb közös osztóval osztjuk.
+85. A maradékot a legnagyobb közös osztóval osztjuk

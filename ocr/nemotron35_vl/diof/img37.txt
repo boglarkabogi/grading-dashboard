@@ -1,0 +1,63 @@
+\[
+\underbrace{u}_{f} \cdot (x^2 - 2x + 3) + \underbrace{v}_{g} \cdot (x^2 - 1) = \underbrace{-x^2 + 2x + 3}_{h} \quad u,v \in \mathbb{Q}[x]
+\]
+
+\[
+v \cdot (x^2 - 1) \equiv -x^2 + 2x + 3 \quad (x^2 - 2x + 3)
+\]
+
+\[
++x^2 - 2x + 3 \equiv 0 \quad (x^2 - 2x + 3)
+\]
+
+\[
+x^2 \equiv 2x - 3 \quad (x^2 - 2x + 3)
+\]
+
+\[
+v \cdot (2x - 4) \equiv 6 \quad (x^2 - 2x + 3)
+\]
+
+\[
+g = x^2 - 1 \equiv 2x - 4 \quad (x^2 - 2x + 3)
+\]
+
+\[
+h = -x^2 + 2x + 3 \equiv -(2x - 4) + 2x + 3 \quad (f)
+\]
+
+\[
+h \equiv 6
+\]
+
+Mivel \(\deg(h) = 2\), ezért előleg módosítható  
+kisebb \(u\)-t keresni
+
+\[
+v = v_0 + v_1 x
+\]
+
+\[
+(u_1 x + u_0)(2x - 4) \equiv 6 \quad (f)
+\]
+
+\[
+2u_1 x^2 - 4u_1 x + 2u_0 x - 4u_0 \equiv 2u_1(2x - 3) + (2u_0 - 4u_1)x - 4u_0 \equiv 2u_0 x - 6u_1 - 4u_0 \equiv 6 \quad (f)
+\]
+
+\[
+\begin{cases}
+2u_0 = 0 \\
+-6u_1 - 4u_0 = 6
+\end{cases}
+\quad
+\begin{cases}
+v_0 = 6 \\
+-6u_1 = 6 \\
+u_1 = -1
+\end{cases}
+\]
+
+\[
+v = -x
+\]

@@ -1,0 +1,434 @@
+A képen látható megoldás a következő:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^5+x^4+x^3+3x^2+3x+3 \\
+\end{array}
+$$
+
+A legnagyobb közös osztó (LCM) kiszámításához, először a két polinomot egyszerűsítjük. Azt tapasztaljuk, hogy $g(x)$ tartalmazza $f(x)$-t, így $f(x)$ a legnagyobb közös osztó.
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^5+x^4+x^3+3x^2+3x+3 \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x+2 \\
+g(x) & = & x^4+x^3+3x^2+2x+2 + x \\
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+x^3+3x^2+2x

@@ -1,0 +1,40 @@
+\begin{cases} 
+2x \equiv 11 \pmod{15} \\ 
+3x \equiv 18 \pmod{21} 
+\end{cases}
+
+(21, 15) = 3, (CM nem quantit megoldható)
+
+\begin{cases} 
+x \equiv -2 \pmod{15} \\ 
+x \equiv 6 \pmod{7} 
+\end{cases}
+
+\begin{cases} 
+x \equiv 13 \pmod{15} \\ 
+x \equiv 6 \pmod{7} 
+\end{cases}
+
+\begin{array}{rcl}
+2x + 15y & = & 11 \\
+\downarrow & & \downarrow \\
+-2 & & 1
+\end{array}
+
+\begin{array}{rcl}
+3x + 21y & = & 18 \quad \text{kg}(21,3) = 3 \\
+\downarrow & & \\
+x + 7y & = & 6
+\end{array}
+
+(15, 7) = 1, u. k. m. t. garantált egy megoldás!
+
+15a + 7b = 1
+\downarrow \quad \downarrow
+1 \quad -2
+
+15 \cdot 1 + 7 \cdot (-2) = 1 \Rightarrow 6 \cdot 15 \cdot 1 + 13 \cdot 7 \cdot (-2) = 
+= (90 - 91 - 4) \quad 90 - 182 = -92
+
+x \equiv -92 \pmod{7 \cdot 15}
+x \equiv 13 \pmod{105}

@@ -1,0 +1,35 @@
+Beadandó 4.
+
+\[
+\begin{cases}
+2x \equiv 11 \pmod{15} \quad (\Leftrightarrow) \quad 2x \equiv 26 \pmod{15} \quad (\Leftrightarrow) \quad x \equiv 13 \pmod{15} \\
+3x \equiv 18 \pmod{21} \quad (\Leftrightarrow) \quad x \equiv 6 \pmod{7}
+\end{cases}
+\quad \Rightarrow \quad 15a + 7b = 1 \quad a = 1 \quad b = -2
+\]
+
+\[
+x \equiv 15 \cdot 1 \cdot 6 + 7 \cdot (-2) \cdot 13 = -92 \equiv 13 \pmod{105} \quad x \equiv 13 \pmod{105}
+\]
+
+\[
+\begin{cases}
+2x \equiv 7 \pmod{15} \quad (\Leftrightarrow) \quad 2x \equiv 22 \pmod{15} \quad (\Leftrightarrow) \quad x \equiv 11 \pmod{15} \\
+5x \equiv 17 \pmod{21} \quad (\Leftrightarrow) \quad 5x \equiv 80 \pmod{21} \quad (\Leftrightarrow) \quad x \equiv 16 \pmod{21}
+\end{cases}
+\quad \Rightarrow \quad
+\begin{cases}
+x \equiv 11 \pmod{3} \quad (\Leftrightarrow) \quad x \equiv 2 \pmod{3} \\
+x \equiv 11 \pmod{5} \quad (\Leftrightarrow) \quad x \equiv 1 \pmod{5} \\
+x \equiv 16 \pmod{3} \quad (\Leftrightarrow) \quad x \equiv 1 \pmod{3} \\
+x \equiv 16 \pmod{7} \quad (\Leftrightarrow) \quad x \equiv 2 \pmod{7}
+\end{cases}
+\]
+
+\[
+x \equiv 2 \pmod{3} \quad \Rightarrow \quad \text{Elektronikus} \Rightarrow \text{Nincs megoldás}
+\]
+
+\[
+x \equiv 1 \pmod{3}
+\]

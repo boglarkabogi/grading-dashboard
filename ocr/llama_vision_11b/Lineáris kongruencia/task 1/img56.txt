@@ -1,0 +1,585 @@
+A képen látható megoldás a következő:
+
+$19x\equiv 16\pmod{470}$
+
+$16x\equiv 5\pmod{202}$
+
+$(19x-16x)\equiv (16-5)\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3x\equiv 11\pmod{470}$
+
+$3

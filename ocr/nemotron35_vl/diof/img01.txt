@@ -1,0 +1,79 @@
+\[
+(ax+b)(x^2+3x+3)+(cx+d)(x^2-1)=2x^2+x-3
+\]
+
+\[
+(ax^3+3ax^2+3ax+bx^2+3bx+3b)+(cx^3-cx+dx^2-d)=
+\]
+
+\[
+=2x^2+x-3
+\]
+
+\[
+x^3(a+c)+x^2(3a+b+d)+x(3a+3b-c)+(3b-d)=2x^2+x-3
+\]
+
+\[
+1,\ a+c=0
+\]
+
+\[
+2,\ 3a+b+d=2
+\]
+
+\[
+3,\ 3a+3b-c=1
+\]
+
+\[
+4,\ 3b-d=-3
+\]
+
+\[
+\Rightarrow c=-a \Rightarrow c=-1
+\]
+
+\[
+\Rightarrow 3a+b+(3b+3)=2 \Rightarrow 3a+4b=-1
+\]
+
+\[
+\Rightarrow 3a+3b=1
+\]
+
+\[
+d=3b+3 \Rightarrow d=0
+\]
+
+\[
+3a+4b=-1
+\]
+
+\[
+3a+3b=1 \Rightarrow 3b=1-3a
+\]
+
+\[
+1.\ 12a+16b=-5
+\]
+
+\[
+2.\ 12a+9b=3
+\]
+
+\[
+1.-2.=7b=-7 \Rightarrow b=-1
+\]
+
+\[
+3a+3(-1)=1 \Rightarrow 3a=4 \Rightarrow a=1
+\]
+
+\[
+a(x)=x-1
+\]
+
+\[
+b(x)=-x
+\]

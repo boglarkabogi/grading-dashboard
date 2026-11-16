@@ -1,0 +1,123 @@
+\[
+\begin{cases}
+2x \equiv 5 \pmod{21} \\
+3x \equiv 15 \pmod{24}
+\end{cases}
+\]
+
+\[
+2x \equiv 26 \pmod{21} \quad 1:2
+\]
+
+\[
+x \equiv 13 \pmod{\frac{21}{(21,2)}} \quad \frac{21}{21}
+\]
+
+\[
+\Rightarrow
+\begin{cases}
+x \equiv 13 \pmod{21} \\
+x \equiv 5 \pmod{8}
+\end{cases}
+\]
+
+\[
+3x \equiv 15 \pmod{24} \quad 1:3
+\]
+
+\[
+x \equiv 5 \pmod{\frac{24}{(24,3)}}
+\]
+
+\[
+\frac{24}{3} = 8
+\]
+
+\[
+x \equiv 5 \cdot 17 \pmod{168}
+\]
+
+\[
+\downarrow
+\]
+
+\[
+\boxed{x \equiv 13 \pmod{168}}
+\]
+
+\[
+a \cdot n_1 + b \cdot n_2 = 1
+\]
+
+\[
+\downarrow
+\]
+
+\[
+21a + 8b = 1
+\]
+
+\[
+\downarrow \quad \downarrow
+\]
+
+\[
+a = -3 \quad b = +8
+\]
+
+\[
+\downarrow
+\]
+
+\[
+x = c_2 \cdot a \cdot n_1 + c_1 \cdot b \cdot n_2
+\]
+
+\[
+\downarrow
+\]
+
+\[
+x = 5 \cdot (-3) \cdot 21 + 13 \cdot 8 \cdot 8
+\]
+
+\[
+x = (-315) + 832
+\]
+
+\[
+x = \boxed{517}
+\]
+
+\[
+\begin{cases}
+2x \equiv 1 \pmod{21} \\
+5x \equiv 11 \pmod{24}
+\end{cases}
+\]
+
+\[
+\begin{cases}
+2x \equiv 22 \pmod{21} \quad 1:2 \\
+5x \equiv 35 \pmod{24} \quad 1:5
+\end{cases}
+\]
+
+\[
+\begin{cases}
+x \equiv 11 \pmod{\frac{21}{(21,2)}} \\
+x \equiv 7 \pmod{\frac{24}{(24,5)}}
+\end{cases}
+\]
+
+\[
+21a + 24b = 1
+\]
+
+\[
+\checkmark \quad (\text{nincs m.o.-ja})
+\]
+
+\[
+3 = (21, 24) \neq 1
+\]

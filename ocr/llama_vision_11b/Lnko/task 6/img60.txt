@@ -1,0 +1,11 @@
+A képen látható megoldás a következő:
+
+217 = 2 * 106 + 1
+206 = 2 * 103 + 0
+
+Ezután a képen látható megoldás szerint a következő lépések végrehajtásra kerülnek:
+
+11 = 10 * 1 + 1
+10 = 1 * 10 + 0
+
+A legnagyobb közös osztó a 1.

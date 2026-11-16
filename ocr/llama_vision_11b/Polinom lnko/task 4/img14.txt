@@ -1,0 +1,503 @@
+### 1. Polinomok osztása
+
+A képen látható megoldás szerint a polinomok osztását a következőképpen végezzük:
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4x^3+x^2+2 \\
+g(x) & = & x^5+x^4+3x^3+x^2+x+4 \\
+\hline
+\end{array}
+$$
+
+$$
+\begin{array}{rcl}
+f(x) & = & x^4+4
