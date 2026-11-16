@@ -1,0 +1,14 @@
+{
+  "feladat": "Keresd meg 218 és 202 legnagyobb közös osztóját.",
+  "helyes_megoldas": "2",
+  "diak_vegeredmenye": "2",
+  "diak_megoldasa_osszefoglalva": "A diák euklidész algoritmust alkalmazott, sorosan osztva a nagyobb számot a kleinere maradékkal, és végül a legutolsó nem nulla maradék 2-t kapta.",
+  "indoklas": "Helyes módszer (Euklidész algoritmus) és helyes végeredmény (2). Az OCR által elavult sorok nem befolyásolják a megoldás helyességét.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "Az OCR कुछ értelmetlen sort adott hozzá (pl. \"16·13\" stb.), de ezek nem befolyásolják a diák megoldását.",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

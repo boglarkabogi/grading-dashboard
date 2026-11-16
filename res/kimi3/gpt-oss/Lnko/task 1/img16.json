@@ -1,0 +1,15 @@
+{
+  "feladat": "Kerese meg 213 és 200 legnagyobb közös osztóját.",
+  "helyes_megoldas": "1",
+  "diak_vegeredmenye": "1",
+  "diak_megoldasa_osszefoglalva": "Student used the Euclidean algorithm: 213 = 1·200 + 13, then (incorrectly) 200 = 7·13 + 9, next 13 = 1·9 + 4, 9 = 2·4 + 1, 4 = 4·1, and concluded that the gcd of 213 and 200 is 1.",
+  "pont": 0.75,
+  "indoklas": "The student applied the Euclidean algorithm, which is the correct method for finding the greatest common divisor. The quotient in the step 200 = 7·13 + 9 is incorrect (the correct quotient is 15), but this mistake does not affect the final result because the subsequent steps still lead to the correct gcd of 1. Hence the solution is essentially correct with a small computational error.",
+  "magabiztossag": 90,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

@@ -1,0 +1,16 @@
+Feladat: 7x ≡ 14 mod 343 és 16x ≡ 5 mod 346
+Helyes megoldás: Első: x = 2 + 49k, k egész. Második: nincs megoldás.
+
+Diák végeredménye: x = 2 + 49λ; nincs megoldás
+Diák megoldása (összefoglalva):
+Az első egyenletben 7-gyel osztva kapottuk x ≡ 2 mod 49. A másodikban 2 nem osztója 5, ezért nincs megoldás.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyesen alkalmazta a gcd‑elapozást, jól kiszámolta a megoldást az első egyenletre és helyesen mondta, hogy a másodiknál nincs megoldás. A végső eredmények mindkét esetben helyesek.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

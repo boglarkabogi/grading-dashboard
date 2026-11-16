@@ -1,0 +1,15 @@
+{
+  "feladat": "gcd(218, 202)",
+  "helyes_megoldas": "gcd(218, 202) = 2. Euklideszi algoritmus: 218 = 1*202 + 16, 202 = 12*16 + 10, 16 = 1*10 + 6, 10 = 1*6 + 4, 6 = 1*4 + 2, 4 = 2*2 + 0, az utolsó nemnulla maradék 2.",
+  "diak_vegeredmenye": "2 (az algoritmus utolsó nemnulla maradékából olvasható ki)",
+  "diak_megoldasa_osszefoglalva": "A diák helyesen alkalmazta az euklideszi algoritmust: minden maradékos osztás helyes, a maradékok 16, 10, 6, 4, 2, 0, így az utolsó nemnulla maradék, azaz a lnko 2.",
+  "pont": 1,
+  "indoklas": "A módszer (euklideszi algoritmus) helyes, minden lépés számszerűen helyes, és a végeredmény (2) helyes.",
+  "magabiztossag": 98,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A végeredmény nincs külön kiírva, de a levezetésből egyértelműen kiolvasható.",
+  "model": "moonshotai/kimi-k3"
+}

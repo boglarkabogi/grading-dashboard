@@ -1,0 +1,16 @@
+Feladat: Oldja meg a lineáris kongruenciákat: 7x≡8 mod 340 és 16x≡15 mod 330
+Helyes megoldás: 7x≡8 (mod 340) → x≡244 (mod 340). 16x≡15 (mod 330) nem lehetséges, mert 2 nem osztó 15.
+
+Diák végeredménye: x = (-97)8 + 340t = -776 + 340t (t∈ℤ), ezért x≡244 (mod 340). 16x≡15 (mod 330) nem megoldható.
+Diák megoldása (összefoglalva):
+A diák a kiterjesztett Euklidés módszert alkalmazta az első kongruencia megoldásához, kiszámolta az 7 inverst és így kapta az általános megoldást. A második kongruencián a gcd miatt megállapította, hogy nincs megoldás.
+
+Pontszám: 1/1
+Indoklás:
+Megoldás megfelel both módra és végeredményre is. A végső képlet a helyes megoldás (244 mod 340) és a második kongruencia helyes nemmegfelelőség.
+
+Modell magabiztossága: 100/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 13x ≡ 13 mod 409 és 12x ≡ 7 mod 302",
+  "helyes_megoldas": "13x ≡ 13 mod 409: gcd(13,409)=1, így megoldható és x ≡ 1 mod 409 (x = 409k+1). 12x ≡ 7 mod 302: gcd(12,302)=2, de 2 nem osztja 7, tehát nem megoldható.",
+  "diak_vegeredmenye": "x = 409k + 1 k ∈ Z; második falban 'nem megoldható'.",
+  "diak_megoldasa_osszefoglalva": "Először kiderítette, hogy 13 prim és 13 nem osztja 409, tehát törli a 13-at; a másodikban megjegyezte, hogy a gcd 12,302 = 2, ami nem osztja 7-et, így nincs megoldás.",
+  "pont": 1,
+  "indoklas": "A diák helyes módszert alkalmazott mindkét megoldáshoz, és a végső eredmények is helyesek.",
+  "magabiztossag": 100,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "Az információk olvashatók és értelmesek, nincs szükség további OCR-ezésre.",
+  "model": "openai/gpt-oss-20b"
+}

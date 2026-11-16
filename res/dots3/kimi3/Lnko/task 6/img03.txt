@@ -1,0 +1,16 @@
+Feladat: gcd(217, 206) meghatározása az euklideszi algoritmussal
+Helyes megoldás: 217 = 1·206 + 11; 206 = 18·11 + 8; 11 = 1·8 + 3; 8 = 2·3 + 2; 3 = 1·2 + 1; 2 = 2·1 + 0, tehát gcd(217, 206) = 1, a számok relatív prímek.
+
+Diák végeredménye: (217, 206) = 1
+Diák megoldása (összefoglalva):
+A diák az euklideszi algoritmust alkalmazza: a maradékok sorra 11, 8, 3, 2, 1, 0, és a végső osztót, 1-et adja meg eredményként.
+
+Pontszám: 1/1
+Indoklás:
+A módszer helyes (euklideszi algoritmus), a köztes lépések helyesek, és a végeredmény, gcd(217, 206) = 1 is helyes.
+
+Modell magabiztossága: 98/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

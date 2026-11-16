@@ -1,0 +1,16 @@
+Feladat: 17x = 17 mod 375 és 19x = 9 mod 358
+Helyes megoldás: A 17x = 17 mod 375 egyenlet megoldásai: x = 1 + 375k, k∈ℤ. A 19x = 9 mod 358 egyenlet megoldásai: x = 57 + 358k, k∈ℤ
+
+Diák végeredménye: x = 1 + 375ℓ a 17x = 17 mod 375 esetére; x = 57 + 358ℓ a 19x = 9 mod 358 esetére
+Diák megoldása (összefoglalva):
+A diák a kiterjesztett euklidészi algoritmust használta mindkét kongruencia megoldására, majd a kapott együtthatók alapján kiszámította a konkrét megoldásokat. Összhangban a helyes végső eredményekkel.
+
+Pontszám: 1/1
+Indoklás:
+Mindkét megoldás helyes, a felhasznált módszer (törés, EEA) megalapozott, a végső eredmények megegyeznek a helyes megoldással.
+
+Modell magabiztossága: 100/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

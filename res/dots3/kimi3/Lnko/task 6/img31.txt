@@ -1,0 +1,18 @@
+Feladat: gcd(217, 206) meghatározása az euklideszi algoritmussal
+Helyes megoldás: 217 = 206·1 + 11; 206 = 11·18 + 8; 11 = 8·1 + 3; 8 = 3·2 + 2; 3 = 2·1 + 1; 2 = 1·2 + 0. Az utolsó nemnulla maradék 1, tehát gcd(217, 206) = 1.
+
+Diák végeredménye: gcd(217, 206) = 1
+Diák megoldása (összefoglalva):
+A diák táblázatos euklideszi algoritmust írt fel: a maradéksor 11, 8, 3, 2, 1, 0 konzisztens, és helyesen következtette ki, hogy a legnagyobb közös osztó 1.
+
+Pontszám: 1/1
+Indoklás:
+A módszer (euklideszi algoritmus) és a végeredmény (1) is helyes. A hányadososzlopban két helyen 7-es áll (217/206 hányadosa 7 és 11/8 hányadosa 7), ezek nyilván OCR-ben félreolvasott 1-esek, mert 1-esként olvasva a teljes levezetés konzisztens és helyes.
+
+Modell magabiztossága: 92/100
+Értelmezhető volt a bemenet: igen
+
+Figyelem: valószínű 7↔1 OCR-elírás, elfogadva.
+
+Megjegyzés:
+A q oszlopban a 7-esek valójában 1-esek (217 = 206·1 + 11 és 11 = 8·1 + 3) — tipikus OCR 1→7 hiba, nem vonandó le belőle. Utolsó sorban a '2 1 2' a 2 = 1·2 + 0 lépést jelzi, rendben.

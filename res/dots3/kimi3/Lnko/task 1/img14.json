@@ -1,0 +1,15 @@
+{
+  "feladat": "gcd(213, 200) meghatározása",
+  "helyes_megoldas": "Euklideszi algoritmus: 213 = 1*200 + 13; 200 = 15*13 + 5; 13 = 2*5 + 3; 5 = 1*3 + 2; 3 = 1*2 + 1; 2 = 2*1 + 0. Az utolsó nemnulla maradék 1, tehát gcd(213, 200) = 1.",
+  "diak_vegeredmenye": "1",
+  "diak_megoldasa_osszefoglalva": "A diák helyesen fogalmazza meg az euklideszi algoritmust (Inko = lnko), végigviszi a lépéseket: 213 = 1*200 + 13, 200 = 15*13 + 5, 13 = 2*5 + 3, 5 = 1*3 + 2, 3 = 1*2 + 1, 2 = 2*1 + 0, és helyesen állapítja meg, hogy a legnagyobb közös osztó 1.",
+  "pont": 1,
+  "indoklas": "A módszer (euklideszi algoritmus) és a végeredmény (1) is helyes. A bevezető sorban szereplő 'a = 273' OCR-zaj (a számításban végig 213 szerepel), ezértért nem jár levonás.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A '273' a 213 OCR-elírása lehet, de a levezetés konzisztensen 213-zal számol, így nem befolyásolja az értékelést.",
+  "model": "moonshotai/kimi-k3"
+}

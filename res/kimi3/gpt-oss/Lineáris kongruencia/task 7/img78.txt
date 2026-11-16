@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 13x = 19 mod 414 és 20x = 6 mod 412
+Helyes megoldás: x = 97 mod 414, egyetlen megoldás a második egyenlethez nem létezik, mert a 4 nem osztója a 6-nak
+
+Diák végeredménye: x = 97 mod 414; nincs megoldás a második egyenlethez
+Diák megoldása (összefoglalva):
+A diáknak leírta az egységesített lekérdezést, Extended GCD-t számított 13 és 414 között, megállapította, hogy a 13 inverze -191 ≡ 223 mod 414, majd a 19*223 mod 414 értéket 97 -re számolta, ami a megoldás. A második egyenlethez a gcd 20 és 412 = 4, mivel 4 nem osztja a 6-ot, ezért állapította meg, hogy nincsen megoldás.
+
+Pontszám: 1/1
+Indoklás:
+A módszer helyes (Extended Euclid a 13-re, gcd ellenőrzés a 20-re) és a végeredmények megegyeznek a helyes megoldással.
+
+Modell magabiztossága: 100/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

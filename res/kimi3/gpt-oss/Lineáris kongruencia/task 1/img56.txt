@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 19x ≡ 16 mod 470 és 16x ≡ 5 mod 202
+Helyes megoldás: x ≡ 174 mod 470; 16x ≡ 5 mod 202: nincs megoldás
+
+Diák végeredménye: x ≡ 174 mod 470; nincs megoldás a második kongruenciához
+Diák megoldása (összefoglalva):
+A diák először hibás lépéseket követ, de végül meghatározza a 19 reciprokát 470 modulumban, és így kiszámítja x=174 a mod 470 körüli egyenlethez. Megállapítja, hogy a 16x ≡ 5 mod 202 egyenlet esetén a GCD 2, mely nem osztja 5-öt, tehát nincs megoldás.
+
+Pontszám: 1/1
+Indoklás:
+A végleges eredmények helyesek és a helyes módszert alkalmazta (modulokban való fordított keresése, és a GCD vizsgálata a második egyenlethez).
+
+Modell magabiztossága: 90/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

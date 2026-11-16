@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 13x ≡ 13 mod 409 és 12x ≡ 7 mod 302
+Helyes megoldás: Első kongruencia: x ≡ 1 (mod 409), vagy x = 1 + 409t, t∈Z. Második kongruencia: gcd(12,302)=2 nem osztja 7-t, ezért nincs megoldás.
+
+Diák végeredménye: Első: x = 1 + 409t (t∈Z). Második: nincs megoldás.
+Diák megoldása (összefoglalva):
+A diák első esetben elosztott 13-al, hogy x≡1 (mod 409), második esetben kiszámolta a gcd(12,302)=2-t és mivel ez nem osztja 7-t, nem talált megoldást.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyes módszert alkalmazott mindkét kongruenciahoz (osztás żyrszámosság ellenőrzése, gcd-check) és helyes végeredményt adott.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

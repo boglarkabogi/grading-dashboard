@@ -1,0 +1,14 @@
+{
+  "feladat": "Keresd meg 218 és 202 legnagyobb közös osztóját.",
+  "helyes_megoldas": "2",
+  "diak_vegeredmenye": "2",
+  "diak_megoldasa_osszefoglalva": "Az osztó keresése során a diák a 218 és 202 közti Euclid‑algoritmust alkalmazta: 218=1·202+16, 202=12·16+10, 16=1·10+6, 10=1·6+4, 6=1·4+2, 4=2·2+0. A utolsó nem nulla maradék 2, ami a legnagyobb közös osztó.",
+  "pont": 1,
+  "indoklas": "A diák módszert helyesen alkalmazta és a végeredmény is megfelel az ellenőrzött számításnak.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "model": "openai/gpt-oss-20b"
+}

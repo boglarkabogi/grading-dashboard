@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 7x ≡ 14 (mod 343) és 16x ≡ 5 (mod 346)
+Helyes megoldás: For 7x ≡ 14 mod 343: x ≡ 2 mod 49 → solutions x = 2 + 49k, k = 0,...,6. For 16x ≡ 5 mod 346: no solution because gcd(16,346)=2 does not divide 5.
+
+Diák végeredménye: x = 2 + 49t, t = 0,1,2,3,4,5,6. No solution for second.
+Diák megoldása (összefoglalva):
+Student used the gcd to reduce 7x ≡ 14, found x ≡ 2 mod49 and listed all 7 representatives. For the second, computed gcd 2, checked that 2 does not divide 5, and correctly concluded no solution.
+
+Pontszám: 1/1
+Indoklás:
+All steps correct, final results match the correct solution.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

@@ -1,0 +1,16 @@
+Feladat: Keresd meg 217 és 201 legnagyobb közös osztóját.
+Helyes megoldás: 1
+
+Diák végeredménye: 1
+Diák megoldása (összefoglalva):
+A diák euklideszi algoritmust alkalmazott, sorosan osztva 217-t 201-el, majd a maradékokat, és a laatste nem-nulli maradék 1-et kaptak, így a legnagyobb közös osztó 1.
+
+Pontszám: -/1
+Indoklás:
+Helyes módszer (Euklidesz algoritmus) és helyes végeredmény (1), ezért teljes pontot merit.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

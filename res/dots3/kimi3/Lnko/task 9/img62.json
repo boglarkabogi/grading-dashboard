@@ -1,0 +1,15 @@
+{
+  "feladat": "Számolják ki a (180, 219) legnagyobb közös osztó értékét az euklideszi algoritmussal.",
+  "helyes_megoldas": "gcd(219, 180) = 3. Euklideszi algoritmus: 219 = 1*180 + 39; 180 = 4*39 + 24; 39 = 1*24 + 15; 24 = 1*15 + 9; 15 = 1*9 + 6; 9 = 1*6 + 3; 6 = 2*3 + 0, tehát az utolsó nemnulla maradék 3.",
+  "diak_vegeredmenye": "lnko = 3",
+  "diak_megoldasa_osszefoglalva": "A diák hibátlanul végigvitte az euklideszi algoritmust: 219 = 1*180 + 39, majd sorban 24, 15, 9, 6, 3 maradékokkal, végül 6 = 2*3 + 0. Az első sorba tévedésből (180, 190) = 3-at írt (219) helyett, de az algoritmus a helyes számokkal számol.",
+  "pont": 1,
+  "indoklas": "Helyes módszer (euklideszi algoritmus) és helyes végeredmény (3); minden köztes lépés helyes. A '(180, 190) = 3' sor nyilván elgépelés a (180, 219) helyett, a számítást nem érinti.",
+  "magabiztossag": 97,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A fejlécbeli (180, 190) kis elírás/elgépelés a 219 helyett, de a levezetés a helyes számokkal dolgozik.",
+  "model": "moonshotai/kimi-k3"
+}

@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat:\n7x ≡ 12 mod 313 és 20x ≡ 5 mod 454",
+  "helyes_megoldas": "a) 7x ≡ 12 mod 313: az 7 fordított eredmény 179, tehát x ≡ 12·179 ≡ 270 mod 313.\n b) 20x ≡ 5 mod 454: gcd(20,454)=2, 2 does not divide 5, ezért nincs megoldás.",
+  "diak_vegeredmenye": "a) x = 270 mod 313\nb) nincs megoldás",
+  "diak_megoldasa_osszefoglalva": "A diák az etyvonzat segítségével meghatározta a 7 inverzét (-134 ≡ 179), megszorozta 12-vel, és az eredményt 270-nek adta. A második állásnál meghatározta a GCD-t 2-nek, és megállapította, hogy mindenki nem osztható, ezért nincs megoldás.",
+  "pont": 1,
+  "indoklas": "A diák helyesen alkalmazta az egysúlyú lineáris kongruencia megoldási módszerét mindkét esetben, és a végeredmények is megegyeznek a helyes megoldással.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

@@ -1,0 +1,14 @@
+Feladat: 17x ≡ 17 mod 375 és 19x ≡ 9 mod 358
+Helyes megoldás: -
+
+Diák végeredménye: x ≡ 1 mod 375 és x ≡ 57 mod 358
+
+Pontszám: 1/1
+Indoklás:
+A student correctly applied the division rule for the first congruence (gcd is 1) and used the extended Euclidean algorithm to find the inverse of 19 mod 358, then correctly multiplied and reduced to obtain x ≡ 57 mod 358. Both solutions match the correct ones.
+
+Modell magabiztossága: 100/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

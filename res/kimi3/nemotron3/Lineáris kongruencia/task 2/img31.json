@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 12x ≡ 8 (mod 259) és 16x ≡ 13 (mod 314)",
+  "helyes_megoldas": "Nincs megoldás, mert a második kongruencia 16x ≡ 13 (mod 314) nem teljesíthető (gcd(16,314)=2 nem osztja 13-t).",
+  "diak_vegeredmenye": "Az első kongruencia megoldása: x = 864 + 259t (vagy x ≡ 87 (mod 259)); a második kongruencia nem有解, így a rendszer sem有解.",
+  "diak_megoldasa_osszefoglalva": "A diák egyszerű Euklideszi algoritmust użyitott mindkét kongruenciahoz, helyesen meghatározta az első kongruencia megoldását (x ≡ 87 (mod 259)), míg a második kongruencia nem有解 mert a gcd nem osztja a jobboldalt, így a rendszernek nincs megoldása.",
+  "pont": 1,
+  "indoklas": "A diák helyes módszert használta (egész Euklideszi algoritmus, visszahelyettesítés), a第一个 kongruencia végeredménye helyes (x ≡ 87 (mod 259)), a második kongruencia helyет egri conclusiót drew (no solution), ezért a teljes rendszer helytelenül láthatóan無解; így teljes pont.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "OCR jelenség nem észlelve.",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

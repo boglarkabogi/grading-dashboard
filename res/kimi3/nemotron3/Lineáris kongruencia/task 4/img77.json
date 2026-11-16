@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 17x ≡ 17 mod 375 és 19x ≡ 9 mod 358",
+  "helyes_megoldas": "x ≡ 96001 (mod 134250)",
+  "diak_vegeredmenye": "x ≡ 1 (mod 375) és x ≡ 57 (mod 358)",
+  "diak_megoldasa_osszefoglalva": "Az első kongruenciát 17-el oszthva kapta, hogy x ≡ 1 (mod 375). A másodikban kiszámolta 19 inverzét mód 358-rel kiterjesztett Euklideszi algoritmussal,得到 245, majd 9‑kel szorzva x ≡ 57 (mod 358)-et kapott.",
+  "pont": 0.5,
+  "indoklas": "A módszer helyes mindkét kongruencia oldásához, de a diák nem egyesítette a két kongruenciát kínai maradektétellel, így a végeredmény a teljes rendszer megoldása tidak teljes.",
+  "magabiztossag": 95,
+  "ertelezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A diák megoldása minden egyes kongruencia helyes, csak a CRT kombináció hiányzik.",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

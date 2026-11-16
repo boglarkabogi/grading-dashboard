@@ -1,0 +1,15 @@
+{
+  "feladat": "19x ≡ 16 mod 470 és 16x ≡ 5 mod 202",
+  "helyes_meghostas": "19x ≡ 16 mod 470 ⇒ x ≡ 174 (mod 470). 16x ≡ 5 mod 202 nem oldható meg, mert a legnagyobb közös osztó 2, amely nem osztja 5-öt.",
+  "diak_vegeredmenye": "x = 16·99 + 470k (az első kongruencia), x = (5/2)·77 + (5/2)·202k (a második kongruencia)",
+  "diak_meghostasa_osszefoglalva": "A diák az extended Euclidean algoritmust alkalmazta mindkét egyenletre, meghatározta a módosítóértékeket, majd az első esetben helyesen számolta ki az inverzt és a megoldást. A második esetben azonban elkövetett hibát, mivel a gcd 2 nem osztja 5-öt, tehát nincs megoldás, ám a diák továbbadta a lépését, kiszámítva egy zártszámot, ami nem egész.",
+  "pont": 0.25,
+  "indoklas": "A diák helyesen oldott meg az első kongruenciát, de a másodikban hibásan, mert nem ellenőrizte, hogy a gcd osztja-e a jobboldalt. Így csak részben helyes.",
+  "magabiztossag": 90,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

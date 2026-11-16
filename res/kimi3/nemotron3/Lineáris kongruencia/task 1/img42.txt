@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 19x ≡ 16 (mod 470) és 16x ≡ 5 (mod 202)
+Helyes megoldás: x ≡ 174 (mod 470); a második kongruencia esetében nincs megoldás
+
+Diák végeredménye: x ≡ 174 (mod 470); a második kongruencia esetében nincs megoldás
+Diák megoldása (összefoglalva):
+Az első kongruenciához kiterjesztett Euklidészi algoritmusmal megtalálta az 19 inverzjét modulo 470, majd szorzva kapta, hogy x ≡ 174 (mod 470). A második kongruenciához megtalálta, hogy gcd(16,202)=2, ami nem osztja 5-t, így nincs megoldás.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyes módszert (kiterjesztett Euklidészi algoritmus) alkalmazott és helyes vég eredményeket kapta mindkét kongruenciára.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+Az OCR-ben nem észlelhető 7↔1 confundzia, a szöveg jól olvasható.

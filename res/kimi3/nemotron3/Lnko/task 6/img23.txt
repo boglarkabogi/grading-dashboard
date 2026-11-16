@@ -1,0 +1,16 @@
+Feladat: Keresd meg 217 és 206 legnagyobb közös osztóját.
+Helyes megoldás: 1
+
+Diák végeredménye: 1
+Diák megoldása (összefoglalva):
+Az euklideszi algoritmust alkalmazva sorosan osztva a maradékok 11, 8, 3, 2, 1, 0 sorozatra jutottak, ezért a legközös osztó 1.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyesen alkalmazta az euklideszi algoritmust, a végeredmény 1, ami a helyes gcd.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

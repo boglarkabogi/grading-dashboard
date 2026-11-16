@@ -1,0 +1,16 @@
+Feladat: gcd(218, 201)
+Helyes megoldás: Euklideszi algoritmus: 218 = 1*201 + 17, 201 = 11*17 + 14, 17 = 1*14 + 3, 14 = 4*3 + 2, 3 = 1*2 + 1, 2 = 2*1 + 0, igy gcd(218, 201) = 1.
+
+Diák végeredménye: LNKO(218, 201) = 1
+Diák megoldása (összefoglalva):
+A diák az euklideszi algoritmust helyesen végigvitte: a maradékok sorra 17, 14, 3, 2, 1, 0, es a legnagyobb közös osztónak 1-et kapott.
+
+Pontszám: 1/1
+Indoklás:
+Helyes módszer (euklideszi algoritmus), minden lépés helyes, a végeredmény (1) is helyes.
+
+Modell magabiztossága: 98/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

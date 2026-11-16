@@ -1,0 +1,16 @@
+Feladat: 19x ≡ 16 mod 470 és 16x ≡ 5 mod 202
+Helyes megoldás: x ≡ 174 mod 470; nincs megoldás
+
+Diák végeredménye: 1584; nincs megoldás
+Diák megoldása (összefoglalva):
+A diák lineáris egyenletekhez alakítva kereste a Bézout-kiemeléseket, majd az első esetben a várt inverst 99-nek találta, és 16·99 = 1584-öt adta a megoldásként. A második esetben tűkképletet szimbolikus módon hivatkozva szaldálta, és az 2 tárolt végeredményt helytelenül 5-öt adó rezgésekkel dolgázta, de végül megállapította, hogy nincs megoldás.
+
+Pontszám: 0.5/1
+Indoklás:
+Az első kongruencia megoldása helyes módszerrel, és a végeredmény (1584) is egy érvényes megoldás. A második kongruencia esetén a módszer hibás – a Bézout-egyenletben elfamasodott, de a 2=16·37+202·(‑3) nem 5–t ad – de a végső megállapítás, hogy nincs megoldás, matematikailag helyes. Ennek a részben a módszer jelentős hibája miatt a teljes feladatot 0.5 ponttal értékeljük.
+
+Modell magabiztossága: 90/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+Nincs 7↔1 OCR hiba, a szöveg összességében érthető.

@@ -1,0 +1,15 @@
+{
+  "feladat": "Keresd meg 216 és 203 legnagyobb közös osztóját.",
+  "helyes_megoldas": "1",
+  "diak_vegeredmenye": "1",
+  "diak_megoldasa_osszefoglalva": "A diák az euklideszi algoritmust alkalmazta, sorban számította a maradékokat 216,203,13,8,5,3,2,1,0, és így azt állította, hogy a legnagyobb közös osztó 1.",
+  "pont": 1,
+  "indoklas": "A megoldás helyes, mert pontosan alkalmazta az euklideszi algoritmust, és a végeredmény 1, ami a kért legnagyobb közös osztó.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

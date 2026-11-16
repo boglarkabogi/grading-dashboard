@@ -1,0 +1,15 @@
+{
+  "feladat": "17x = 17 mod 375 és 19x = 9 mod 358",
+  "helyes_megoldas": "A 17x = 17 mod 375 egyenlet megoldásai: x = 1 + 375k, k∈ℤ. A 19x = 9 mod 358 egyenlet megoldásai: x = 57 + 358k, k∈ℤ",
+  "diak_vegeredmenye": "x = 1 + 375ℓ a 17x = 17 mod 375 esetére; x = 57 + 358ℓ a 19x = 9 mod 358 esetére",
+  "diak_megoldasa_osszefoglalva": "A diák a kiterjesztett euklidészi algoritmust használta mindkét kongruencia megoldására, majd a kapott együtthatók alapján kiszámította a konkrét megoldásokat. Összhangban a helyes végső eredményekkel.",
+  "pont": 1,
+  "indoklas": "Mindkét megoldás helyes, a felhasznált módszer (törés, EEA) megalapozott, a végső eredmények megegyeznek a helyes megoldással.",
+  "magabiztossag": 100,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

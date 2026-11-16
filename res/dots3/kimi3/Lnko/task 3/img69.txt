@@ -1,0 +1,16 @@
+Feladat: Határozd meg gcd(216, 203)-at az euklideszi algoritmussal.
+Helyes megoldás: Euklideszi algoritmus: 216 = 1*203 + 13; 203 = 15*13 + 8; 13 = 1*8 + 5; 8 = 1*5 + 3; 5 = 1*3 + 2; 3 = 1*2 + 1; 2 = 2*1 + 0. Tehat gcd(216, 203) = 1.
+
+Diák végeredménye: gcd(216, 203) = 1
+Diák megoldása (összefoglalva):
+A diák az euklideszi algoritmust alkalmazza: 216 = 1*203 + 13, majd további maradékos osztásokkal (OCR-zajos sorokkal) eljut a 0 maradékig, és az utolsó nemnulla maradékként 1-et kap.
+
+Pontszám: 1/1
+Indoklás:
+A módszer (euklideszi algoritmus) helyes, a végeredmény (gcd = 1) helyes. A köztes sorokban a 203 = 7*13 + 12 felbontás nem konzisztens a helyes algoritmussal (helyesen 203 = 15*13 + 8), de a diák saját láncon belül is következetesen 1-re jut, és a köztes sorok OCR-hibáiért nem vonunk le pontot. A helyes módszer és helyes végeredmény alapján teljes pont.
+
+Modell magabiztossága: 80/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+A '203 = 7*13 + 12' sor valószínűleg OCR-torzítás (helyesen 203 = 15*13 + 8); a 7-es itt nem egyértelműen 1↔7 csere, inkább a 15 felismerésének hibája. A végeredmény és a módszer ettől függetlenül helyes.

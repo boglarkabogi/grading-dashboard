@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 13x ≡ 13 mod 409 és 12x ≡ 7 mod 302
+Helyes megoldás: 13x ≡ 13 mod 409 => x ≡ 1 mod 409. 12x ≡ 7 mod 302 => no integer solution.
+
+Diák végeredménye: x ≡ 1 mod 409; 12x ≡ 7 mod 302 has no solution.
+Diák megoldása (összefoglalva):
+Student used the extended Euclidean algorithm to find the inverse for the first congruence and computed the gcd for the second, concluding the second has no solution. The final answers are x ≡ 1 mod 409 and unsolvable for the second.
+
+Pontszám: 1/1
+Indoklás:
+Correct method (extended Euclidean algorithm) and correct final results for both congruences.
+
+Modell magabiztossága: 90/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

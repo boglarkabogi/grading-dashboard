@@ -1,0 +1,15 @@
+{
+  "feladat": "Határozd meg gcd(216, 205)-ot (legnagyobb közös osztó).",
+  "helyes_megoldas": "Euklideszi algoritmus: 216 = 1·205 + 11; 205 = 18·11 + 7; 11 = 1·7 + 4; 7 = 1·4 + 3; 4 = 1·3 + 1; 3 = 3·1 + 0. lnko(216,205) = 1.",
+  "diak_vegeredmenye": "lnko(216,205) = 1",
+  "diak_megoldasa_osszefoglalva": "A diák az euklideszi algoritmust alkalmazza: 216 = 1·205 + 11, 205 = 18·11 + 7, majd további (OCR-zajos) maradékos osztási sorok, végül lnko = 1.",
+  "pont": 1,
+  "indoklas": "A módszer (euklideszi algoritmus) és a végeredmény (lnko = 1) helyes; 216 és 205 valóban relatív prímek. A köztes sorok (pl. '18 = 2·7 + 2', '1 = 2·1') elcsúszott/maradaktalan OCR-olvasatok, a valódi lépések '11 = 1·7 + 4', '7 = 1·4 + 3', '4 = 1·3 + 1', '3 = 3·1 + 0' lettek volna — az instrukció szerint a köztes sorok OCR-hibáiért nem vonok le pontot.",
+  "magabiztossag": 90,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A köztes sorok sorai egymásba csúsztak az OCR-ben (osztók és maradékok felcserélve jelennek meg), de a végső eredmény és a módszer helyes.",
+  "model": "moonshotai/kimi-k3"
+}

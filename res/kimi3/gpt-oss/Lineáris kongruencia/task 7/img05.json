@@ -1,0 +1,15 @@
+{
+  "feladat": "13x ≡ 19 mod 414 és 20x ≡ 6 mod 412",
+  "helyes_megoldas": "13x ≡ 19 mod 414: x ≡ 97 mod 414; 20x ≡ 6 mod 412: no solution.",
+  "diak_vegeredmenye": "no solution",
+  "diak_megoldasa_osszefoglalva": "Student mért a 20x ≡ 6 mod 412 egyenlethez az egydimenziós együtthatók, majd alkalmazta az Euklideszi algoritmust; találták, hogy a gcd 4, ami nem osztja 6-ot, így nem létezik megoldás.",
+  "pont": 0.5,
+  "indoklas": "A diák helyesen megoldotta a második kongruenciát és megállapította a valódi eredményt: nincs megoldás. Mivel a feladat mindkét kongruenciát kérte, a hiányos megoldás miatt csak részleges pontszám jár. A módszer és a végeredmény a második részben helyes.",
+  "magabiztossag": 80,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A diák csak a második részre adt válasz; a feladat teljes megoldása hiányzik.",
+  "model": "openai/gpt-oss-20b"
+}

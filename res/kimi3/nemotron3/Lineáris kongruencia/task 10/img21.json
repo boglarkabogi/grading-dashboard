@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 7x ≡ 8 mod 340 és 16x ≡ 15 mod 330",
+  "helyes_megoldas": "nincs megoldás",
+  "diak_vegeredmenye": "x=243+340k",
+  "diak_megoldasa_osszefoglalva": "A diák eldöntötte, hogy a második kongruencia nem oldós mert (16,330)=2 nem osztja 15-t, majd az első kongruenciát kiterjesztett Eukleidesz algoritmussal oldotta meg, az 7-os inverzét 243-nak znalaz, és ezt a megoldásként adott meg, anélkül, hogy az 8-al szorozta volna, vagy kombinálná a két kongrenciát.",
+  "pont": 0.5,
+  "indoklas": "A diák helyesen észlelte, hogy a második kongruencia nem oldós, de nem závékozolt belőle, hogy a rendszer sem oldós; az első kongruenciában a módszer helyes (kiterjesztett Eukleidesz), de az inverzt 8-szorosúra szorozni kellett, amit elhagyott, így a végeredmény helytelen.",
+  "magabiztossag": 85,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

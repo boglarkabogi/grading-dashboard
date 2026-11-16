@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 7x ≡ 14 mod 343 és 16x ≡ 5 mod 346",
+  "helyes_megoldas": "7x ≡ 14 mod 343: a megoldókészlet x = 2 + 49k, k ∈ Z. 16x ≡ 5 mod 346: nincs megoldás, mert a dziv weg(16,346)=2, és 2 nem osztja 5-et.",
+  "diak_vegeredmenye": "x = 2 + 49k; nincs x ami megoldja",
+  "diak_megoldasa_osszefoglalva": "A diák a 7x≡14 mod 343 példánál először kiszámította a legnagyobb közös osztót 7, majd elosztva a két oldalát és a modulusot, így kapott x=2+49k. A 16x≡5 mod 346 esetén megtalálta a gcd=2, és jelezte, hogy 2 nem osztja 5-öt, ezért nincs megoldás.",
+  "pont": 1,
+  "indoklas": "A diák helyes módszert alkalmazott, mindkét egység helyes, és a végeredmények is megfelelnek a helyes megoldásnak.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A megadott levezetés és eredmények helyesek, nincs jelezhető OCR hiba.",
+  "model": "openai/gpt-oss-20b"
+}

@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 17x ≡ 17 mod 375 és 19x ≡ 9 mod 358",
+  "helyes_megoldas": "x ≡ 96001 (mod 134250) (vagy x = 96001 + 134250k, k∈Z)",
+  "diak_vegeredmenye": "Nincs megoldás",
+  "diak_megoldasa_osszefoglalva": "Az első kongrenciát helyesen oldotta meg, x ≡ 1 (mod 375)-et kapva. A második kongrenciánál az Euklideszi algoritmus segítségével a legnagyobb közös osztót vizsgálta, de hibásan concluded, hogy nincs megoldás, így a rendszer megoldását nem találták.",
+  "pont": 0.5,
+  "indoklas": "Az első kongrenciájának módszere és eredménye helyes, de a második kongrenciát hibásan értékelve, így a végső eredmény (nincs megoldás) helytelen, ezért csak parcialmente ponthatározható megoldást kap.",
+  "magabiztossag": 90,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

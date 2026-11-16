@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 7x ≡ 14 (mod 343) és 16x ≡ 5 (mod 346)
+Helyes megoldás: x ≡ 2 (mod 49) és nincs megoldás
+
+Diák végeredménye: x ≡ 2 (mod 49) és nincs megoldás
+Diák megoldása (összefoglalva):
+A diák a két kongruenciát külön-külön kezelte. Az elsőben elosztott az 7‑tel, és megállapította, hogy x ≡ 2 (mod 49). A másodikban meghatározta a gcd = 2, és jelezte, hogy mivel 2 nem osztja az 5-öt, nincs egész megoldás.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyes módszert alkalmazott mindkét esetben, és a végeredmények is helyesek (x ≡ 2 (mod 49) és nincs megoldás).
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

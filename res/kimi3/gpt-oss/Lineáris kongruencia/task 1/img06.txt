@@ -1,0 +1,14 @@
+Feladat: 19x ≡ 16 mod 470 és 16x ≡ 5 mod 202
+Helyes megoldás: -
+
+Diák végeredménye: x = 16·99 + 470k (az első kongruencia), x = (5/2)·77 + (5/2)·202k (a második kongruencia)
+
+Pontszám: 0.25/1
+Indoklás:
+A diák helyesen oldott meg az első kongruenciát, de a másodikban hibásan, mert nem ellenőrizte, hogy a gcd osztja-e a jobboldalt. Így csak részben helyes.
+
+Modell magabiztossága: 90/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 7x ≡ 14 (mod 343) és 16x ≡ 5 (mod 346)",
+  "helyes_megoldas": "Az első kongruenciából x ≡ 2 (mod 49). A második kongruenciának nincs megoldása, mert gcd(16,346)=2 nem osztja 5-t. Így a rendszernek semleges megoldása nincs.",
+  "diak_vegeredmenye": "x ≡ 2 (mod 49); 16x ≡ 5 (mod 346) nem megoldás",
+  "diak_megoldasa_osszefoglalva": "A diák az első kongruenciát 7-el oszthatva oldotta meg, obterve x ≡ 2 (mod 49). A második kongruenciára euklideszi algoritmust alkalmazva gcd(16,346)=2-t kapta, és mivel 2 nem osztja 5-t, megállította, hogy nincs megoldás, bal oldal mindig páros, jobb oldal mindig páratlan.",
+  "pont": 1,
+  "indoklas": "A diák helyes módszert használta mindkét kongruenciára, helyesen azonosította, hogy a második kongruenciának nincs megoldása, ezért a rendszernek semleges megoldása nincs.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

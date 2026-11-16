@@ -1,0 +1,19 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat:
+
+7x ≡ 14 (mod 343)
+16x ≡ 5 (mod 346)
+Helyes megoldás: 7x ≡ 14 (mod 343) => x ≡ 2 (mod 49); 16x ≡ 5 (mod 346) has no solution because gcd(16,346)=2 does not divide 5.
+
+Diák végeredménye: x ≡ 2 (mod 49) (or x = 2 + 49k, k ∈ Z) for the first congruence; no solution for the second congruence.
+Diák megoldása (összefoglalva):
+Student solved the first congruence by dividing by gcd(7,343)=7, obtaining x ≡ 2 mod 49, and correctly concluded that the second congruence has no solution because gcd(16,346)=2 does not divide 5.
+
+Pontszám: 1/1
+Indoklás:
+Student's method and final answer are both correct: they correctly reduced the first congruence and identified the lack of solution in the second, earning full points.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

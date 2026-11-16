@@ -1,0 +1,11 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat:\n\n$19x \\equiv 16 \\mod 470$ és $16x \\equiv 5 \\mod 202$",
+  "hiba": "A modell nem adott értelmezhető JSON választ.",
+  "pont": null,
+  "ertelmezheto": false,
+  "magabiztossag": 0,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "model": "deepseek-ai/deepseek-v4-flash-0731"
+}

@@ -1,0 +1,15 @@
+{
+  "feladat": "gcd(217, 206) meghatározása az euklideszi algoritmussal",
+  "helyes_megoldas": "217 = 1·206 + 11; 206 = 18·11 + 8; 11 = 1·8 + 3; 8 = 2·3 + 2; 3 = 1·2 + 1; 2 = 2·1 + 0, tehát gcd(217, 206) = 1, a számok relatív prímek.",
+  "diak_vegeredmenye": "(217, 206) = 1",
+  "diak_megoldasa_osszefoglalva": "A diák az euklideszi algoritmust alkalmazza: a maradékok sorra 11, 8, 3, 2, 1, 0, és a végső osztót, 1-et adja meg eredményként.",
+  "pont": 1,
+  "indoklas": "A módszer helyes (euklideszi algoritmus), a köztes lépések helyesek, és a végeredmény, gcd(217, 206) = 1 is helyes.",
+  "magabiztossag": 98,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "moonshotai/kimi-k3"
+}

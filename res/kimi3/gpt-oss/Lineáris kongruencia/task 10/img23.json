@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg a lineáris kongruenciákat: 7x≡8 mod 340 és 16x≡15 mod 330",
+  "helyes_megoldas": "7x≡8 (mod 340) → x≡244 (mod 340). 16x≡15 (mod 330) nem lehetséges, mert 2 nem osztó 15.",
+  "diak_vegeredmenye": "x = (-97)8 + 340t = -776 + 340t (t∈ℤ), ezért x≡244 (mod 340). 16x≡15 (mod 330) nem megoldható.",
+  "diak_megoldasa_osszefoglalva": "A diák a kiterjesztett Euklidés módszert alkalmazta az első kongruencia megoldásához, kiszámolta az 7 inverst és így kapta az általános megoldást. A második kongruencián a gcd miatt megállapította, hogy nincs megoldás.",
+  "pont": 1,
+  "indoklas": "Megoldás megfelel both módra és végeredményre is. A végső képlet a helyes megoldás (244 mod 340) és a második kongruencia helyes nemmegfelelőség.",
+  "magabiztossag": 100,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

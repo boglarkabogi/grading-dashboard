@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 11x ≡ 2 mod 238 és 16x ≡ 15 mod 490
+Helyes megoldás: x ≡ 130 (mod 238); a 16x ≡ 15 (mod 490) kongruencia nem oldható meg (nincs megoldás)
+
+Diák végeredménye: x ≡ 130 (mod 238); a második kongruencia megoldása: nincs ilyen x
+Diák megoldása (összefoglalva):
+A diák először eldöntötte, hogy (11,238)=1, majd kiterjesztett Eukleidés algoritmusával meghatározta 11 inverzát 65‑ként, amivel x≡130 (mod 238)-et kapott. Második kongruencia esetén kiszámította (16,490)=2, és mivel 2∤15, azt závékozolta, hogy megoldás nem létezik.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyes módszert használta mindkét congruenciára (odál Eliptikus eukleidés, osztós vizsgálat), és helyes végeredményt kapott: elsőkongruencia megoldása x≡130 (mod 238), másodiknak nincs megoldása, ami a helyes válasz complètement egyezik.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

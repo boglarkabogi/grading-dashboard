@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 7x ≡ 12 (mod 313) és 20x ≡ 5 (mod 454)",
+  "helyes_megoldas": "1. 7x ≡ 12 (mod 313) → az inverz 7^-1 ≡ 179 (mod 313), ezért x ≡ 179·12 ≡ 270 (mod 313). 2. 20x ≡ 5 (mod 454) nem rendelkezik megoldással, mert gcd(20,454)=4, de 4 nem osztója 5-nek.",
+  "diak_vegeredmenye": "A diák csak az első egyenletre adják a következő lépéseket, végül azt állítja, hogy 7 ≡ -6566 (mod 313). Nem határozza meg a x értékét, és a második egyenletet nem veszi figyelembe.",
+  "diak_megoldasa_osszefoglalva": "A diák helyesen használta a bővített Euklideszt a 313 és 7 közti kapcsolatra, de hibásan alkalmazta az eredményt a 12-vel konkrét szorzásra. Emellett nem oldotta meg a második kongruenciát.",
+  "pont": 0.5,
+  "indoklas": "A diák helyes módszert alkalmazott a 7 inverzének kiszámítására (bővített Euklidesz), de a végeredmény (x) hibásan lett megszámolva, és a második kongruenciát sem kezeli. Mivel a módszer részben helyes és a végeredmény hibás, a pont 0.5.",
+  "magabiztossag": 90,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

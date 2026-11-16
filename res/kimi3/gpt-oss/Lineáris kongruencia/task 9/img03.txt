@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 19x ≡ 14 mod 297 és 18x ≡ 17 mod 482
+Helyes megoldás: x ≡ 32 mod 297. The congruence 18x ≡ 17 mod 482 has no solution.
+
+Diák végeredménye: x ≡ 32 mod 297. Second congruence is unsolvable.
+Diák megoldása (összefoglalva):
+The student used the extended Euclidean algorithm to find an inverse of 19 modulo 297 and multiplied by 14 to obtain x ≡ 32 mod 297. For the second congruence they noted that the greatest common divisor of 18 and 482 is 2, which does not divide 17, so the equation has no solution.
+
+Pontszám: 1/1
+Indoklás:
+The student correctly applied the extended Euclidean algorithm, found the modular inverse of 19, multiplied by the constant term to get the correct solution x ≡ 32 mod 297, and accurately identified the unsolvability of the second congruence because the gcd does not divide the right‑hand side. All steps are correct, warranting full credit.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+No OCR issues detected.

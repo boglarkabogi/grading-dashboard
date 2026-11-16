@@ -1,0 +1,15 @@
+{
+  "feladat": "gcd(219, 205) meghatározása az euklideszi algoritmussal.",
+  "helyes_megoldas": "Euklideszi algoritmussal: 219 = 1·205 + 14; 205 = 14·14 + 9; 14 = 1·9 + 5; 9 = 1·5 + 4; 5 = 1·4 + 1; 4 = 4·1 + 0. Az utolsó nem nulla maradék 1, tehát gcd(219, 205) = 1.",
+  "diak_vegeredmenye": "(219, 205) = 1",
+  "diak_megoldasa_osszefoglalva": "A diák az euklideszi algoritmust alkalmazta: egymás utáni osztásokkal (219 = 1·205+14, 205 = 14·14+9, 14 = 9·1+5, 9 = 5·1+4, 5 = 4·1+1, 4 = 1·4+0) levezette, és végeredményként gcd = 1-et adott meg.",
+  "pont": 1,
+  "indoklas": "Helyes módszer (euklideszi algoritmus), minden maradék számítása jó, és a végeredmény is helyes: gcd(219, 205) = 1.",
+  "magabiztossag": 98,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "moonshotai/kimi-k3"
+}

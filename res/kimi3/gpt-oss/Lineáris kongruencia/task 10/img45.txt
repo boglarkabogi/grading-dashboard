@@ -1,0 +1,14 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 7x ≡ 8 mod 340 és 16x ≡ 15 mod 330
+Helyes megoldás: -
+
+Diák végeredménye: x ≡ 244 (mod 340); 16x ≡ 15 mod 330 nincs megoldás
+
+Pontszám: 1/1
+Indoklás:
+A diák megfelelő metódust alkalmazott mindkét problémára, a végső eredmények helyesek: az első kongruencia megoldása 244 mód 340, a másodiknek nincs megoldása. Köztes lépésekben némi zavaros megjelenés van, de ez nem befolyásolja a helyességet.
+
+Modell magabiztossága: 100/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 7x ≡ 14 (mod 343) és 16x ≡ 5 (mod 346)",
+  "helyes_megoldas": "x ≡ 2 (mod 49) és nincs megoldás",
+  "diak_vegeredmenye": "x ≡ 2 (mod 49) és nincs megoldás",
+  "diak_megoldasa_osszefoglalva": "A diák a két kongruenciát külön-külön kezelte. Az elsőben elosztott az 7‑tel, és megállapította, hogy x ≡ 2 (mod 49). A másodikban meghatározta a gcd = 2, és jelezte, hogy mivel 2 nem osztja az 5-öt, nincs egész megoldás.",
+  "pont": 1,
+  "indoklas": "A diák helyes módszert alkalmazott mindkét esetben, és a végeredmények is helyesek (x ≡ 2 (mod 49) és nincs megoldás).",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

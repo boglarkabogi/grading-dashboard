@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 13x ≡ 19 mod 414 és 20x ≡ 6 mod 412",
+  "helyes_megoldas": "Első kongruencia: x ≡ 97 (mod 414). Második kongruencia: nincs megoldás.",
+  "diak_vegeredmenye": "x = 97 + 414k; a második kongruencia nem rendelkezik megoldással",
+  "diak_megoldasa_osszefoglalva": "A diák az első egyenlet esetén Érintett géráni algoritmust használva visszairányítva a 13 x szerepét, meghatározta, hogy a 13 együttható inverze 223, ami 19‑tel szorozva 97-t ad. A második egyenletet 20x≡6 mod412 átírva 10x≡3 mod206-re, majd a gcd(10,206)=2 ellenőrzésével megállapította, hogy a jobb oldal 3 nem osztható 2-vel, ezért nem létezik megoldás.",
+  "pont": 1,
+  "indoklas": "A diák helyes módszerrel dolgozott, a végső eredmények megegyeznek a te helyes megoldással.",
+  "magabiztossag": 100,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A képfelismerő nem jelezte érdemben hibás 1↔7 cserét, a szöveg értelmezhető.",
+  "model": "openai/gpt-oss-20b"
+}

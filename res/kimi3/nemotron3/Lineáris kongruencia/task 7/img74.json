@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 13x ≡ 19 (mod 414) és 20x ≡ 6 (mod 412)",
+  "helyes_megoldas": "Az első kongruencia megoldása: x ≡ 97 (mod 414); a második kongruencia nem megoldható (mert gcd(20,412)=4 nem osztja 6), ezért a rendszernek nincs megoldása.",
+  "diak_vegeredmenye": "x = 97 + 414k",
+  "diak_megoldasa_osszefoglalva": "Az első kongruenciahoz kiterjesztett euklideszi algoritmust alkalmazva x ≡ 97 (mod 414)-t kapodik; a második kongruencia esetében osztással 2-rel kapja 10x ≡ 3 (mod 206)-t, majd gcd(10,206)=2 nem osztja 3-t, így nem megoldható választ, de végül az első kongruencia megoldását adja eredményként.",
+  "pont": 0.5,
+  "indoklas": "A diák helyes módszerrel és helyes eredménnyel oldja meg az első kongruenciát, másodikban helyesen észleli a nem megoldhatóságot, de hibátlanul kombinálja a két feltételt, ezért a végeredmény helytelen.",
+  "magabiztossag": 95,
+  "ertelezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "Az OCR szöveg értelmezhető, conspicuous 7/1 confundáció nem fellép.",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

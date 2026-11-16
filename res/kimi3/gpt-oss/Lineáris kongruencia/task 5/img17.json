@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 13x ≡ 13 mod 409 , 12x ≡ 7 mod 302",
+  "helyes_megoldas": "x ≡ 1 (mod 409). \\n12x ≡ 7 (mod 302) has no solution because gcd(12,302)=2 does not divide 7.",
+  "diak_vegeredmenye": "x ≡ 1 (mod 409); no solutions for the second congruence.",
+  "diak_megoldasa_osszefoglalva": "A diák meghatározta, hogy 13 és 409 relatív prímek, a nagyobb szám szerinti Euklidészi algoritmust használva kapta a mátrixot, és kiszámolta a 13×63≡1 mod 409. Ez alapján x≡1. A második egyenletben kiszámolták, hogy gcd(12,302)=2, de ez nem osztja az 7-et, tehat nincsen megoldás.",
+  "pont": 1,
+  "indoklas": "A diák helyesen alkalmazta a módszert mindkét egyenletnél, és helyes végeredményt adott: x≡1 mod 409 és a második egyenletnek nincs megoldása. Még ha a levezetésben bizonyos numerikus lépésekben kisebb írási hibák találtak volna, azok nem befolyásolják a helyes módszert és a végeredményt.",
+  "magabiztossag": 100,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

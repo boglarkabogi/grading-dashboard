@@ -1,0 +1,15 @@
+{
+  "feladat": "Olda meg az alábbi lineáris kongruenciákat: 11x ≡ 2 mod 238 és 16x ≡ 15 mod 490",
+  "helyes_megoldas": "x ≡ 130 mod 238. A 16x ≡ 15 mod 490 nem adott megoldást, mert gcd(16,490)=2 nem osztja a 15-öt.",
+  "diak_vegeredmenye": "x ≡ 11, 130 mod 238; a második egyenlethez nincs megoldás",
+  "diak_megoldasa_osszefoglalva": "A diák megpróbált 22 es műveleket alkalmazni a 11x≈2 mod 238 megoldására, ami hibás végeredményt adott (11 és 130), majd helyesen észlelte, hogy a 16x≡15 mod 490 nem létezik, mert a gcd nem osztja a jobb oldalt.",
+  "pont": 0.5,
+  "indoklas": "A diák helyesen vizsgálta a második kongruenciát, de a első megoldása hibás. Mivel a két rész egyenlet komplementer módon rendezhető (egyik hibás, egyik helyes), a teljes feladat félig sikeres nyújtása miatt 0.5 pontot kap.",
+  "magabiztossag": 90,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A bemenet megfelelően olvasható, nincs alapvető OCR hiba.",
+  "model": "openai/gpt-oss-20b"
+}

@@ -1,0 +1,15 @@
+{
+  "feladat": "Keresd meg 217 és 206 legnagyobb közös osztóját.",
+  "helyes_megoldas": "1",
+  "diak_vegeredmenye": "1",
+  "diak_megoldasa_osszefoglalva": "A diák a Euclid‑algoritmust alkalmazta, soronként felírva az osztás maradékait, majd a végén kimondta, hogy a legnagyobb közös osztó 1.",
+  "pont": 1,
+  "indoklas": "A diák helyes módszert használta (Euclid‑algoritmus) és a végeredménye – 1 – megegyezik a helyes megoldással, ezért teljes pontot kap.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

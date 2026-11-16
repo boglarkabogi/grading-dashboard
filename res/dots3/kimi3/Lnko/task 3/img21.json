@@ -1,0 +1,15 @@
+{
+  "feladat": "gcd(216, 203)",
+  "helyes_megoldas": "Euklideszi algoritmus: 216 = 1·203 + 13; 203 = 15·13 + 8; 13 = 1·8 + 5; 8 = 1·5 + 3; 5 = 1·3 + 2; 3 = 1·2 + 1; 2 = 2·1 + 0, igy gcd(216, 203) = 1.",
+  "diak_vegeredmenye": "(216, 203) = 1",
+  "diak_megoldasa_osszefoglalva": "A diak az euklideszi algoritmust hibatlanul vegzi el lepesrol lepesre, az utolso nemnulla maradek 1, es a vegeredmenyt helyesen (216, 203) = 1-nek adja meg. A plusz szorzatos sorok (13·10 = 130 stb.) tordekszamitasok, nem a megoldas reszei.",
+  "pont": 1,
+  "indoklas": "Helyes modszer (euklideszi algoritmus), minden osztasi lepes pontos, a vegeredmeny (gcd = 1) helyes. A mellekes szorzasok nem befolyasoljak a megoldast.",
+  "magabiztossag": 100,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "moonshotai/kimi-k3"
+}

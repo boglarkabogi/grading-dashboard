@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciák: 7x ≡ 8 (mod 340) és 16x ≡ 15 (mod 330)",
+  "helyes_megoldas": "7x ≡ 8 (mod 340) megoldás: x = 244 + 340k, k ∈ Z; 16x ≡ 15 (mod 330) megoldás: nincs megoldás, mert gcd(16,330)=2 nem osztja 15-t.",
+  "diak_vegeredmenye": "a) x = 244 + 340k, k ∈ Z; b) nincs megoldás.",
+  "diak_megoldasa_osszefoglalva": "Az első kongruenciában kiterjesztett euklideszi algoritmus segítségével megtalálta 7 visszafordítót mod 340, majd szorzva 8-al kapta x ≡ 244 (mod 340). A második kongruenciában kiszámolta (16,330)=2-öt, és mivel 2 nem osztja 15-t, conclúdiálta, hogy nincs megoldás.",
+  "pont": 1,
+  "indoklas": "A diák helyes módszert alkalmazott mindkét congruenciára (kiterjesztett euklideszi algoritmus, majd oszthatóság vizsgálata), és helyes végeredményeket adott: az elsőre x ≡ 244 (mod 340), a másodikra helyesen azonosította, hogy nincs megoldás.",
+  "magabiztossag": 100,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

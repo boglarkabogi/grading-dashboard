@@ -1,0 +1,16 @@
+Feladat: 13x ≡ 19 mod 414 és 20x ≡ 6 mod 412
+Helyes megoldás: 13x ≡ 19 mod 414 esetén x ≡ 97 mod 414. 20x ≡ 6 mod 412 esetén nem létezik megoldás.
+
+Diák végeredménye: x ≡ -3629 mod 414; 20x ≡ 6 mod 412: nincs megoldás
+Diák megoldása (összefoglalva):
+A hallgató Először ellenőrizte a GCD-t, majd Extended Euclid–tel meghatározta az 13 tang. Invertálót –191, majd ezt megszorozta 19-gyel, végül a mod 414–al. A második egyenlethez a GCD 4 volt, ami nem osztja 6-ot, ezért megoldás hiányzik.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyes módszert használta és a végeredményt is helyesen adta meg (a megadott osztás mod 414‑ben megegyezik a kisírt 97-modos megoldással).
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

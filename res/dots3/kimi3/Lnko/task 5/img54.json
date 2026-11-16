@@ -1,0 +1,15 @@
+{
+  "feladat": "gcd(217, 201)",
+  "helyes_megoldas": "Euklideszi algoritmus: 217 = 1*201 + 16; 201 = 12*16 + 9; 16 = 1*9 + 7; 9 = 1*7 + 2; 7 = 3*2 + 1; 2 = 2*1 + 0, igy gcd(217, 201) = 1.",
+  "diak_vegeredmenye": "A vegeredmeny az algoritmusbol olvashato ki: az utolso nemnulla maradek 1, tehat gcd = 1 (kulon kimondva nincs).",
+  "diak_megoldasa_osszefoglalva": "A diak helyesen alkalmazta az euklideszi algoritmust: a maradekok sorban 16, 9, 7, 2, 1, 0, igy a legnagyobb kozos oszto 1.",
+  "pont": 1,
+  "indoklas": "A modszer (euklideszi algoritmus) helyes, a lepesek szamitasai mind pontosak, es az utolso nemnulla maradekbol a helyes eredmeny, gcd(217,201) = 1 adodik. Hianyzik ugyan a kimondott vegeredmeny-sor, de az algoritmusbol egyertelmuen kiolvashato.",
+  "magabiztossag": 98,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A diak nem irta ki kulon, hogy a gcd erteke 1, de a levezetes utolso nemnulla maradeka egyertelmuen ezt adja.",
+  "model": "moonshotai/kimi-k3"
+}

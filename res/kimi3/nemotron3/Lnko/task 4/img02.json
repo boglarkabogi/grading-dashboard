@@ -1,0 +1,15 @@
+{
+  "feladat": "Keresd meg 216 és 205 legnagyobb közös osztóját.",
+  "helyes_megoldas": "1",
+  "diak_vegeredmenye": "1",
+  "diak_megoldasa_osszefoglalva": "A diák az euklidesi algoritmust használta kivonásokkal: 216-1·205=9, 205-22·9=7, 9-1·7=2, 7-3·2=1, 2-2·1=0, és így a számok relatív prímek (lnko=1).",
+  "pont": 1,
+  "indoklas": "A módszer lényege helyes euklidesi algoritmus, csak az első kivonásban számolj hiba (216-205=9 helyett 11), de ez nem módosítja a vég eredményt, ezért a megoldás helyes.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

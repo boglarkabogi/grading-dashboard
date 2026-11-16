@@ -1,0 +1,15 @@
+{
+  "feladat": "Keresd meg 219 és 205 legnagyobb közös osztóját.",
+  "helyes_megoldas": "1",
+  "diak_vegeredmenye": "1",
+  "diak_megoldasa_osszefoglalva": "A diák Euclid algoritmust alkalmazott, sorban kiszámolta a maradékokat: 219,205,14,9,5,4, majd a kapott legnagyobb közös osztót 1-nek határozta.",
+  "pont": 1,
+  "indoklas": "A megoldás helyes módszerrel történt, a lépéseket követve a végül kapott eredmény a helyes, a legnagyobb közös osztó 1.",
+  "magabiztossag": 100,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

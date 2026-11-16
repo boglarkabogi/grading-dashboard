@@ -1,0 +1,16 @@
+Feladat: 13x ≡ 13 mod 409 és 12x ≡ 7 mod 302
+Helyes megoldás: Első kongruencia: x ≡ 1 (mod 409). Második kongruencia: nincs megoldás.
+
+Diák végeredménye: Első: x_t = (32×13)+13t. Második: nincs megoldás.
+Diák megoldása (összefoglalva):
+A diák a kiterjesztett egy túl áldozásos egyenleltetést használt az első kongruencia megoldására, de a behelyettesített érintésekkel rosszul számolta a Bézout‑sorozatot, így a kapott konkrét megoldás hibás; a második esetben helyesen észlelte, hogy a gcd nem osztja a konstans.
+
+Pontszám: 0.5/1
+Indoklás:
+A diák helyes módszert alkalmazott (ekslended Euclid), de hibát követett el a Bézout‑köõs ablak kérdésében, így az első kongruencia eredménye hibás; a második esetben helyesen azonosította a nem megoldható módot.
+
+Modell magabiztossága: 80/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 13x ≡ 19 mod 414 és 20x ≡ 6 mod 412
+Helyes megoldás: Első kongruencia megoldása: x = 97 + 414k, k∈Z. Második kongruencia: nincs megoldás, mivel gcd(20,412)=4 nem osztja 6-t.
+
+Diák végeredménye: Első kongruencia: {97+414k, k∈Z}; Második kongruencia: nincsen megoldás
+Diák megoldása (összefoglalva):
+A diák az első kongruenciához kiterjesztett Euklideszi algoritmust alkalmazott az 13 mód 414 inverzusának kiszámításához, majd szorzta a jobb oldallal. A második kongruenciához a legnagyobb közös osztót számította, és mivel 4 nem osztja 6-t, nincsen megoldást.
+
+Pontszám: 1/1
+Indoklás:
+
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: nem
+
+Megjegyzés:
+Az OCR-összeolvasztás helytelenül nem fordul elő; a diák megoldása helyes.

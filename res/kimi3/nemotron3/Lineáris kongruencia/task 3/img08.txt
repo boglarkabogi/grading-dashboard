@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 11x ≡ 2 mod 238 és 16x ≡ 15 mod 490
+Helyes megoldás: x ≡ 130 (mod 238); a 16x ≡ 15 (mod 490) kongruenciának nincs megoldása
+
+Diák végeredménye: x ≡ 130 (mod 238); nincs megoldás a második kongruenciára
+Diák megoldása (összefoglalva):
+Az első kongruenciához kiterjesztett Euklideszi algoritmus segítségével megtalálta az 11 inverzusát modulo 238, amely 65, így x ≡ 130 (mod 238). A második kongruenciához kiszámította az 16 és 490 legnagyobb közös osztóját (2), és mivel 2 nem osztja az 15-öt, rozhodott, hogy nincs megoldás.
+
+Pontszám: 1/1
+Indoklás:
+
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+Az OCR-Levezetésben egy sor hiányzik az egyenlőségjel (1-1·1), de ez nem befolyásolja a helyes megoldást.

@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 13x ≡ 19 (mod 414) és 20x ≡ 6 (mod 412)
+Helyes megoldás: x ≡ 97 (mod 414); a second congruence 20x ≡ 6 (mod 412) nem rendelkezik megoldás, mivel gcd(20,412)=4 nem osztja ki 6-t
+
+Diák végeredménye: x ≡ 97 (mod 414); második congruencia esetén nem adott megoldást
+Diák megoldása (összefoglalva):
+A diák az első congruenciára kiszámolta az inverz számot az extended eukleidés algoritmussal, így x ≡ 97 (mod 414)-et kapott. A második congruenciára helyesen megjegyezte, hogy megoldás csak akkor létezik, ha 6 osztható a gcd(20,412)=4-tel, ami nem igaz, ezért nem adott megoldást.
+
+Pontszám: 1/1
+Indoklás:
+
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

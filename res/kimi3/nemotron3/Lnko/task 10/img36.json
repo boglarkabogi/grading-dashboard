@@ -1,0 +1,14 @@
+{
+  "feladat": "Keresd meg 219 és 205 legnagyobb közös osztóját.",
+  "helyes_megoldas": "1",
+  "diak_vegeredmenye": "1",
+  "diak_megoldasa_osszefoglalva": "Az euklideszi algoritmust alkalmazva sorban osztással kapja a maradékokat, végül 1-et kap osztójul, tehát a legnagyobb közös osztó 1.",
+  "indoklas": "A diák helyes módszert (euklideszi algoritmus) használta, a lépések helyesek, a végeredmény 1, ami a valódi GCD, így telített pontot ér el.",
+  "magabiztossag": 100,
+  "ertelezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

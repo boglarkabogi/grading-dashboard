@@ -1,0 +1,17 @@
+Feladat: 13x = 19 mod 414
+20x = 6 mod 412
+Helyes megoldás: x = 97 + 414k for 13x = 19 mod 414; no solution for 20x = 6 mod 412
+
+Diák végeredménye: x = 97 + 414k ; no solution
+Diák megoldása (összefoglalva):
+The student used the extended Euclidean algorithm to find the inverse of 13 mod 414, multiplied by 19 to get 4237, reduced to 97, and noted that gcd(20,412)=4 does not divide 6, so the second congruence has no solution.
+
+Pontszám: 1/1
+Indoklás:
+The student used the correct method (extended Euclidean algorithm) and arrived at the correct final answers for both congruences.
+
+Modell magabiztossága: 100/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

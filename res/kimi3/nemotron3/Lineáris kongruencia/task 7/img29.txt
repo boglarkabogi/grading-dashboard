@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 13x ≡ 19 (mod 414) és 20x ≡ 6 (mod 412)
+Helyes megoldás: Első kongruencia: x ≡ 97 (mod 414); Második kongruencia: nincs megoldás.
+
+Diák végeredménye: Első kongruencia: x = 97; Második kongruencia: nincs megoldás.
+Diák megoldása (összefoglalva):
+Az első kongruenciát kiterjesztett Euklideszi algoritmuszal oldta meg, 13 inverzát 414-modulussal megtalálva és x=97-et kapva. A második kongruenciát 2-el osztva kapott 10x≡3 (mod 206)-t, cuya Euklideszi algoritmusból származó inconsistent vagy hiányos miatt nem létező megoldásként ítélte.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyesen oldotta meg az első kongruenciát (x ≡ 97 mod 414) és helyesen azonosította, hogy a második kongruenciának nincs megoldása, ellenére az OCR-zajos intermédiaire lépésekben.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+Az OCR néhány karaktert eltévelyesztett (pl. hiányzó operátorok), de a décisív lépések és végeredmény egyértelműek, így a diák soluciónát értékelni lehet.

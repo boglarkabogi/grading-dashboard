@@ -1,0 +1,15 @@
+{
+  "feladat": "Keresd meg 218 és 202 legnagyobb közös osztóját.",
+  "helyes_megoldas": "A legnagyobb közös osztó 2.",
+  "diak_vegeredmenye": "2",
+  "diak_megoldasa_osszefoglalva": "A diák az egérdikai algoritmust alkalmazta: először kivonással 218 és 202 közül a maradék 16-ot ad, majd ezt 202-vel, 16-mal, 10-mal, 6-tal, 4-gyel és 2-vel sorban osztva, amíg a maradék nulla nem lesz; így a legnagyobb közös osztó 2.",
+  "pont": 1,
+  "indoklas": "A diák módszere helyes: pontosan az egérdikai algoritmus lépéseit követte. A végeredmény is helyes, így teljes pontot kap.",
+  "magabiztossag": 90,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

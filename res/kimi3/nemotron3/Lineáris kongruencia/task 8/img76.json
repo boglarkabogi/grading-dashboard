@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 7x ≡ 12 (mod 313) és 20x ≡ 5 (mod 454)",
+  "helyes_megoldas": "x ≡ 270 (mod 313); a második kongruenciára nem létezik megoldás",
+  "diak_vegeredmenye": "x ≡ 270 (mod 313); a második kongruenciára nem megoldás",
+  "diak_megoldasa_osszefoglalva": "Az első kongruenciát kiterjesztett Euklideszi algoritmust használva oldotta meg, megtalálta 7 inverzusát 179‑el, majd kiszámolta x ≡ 270 (mod 313). A második kongruenciánál hibásan az (20,5) legnagyobb közös osztót vizsgálva, és mivel 5 nem osztja 454‑et, nem megoldás trou.",
+  "pont": 0.5,
+  "indoklas": "Az első kongruenciára helyes módszer és helyes eredmény (x ≡ 270 mod 313) adhat pontszerint 1 pontot, míg a második kongruenciára bár a végeredmény (nincs megoldás) helyes, de a módszer hibás (az (a,b) helyett (a,m) legnagyobb közös osztót kellett használni), ezért csak fél pontot adható összesen.",
+  "magabiztossag": 90,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A diák a második kongruenciánál az (20,5) gcd‑t használva, bár a结论 helyes, de a módszer helytelen.",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

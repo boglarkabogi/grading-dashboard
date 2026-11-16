@@ -1,0 +1,15 @@
+{
+  "feladat": "11x ≡ 2 mod 238 and 16x ≡ 15 mod 490",
+  "helyes_megoldas": "x ≡ 130 (mod 238); no solution for 16x ≡ 15 mod 490",
+  "diak_vegeredmenye": "x ≡ 130 (mod 238); no solution for second congruence",
+  "diak_megoldasa_osszefoglalva": "Extended Euclidean algorithm gave inverse 65 of 11 modulo 238, yielding x=130 mod 238; then gcd(16,490)=2, and since 15 is not divisible by 2, no solution exists for the second congruence.",
+  "pont": 1,
+  "indoklas": "The student correctly applied the extended Euclidean algorithm to find the inverse and obtained the correct solution. He also correctly determined the absence of a solution for the second congruence.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

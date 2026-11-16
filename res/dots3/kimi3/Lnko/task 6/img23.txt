@@ -1,0 +1,18 @@
+Feladat: gcd(217, 206) meghatározása
+Helyes megoldás: Euklideszi algoritmus: 217 = 1*206 + 11; 206 = 18*11 + 8; 11 = 1*8 + 3; 8 = 2*3 + 2; 3 = 1*2 + 1; 2 = 2*1 + 0. Tehát gcd(217, 206) = 1.
+
+Diák végeredménye: 1 (az algoritmusból olvasható ki: az utolsó nemnulla maradék 1)
+Diák megoldása (összefoglalva):
+A diák az euklideszi algoritmust alkalmazza. A lépések OCR-olvasva: 217 = 7*206 + 77, 206 = 18*11 + 8, 77 = 7*8 + 3, 8 = 2*3 + 2, 3 = 1*2 + 1, 2 = 2*1 + 0. A 7-eseket 1-esként visszaolvasva (1*206+11, 11 = 1*8+3) a levezetés teljesen konzisztens és helyes.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyes módszert (euklideszi algoritmus) használt, és a lépések a 7->1 OCR-korrekcióval pontosan a helyes maradékokat adják (11, 8, 3, 2, 1, 0), így a végeredmény gcd = 1 helyes. Az eltérések kizárólag az 1-es számjegy 7-esként való OCR-felismeréséből származnak.
+
+Modell magabiztossága: 90/100
+Értelmezhető volt a bemenet: igen
+
+Figyelem: valószínű 7↔1 OCR-elírás, elfogadva.
+
+Megjegyzés:
+7/1 OCR-gyanú: '7*206 + 77' valójában '1*206 + 11', és '77 = 7*8 + 3' valójában '11 = 1*8 + 3' — ezekkel a levezetés teljesen helyes.

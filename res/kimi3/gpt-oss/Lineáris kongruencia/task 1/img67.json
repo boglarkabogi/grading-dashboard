@@ -1,0 +1,15 @@
+{
+  "feladat": "19x ≡ 16 mod 470 és 16x ≡ 5 mod 202",
+  "helyes_megoldas": "x ≡ 174 mod 470; nincs megoldás",
+  "diak_vegeredmenye": "1584; nincs megoldás",
+  "diak_megoldasa_osszefoglalva": "A diák lineáris egyenletekhez alakítva kereste a Bézout-kiemeléseket, majd az első esetben a várt inverst 99-nek találta, és 16·99 = 1584-öt adta a megoldásként. A második esetben tűkképletet szimbolikus módon hivatkozva szaldálta, és az 2 tárolt végeredményt helytelenül 5-öt adó rezgésekkel dolgázta, de végül megállapította, hogy nincs megoldás.",
+  "pont": 0.5,
+  "indoklas": "Az első kongruencia megoldása helyes módszerrel, és a végeredmény (1584) is egy érvényes megoldás. A második kongruencia esetén a módszer hibás – a Bézout-egyenletben elfamasodott, de a 2=16·37+202·(‑3) nem 5–t ad – de a végső megállapítás, hogy nincs megoldás, matematikailag helyes. Ennek a részben a módszer jelentős hibája miatt a teljes feladatot 0.5 ponttal értékeljük.",
+  "magabiztossag": 90,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "Nincs 7↔1 OCR hiba, a szöveg összességében érthető.",
+  "model": "openai/gpt-oss-20b"
+}

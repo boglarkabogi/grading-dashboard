@@ -1,0 +1,14 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 17x ≡ 17 mod 375 és 19x ≡ 9 mod 358
+Helyes megoldás: x ≡ 1 mod 375; x ≡ 57 mod 358
+
+Diák végeredménye: x ≡ 1 mod 375
+
+Pontszám: 0.5/1
+Indoklás:
+Student used the correct method and obtained the correct solution for the first congruence, but the second congruence was not solved, so only partial credit.
+
+Modell magabiztossága: 90/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

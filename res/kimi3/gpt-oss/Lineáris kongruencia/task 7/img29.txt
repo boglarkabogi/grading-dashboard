@@ -1,0 +1,16 @@
+Feladat: 13x ≡ 19 mod 414 és 20x ≡ 6 mod 412
+Helyes megoldás: 13x ≡ 19 mod 414: x ≡ 97 mod 414. 20x ≡ 6 mod 412: nincs megoldás.
+
+Diák végeredménye: x = 97; nincs ilyen x
+Diák megoldása (összefoglalva):
+A diák a bővített együtthatói (extended Euclidean) módszerrel szerezte meg a 13 és 20 összehasonlító együtthatóinak inverseit, majd a modulos egyenletek megoldását határozta meg. A 20x ≡ 6 mod 412 esetén felismerte a nem álló gcd miatt a megoldhatatlanságot.
+
+Pontszám: 1/1
+Indoklás:
+A diák minden lépésénél helyes matematikai módszert alkalmazott, és a végső eredmények megegyeznek a helyes megoldásokkal.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

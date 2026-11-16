@@ -1,0 +1,16 @@
+Feladat: gcd(218, 201) — határozd meg a 218 és 201 legnagyobb közös osztóját (219_201-es feladatcsoport, euklideszi algoritmus).
+Helyes megoldás: Euklideszi algoritmus: 218 = 201*1 + 17; 201 = 17*11 + 14; 17 = 14*1 + 3; 14 = 3*4 + 2; 3 = 2*1 + 1; 2 = 1*2 + 0. Az utolsó nemnulla maradék 1, tehát gcd(218, 201) = 1, a két szám relatív prím.
+
+Diák végeredménye: (218, 201) = 1
+Diák megoldása (összefoglalva):
+A diák az euklideszi algoritmust használja: 218 = 201*1 + 17, majd a szöveg szerint 201 = 17*12 + 3, 17 = 3*6 + 1, 3 = 1*3 + 0, és 1-es végeredményt kap. A köztes lépések számszerint nem pontosak (17*12 valójában 204, 3*6 = 18), valószínűleg OCR-zaj miatt, de a módszer és a végeredmény helyes.
+
+Pontszám: 0.75/1
+Indoklás:
+A módszer (euklideszi algoritmus) és a végeredmény (gcd = 1, relatív prímek) helyes. A köztes osztások számaiban eltérés van a valódi maradékoktól (a helyes sorban 11-es, 14-es, 4-es, 2-es maradékok/osztók szerepelnének), ami részben OCR-zajra, részben apró számolási pontatlanságra utalhat; ezért 0.75-öt adok.
+
+Modell magabiztossága: 75/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+Az első sorban szereplő 17-es maradék itt valódi (218-201=17), nem 1↔7 OCR-hiba. A köztes lépések számai nem konzisztensek, de a végeredmény helyes.

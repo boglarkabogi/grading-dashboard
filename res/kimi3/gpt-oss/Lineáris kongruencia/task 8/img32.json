@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 7x ≡ 12 mod 313 és 20x ≡ 5 mod 454",
+  "helyes_megoldas": "7x ≡ 12 mod 313: x ≡ 270 mod 313. 20x ≡ 5 mod 454: nem létezik megoldás, mert gcd(20,454)=2 nem osztható 5-tel.",
+  "diak_vegeredmenye": "x ≡ 270 mod 313; nem megoldható a második kongruencia",
+  "diak_megoldasa_osszefoglalva": "A diák a bőrtatan általános algoritmusával számolt a legnagyobb közös osztó és a kitevők meghatározásához, majd visszafelé helyettesítve megállapította az inverst és a megoldást. A második kongruencénél a gcd‑t felhasználva javasolta a nem megoldhatóságot.",
+  "pont": 1,
+  "indoklas": "A diák helyes módszert alkalmazott mindkét kongruencia megoldására, a végső eredmények is helytelenek. A köztes számítások világos és pontos, OCR hibákért nem járul le pont.",
+  "magabiztossag": 90,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

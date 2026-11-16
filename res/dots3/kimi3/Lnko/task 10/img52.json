@@ -1,0 +1,15 @@
+{
+  "feladat": "gcd(219, 205) — határozd meg 219 és 205 legnagyobb közös osztóját",
+  "helyes_megoldas": "Euklideszi algoritmus: 219 = 1*205 + 14; 205 = 14*14 + 9; 14 = 1*9 + 5; 9 = 1*5 + 4; 5 = 1*4 + 1; 4 = 4*1 + 0. Tehát gcd(219, 205) = 1 (mivel 219 = 3*73 és 205 = 5*41, relatív prímek).",
+  "diak_vegeredmenye": "A diák a végeredményt nem írta be a szögletes zárójelbe, de a levezetésből gcd = 1 olvasható ki (5 = 1*4 + 1, majd a maradék 0).",
+  "diak_megoldasa_osszefoglalva": "A diák az euklideszi algoritmust alkalmazta. Az első lépés jó (219 = 1*205 + 14), de a második lépésben hiba van: 205 = 14*14 + 5-öt ír, pedig 205 - 14*14 = 9. Innentől a (hibás) maradékokkal folytatja: 14 = 2*5 + 4, 5 = 1*4 + 1, 4 = 1*1 + 0, amiből gcd = 1 adódik.",
+  "pont": 0.75,
+  "indoklas": "A módszer (euklideszi algoritmus) helyes, és a végeredmény (gcd = 1) helyes. A középső lépésben számolási hiba van (205 = 14*14 + 5 helyett a helyes maradék 9), de a diák a sorozatot végigvezette, és az utolsó nemnulla maradék helyesen 1. A végeredményt nem írta ki explicit módon, de a levezetésből egyértelműen kiolvasható.",
+  "magabiztossag": 85,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A diák bárhol nem töltötte ki a '[ ]'-t; a 14*14+5 hiba lehet OCR (9->5) is, de valódi számolási hibaként is értékelhető — mindkét esetben a végső gcd = 1 helyes.",
+  "model": "moonshotai/kimi-k3"
+}

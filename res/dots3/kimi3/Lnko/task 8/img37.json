@@ -1,0 +1,15 @@
+{
+  "feladat": "gcd(218, 202) meghatározása",
+  "helyes_megoldas": "Euklideszi algoritmussal: 218 = 1*202 + 16; 202 = 12*16 + 10; 16 = 1*10 + 6; 10 = 1*6 + 4; 6 = 1*4 + 2; 4 = 2*2 + 0. Tehát gcd(218, 202) = 2.",
+  "diak_vegeredmenye": "2",
+  "diak_megoldasa_osszefoglalva": "A diák levezetés nélkül megadta, hogy (218, 202) = 2.",
+  "pont": 1,
+  "indoklas": "A végeredmény helyes: gcd(218, 202) = 2. Részletes levezetés ugyan nem látható, de a helyes eredmény alapján teljes pont jár.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "Csak a végeredmény szerepel, levezetés nélkül.",
+  "model": "moonshotai/kimi-k3"
+}

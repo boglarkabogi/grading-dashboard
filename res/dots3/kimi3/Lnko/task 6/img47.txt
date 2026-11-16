@@ -1,0 +1,16 @@
+Feladat: gcd(217, 206)
+Helyes megoldás: Euklideszi algoritmus: 217 = 1*206 + 11, 206 = 18*11 + 8, 11 = 1*8 + 3, 8 = 2*3 + 2, 3 = 1*2 + 1, 2 = 2*1 + 0, tehat gcd(217, 206) = 1.
+
+Diák végeredménye: (217, 206) = 1
+Diák megoldása (összefoglalva):
+A diak helyesen alkalmazza az euklideszi algoritmust: 217 = 1*206 + 11, 206 = 18*11 + 8, 11 = 1*8 + 3, 8 = 2*3 + 2, 3 = 1*2 + 1, 2 = 2*1 + 0, es a kapott 1 maradekot adja meg eredmenykent.
+
+Pontszám: 1/1
+Indoklás:
+Helyes modszer (euklideszi algoritmus), minden lepes helyes, a vegeredmeny (1) helyes.
+
+Modell magabiztossága: 98/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

@@ -1,0 +1,15 @@
+{
+  "feladat": "gcd(217, 201)",
+  "helyes_megoldas": "Euklideszi algoritmus: 217 = 1*201 + 16; 201 = 12*16 + 9; 16 = 1*9 + 7; 9 = 1*7 + 2; 7 = 3*2 + 1; 2 = 2*1 + 0. Az utolsó nemnulla maradék 1, tehát gcd(217, 201) = 1.",
+  "diak_vegeredmenye": "(217, 201) = 1",
+  "diak_megoldasa_osszefoglalva": "A diák az euklideszi algoritmust alkalmazza: sorban felírja a maradékos osztásokat (217 = 1*201 + 16, 201 = 12*16 + 9, stb.), amíg 0 maradékhoz ér, és az utolsó nemnulla maradékból leolvassa az eredményt.",
+  "pont": 1,
+  "indoklas": "A diák a helyes módszert (euklideszi algoritmus) használta, a maradékok mind helyesek, és a végeredmény (gcd = 1) is helyes. Az utolsó sorban '2 = 1*2 + 0' kissé szokatlanul van felírva (helyesen 2 = 2*1 + 0), de a maradék 0 és a következtetés így is egyértelmű.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A levezetésben szereplő 7-esek (pl. 16 = 1*9 + 7, 9 = 1*7 + 2) matematikailag konzisztensek, nem utalnak 1↔7 OCR-cserére.",
+  "model": "moonshotai/kimi-k3"
+}

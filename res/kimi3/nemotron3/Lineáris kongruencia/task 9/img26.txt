@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 19x ≡ 14 (mod 297) és 18x ≡ 17 (mod 482)
+Helyes megoldás: Első kongruencia: x ≡ 32 (mod 297); második kongruencia: nincs megoldás, mert gcd(18,482)=2 nem osztja 17-t.
+
+Diák végeredménye: Első kongruencia: x = -1750; második kongruencia: nincs megoldás.
+Diák megoldása (összefoglalva):
+A diák kiterjesztett euklideszi algoritmust használva megtalálta a 19 és 297 közötti Bezout-köreket, szorzva obtaining egy megoldást az első kongruenciához; a második kongruenciához kiszámította a gcd-et, és mivel 2 nem osztja 17-t, nem létezik egész megoldás.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyes módszert alkalmazott (kiterjesztett euklideszi algoritmus), és helyes végeredményeket kapta: az első kongruencia megoldása megfelelni a helyes 32 (mod 297) értéknek, a második kongruencia esetén helyesen azonosította, hogy nincs megoldás.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+A bemenetben nem észleltem OCR-helyes/1-es vagy más conspicuous hibát.

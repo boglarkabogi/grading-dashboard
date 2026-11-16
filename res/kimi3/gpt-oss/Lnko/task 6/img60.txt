@@ -1,0 +1,16 @@
+Feladat: Keresd meg 217 és 206 legnagyobb közös osztóját.
+Helyes megoldás: 1
+
+Diák végeredménye: 1
+Diák megoldása (összefoglalva):
+A diák 217 = 206*1+11, majd 206 = 11*18+10, 11 = 10*1+1, 10 = 1*10+0 számításokat végzett, így a gcd 1.
+
+Pontszám: 0.25/1
+Indoklás:
+A diák első lépése helyes, de a következő osztási műveletek hibás (206 = 11*18+10 helyett 206 = 11*18+8). Ez az egész eljárást nem a helyes Euklid‑algoritmus jelenti. Ennek ellenére a végeredmény 1 helyes marad. Az eljárásban jelentős hibák vannak, de van benne helyes elem, ezért 0.25 pontot kap.
+
+Modell magabiztossága: 80/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

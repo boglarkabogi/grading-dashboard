@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 17x ≡ 17 mod 375 és 19x ≡ 9 mod 358
+Helyes megoldás: x ≡ 96001 (mod 134250) (vagy x = 96001 + 134250k, k∈Z)
+
+Diák végeredménye: Nincs megoldás
+Diák megoldása (összefoglalva):
+Az első kongrenciát helyesen oldotta meg, x ≡ 1 (mod 375)-et kapva. A második kongrenciánál az Euklideszi algoritmus segítségével a legnagyobb közös osztót vizsgálta, de hibásan concluded, hogy nincs megoldás, így a rendszer megoldását nem találták.
+
+Pontszám: 0.5/1
+Indoklás:
+Az első kongrenciájának módszere és eredménye helyes, de a második kongrenciát hibásan értékelve, így a végső eredmény (nincs megoldás) helytelen, ezért csak parcialmente ponthatározható megoldást kap.
+
+Modell magabiztossága: 90/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

@@ -1,0 +1,16 @@
+Feladat: Keresd meg 218 és 201 legnagyobb közös osztóját.
+Helyes megoldás: 1
+
+Diák végeredménye: 1
+Diák megoldása (összefoglalva):
+A diák euklidés algoritmust alkalmazott, de a kvósenszorozások és maradékok számításai helytelenek (pl. 17·12=198 helyett 204, 201=17·12+3 helyett 201=17·11+14), mégis a végzeredményül 1-et kapta.
+
+Pontszám: 0.5/1
+Indoklás:
+A végeredmény helyes, de a módszer tartalmaz számolási hibákat, így csak parcialmente helyes megoldás.
+
+Modell magabiztossága: 80/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

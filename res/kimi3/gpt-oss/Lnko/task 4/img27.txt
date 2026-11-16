@@ -1,0 +1,16 @@
+Feladat: Keresd meg 216 és 205 legnagyobb közös osztóját.
+Helyes megoldás: 1
+
+Diák végeredménye: 1
+Diák megoldása (összefoglalva):
+A diák az Euclid‑i algoritmust alkalmazta: 216 mod 205 egyenlő 11, 205 mod 11 egyenlő 7, 11 mod 7 egyenlő 4, 7 mod 4 egyenlő 3, 4 mod 3 egyenlő 1, majd 3 mod 1 egyenlő 0, így a legnagyobb közös osztó 1.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyes módszert használta (Euclid‑i algoritmus), és a végső eredmény 1, ami a helyes válasz. Nincs lényegi hibát vagy félreértést.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

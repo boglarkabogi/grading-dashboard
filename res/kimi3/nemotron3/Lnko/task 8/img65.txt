@@ -1,0 +1,16 @@
+Feladat: Keresd meg 218 és 202 legnagyobb közös osztóját.
+Helyes megoldás: 2
+
+Diák végeredménye: 2
+Diák megoldása (összefoglalva):
+A diák euklideszi algoritmust alkalmazva sorozatos osztások segítségével megtalálta a legnagyobb közös osztót, amelyek sorozatában a utolsó nem nulla maradék 2.
+
+Pontszám: 1/1
+Indoklás:
+A módszer helyes (euklideszi algoritmus) és a végeredmény (2) is helyes, így maximális pontot kap.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+A második sorban "\overset{192}{12}" OCR-hiba gyanús, valószínűleg 12‑et jelent; ez nem befolyásolja a módszer helyességét.

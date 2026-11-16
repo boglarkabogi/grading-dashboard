@@ -1,0 +1,16 @@
+Feladat: gcd(219, 180)
+Helyes megoldás: Euklideszi algoritmus: 219 = 180*1 + 39; 180 = 39*4 + 24; 39 = 24*1 + 15; 24 = 15*1 + 9; 15 = 9*1 + 6; 9 = 6*1 + 3; 6 = 3*2 + 0. Tehat gcd(219, 180) = 3.
+
+Diák végeredménye: 3 (az algoritmus utolso nem-nulla maradeka)
+Diák megoldása (összefoglalva):
+A diak helyesen alkalmazza az euklideszi algoritmust: minden osztasi lepes helyes, a maradekok sorozata 39, 24, 15, 9, 6, 3, 0, igy az utolso nem-nulla maradek 3.
+
+Pontszám: 1/1
+Indoklás:
+A modszer (euklideszi algoritmus) es minden lepes helyes, a vegeredmeny (gcd = 3) helyesen kiolvashato az algoritmusbol. Barmennyire nem irja le kulon, hogy a valasz 3, az algoritmus egyertelmuen ezt adja.
+
+Modell magabiztossága: 98/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+Teljesen tiszta, jol ertekelheto megoldas.

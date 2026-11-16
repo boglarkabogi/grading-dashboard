@@ -1,0 +1,15 @@
+{
+  "feladat": "Keresd meg 217 és 201 legnagyobb közös osztóját.",
+  "helyes_megoldas": "A mutasson érték 1.",
+  "diak_vegeredmenye": "1",
+  "diak_megoldasa_osszefoglalva": "A diák a gyújtó algoritmust alkalmazta: 217 = 1·201 + 16, 201 = 12·16 + 9, majd 16 = 1·9 + 7, 9 = 1·7 + 2, 7 = 3·2 + 1, és 2 = 2·1 + 0, így a legnagyobb közös osztó 1.",
+  "pont": 1,
+  "indoklas": "A diák helyes módszert alkalmazott (gyújtó algoritmus) és helyes végeredményt adott (1).",
+  "magabiztossag": 100,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

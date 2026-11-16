@@ -1,0 +1,16 @@
+Feladat: gcd(216, 205)
+Helyes megoldás: Euklideszi algoritmussal: 216 = 205*1 + 11; 205 = 11*18 + 7; 11 = 7*1 + 4; 7 = 4*1 + 3; 4 = 3*1 + 1; 3 = 1*3 + 0, tehat gcd(216, 205) = 1.
+
+Diák végeredménye: gcd(216, 205) = 1 (az utolsó nemnulla maradék, az algoritmusból kiolvasható)
+Diák megoldása (összefoglalva):
+A diák helyesen végrehajtotta az euklideszi algoritmust: a maradékok 11, 7, 4, 3, 1, 0, így a legnagyobb közös osztó 1.
+
+Pontszám: 1/1
+Indoklás:
+A módszer (euklideszi algoritmus) és minden lépés helyes, az utolsó nemnulla maradék 1, azaz gcd(216, 205) = 1, ami a helyes eredmény.
+
+Modell magabiztossága: 98/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

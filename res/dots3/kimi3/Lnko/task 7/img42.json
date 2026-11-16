@@ -1,0 +1,15 @@
+{
+  "feladat": "gcd(218, 201)",
+  "helyes_megoldas": "Euklideszi algoritmus: 218 = 1*201 + 17, 201 = 11*17 + 14, 17 = 1*14 + 3, 14 = 4*3 + 2, 3 = 1*2 + 1, 2 = 2*1 + 0, igy gcd(218, 201) = 1.",
+  "diak_vegeredmenye": "LNKO(218, 201) = 1",
+  "diak_megoldasa_osszefoglalva": "A diák az euklideszi algoritmust helyesen végigvitte: a maradékok sorra 17, 14, 3, 2, 1, 0, es a legnagyobb közös osztónak 1-et kapott.",
+  "pont": 1,
+  "indoklas": "Helyes módszer (euklideszi algoritmus), minden lépés helyes, a végeredmény (1) is helyes.",
+  "magabiztossag": 98,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "moonshotai/kimi-k3"
+}

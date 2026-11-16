@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat:\n11x ≡ 2 mod 238 és 16x ≡ 15 mod 490",
+  "helyes_megoldas": "x ≡ 130 mod 238; nincs megoldás",
+  "diak_vegeredmenye": "130; nincs megoldás",
+  "diak_megoldasa_osszefoglalva": "A diák meghaladott Bézout-egyenletet a 11x ≡ 2 mod 238 megoldására, és a gcd–ellenőrzést alkalmazott a 16x ≡ 15 mod 490 esetén, mire eldöntötte, hogy nincs megoldás.",
+  "pont": 1,
+  "indoklas": "A diák helyesen találta meg a 11x ≡ 2 mod 238 álláspontot 130-as megoldással, és helyesen vizsgálta a 16x ≡ 15 mod 490 esetét, amihez a gcd–t használva megállapította, hogy nincs megoldás. A módszer alapvetően helyes, még ha a felsorolásban hiba van egy lineáris egyenletben, a végső eredmény és a megoldás eljárása megfelelő.",
+  "magabiztossag": 100,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

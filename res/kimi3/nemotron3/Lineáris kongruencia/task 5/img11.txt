@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 13x ≡ 13 mod 409 és 12x ≡ 7 mod 302
+Helyes megoldás: x ≡ 1 (mod 409); second congruence has no solution
+
+Diák végeredménye: x ≡ 1 (mod 409); second congruence has no solution
+Diák megoldása (összefoglalva):
+Az első kongruenciában kiterjesztett Euklideszi algoritmust alkalmazva megtalálta az 13 inverzét, így x ≡ 1 (mod 409)-et kap. A másodikat gcd(12,302)=2 számítva देखा, hogy 2 nem osztja 7-et, ezért nem megoldható.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyes módszert (kiterjesztett Euklideszi algoritmus) használva helyes végeredményt értek el mindkét feladatra.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+Az OCR szöveg olvasható, nincs 7↔1 OCR-hiba gyanú.

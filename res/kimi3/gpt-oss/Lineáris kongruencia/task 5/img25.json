@@ -1,0 +1,15 @@
+{
+  "feladat": "oldja meg a lineáris kongruenciákat: 13x ≡ 13 (mod 409) és 12x ≡ 7 (mod 302)",
+  "helyes_megoldas": "13x ≡ 13 (mod 409) ⇒ x ≡ 1 (mod 409) vagy x = 1 + 409k, k ∈ Z. 12x ≡ 7 (mod 302) nem oldható mert gcd(12,302)=2, 2∤7.",
+  "diak_vegeredmenye": "x ≡ 1 (mod 409); a második kongruencia nincs megoldása",
+  "diak_megoldasa_osszefoglalva": "Megjegyezte, hogy gcd(13,409)=1, így 13 invertálható, osztottuk 13-mal és kapott x≡1. A második esetben megtalálta, hogy gcd(12,302)=2, ezért 2 nem osztja a jobboldalt, tehát nincs megoldás.",
+  "pont": 1,
+  "indoklas": "A diák helyes módszert alkalmazott, a gcd számítása helyes, a megoldás a két kongruencia esetén is pontos. Nincs ártható OCR-hiba.",
+  "magabiztossag": 100,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

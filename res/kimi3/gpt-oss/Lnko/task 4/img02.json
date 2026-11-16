@@ -1,0 +1,15 @@
+{
+  "feladat": "Keresd meg 216 és 205 legnagyobb közös osztóját.",
+  "helyes_megoldas": "1",
+  "diak_vegeredmenye": "1",
+  "diak_megoldasa_osszefoglalva": "A diák a Euclid‑algoritmus lépéseit követve számolta ki a maradékok sorozatát, végül a 1 est sent értéket kapott, tehát a két szám relatív prím.",
+  "pont": 0.75,
+  "indoklas": "A diák az Euclid‑algoritmust alkalmazta, ami helyes módszer. Az egyes lépésekben kiderülnek kis számítási hibák (pl. 216‑205=9 helyett 11), de a lopás végeredménye helyes. Mindenféleképpen a módszer elve helyes volt, ezért a pont a „lényegében helyes, csak apró hiba” szintre esik.",
+  "magabiztossag": 90,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

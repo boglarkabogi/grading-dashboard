@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 7x ≡ 12 (mod 313) és 20x ≡ 5 (mod 454)",
+  "helyes_megoldas": "x ≡ 270 (mod 313); a 20x ≡ 5 (mod 454) kongruencianak nincs megoldása, mert gcd(20,454)=2 nem osztja 5-t",
+  "diak_vegeredmenye": "a) x ≡ 270 (mod 313); b) nincs megoldás",
+  "diak_megoldasa_osszefoglalva": "A diák az első kongruenciához kiterjesztett Euklideszi algoritmust használva megtalálta 7 inverzumát 313 modoul, majd szorzta 12-vel, így x ≡ 270 (mod 313)-et kapott. A második kongruenciához kiszámolta a gcd(20,454)=2-t, és mivel 2 nem osztja 5-t, nem megoldás'existe.",
+  "pont": 1,
+  "indoklas": "A diák módszere helyes (kiterjesztett Euklideszi algoritmus és gcd‑vizsgálat), és a végeredmények is pontosak; a intermediates lépésekben lévő OCR‑jellegű nyomok nem befolyásolják a helyességét.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A intermediates számolásokban néhány szám olvashatatlan (pl. 1608, 2148), de ezek nem változtatják meg a helyes végeredményt.",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

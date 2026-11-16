@@ -1,0 +1,15 @@
+{
+  "feladat": "gcd(213, 200)",
+  "helyes_megoldas": "Euklideszi algoritmus: 213 = 200*1 + 13; 200 = 13*15 + 5; 13 = 5*2 + 3; 5 = 3*1 + 2; 3 = 2*1 + 1; 2 = 1*2 + 0. A legnagyobb közös osztó az utolsó nemnulla maradék: 1.",
+  "diak_vegeredmenye": "1",
+  "diak_megoldasa_osszefoglalva": "A diák az euklideszi algoritmussal helyesen számolt, a 213 és 200 számpárból kiindulva lépésről lépésre helyes maradékokat kapott (13, 5, 3, 2, 1, 0), és a végeredményt 1-nek adta.",
+  "pont": 1,
+  "indoklas": "Helyes módszer (euklideszi algoritmus), minden lépés számszakilag helyes, a végeredmény (1) is helyes.",
+  "magabiztossag": 98,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "moonshotai/kimi-k3"
+}

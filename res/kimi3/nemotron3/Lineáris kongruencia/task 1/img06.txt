@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 19x ≡ 16 mod 470 és 16x ≡ 5 mod 202
+Helyes megoldás: Az első kongruenciából x ≡ 174 (mod 470); a második kongruenciában gcd(16,202)=2, de 2 ∤ 5, így 16x ≡ 5 (mod 202) megoldhatatlan, azáltal a rendszernek nincs megoldása.
+
+Diák végeredménye: Első kongruencia: x = 16·99 + 470k; Második kongruencia: x = (5/2)·77 + (5/2)·202k
+Diák megoldása (összefoglalva):
+Diák az első kongruenciához kiterjesztett Eukleidés algoritmust használva 19 felövivőjeként 99‑t kapta, majd 16‑szorozva megoldást adott; a második kongruenciához同样的 методot követve az utolsó nem‑nulla maradék 2‑et kapta, majd mindkét oldalt 5/2‑zel szorzva supposedly megoldást ad, eredményt però nem egész számú.
+
+Pontszám: 0.5/1
+Indoklás:
+Az első kongruencia módszere és kifejezése helyes, de a másodikban tört számot használt, ami nem勒hető egész megoldásként, valamint a rendszer valóban megoldhatatlan, ezért a diák válasza hibás.
+
+Modell magabiztossága: 90/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

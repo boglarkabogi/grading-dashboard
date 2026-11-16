@@ -1,0 +1,15 @@
+{
+  "feladat": "Keresd meg 217 és 201 legnagyobb közös osztóját.",
+  "helyes_megoldas": "1",
+  "diak_vegeredmenye": "1",
+  "diak_megoldasa_osszefoglalva": "A diák euklideszi algoritmust alkalmazva sorosan kiszámolta a maradékokat: 217=1·201+16, 201=12·16+9, 16=1·9+7, 9=1·7+2, 7=3·2+1, 3=1·3+0, így a legnagyobb közös osztó 1.",
+  "pont": 1,
+  "indoklas": "A diák helyes módszert (euklideszi algoritmust) használt és helyes végeredményt (1) erzielte.",
+  "magabiztossag": 100,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A diák szövegében \"legnagyobb közös osztálya\" helyett \"legnagyobb közös osztó\" mělendő, de ez csak izdajel, nem befolyásolja a megoldás helyességét.",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

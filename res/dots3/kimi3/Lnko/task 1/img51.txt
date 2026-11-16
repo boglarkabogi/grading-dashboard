@@ -1,0 +1,16 @@
+Feladat: gcd(213, 200) — a 213 és 200 legnagyobb közös osztójának meghatározása
+Helyes megoldás: Euklideszi algoritmussal: 213 = 1·200 + 13, 200 = 15·13 + 5, 13 = 2·5 + 3, 5 = 1·3 + 2, 3 = 1·2 + 1, 2 = 2·1 + 0, tehát gcd(213, 200) = 1 (relatív prímek).
+
+Diák végeredménye: 1 (az algoritmusból olvasható ki: utolsó nemnulla maradék 1)
+Diák megoldása (összefoglalva):
+A diák helyesen alkalmazta az euklideszi algoritmust: 213 = 1·200 + 13, 200 = 15·13 + 5, 13 = 2·5 + 3, 5 = 1·3 + 2, 3 = 1·2 + 1, 2 = 2·1 + 0. Minden lépés helyes, az utolsó nemnulla maradék 1.
+
+Pontszám: 1/1
+Indoklás:
+A módszer (euklideszi algoritmus) helyes, minden osztás-maradék lépés pontos, és a helyes végeredmény (gcd = 1) egyértelműen kiolvasható az utolsó nemnulla maradékból.
+
+Modell magabiztossága: 98/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+A végeredmény nincs szövegesen kimondva, de az algoritmusból egyértelműen következik, hogy gcd(213, 200) = 1.

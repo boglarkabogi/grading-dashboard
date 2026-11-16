@@ -1,0 +1,15 @@
+{
+  "feladat": "gcd(219, 205) — határozd meg a 219 és 205 legnagyobb közös osztóját",
+  "helyes_megoldas": "Euklideszi algoritmus: 219 = 205*1 + 14; 205 = 14*14 + 9; 14 = 9*1 + 5; 9 = 5*1 + 4; 5 = 4*1 + 1; 4 = 1*4 + 0. Az utolsó nemnulla maradék 1, tehát gcd(219, 205) = 1.",
+  "diak_vegeredmenye": "1 (a levezetésből olvasható ki: az utolsó nemnulla maradék; a záró mondat OCR-zajos: 'LNKO, az ülési nemnully maradéks' = 'LNKO az utolsó nemnulla maradék')",
+  "diak_megoldasa_osszefoglalva": "A diák helyesen végigvitt euklideszi algoritmust írt: 219:205=1 mar 14, 205:14=14 mar 9, 14:9=1 mar 5, 9:5=1 mar 4, 5:4=1 mar 1, 4:1=4 mar 0 (OCR-ben 'mar 3'), és megállapítja, hogy az LNKO az utolsó nemnulla maradék.",
+  "pont": 1,
+  "indoklas": "A módszer (euklideszi algoritmus) helyes, a lépések mind helyesek, az utolsó sorban a 'mar 3' nyilván OCR-hiba a 0 helyett (4 = 1*4 + 0), és a diák helyesen azonosítja az LNKO-t az utolsó nemnulla maradékkal, ami 1.",
+  "magabiztossag": 90,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "Az utolsó sor '4 : 1 = 4 mar 3' részében a maradék biztosan 0 (OCR-elírás), nem a diák hibája; a záró mondat is zajosan OCR-ozott, de érthető.",
+  "model": "moonshotai/kimi-k3"
+}

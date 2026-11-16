@@ -1,0 +1,15 @@
+{
+  "feladat": "Keresd meg 216 és 205 legnagyobb közös osztóját.",
+  "helyes_megoldas": "216 = 205 * 1 + 11; 205 = 11 * 18 + 7; 11 = 7 * 1 + 4; 7 = 4 * 1 + 3; 4 = 3 * 1 + 1; 3 = 1 * 3 + 0; legsNagyobb kozos oszto = 1",
+  "diak_vegeredmenye": "1",
+  "diak_megoldasa_osszefoglalva": "A diák az euklideszi algoritmust alkalmazva a maradékok sorozát felírja, és a 3 = 1*3 + 0 lépést követően a legközös osztó 1-et kap.",
+  "pont": 1,
+  "indoklas": "A diák helyes módszert (euklideszi algoritmus) használta és helyes végeredményt (1) ért el, így teljes pontszám adható.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

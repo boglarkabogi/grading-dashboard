@@ -1,0 +1,15 @@
+{
+  "feladat": "Keresd meg 217 és 201 legnagyobb közös osztóját.",
+  "helyes_megoldas": "1",
+  "diak_vegeredmenye": "1",
+  "diak_megoldasa_osszefoglalva": "A diák az eurétiai algoritmust alkalmazta, a hányadosokat és maradékokat sorban felírva, végül a maradék 1 miatt megállapította, hogy a legnagyobb közös osztó 1.",
+  "pont": 1,
+  "indoklas": "A diák helyesen alkalmazta az eurétiai algoritmust, minden köztes lépés korrekt, és a végső eredménye megegyezik a helyes megoldással.",
+  "magabiztossag": 100,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

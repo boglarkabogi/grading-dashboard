@@ -1,0 +1,15 @@
+{
+  "feladat": "19x ≡ 16 mod 470 és 16x ≡ 5 mod 202",
+  "helyes_megoldas": "19x ≡ 16 mod 470 - x ≡ 174 mod 470; 16x ≡ 5 mod 202 - nincs megoldás",
+  "diak_vegeredmenye": "19x ≡ 16 van megoldása (x nem megadott); 16x ≡ 5 nincs megoldása",
+  "diak_megoldasa_osszefoglalva": "A diák az egymás melletti osztásokat használva meghatározta a gcd-t, és felhúzta, hogy az első kongruencia megoldható, de nem számolta ki az inverst. A második esetben a gcd 2 lett, és a saját érték 5 nem osztható, ezért jelölte a megoldásának hiányát.",
+  "pont": 0.5,
+  "indoklas": "A diák a helyes módszert alkalmazta, és helyesen azonosította, hogy a második kongruencia nem lesz, de a részben helyes első kongruencia miatt nem hitelesítették a végeredményt; ezért 0.5 pont.",
+  "magabiztossag": 90,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

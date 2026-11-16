@@ -1,0 +1,16 @@
+Feladat: gcd(218, 202) meghatározása euklideszi algoritmussal
+Helyes megoldás: 218 = 202*1 + 16; 202 = 16*12 + 10; 16 = 10*1 + 6; 10 = 6*1 + 4; 6 = 4*1 + 2; 4 = 2*2 + 0, így gcd(218, 202) = 2
+
+Diák végeredménye: 2 (gya nélkül 2, azaz gcd = 2)
+Diák megoldása (összefoglalva):
+A diák euklideszi algoritmust ír fel: 218 = 202*1 + 16, majd 202 = 16*12 + 20 (valójában a maradék 10), 16 = 20*0 + 16, 20 = 16*1 + 4, 16 = 4*4 + 0, végül gcd-ként 2-t ad meg.
+
+Pontszám: 0.75/1
+Indoklás:
+A módszer (euklideszi algoritmus) helyes és a végeredmény (2) helyes. A köztes lépések számolási hibásak/következetlenek: 202 = 16*12 esetén a maradék 10, nem 20 (a 20 maradék eleve lehetetlen, mert nagyobb az osztónál), és a láncon a 16 = 20*0 + 16 sor is furcsa. Ezek apró számolási/OCR-hibák, a módszer és a végeredmény helyes, így 0.75 pont.
+
+Modell magabiztossága: 80/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+A köztes maradékok hibásak vagy OCR-torzultak (pl. 20 a 10 helyett lehet), de a helyes egyenlentyűs: 16 é mod 10 = 6, 10 mod 6 = 4, 6 mod 4 = 2 lánc helyét a diák egyszerűsítve/hibásan írta; a végeredmény 2 mindenképp helyes.

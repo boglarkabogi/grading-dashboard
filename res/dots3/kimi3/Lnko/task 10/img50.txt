@@ -1,0 +1,18 @@
+Feladat: gcd(219, 205)
+Helyes megoldás: Euklideszi algoritmus: 219 = 1*205 + 14; 205 = 14*14 + 9; 14 = 1*9 + 5; 9 = 1*5 + 4; 5 = 1*4 + 1; a legnagyobb kozos oszto 1 (219 = 3*73, 205 = 5*41, relativ primek).
+
+Diák végeredménye: gcd(219, 205) = 1
+Diák megoldása (összefoglalva):
+A diak az euklideszi algoritmust alkalmazta helyesen. Az OCR a 14-es maradekot 74-nek olvasta az elso sorban, es a harmadik sorban az 1-es hanyadost 7-nek (14 = 1*9 + 5 helyett 74 = 7*9 + 5); 1-eskent visszaolvasva minden sor konzisztens, a vegeredmeny 1, helyes.
+
+Pontszám: 1/1
+Indoklás:
+A modszer (euklideszi algoritmus) helyes, es a vegeredmeny, gcd(219,205) = 1, szinten helyes. A koztes sorokban a 7-esek 1-eskent olvasva minden szamitas kijon, igy azok OCR-elirasok, nem a diak hibaja.
+
+Modell magabiztossága: 90/100
+Értelmezhető volt a bemenet: igen
+
+Figyelem: valószínű 7↔1 OCR-elírás, elfogadva.
+
+Megjegyzés:
+OCR-gyanu: az elso sorban a 74 valojaban 14 (219 - 205 = 14), a harmadik sorban a 7*9 valojaban 1*9 (14 = 1*9 + 5). A 7-eseket 1-eskent visszaolvasva a teljes levezetes helyesse valik.

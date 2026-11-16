@@ -1,0 +1,16 @@
+Feladat: Számítsd ki gcd(219, 205)-et (legnagyobb közös osztó) az euklideszi algoritmussal.
+Helyes megoldás: Euklideszi algoritmus: 219 = 1·205 + 14; 205 = 14·14 + 9; 14 = 1·9 + 5; 9 = 1·5 + 4; 5 = 1·4 + 1; 4 = 4·1 + 0. Az utolsó nemnulla maradék 1, tehát gcd(219, 205) = 1.
+
+Diák végeredménye: gcd(219, 205) = 1
+Diák megoldása (összefoglalva):
+A diák helyesen alkalmazta az euklideszi algoritmust: a maradékok sorban 14, 9, 5, 4, 1, majd 0, és helyesen következtetett, hogy a legnagyobb közös osztó 1.
+
+Pontszám: 1/1
+Indoklás:
+A módszer (euklideszi algoritmus) helyes, minden lépés helyes, a végeredmény (1) is helyes, mivel a két szám relatív prím.
+
+Modell magabiztossága: 100/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

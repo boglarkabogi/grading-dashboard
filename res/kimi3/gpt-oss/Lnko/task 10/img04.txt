@@ -1,0 +1,16 @@
+Feladat: Keresd meg 219 és 205 legnagyobb közös osztóját.
+Helyes megoldás: 1
+
+Diák végeredménye: 1
+Diák megoldása (összefoglalva):
+A diák az Egér lineáris algoritmusát alkalmazta: 219=1·205+14, 205=14·14+9, 14=1·9+5, 9=1·5+4, 5=1·4+1, 4=4·1+0; így a maradék 1, ami a legnagyobb közös osztó.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyesen alkalmazta az Euclid-algoritmust, minden lépés kiírása ellenőrzhető, a végeredménye 1, ami valóban a 219 és 205 legnagyobb közös osztója.
+
+Modell magabiztossága: 90/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

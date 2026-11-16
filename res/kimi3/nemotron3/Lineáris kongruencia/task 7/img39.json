@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 13x ≡ 19 (mod 414) és 20x ≡ 6 (mod 412)",
+  "helyes_megoldas": "x ≡ 97 (mod 414); 20x ≡ 6 (mod 412) nem megoldható",
+  "diak_vegeredmenye": "x ≡ 3629 (mod 414); 20x ≡ 6 (mod 412) nem megoldható",
+  "diak_megoldasa_osszefoglalva": "A diák kiterjesztett eukleidész algoritmust használva megtalálta a Bezout‑együtthatók, majd skálázva kapott egyedi megoldást az első kongrenciához, és a másodikat azt mondta, hogy mert a maradék nem osztható a Legközös osztójával, nincs megoldás.",
+  "pont": 0.5,
+  "indoklas": "A módszer helyes (kiterjesztett eukleidész), de az első kongrenciájának végeredményénél előjelhiba történt (pozitiválta –191‑t), így a végeredmény hamis; a második kongrenciában a diák helyesen azonosította, hogy nincs megoldás.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "Az első kongrenciájában a diák előjelhibát követte el: –191·19 = –3629 helyett 3629‑et írt, így a végső maradék helytelen.",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

@@ -1,0 +1,15 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 13x ≡ 19 mod 414 és 20x ≡ 6 mod 412.
+Helyes megoldás: -
+
+Diák végeredménye: x = -191·19  (first congruence)  
+Nincs megoldás (second congruence).
+
+Pontszám: 1/1
+Indoklás:
+A diák módját teljesen helyes, a megoldást is megfelelően adta.  A 13x ≡ 19 után a megoldást a bővített algoritmussal helyesen megszámolta, és a második kongruenciáról – 4 nem osztja 6‑ot – helyesen következett, hogy nincs megoldás.
+
+Modell magabiztossága: 90/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

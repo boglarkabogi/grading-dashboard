@@ -1,0 +1,16 @@
+Feladat: gcd(216, 203)
+Helyes megoldás: Euklideszi algoritmussal: 216 = 1*203 + 13; 203 = 15*13 + 8; 13 = 1*8 + 5; 8 = 1*5 + 3; 5 = 1*3 + 2; 3 = 1*2 + 1; 2 = 2*1 + 0. Az utolsó nemnulla maradék 1, ezért gcd(216, 203) = 1.
+
+Diák végeredménye: (216, 203) = 1
+Diák megoldása (összefoglalva):
+A diák helyesen alkalmazza az euklideszi algoritmust lépésről lépésre, a maradékok 13, 8, 5, 3, 2, 1, 0, majd helyesen következteti ki, hogy az utolsó nemnulla maradék, azaz 1 a legnagyobb közös osztó.
+
+Pontszám: 1/1
+Indoklás:
+A módszer (euklideszi algoritmus) helyes, a lépések maradékai helyesek, és a végeredmény (1) is helyes. Az utolsó sor (2 = 1*2 + 0) jelölésileg pontatlanabb (2 = 2*1 + 0 lenne), de a lényeget és az eredményt nem befolyásolja.
+
+Modell magabiztossága: 98/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

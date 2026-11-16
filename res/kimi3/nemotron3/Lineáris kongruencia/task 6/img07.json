@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 7x ≡ 14 (mod 343) és 16x ≡ 5 (mod 346)",
+  "helyes_megoldas": "7x ≡ 14 (mod 343) => x ≡ 2 (mod 49); 16x ≡ 5 (mod 346) => nincs megoldás",
+  "diak_vegeredmenye": "x = 2 + 49λ; 16x ≡ 5 (mod 346) => nincs megoldás",
+  "diak_megoldasa_osszefoglalva": "A diák kiszámolta mindkét kongruencia esetén a gcd-t, az első esetben osztva beide老師 gevonden megoldást, a második esetben发现 gcd(16,346)=2 nem osztja a jobb oldalt, így nincs megoldás.",
+  "pont": 1,
+  "indoklas": "A diák helyes módszert alkalmazott (gcd kiszámítása, oszthatóság ellenőrzése, osztás modulusal), és pontosan adta meg az eredményeket: az első kongruencia megoldása x ≡ 2 (mod 49), a másodiknak nincs megoldása.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

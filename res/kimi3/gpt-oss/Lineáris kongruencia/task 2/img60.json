@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat:\n12x = 8 (mod 259)   és   16x = 13 (mod 314)",
+  "helyes_megoldas": "12x ≡ 8 (mod 259)   →   x ≡ 87 (mod 259)   →   x = 87 + 259k, k ∈ Z.\n16x ≡ 13 (mod 314) → gcd(16,314)=2, 13 is not divisible by 2, üres halmaz (nincs megoldás).",
+  "diak_vegeredmenye": "1. egyenlet: x = 864 – 259k, 3 ≥ k (azaz x = 864, 605, 346 vagy 87).  2. egyenlet: nincs megoldás.",
+  "diak_megoldasa_osszefoglalva": "Az első egyenlethez a Békézi egészség miatt megtalálta a 12^-1 mod 259 értékét (108), majd szorozta 8-tal, és alapírályként 864–259k alakban adta meg a megoldást. A második egyenlethez a Békézi algoritmust végezve kimutatta, hogy a gcd=2, ami nem osztó 13-at, ezért megoldás nincs.",
+  "pont": 1,
+  "indoklas": "A diák helyes módszert alkalmazott mindkét esetben, és a 12x ≡ 8 mod 259 egyenletre kiválóan ellenőrizhető megoldást adott, ami 87 mod 259. A második egyenletre is helyesen jelölte, hogy nincs megoldás. Az átfogó bemutatókin információk megegyeznek a helyes megoldással.",
+  "magabiztossag": 90,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

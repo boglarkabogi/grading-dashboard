@@ -1,0 +1,16 @@
+Feladat: Keresd meg 216 és 205 legnagyobb közös osztóját.
+Helyes megoldás: 1
+
+Diák végeredménye: 1
+Diák megoldása (összefoglalva):
+The student used the Euclidean algorithm, writing 216 = 1*205 + 11, 205 = 18*11 + 7, then using 11 = 2*(7+2), 7 = 3*2 + 1, and finally concluding the gcd is 1.
+
+Pontszám: 1/1
+Indoklás:
+The student applied the correct method and obtained the correct final result. Minor formatting inconsistencies do not affect correctness.
+
+Modell magabiztossága: 90/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

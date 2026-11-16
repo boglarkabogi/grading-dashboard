@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 7x ≡ 8 mod 340 és 16x ≡ 15 mod 330
+Helyes megoldás: 7x ≡ 8 mod 340: x ≡ 244 mod 340. 16x ≡ 15 mod 330: nincs megoldás, mert a gcd(16,330)=2 nem osztható 15-tel.
+
+Diák végeredménye: x = 243 + 340k
+Diák megoldása (összefoglalva):
+A diák először ellenőrizte a megoldhatóságot a második egyenletre, majd a prvót lineáris együtthatók segítségével oldotta meg az egyenletet, de elmaradt a szorzás 8-lal a végső értékhez.
+
+Pontszám: 0.75/1
+Indoklás:
+A diák helyes módszert alkalmazott (gcd ellenőrzés, Euklidesz algoritmus) és csak egy apró számítási hibát követett el: a szorzó 8-et nem alkalmazta a kapott köztes értékre, ezért 244 helyett 243 értéket adott.
+
+Modell magabiztossága: 90/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

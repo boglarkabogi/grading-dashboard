@@ -1,0 +1,15 @@
+{
+  "feladat": "Határozza meg gcd(213, 200)-at az euklideszi algoritmussal.",
+  "helyes_megoldas": "Euklideszi algoritmus: 213 = 1*200 + 13; 200 = 15*13 + 5; 13 = 2*5 + 3; 5 = 1*3 + 2; 3 = 1*2 + 1; 2 = 2*1 + 0. Az utolsó nemnulla maradék 1, tehát gcd(213, 200) = 1.",
+  "diak_vegeredmenye": "1",
+  "diak_megoldasa_osszefoglalva": "A diák helyesen alkalmazta az euklideszi algoritmust: 213 = 1*200 + 13, 200 = 15*13 + 5, 13 = 2*5 + 3, 5 = 1*3 + 2, 3 = 1*2 + 1, 2 = 2*1, és megállapította, hogy gcd(213, 200) = 1.",
+  "pont": 1,
+  "indoklas": "A módszer (euklideszi algoritmus) pontos, minden lépés helyes, és a végeredmény (1) jó. A 'teljait' kifejezés nyilván OCR-zaj, nem befolyásolja az értékelést.",
+  "magabiztossag": 98,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "Nincs 7/1 OCR-gyanú; a 'teljait' valószínűleg 'tehát' OCR-elírása.",
+  "model": "moonshotai/kimi-k3"
+}

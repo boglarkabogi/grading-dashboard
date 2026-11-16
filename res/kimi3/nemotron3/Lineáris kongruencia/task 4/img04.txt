@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 17x ≡ 17 mod 375 és 19x ≡ 9 mod 358
+Helyes megoldás: Első kongruencia: x ≡ 1 (mod 375). Második kongruencia: x ≡ 57 (mod 358). (Egyuttesen: x ≡ 96001 (mod 134250).)
+
+Diák végeredménye: x ≡ 1 (mod 375)
+Diák megoldása (összefoglalva):
+A diák a kongruenciát lineáris diofantinus egyenlet formájára alakítva, kiterjesztett euklideszi algoritmust alkalmazva kapott egy Bezout‑együtthatót, majd Schlusselolta, hogy x ≡ 1 (mod 375). A második kongruenciát nem tárgyalta.
+
+Pontszám: 0.5/1
+Indoklás:
+Az első kongruencia módszere és eredménye helyes, de a diák nem oldotta meg a második kongruenciát, ezért csak részben helyes a megoldás.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+A diák csak az első kongruenciát oldotta meg, a második hiányzik.

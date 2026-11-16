@@ -1,0 +1,16 @@
+Feladat: 12x ≡ 8 mod 259 és 16x ≡ 13 mod 314
+Helyes megoldás: 12x ≡ 8 mod 259 → x ≡ 87 mod 259.\n16x ≡ 13 mod 314: gcd(16,314)=2, 13 is odd → no solution.
+
+Diák végeredménye: x = 87 + 259k, k∈Z.\nNincs megoldás a második kongruenciára.
+Diák megoldása (összefoglalva):
+A diák először ellenőrizte, hogy a közös osztók 1 vagy 2, majd az ekvivalens módon osztott a kongruenciákat a kiszámított inversek által. Végül a helyes modot és az egyetlen megoldást kapta.
+
+Pontszám: 1/1
+Indoklás:
+A diák elvégezte a helyes lépéseket: az első egyenletben a 12,259 közös osztó 1, tehát a kongruencia egyértelmű megoldással rendelkezik. A 4 és 3 osztással való szorzás befogadott ellenőrizhető, mert mindkettő invertálható mod 259, így megnézve a 3x≡2 mod 259 állapotot és végül a 87 ≡ 87 mod 259 megoldást. A második esetben helyesen észlelte, hogy a gcd 2, és 13 nem osztható 2-vel, tehát nincs megoldás. Minden lépés vagy precíz, vagy ekvivalens módon történő modfüggő körülteledésre épült, így a végső eredmény helyes.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

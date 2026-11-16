@@ -1,0 +1,15 @@
+{
+  "feladat": "gcd(213, 200)",
+  "helyes_megoldas": "Euklideszi algoritmussal: 213 mod 200 = 13, 200 mod 13 = 5, 13 mod 5 = 3, 5 mod 3 = 2, 3 mod 2 = 1, 2 mod 1 = 0, tehat gcd(213, 200) = 1.",
+  "diak_vegeredmenye": "1 (a levezetés utolsó nemnulla maradéka, explicit nem írta ki)",
+  "diak_megoldasa_osszefoglalva": "A diák az euklideszi algoritmust alkalmazza: 213 mod 200 = 13, 200 mod 13 = 5 (13*15 = 195), 13 mod 5 = 3, 5 mod 3 = 2, 3 mod 2 = 1, 2 mod 1 = 0. Minden lépés helyes, a legnagyobb közös osztó az utolsó nemnulla maradék: 1.",
+  "pont": 1,
+  "indoklas": "A módszer (euklideszi algoritmus) helyes, minden maradékszámítás pontos, a végeredmény (gcd = 1) az algoritmusból egyértelműen kiolvasható.",
+  "magabiztossag": 98,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A végeredményt nem fogalmazza meg külön, de a levezetésből egyértelműen leolvasható.",
+  "model": "moonshotai/kimi-k3"
+}

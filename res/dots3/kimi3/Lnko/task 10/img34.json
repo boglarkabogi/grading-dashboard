@@ -1,0 +1,15 @@
+{
+  "feladat": "gcd(219, 205) = ? (a diák szövegében 279 szerepel, de az első osztásos lépés szerint 219-205=14, így ez 219 OCR-elírása)",
+  "helyes_megoldas": "Euklideszi algoritmus: 219 = 1*205 + 14; 205 = 14*14 + 9; 14 = 1*9 + 5; 9 = 1*5 + 4; 5 = 1*4 + 1; 4 = 4*1 + 0. Tehát gcd(219, 205) = 1.",
+  "diak_vegeredmenye": "(279, 205) = 1, azaz gcd = 1",
+  "diak_megoldasa_osszefoglalva": "A diák az euklideszi algoritmust alkalmazza: sorozatos osztásokkal jut el a 0 maradékig, és az utolsó nemnulla maradékot (1) adja meg legnagyobb közös osztóként. A köztes maradékok (14, 71, 3, 2, 1) részben OCR-zajosak, de az első lépés (279 = 1*205 + 14) arra utal, hogy az eredeti feladat 219 volt, ahol 219 = 1*205 + 14 helyes.",
+  "pont": 1,
+  "indoklas": "A diák helyes módszert (euklideszi algoritmus) használ, és a helyes végeredményt (gcd = 1) kapja. A köztes sorok eltérései (pl. 71 a várt 9 helyett, 7-es számjegyek az 1-esek helyén) jellemző OCR-hibák; a 279 = 1*205 + 14 sor pontosan annak felel meg, mintha 219-gyel számolt volna (219-205 = 14 helyes), ami megerősíti, hogy a 7-esek valójában 1-esek. A végső eredmény és a módszer helyes.",
+  "magabiztossag": 78,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": true,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "Erős 7/1 OCR-gyanú: '279' valójában 219 (az első lépés maradéka, 14, csak 219-cel jön ki), a '71' maradék valószínűleg 9 vagy 1-et tartalmazó szám OCR-elírása, és a '7*71' sorban is gyanítható 1->7 csere. A végeredmény (gcd = 1) helyes.",
+  "model": "moonshotai/kimi-k3"
+}

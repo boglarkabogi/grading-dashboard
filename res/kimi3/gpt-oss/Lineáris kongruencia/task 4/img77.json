@@ -1,0 +1,15 @@
+{
+  "feladat": "17x ≡ 17 mod 375 és 19x ≡ 9 mod 358",
+  "helyes_megaprol": "x ≡ 1 mod 375 és x ≡ 57 mod 358",
+  "diak_vegeredmenye": "x ≡ 1 mod 375 és x ≡ 57 mod 358",
+  "diak_megaprol_osszefoglalva": "A diák a 17-gyel szoros tagot leosztott, ellenőrizte az együttható és a modul kölcsönös megyőződését, majd a második egyenlethez Békitz kérdésmód felhasználásával talált egy inverzét és megszámolta a végeredményt.",
+  "pont": 1,
+  "indoklas": "A student correctly applied the division rule for the first congruence (gcd is 1) and used the extended Euclidean algorithm to find the inverse of 19 mod 358, then correctly multiplied and reduced to obtain x ≡ 57 mod 358. Both solutions match the correct ones.",
+  "magabiztossag": 100,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

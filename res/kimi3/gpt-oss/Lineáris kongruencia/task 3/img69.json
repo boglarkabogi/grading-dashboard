@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 11x ≡ 2 mod 238 és 16x ≡ 15 mod 490",
+  "helyes_megoldas": "11x ≡ 2 mod 238 → x ≡ 130 mod 238. 16x ≡ 15 mod 490 → no solution, because gcd(16,490)=2 does not divide 15.",
+  "diak_vegeredmenye": "No solution to 16x ≡ 15 mod 490; x ≡ 130 mod 238",
+  "diak_megoldasa_osszefoglalva": "Az ismerősséget extended Euclid-alalkotott táblázattal vizsgálta, megállapítva, hogy a 16x≡15 mod490 esetén a 2 nem osztja a 490-át, ezért nincs megoldás. A 11x≡2 mod238 esetén megtalálta az 11^(-1)=65 moduláris inverst, és így 130 mod238-gát.",
+  "pont": 1,
+  "indoklas": "A diák helyes módszert alkalmazott, és a végeredmények megfelelnek a helyes megoldásnak. Az érintett táblázat szintén megfelelő, bár a nyelvi hiba a második konvergencia végrehajtásakor jelenik meg, de a döntés helyes: nincs megoldás.",
+  "magabiztossag": 100,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

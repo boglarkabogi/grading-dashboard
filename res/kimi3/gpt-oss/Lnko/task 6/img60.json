@@ -1,0 +1,15 @@
+{
+  "feladat": "Keresd meg 217 és 206 legnagyobb közös osztóját.",
+  "helyes_megoldas": "1",
+  "diak_vegeredmenye": "1",
+  "diak_megoldasa_osszefoglalva": "A diák 217 = 206*1+11, majd 206 = 11*18+10, 11 = 10*1+1, 10 = 1*10+0 számításokat végzett, így a gcd 1.",
+  "pont": 0.25,
+  "indoklas": "A diák első lépése helyes, de a következő osztási műveletek hibás (206 = 11*18+10 helyett 206 = 11*18+8). Ez az egész eljárást nem a helyes Euklid‑algoritmus jelenti. Ennek ellenére a végeredmény 1 helyes marad. Az eljárásban jelentős hibák vannak, de van benne helyes elem, ezért 0.25 pontot kap.",
+  "magabiztossag": 80,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

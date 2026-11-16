@@ -1,0 +1,15 @@
+{
+  "feladat": "19x ≡ 14 (mod 297) és 18x ≡ 17 (mod 482)",
+  "helyes_megoldas": "19x ≡ 14 (mod 297): x ≡ 32 (mod 297); 18x ≡ 17 (mod 482): nincs megoldás",
+  "diak_vegeredmenye": "Az első kongruenciának nincs megoldása; a második kongruenciának nincs megoldása.",
+  "diak_megoldasa_osszefoglalva": "Az első kongruenciához a diák a 247-es modulusot használva megtalálta, hogy (19,247)=19 nem osztja 14-et, ezért szerinten nincs megoldása. A második kongruenciához helyesen kiszámolta, hogy (18,482)=2 nem osztja 17-et, így nem létezik megoldás, és az euklideszi algoritmus lépéseit is megmutatta.",
+  "pont": 1,
+  "indoklas": "A diák helyes módszert alkalmazott (gcd-elosztóság vizsgálata, szükség esetén invers kiszámítása), és a második kongruenciához helyes végeredményt ottense. Az első kongruenciában csak a modulusot másolta hibásan (OCR-hiba), így a módszer és az eredmény helyes lenne a helyes modulusra is.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "Az első congruenciában a diák 247-et írt 297 helyett, valószínű OCR-hiba; ez nem befolyásolja a módszer helyességét.",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

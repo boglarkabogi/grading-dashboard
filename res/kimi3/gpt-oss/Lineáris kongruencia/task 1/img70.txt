@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 19x = 16 mod 470 és 16x = 5 mod 202
+Helyes megoldás: Első: x = 174 mod 470. Második: megoldás nincs.
+
+Diák végeredménye: Első: x = 174 mod 470. Második: megoldás nincs.
+Diák megoldása (összefoglalva):
+A tanuló RSA bilaterális együttható által az első kongruencia egyértelmű megoldását előállította az egyes számok egyeztetése alapján, majd a kívánt szorzattal szorozva kapta a konkrét választ. A második esetben kiszámolták a bölbe és megállapították, hogy a jobb oldalon lévő szám nem osztható a gcd-lel, ezért a congruence nem rendelkezik megoldással.
+
+Pontszám: 1/1
+Indoklás:
+A tanuló alkalmazta a helyes metódust (egyfajta Bézout-számlálószámráspont), helyes eredményt adott az első kongruenciához, és helyesen döntött a másodikról, mert a szerződéses feltételek szerinti egyenes ellenőrzés alapján nem szolgál megoldással.
+
+Modell magabiztossága: 100/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

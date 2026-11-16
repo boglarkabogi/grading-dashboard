@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 12x ≡ 8 (mod 259) és 16x ≡ 13 (mod 314)
+Helyes megoldás: x ≡ 87 (mod 259); a második kongruenciának nincs megoldása
+
+Diák végeredménye: x ≡ 87 (mod 259); nincs megoldás
+Diák megoldása (összefoglalva):
+A diák az rozšíált euklideszi algoritmust használva megtalálta 12 inverzét modulo 259-nak, majd szorzva kapott az x ≡ 87 (mod 259) megoldást. A második congruenciának gcd(16,314)=2, hiszen 13 nem osztó 2-vel, így nincs megoldás.
+
+Pontszám: 1/1
+Indoklás:
+
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: nem
+
+Megjegyzés:
+A diák megoldása helyes, az OCR-semmilyen hibát nem mutatott.

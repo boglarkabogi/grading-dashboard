@@ -1,0 +1,16 @@
+Feladat: 7x ≡ 12 mod 313 és 20x ≡ 5 mod 454
+Helyes megoldás: 7x≡12 mod 313 → x≡270 mod 313; 20x≡5 mod 454 nincs megoldás
+
+Diák végeredménye: x≡270 mod 313, nincs megoldás a második egyenlethez
+Diák megoldása (összefoglalva):
+A diák kulcskontextusban a 7 és 313 közötti kiterjesztett Euklid tételet alkalmazta, meghatározta az 7 inverst (179), majd szorozgatott az eredménnyel, hogy megállapítsa x≡270 mod 313. A második egyenlet esetében kiszámolta a GCD-t, és helyesen jelezte, hogy nincs megoldás
+
+Pontszám: 1/1
+Indoklás:
+A megoldás helyes módszert használ és pontos végeredményt ad mindkét tagozatban. A levezetésben eszközülő ellenőrzést minden lépésről tudni lehet, szóval a teljes pontot nyeri.
+
+Modell magabiztossága: 90/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 19x ≡ 16 mod 470 és 16x ≡ 5 mod 202",
+  "helyes_megoldas": "Első kongruencia megoldása: x = 174 + 470k (k∈Z); második kongruencia: nincs megoldás, mert gcd(16,202)=2 nem osztja 5-t",
+  "diak_vegeredmenye": "Első kongruenciára: megoldás létezik (konkrét érték nem adad); második kongruenciára: nincs megoldás",
+  "diak_megoldasa_osszefoglalva": "A diák euklidész algoritmussal meghatározta mindkét congruencia legnagyobb közös osztóját, és az első esetben conclude, hogy megoldás létezik, de nem adja meg a konkret x értéket; a második esetben helyesen megállapította, hogy nincs megoldás, mert a GCD nem osztja a jobb oldalt.",
+  "pont": 0.75,
+  "indoklas": "A diák helyesen alkalmazta az euklidész algoritmust mindkét congruenciára, és helyesen döntött az első případě létezést, a másodikban viszont nem adta meg a konkret megoldást, ezért a végeredmény hiányzik; így részben pontos, 0,75 pontot kap.",
+  "magabiztossag": 90,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "A bemenetben OCR‑hos néhány sor láthatók (pl. ~~470 = 29·16 + ~~), de ezek nem befolyásolják a hodnotázást.",
+  "model": "nvidia/nemotron-3-super-120b-a12b"
+}

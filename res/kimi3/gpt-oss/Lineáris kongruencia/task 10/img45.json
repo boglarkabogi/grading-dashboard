@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 7x ≡ 8 mod 340 és 16x ≡ 15 mod 330",
+  "helyes_megapadas": "x ≡ 244 (mod 340); 16x ≡ 15 mod 330 nincs megoldás",
+  "diak_vegeredmenye": "x ≡ 244 (mod 340); 16x ≡ 15 mod 330 nincs megoldás",
+  "diak_megapadas_osszefoglalva": "A segítségével a diák a meghatározott szerinti egymást követő szorzattáblát használta. A bővített euklidés metódus segítségével talált 7(-97)+340(2)=1, majd a 8-essel szorozva kapta x' = -776, így x ≡ 244 (mod 340). A második kongrűnél kiszámolta a legnagyobb közös osztót 2-t, és mivel 2 nem osztja 15-öt, értegelte, hogy nincs megoldás.",
+  "pont": 1,
+  "indoklas": "A diák megfelelő metódust alkalmazott mindkét problémára, a végső eredmények helyesek: az első kongruencia megoldása 244 mód 340, a másodiknek nincs megoldása. Köztes lépésekben némi zavaros megjelenés van, de ez nem befolyásolja a helyességet.",
+  "magabiztossag": 100,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 7x ≡ 14 (mod 343) és 16x ≡ 5 (mod 346)
+Helyes megoldás: Az első kongruencia: mert (7,343)=7 és 7|14, osztjukMindketoldalt 7-tal és a modulusot is: x ≡ 2 (mod 49), teljes megoldás: x = 49k + 2, k ∈ Z. A második kongruencia: (16,346)=2, de 2 ∤ 5, így nincs megoldás.
+
+Diák végeredménye: x ≡ 2 (mod 49) (azaz x = 49k + 2) és a második kongrenciának nincs megoldása.
+Diák megoldása (összefoglalva):
+Az első feladathoz a diák osztotta a kongrenciát a legnagyobb közös osztóval, majd a maradékosztályt kapta. A másodikhoz rozšíelt euklidés algoritmuszt használva meghatározta, hogy a közös osztó 2, amely nem osztja össze a jobb oldalt, поэтому nincs megoldás.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyes módszert alkalmazott és helyes végeredményt kaptak mindkét kongrenciára; a középső lépések OCR‑zajosak lehetnek, de nem befolyásolják a pontszámot.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+Az OCR‑ben nem észrevételes 7↔1 összekeverés; a szöveg jól értelmezhető.

@@ -1,0 +1,16 @@
+Feladat: 12x isenlõ 8 mod 259 es 16x isenlõ 13 mod 314
+Helyes megoldás: a) x = 87 (mod 259); b) nincs megoldás (mert gcd(16,314)=2, de 13 nem osztható 2-vel)
+
+Diák végeredménye: a) 87; b) nem adta meg végső eredményt, de rendben jelezte, hogy nem fog kiönni
+Diák megoldása (összefoglalva):
+Az a csapatban a diák apró extended euclid lépéseket hajtott végre, majd a lokal invers keresésével megtalálta a 12-nek az 259-adalos közömbösezett, és visszaállította a x=87 közösmegoldást. Az b esetben a diák computálta a gcd-t, és jelezte, hogy a 13 nem osztó, ezért valószínűleg nem lesz megoldás.
+
+Pontszám: 0.75/1
+Indoklás:
+Az a rész helyes módszert használta és a végső eredmény helyes, így 1 pont le kell adni. Az b részben korlátozódott a gcd feltétel felismerésére, de nem adta meg a végső állítást (nem 'no solution'), így csak 0.5 pont jár. Összesen 0.75 pont.
+
+Modell magabiztossága: 85/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+A diák a b részben elkövetik a gyakori hibát, hogy nem adta meg világosan a 'no solution' állítást, de helyesen felismerte a szükséges feltételt.

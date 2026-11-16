@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 11x ≡ 2 mod 238 és 16x ≡ 15 mod 490
+Helyes megoldás: Az első kongruencia megoldása: x ≡ 130 (mod 238). A második kongruenciahoz gcd(16,490)=2, de 2 ∤ 15, így nincs megoldás. EZután a rendszer semmilyen x nem kielégíti mindkét kongrenciát, vagyis nem létezik megoldás.
+
+Diák végeredménye: Első kongruencia: x ≡ 130 (mod 238); második kongruencia: nincs megoldás
+Diák megoldása (összefoglalva):
+A diák kiterjesztett euklideszi algoritmust alkalmazva megtalálta, hogy lnko(11,238)=1 és 11*65+238*(-3)=1, így x≡130 (mod 238). A második kongruencia esetében lnko(16,490)=2-t kapta, és mivel 2 nem osztja 15-t, szerintünk nincs megoldás.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyes módszert alkalmazott mindkét kongruenciahoz, helyes intermediate kiszámításokkal és helyes végső következtetéssel: az első kongruencia megoldása x≡130 (mod 238), a másodiknak nincs megoldása, ezért a rendszer semmilyen x-et nem kielégít.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+A bemenet értelmezhető, nem észrevehető OCR-7/1-beli confusion.

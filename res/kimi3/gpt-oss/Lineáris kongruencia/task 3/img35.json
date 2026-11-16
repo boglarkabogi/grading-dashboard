@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 11x ≡ 2 mod 238 and 16x ≡ 15 mod 490",
+  "helyes_megoldas": "11x ≡ 2 mod 238 => x ≡ 130 mod 238 (i.e. x = 130 + 238k, k∈Z). 16x ≡ 15 mod 490 has no solution because gcd(16,490)=2 does not divide 15.",
+  "diak_vegeredmenye": "x = 130 + 238k (for the first congruence, with y = -6 - 11k) and no solution for the second congruence.",
+  "diak_megoldasa_osszefoglalva": "The student applied the extended Euclidean algorithm to find 11·65 + 238·(-3)=1, multiplied by 2 to get the solution x = 130 mod 238. For the second, they computed gcd(16,490)=2 and correctly noted that 2 does not divide 15, concluding no solution.",
+  "pont": 1,
+  "indoklas": "The method used (extended Euclidean algorithm) is correct, the arithmetic operations are accurate, and the final results match the correct solutions for both congruences.",
+  "magabiztossag": 100,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

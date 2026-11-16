@@ -1,0 +1,16 @@
+Feladat: 17x ≡ 17 mod 375 és 19x ≡ 9 mod 358
+Helyes megoldás: x ≡ 96001 mod 134250
+
+Diák végeredménye: 96001
+Diák megoldása (összefoglalva):
+Először megjelölték, hogy a 17 és 375 relatív prím, ez alapján x≡1 mod375. A 19x≡9 mod358 esetén alkalmazzák a bővített Eukleideszi algoritmust, hogy 19^-1≡245 mod358, így x≡57 mod358. A két kongruencia kombinálásához helyettesítik x=1+375t, majd a második kongruenciából 375t≡56 mod358 következik, melyhez 375≡17 mod358, így 17t≡56 mod358. Megszámítják 17^-1≡337 mod358, ezért t≡256 mod358, és végül x=1+375·256=96001.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyes módszert alkalmazott, minden lépés matematikailag helyes, és a végeredmény (x=96001) egyezik a te meghatározott részletes megoldással.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 11x ≡ 2 mod 238 és 16x ≡ 15 mod 490",
+  "helyes_megoldas": "Első egyenlet esetén az egyetlen megoldási sorozat: x = 130 + 238k, k∈Z. Második egyenlet esetén nincs megoldás, mert a gcd(16,490)=2, amely nem osztja 15-öt.",
+  "diak_vegeredmenye": "Első esetben x = 22. Második esetben a student nem ad egyértelmű végeredményt.",
+  "diak_megoldasa_osszefoglalva": "A diák a kiterjesztett egészített algoritmust használta, hogy meghatározza 11-nek vagy 16-nek az inverst valamely modulo alatt, majd a megszámolt értékeket alkalmazta az egyenlet megoldásához. Az eredményül kapott számok azonban nem felelnek meg a congruences feltételeinek.",
+  "pont": 0,
+  "indoklas": "A diák megoldásai nem felelnek meg a helyes eredményeknek. Az első egyenlet bekövetkező megoldása x = 130 mod 238, míg a diák x = 22-t ad. A második egyenletnek nincs megoldása, de a diák nem tükrözte ezt helyesen. Mivel mindhárom szempont – helyes módszer, helyes végeredmény – hibás, 0 pont jár.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

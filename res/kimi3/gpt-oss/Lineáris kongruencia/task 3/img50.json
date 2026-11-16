@@ -1,0 +1,15 @@
+{
+  "feladat": "Oldja meg az alábbi lineáris kongruenciákat: 11x ≡ 2 mod 238 és 16x ≡ 15 mod 490",
+  "helyes_megoldas": "11x ≡ 2 mod 238 -> x ≡ 130 mod 238; 16x ≡ 15 mod 490 -> no solution",
+  "diak_vegeredmenye": "130 for the first congruence; no solution for the second",
+  "diak_megoldasa_osszefoglalva": "Extended Euclidean algorithm gives 65 as the inverse of 11 modulo 238, yielding x = 65*2 = 130 modulo 238. For the second congruence, gcd(16,490)=2 does not divide 15, so there is no solution.",
+  "pont": 1,
+  "indoklas": "Student applied the correct extended Euclidean algorithm and correctly determined both the solution of the first congruence and the impossibility of a solution for the second.",
+  "magabiztossag": 90,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

@@ -1,0 +1,16 @@
+Feladat: Keresd meg 217 és 201 legnagyobb közös osztóját.
+Helyes megoldás: 1
+
+Diák végeredménye: 1
+Diák megoldása (összefoglalva):
+A diák a ciklusos maradékok sorozatát alkalmazta a Euclid‑eljárás segítségével, amíg 0 maradékot nem ért el; így a legkisebb nem nulla maradék, 1, a legnagyobb közös osztó.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyes módszert alkalmazott (Euclid‑eljárás) és a végeredmény is helyes: 1.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

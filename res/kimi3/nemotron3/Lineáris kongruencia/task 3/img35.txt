@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 11x ≡ 2 (mod 238) és 16x ≡ 15 (mod 490)
+Helyes megoldás: Nincs megoldás, mert a második kongruencia nemoldható (gcd(16,490)=2 nem osztja 15-t)
+
+Diák végeredménye: 2∤15 ⇒ nem lehet ilyen x
+Diák megoldása (összefoglalva):
+A diák az első kongruenciát kiterjesztett euklideszi algoritmussal oldotta meg, így 11‑nek a 65 mód 238‑beli inverze, így x ≡ 130 (mod 238). A második kongruenciánél kiszámolta, hogy gcd(16,490)=2, amely nem osztja 15‑t, ezért nincs megoldás.
+
+Pontszám: 1/1
+Indoklás:
+Helyes módszer (kiterjesztett euklideszi algoritmus) és helyes végeredmény: a második kongruencia nemoldható, ezért a rendszernek nincs megoldása.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+A bemenet jól olvasható, nincs 7/1 OCR‑gyanú.

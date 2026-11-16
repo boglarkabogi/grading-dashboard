@@ -1,0 +1,16 @@
+Feladat: Oldja meg az alábbi lineáris kongruenciákat: 12x ≡ 8 (mod 259) és 16x ≡ 13 (mod 314)
+Helyes megoldás: 12x ≡ 8 (mod 259) => x ≡ 87 (mod 259); 16x ≡ 13 (mod 314) has no solution because gcd(16,314)=2 does not divide 13
+
+Diák végeredménye: x = 87 (mod 259); second congruence has no solution
+Diák megoldása (összefoglalva):
+Student used extended Euclidean algorithm to find inverse of 12 modulo 259, multiplied by 8 and reduced to get x=87. For the second congruence, they computed gcd(16,314)=2, noted that 2 does not divide 13, and concluded the congruence has no solution.
+
+Pontszám: 1/1
+Indoklás:
+Correct method and correct answer for both parts; student identified that second congruence unsolvable.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+OCR omitted the '4' in the line ' = 2·2 + 0', but the meaning is clear.

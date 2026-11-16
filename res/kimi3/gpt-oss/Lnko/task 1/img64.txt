@@ -1,0 +1,16 @@
+Feladat: Kerese meg 213 és 200 legnagyobb közös osztóját.
+Helyes megoldás: 1
+
+Diák végeredménye: 1
+Diák megoldása (összefoglalva):
+A diák az Euclid-algoritmust alkalmazta: 213 = 1·200 + 13, 200 = 15·13 + 5, 13 = 2·5 + 3, 5 = 1·3 + 2, 3 = 1·2 + 1, és végül 2 = 2·1, ami azt jelenti, hogy a legnagyobb közös osztó 1.
+
+Pontszám: 1/1
+Indoklás:
+A diák helyes módszert (Euclid-törvény) használt, és a végső eredmény is helyes.
+
+Modell magabiztossága: 95/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-

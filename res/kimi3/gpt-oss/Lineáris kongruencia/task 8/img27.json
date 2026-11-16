@@ -1,0 +1,15 @@
+{
+  "feladat": "Solve the linear congruences 7x ≡ 12 (mod 313) and 20x ≡ 5 (mod 454)",
+  "helyes_megoldas": "x ≡ 270 (mod 313); no solutions for 20x ≡ 5 (mod 454) because gcd(20,454)=2 does not divide 5",
+  "diak_vegeredmenye": "x ≡ 270 (mod 313) and no solution for second congruence",
+  "diak_megoldasa_osszefoglalva": "The student used the extended Euclidean algorithm to get the inverse of 7 modulo 313, multiplied by 12 to obtain x ≡ 270 (mod 313). For the second congruence they computed gcd(20,454)=2 and concluded no solution because 2 does not divide 5.",
+  "pont": 1,
+  "indoklas": "The student correctly applied the extended Euclidean algorithm and obtained the correct residue for the first congruence, and correctly identified that the second congruence has no solution. No significant errors were found.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

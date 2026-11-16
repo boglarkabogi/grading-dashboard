@@ -1,0 +1,15 @@
+{
+  "feladat": "Keresd meg 219 és 180 legnagyobb közös osztóját",
+  "helyes_megoldas": "3",
+  "diak_vegeredmenye": "3",
+  "diak_megoldasa_osszefoglalva": "A diák alkalmazta az euklideszi algoritmust a 219 és 180 számokra. Láncolt szépen osztásokat követelve a sorozat utolsó nem nullás maradékát, ami 3 volt, és így a legnagyobb közös osztója 3.",
+  "pont": 1,
+  "indoklas": "A diák helyes módszert használta (euklideszi algoritmus), és a végső eredmény 3, amely a helyes válasz is. Minden lépés logikus volt, és nem maradt el hibás számítás vagy félrevezető állítás.",
+  "magabiztossag": 95,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

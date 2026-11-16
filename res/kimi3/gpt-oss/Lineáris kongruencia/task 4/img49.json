@@ -1,0 +1,15 @@
+{
+  "feladat": "Solve the following linear congruences:\n17x \\equiv 17 mod 375\nand\n19x \\equiv 9 mod 358",
+  "helyes_megoldas": "For 17x \\equiv 17 (mod 375) the solution is x \\equiv 1 (mod 375) i.e. x = 1 + 375k, k in Z.\nFor 19x \\equiv 9 (mod 358) the solution is x \\equiv 57 (mod 358) i.e. x = 57 + 358k, k in Z.",
+  "diak_vegeredmenye": "For the first congruence: x \\equiv 1 (mod 375).\nFor the second congruence: No solution.",
+  "diak_megoldasa_osszefoglalva": "The student correctly simplified the first congruence by dividing through by 17. For the second congruence the student performed an incorrect modular division and concluded incorrectly that there were no solutions.",
+  "pont": 0.5,
+  "indoklas": "The student solved the first equation correctly using the correct method. For the second equation the student used an invalid reasoning and concluded incorrectly that no solution exists, while a solution actually exists. Therefore the overall result is partially correct, earning a score of 0.5.",
+  "magabiztossag": 90,
+  "ertelmezheto": true,
+  "ocr_7_1_gyanu": false,
+  "ocr_hiba_gyanu": false,
+  "ocr_hiba_indok": "",
+  "megjegyzes": "",
+  "model": "openai/gpt-oss-20b"
+}

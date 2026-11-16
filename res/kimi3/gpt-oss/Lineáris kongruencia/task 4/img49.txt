@@ -1,0 +1,21 @@
+Feladat: Solve the following linear congruences:
+17x \equiv 17 mod 375
+and
+19x \equiv 9 mod 358
+Helyes megoldás: For 17x \equiv 17 (mod 375) the solution is x \equiv 1 (mod 375) i.e. x = 1 + 375k, k in Z.
+For 19x \equiv 9 (mod 358) the solution is x \equiv 57 (mod 358) i.e. x = 57 + 358k, k in Z.
+
+Diák végeredménye: For the first congruence: x \equiv 1 (mod 375).
+For the second congruence: No solution.
+Diák megoldása (összefoglalva):
+The student correctly simplified the first congruence by dividing through by 17. For the second congruence the student performed an incorrect modular division and concluded incorrectly that there were no solutions.
+
+Pontszám: 0.5/1
+Indoklás:
+The student solved the first equation correctly using the correct method. For the second equation the student used an invalid reasoning and concluded incorrectly that no solution exists, while a solution actually exists. Therefore the overall result is partially correct, earning a score of 0.5.
+
+Modell magabiztossága: 90/100
+Értelmezhető volt a bemenet: igen
+
+Megjegyzés:
+-
